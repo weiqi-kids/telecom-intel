@@ -1,0 +1,111 @@
+{
+  "company_count": 19,
+  "topic_count": 6,
+  "alias_count": 75,
+  "positive_word_count": 27,
+  "negative_word_count": 27,
+  "negation_word_count": 18,
+  "importance_rule_count": 10,
+  "base_score": 0.5,
+  "max_score": 1.0,
+  "volume_spike_threshold": 100,
+  "sentiment_shift_threshold": 0.5,
+  "silent_days_threshold": 14,
+  "companies": [
+    {
+      "id": "ericsson",
+      "short_name": "Ericsson",
+      "tier": ""
+    },
+    {
+      "id": "nokia",
+      "short_name": "Nokia Corporation",
+      "tier": ""
+    },
+    {
+      "id": "zte",
+      "short_name": "中興通訊",
+      "tier": ""
+    },
+    {
+      "id": "ceragon",
+      "short_name": "Ceragon Networks",
+      "tier": ""
+    },
+    {
+      "id": "commscope",
+      "short_name": "CommScope Holding",
+      "tier": ""
+    },
+    {
+      "id": "ciena",
+      "short_name": "Ciena Corporation",
+      "tier": ""
+    },
+    {
+      "id": "calix",
+      "short_name": "Calix Inc",
+      "tier": ""
+    },
+    {
+      "id": "att",
+      "short_name": "AT&T",
+      "tier": ""
+    },
+    {
+      "id": "verizon",
+      "short_name": "Verizon Communications",
+      "tier": ""
+    },
+    {
+      "id": "tmobile",
+      "short_name": "T-Mobile US",
+      "tier": ""
+    },
+    {
+      "id": "chunghwa",
+      "short_name": "中華電信",
+      "tier": ""
+    },
+    {
+      "id": "taiwan_mobile",
+      "short_name": "台灣大哥大",
+      "tier": ""
+    },
+    {
+      "id": "fareastone",
+      "short_name": "遠傳電信",
+      "tier": ""
+    },
+    {
+      "id": "deutsche_telekom",
+      "short_name": "Deutsche Telekom",
+      "tier": ""
+    },
+    {
+      "id": "softbank",
+      "short_name": "SoftBank Corp",
+      "tier": ""
+    },
+    {
+      "id": "american_tower",
+      "short_name": "American Tower",
+      "tier": ""
+    },
+    {
+      "id": "crown_castle",
+      "short_name": "Crown Castle",
+      "tier": ""
+    },
+    {
+      "id": "sba_comm",
+      "short_name": "SBA Communications",
+      "tier": ""
+    },
+    {
+      "id": "equinix",
+      "short_name": "Equinix",
+      "tier": ""
+    }
+  ]
+}
