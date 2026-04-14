@@ -1,0 +1,344 @@
+# 電信供應鏈情報追蹤 - 公司清單
+
+companies:
+- id: ericsson
+  name: Ericsson
+  aliases:
+  - 愛立信
+  - Ericsson AB
+  ticker: ERIC
+  market: NASDAQ
+  currency: USD
+  position: upstream
+  role: 網通設備
+  description: 全球前二大電信設備商
+  downstream:
+  - att
+  - verizon
+  - tmobile
+  - chunghwa
+  - taiwan_mobile
+  - fareastone
+- id: nokia
+  name: Nokia Corporation
+  aliases:
+  - 諾基亞
+  - Nokia
+  ticker: NOK
+  market: NYSE
+  currency: USD
+  position: upstream
+  role: 網通設備
+  description: 全球前二大電信設備商
+  downstream:
+  - att
+  - verizon
+  - tmobile
+  - chunghwa
+  - taiwan_mobile
+  - fareastone
+- id: zte
+  name: 中興通訊
+  aliases:
+  - ZTE Corporation
+  - ZTE
+  - 中興
+  ticker: 000063.SZ
+  market: SZSE
+  currency: CNY
+  position: upstream
+  role: 網通設備
+  description: 中國第二大電信設備商
+  downstream:
+  - chunghwa
+  - taiwan_mobile
+  - fareastone
+- id: ceragon
+  name: Ceragon Networks
+  aliases:
+  - Ceragon
+  ticker: CRNT
+  market: NASDAQ
+  currency: USD
+  position: upstream
+  role: 微波回傳
+  description: 無線回傳解決方案供應商
+  downstream:
+  - att
+  - verizon
+  - tmobile
+- id: commscope
+  name: CommScope Holding
+  aliases:
+  - CommScope
+  ticker: COMM
+  market: NASDAQ
+  currency: USD
+  position: upstream
+  role: 基礎設施
+  description: 網路基礎設施與連接解決方案
+  downstream:
+  - att
+  - verizon
+  - tmobile
+  - american_tower
+  - crown_castle
+- id: ciena
+  name: Ciena Corporation
+  aliases:
+  - Ciena
+  ticker: CIEN
+  market: NYSE
+  currency: USD
+  position: upstream
+  role: 光通訊設備
+  description: 光網路設備與軟體供應商
+  downstream:
+  - att
+  - verizon
+  - tmobile
+- id: calix
+  name: Calix Inc
+  aliases:
+  - Calix
+  ticker: CALX
+  market: NYSE
+  currency: USD
+  position: upstream
+  role: 光纖接入
+  description: 光纖接入平台與雲端服務
+  downstream:
+  - att
+  - verizon
+- id: att
+  name: AT&T
+  aliases:
+  - AT&T Inc
+  ticker: T
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 電信營運
+  description: 美國最大電信商之一
+  upstream:
+  - ericsson
+  - nokia
+  - commscope
+  - ceragon
+  downstream:
+  - american_tower
+  - crown_castle
+  - sba_comm
+- id: verizon
+  name: Verizon Communications
+  aliases:
+  - Verizon
+  - 威訊
+  ticker: VZ
+  market: NYSE
+  currency: USD
+  position: midstream
+  role: 電信營運
+  description: 美國最大電信商
+  upstream:
+  - ericsson
+  - nokia
+  - commscope
+  - ceragon
+  downstream:
+  - american_tower
+  - crown_castle
+  - sba_comm
+- id: tmobile
+  name: T-Mobile US
+  aliases:
+  - T-Mobile
+  ticker: TMUS
+  market: NASDAQ
+  currency: USD
+  position: midstream
+  role: 電信營運
+  description: 美國第三大電信商，5G 領先者
+  upstream:
+  - ericsson
+  - nokia
+  - commscope
+  - ceragon
+  downstream:
+  - american_tower
+  - crown_castle
+  - sba_comm
+- id: chunghwa
+  name: 中華電信
+  aliases:
+  - Chunghwa Telecom
+  - 中華電
+  ticker: 2412.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 電信營運
+  description: 台灣最大電信商
+  upstream:
+  - ericsson
+  - nokia
+  - zte
+- id: taiwan_mobile
+  name: 台灣大哥大
+  aliases:
+  - Taiwan Mobile
+  - 台灣大
+  ticker: 3045.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 電信營運
+  description: 台灣第二大電信商
+  upstream:
+  - ericsson
+  - nokia
+  - zte
+- id: fareastone
+  name: 遠傳電信
+  aliases:
+  - Far EasTone
+  - 遠傳
+  ticker: 4904.TW
+  market: TWSE
+  currency: TWD
+  position: midstream
+  role: 電信營運
+  description: 台灣第三大電信商
+  upstream:
+  - ericsson
+  - nokia
+  - zte
+- id: deutsche_telekom
+  name: Deutsche Telekom
+  aliases:
+  - 德國電信
+  - DT
+  ticker: DTE.DE
+  market: XETRA
+  currency: EUR
+  position: midstream
+  role: 電信營運
+  description: 歐洲最大電信商，T-Mobile US 母公司
+  upstream:
+  - ericsson
+  - nokia
+  downstream:
+  - american_tower
+- id: softbank
+  name: SoftBank Corp
+  aliases:
+  - 軟銀
+  - SoftBank
+  ticker: 9434.T
+  market: TSE
+  currency: JPY
+  position: midstream
+  role: 電信營運
+  description: 日本第三大電信商
+  upstream:
+  - ericsson
+  - nokia
+- id: american_tower
+  name: American Tower
+  aliases:
+  - AMT
+  - 美國電塔
+  ticker: AMT
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 電塔REIT
+  description: 全球最大電信塔 REIT
+  upstream:
+  - att
+  - verizon
+  - tmobile
+  - commscope
+- id: crown_castle
+  name: Crown Castle
+  aliases:
+  - CCI
+  - 皇冠城堡
+  ticker: CCI
+  market: NYSE
+  currency: USD
+  position: downstream
+  role: 電塔REIT
+  description: 美國第二大電信塔 REIT
+  upstream:
+  - att
+  - verizon
+  - tmobile
+  - commscope
+- id: sba_comm
+  name: SBA Communications
+  aliases:
+  - SBA
+  - SBAC
+  ticker: SBAC
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: 電塔REIT
+  description: 美國第三大電信塔 REIT
+  upstream:
+  - att
+  - verizon
+  - tmobile
+- id: equinix
+  name: Equinix
+  aliases:
+  - Equinix
+  - EQIX
+  ticker: EQIX
+  market: NASDAQ
+  currency: USD
+  position: downstream
+  role: 資料中心
+  description: 全球最大資料中心 REIT
+  upstream:
+  - att
+  - verizon
+etfs:
+- id: iyz
+  name: iShares U.S. Telecommunications ETF
+  ticker: IYZ
+  market: NYSE
+  currency: USD
+  description: 美國電信 ETF，涵蓋營運商與設備商
+- id: fivg
+  name: Defiance Next Gen Connectivity ETF
+  ticker: FIVG
+  market: NYSE
+  currency: USD
+  description: 5G 與次世代連接 ETF
+supply_chain_positions:
+  upstream:
+  - 網通設備
+  - 微波回傳
+  - 基礎設施
+  - 光通訊設備
+  - 光纖接入
+  midstream:
+  - 電信營運
+  downstream:
+  - 電塔REIT
+  - 資料中心
+topics:
+- id: 5g_deployment
+  name: 5G 部署
+- id: arpu
+  name: ARPU
+- id: spectrum_auction
+  name: 頻譜拍賣
+- id: fiber_buildout
+  name: 光纖建設
+- id: tower_consolidation
+  name: 電塔整併
+- id: earnings
+  name: 法說會

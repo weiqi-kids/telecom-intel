@@ -1,0 +1,385 @@
+{
+  "companies": [
+    {
+      "id": "ericsson",
+      "name": "Ericsson",
+      "short_name": "愛立信",
+      "position": "upstream",
+      "role": "網通設備",
+      "x": 0.05,
+      "y": 0.34
+    },
+    {
+      "id": "nokia",
+      "name": "Nokia Corporation",
+      "short_name": "諾基亞",
+      "position": "upstream",
+      "role": "網通設備",
+      "x": 0.1,
+      "y": 0.34
+    },
+    {
+      "id": "zte",
+      "name": "中興通訊",
+      "short_name": "中興",
+      "position": "upstream",
+      "role": "網通設備",
+      "x": 0.15,
+      "y": 0.34
+    },
+    {
+      "id": "ceragon",
+      "name": "Ceragon Networks",
+      "short_name": "Ceragon",
+      "position": "upstream",
+      "role": "微波回傳",
+      "x": 0.2,
+      "y": 0.34
+    },
+    {
+      "id": "commscope",
+      "name": "CommScope Holding",
+      "short_name": "CommScope",
+      "position": "upstream",
+      "role": "基礎設施",
+      "x": 0.25,
+      "y": 0.34
+    },
+    {
+      "id": "ciena",
+      "name": "Ciena Corporation",
+      "short_name": "Ciena",
+      "position": "upstream",
+      "role": "光通訊設備",
+      "x": 0.3,
+      "y": 0.34
+    },
+    {
+      "id": "calix",
+      "name": "Calix Inc",
+      "short_name": "Calix",
+      "position": "upstream",
+      "role": "光纖接入",
+      "x": 0.35,
+      "y": 0.34
+    },
+    {
+      "id": "att",
+      "name": "AT&T",
+      "short_name": "AT&T Inc",
+      "position": "midstream",
+      "role": "電信營運",
+      "x": 0.4,
+      "y": 0.34
+    },
+    {
+      "id": "verizon",
+      "name": "Verizon Communications",
+      "short_name": "威訊",
+      "position": "midstream",
+      "role": "電信營運",
+      "x": 0.45,
+      "y": 0.34
+    },
+    {
+      "id": "tmobile",
+      "name": "T-Mobile US",
+      "short_name": "T-Mobile",
+      "position": "midstream",
+      "role": "電信營運",
+      "x": 0.5,
+      "y": 0.34
+    },
+    {
+      "id": "chunghwa",
+      "name": "中華電信",
+      "short_name": "中華電",
+      "position": "midstream",
+      "role": "電信營運",
+      "x": 0.55,
+      "y": 0.34
+    },
+    {
+      "id": "taiwan_mobile",
+      "name": "台灣大哥大",
+      "short_name": "台灣大",
+      "position": "midstream",
+      "role": "電信營運",
+      "x": 0.6,
+      "y": 0.34
+    },
+    {
+      "id": "fareastone",
+      "name": "遠傳電信",
+      "short_name": "遠傳",
+      "position": "midstream",
+      "role": "電信營運",
+      "x": 0.65,
+      "y": 0.34
+    },
+    {
+      "id": "deutsche_telekom",
+      "name": "Deutsche Telekom",
+      "short_name": "德國電信",
+      "position": "midstream",
+      "role": "電信營運",
+      "x": 0.7,
+      "y": 0.34
+    },
+    {
+      "id": "softbank",
+      "name": "SoftBank Corp",
+      "short_name": "軟銀",
+      "position": "midstream",
+      "role": "電信營運",
+      "x": 0.75,
+      "y": 0.34
+    },
+    {
+      "id": "american_tower",
+      "name": "American Tower",
+      "short_name": "美國電塔",
+      "position": "downstream",
+      "role": "電塔REIT",
+      "x": 0.8,
+      "y": 0.34
+    },
+    {
+      "id": "crown_castle",
+      "name": "Crown Castle",
+      "short_name": "皇冠城堡",
+      "position": "downstream",
+      "role": "電塔REIT",
+      "x": 0.85,
+      "y": 0.34
+    },
+    {
+      "id": "sba_comm",
+      "name": "SBA Communications",
+      "short_name": "SBA",
+      "position": "downstream",
+      "role": "電塔REIT",
+      "x": 0.9,
+      "y": 0.34
+    },
+    {
+      "id": "equinix",
+      "name": "Equinix",
+      "short_name": "Equinix",
+      "position": "downstream",
+      "role": "資料中心",
+      "x": 0.95,
+      "y": 0.34
+    }
+  ],
+  "links": [
+    {
+      "source": "ericsson",
+      "target": "att",
+      "strength": 2
+    },
+    {
+      "source": "ericsson",
+      "target": "verizon",
+      "strength": 2
+    },
+    {
+      "source": "ericsson",
+      "target": "tmobile",
+      "strength": 2
+    },
+    {
+      "source": "ericsson",
+      "target": "chunghwa",
+      "strength": 2
+    },
+    {
+      "source": "ericsson",
+      "target": "taiwan_mobile",
+      "strength": 2
+    },
+    {
+      "source": "ericsson",
+      "target": "fareastone",
+      "strength": 2
+    },
+    {
+      "source": "nokia",
+      "target": "att",
+      "strength": 2
+    },
+    {
+      "source": "nokia",
+      "target": "verizon",
+      "strength": 2
+    },
+    {
+      "source": "nokia",
+      "target": "tmobile",
+      "strength": 2
+    },
+    {
+      "source": "nokia",
+      "target": "chunghwa",
+      "strength": 2
+    },
+    {
+      "source": "nokia",
+      "target": "taiwan_mobile",
+      "strength": 2
+    },
+    {
+      "source": "nokia",
+      "target": "fareastone",
+      "strength": 2
+    },
+    {
+      "source": "zte",
+      "target": "chunghwa",
+      "strength": 2
+    },
+    {
+      "source": "zte",
+      "target": "taiwan_mobile",
+      "strength": 2
+    },
+    {
+      "source": "zte",
+      "target": "fareastone",
+      "strength": 2
+    },
+    {
+      "source": "ceragon",
+      "target": "att",
+      "strength": 2
+    },
+    {
+      "source": "ceragon",
+      "target": "verizon",
+      "strength": 2
+    },
+    {
+      "source": "ceragon",
+      "target": "tmobile",
+      "strength": 2
+    },
+    {
+      "source": "commscope",
+      "target": "att",
+      "strength": 2
+    },
+    {
+      "source": "commscope",
+      "target": "verizon",
+      "strength": 2
+    },
+    {
+      "source": "commscope",
+      "target": "tmobile",
+      "strength": 2
+    },
+    {
+      "source": "commscope",
+      "target": "american_tower",
+      "strength": 2
+    },
+    {
+      "source": "commscope",
+      "target": "crown_castle",
+      "strength": 2
+    },
+    {
+      "source": "ciena",
+      "target": "att",
+      "strength": 2
+    },
+    {
+      "source": "ciena",
+      "target": "verizon",
+      "strength": 2
+    },
+    {
+      "source": "ciena",
+      "target": "tmobile",
+      "strength": 2
+    },
+    {
+      "source": "calix",
+      "target": "att",
+      "strength": 2
+    },
+    {
+      "source": "calix",
+      "target": "verizon",
+      "strength": 2
+    },
+    {
+      "source": "att",
+      "target": "american_tower",
+      "strength": 2
+    },
+    {
+      "source": "att",
+      "target": "crown_castle",
+      "strength": 2
+    },
+    {
+      "source": "att",
+      "target": "sba_comm",
+      "strength": 2
+    },
+    {
+      "source": "verizon",
+      "target": "american_tower",
+      "strength": 2
+    },
+    {
+      "source": "verizon",
+      "target": "crown_castle",
+      "strength": 2
+    },
+    {
+      "source": "verizon",
+      "target": "sba_comm",
+      "strength": 2
+    },
+    {
+      "source": "tmobile",
+      "target": "american_tower",
+      "strength": 2
+    },
+    {
+      "source": "tmobile",
+      "target": "crown_castle",
+      "strength": 2
+    },
+    {
+      "source": "tmobile",
+      "target": "sba_comm",
+      "strength": 2
+    },
+    {
+      "source": "deutsche_telekom",
+      "target": "american_tower",
+      "strength": 2
+    }
+  ],
+  "etfs": [
+    {
+      "id": "etf_iyz",
+      "name": "iShares U.S. Telecommunications ETF",
+      "ticker": "IYZ",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "美國電信 ETF，涵蓋營運商與設備商"
+    },
+    {
+      "id": "etf_fivg",
+      "name": "Defiance Next Gen Connectivity ETF",
+      "ticker": "FIVG",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "5G 與次世代連接 ETF"
+    }
+  ]
+}

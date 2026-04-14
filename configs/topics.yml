@@ -1,0 +1,117 @@
+# 電信供應鏈情報追蹤 - 主題清單
+
+topics:
+  5g_deployment:
+    display: 5G 部署
+    keywords:
+    - 5G deployment
+    - 5G 部署
+    - 5G rollout
+    - 5G 建設
+    - 5G coverage
+    - 5G 覆蓋
+    - 5G subscriber
+    - 5G 用戶
+    - mmWave
+    - 毫米波
+    - C-band
+    - sub-6
+    - Open RAN
+    - O-RAN
+    - standalone 5G
+    - SA 5G
+    sentiment_keywords:
+      positive:
+      - 加速部署
+      - 用戶增長
+      - coverage expansion
+      - 5G milestone
+      negative:
+      - 延遲
+      - delay
+      - coverage gap
+      - slower rollout
+  arpu:
+    display: ARPU
+    keywords:
+    - ARPU
+    - average revenue per user
+    - 每用戶平均收入
+    - subscriber
+    - 用戶數
+    - churn rate
+    - 退網率
+    - postpaid
+    - 月租制
+    - prepaid
+    - 預付卡
+    sentiment_keywords:
+      positive:
+      - ARPU 增長
+      - ARPU growth
+      - subscriber growth
+      negative:
+      - ARPU 下降
+      - ARPU decline
+      - subscriber loss
+      - churn increase
+  spectrum_auction:
+    display: 頻譜拍賣
+    keywords:
+    - spectrum auction
+    - 頻譜拍賣
+    - spectrum allocation
+    - 頻譜分配
+    - FCC auction
+    - NCC
+    - frequency band
+    - 頻段
+    - license
+    - 執照
+    - spectrum cost
+  fiber_buildout:
+    display: 光纖建設
+    keywords:
+    - fiber buildout
+    - 光纖建設
+    - FTTH
+    - fiber to the home
+    - 光纖到府
+    - broadband
+    - 寬頻
+    - fiber deployment
+    - 光纖佈建
+    - BEAD
+    - rural broadband
+    - 偏鄉寬頻
+  tower_consolidation:
+    display: 電塔整併
+    keywords:
+    - tower consolidation
+    - 電塔整併
+    - tower M&A
+    - tower merger
+    - tower acquisition
+    - cell tower
+    - 基地台
+    - site sharing
+    - 共站
+    - tower lease
+    - 租金
+    - tower REIT
+  earnings:
+    display: 法說會
+    keywords:
+    - earnings
+    - 法說會
+    - 財報
+    - quarterly results
+    - guidance
+    - outlook
+    - revenue
+    - 營收
+    - profit
+    - 獲利
+    - EBITDA
+    - capex
+    - 資本支出
