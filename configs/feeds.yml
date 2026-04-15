@@ -1,0 +1,30 @@
+# Telecom industry news feeds
+
+feeds:
+  # Industry media
+  - id: light_reading
+    name: Light Reading
+    url: https://www.lightreading.com/rss.xml
+    description: Telecom industry news and analysis
+  - id: rcrwireless
+    name: RCR Wireless News
+    url: https://www.rcrwireless.com/feed
+    description: Wireless and mobile industry news and insights
+  - id: total_telecom
+    name: Total Telecom
+    url: https://totaltele.com/feed/
+    description: Global telecom news and analysis
+  - id: telecom_ramblings
+    name: Telecom Ramblings
+    url: https://www.telecomramblings.com/feed/
+    description: Telecom and internet infrastructure news and commentary
+
+  # Google News topic feeds
+  - id: google_news_5g
+    name: Google News - 5G Telecom
+    url: https://news.google.com/rss/search?q=5G+telecom+network&hl=en
+    description: Google News aggregation for 5G telecom news
+  - id: google_news_telecom
+    name: Google News - Telecom Industry
+    url: https://news.google.com/rss/search?q=telecom+industry+news&hl=en
+    description: Google News aggregation for telecom industry

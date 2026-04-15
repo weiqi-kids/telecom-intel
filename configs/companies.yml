@@ -9,6 +9,7 @@ companies:
   ticker: ERIC
   market: NASDAQ
   currency: USD
+  rss_url: https://www.ericsson.com/en/rss?type=press-release
   position: upstream
   role: 網通設備
   description: 全球前二大電信設備商
@@ -117,6 +118,7 @@ companies:
   ticker: T
   market: NYSE
   currency: USD
+  rss_url: https://about.att.com/rss/rssfeed.html?category=all
   position: midstream
   role: 電信營運
   description: 美國最大電信商之一
@@ -137,6 +139,7 @@ companies:
   ticker: VZ
   market: NYSE
   currency: USD
+  rss_url: https://www.verizon.com/about/news/feed/rss-feeds
   position: midstream
   role: 電信營運
   description: 美國最大電信商
@@ -156,6 +159,7 @@ companies:
   ticker: TMUS
   market: NASDAQ
   currency: USD
+  rss_url: https://investor.t-mobile.com/events-and-presentations/news/rss
   position: midstream
   role: 電信營運
   description: 美國第三大電信商，5G 領先者
@@ -267,6 +271,7 @@ companies:
   ticker: CCI
   market: NYSE
   currency: USD
+  rss_url: https://investor.crowncastle.com/rss-feeds
   position: downstream
   role: 電塔REIT
   description: 美國第二大電信塔 REIT
