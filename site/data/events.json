@@ -1,5 +1,120 @@
 [
   {
+    "id": "unknown-2026-04-15-010",
+    "date": "2026-04-15",
+    "companies": [],
+    "topics": [
+      "spectrum_auction"
+    ],
+    "impact": "neutral",
+    "title": "Singapore Telecommunications Ltd stock (SG1M31001969): Is its digital pivot strong enough to unlock - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTEZkeVFUa3ZBOHNCcWNwbEE2T1pHa1hqTVlzRVR5NWZQVk5PdktTcnNuYW5VSkRjdWJqR0ZmUGZmNXV2Zm1JM3Rhb0pWemlPakpraFdCTU9NaGRuUUV4NElLa3QyUzVwOWRTdHdqWE",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-14-001",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "fiber_buildout"
+    ],
+    "impact": "neutral",
+    "title": "Winncom launches program to help with BEAD compliance",
+    "summary": "Winncom's new BEAD Post-Award Compliance Assistance Program is designed to help broadband providers move from funding selection to project implementation more efficiently. #pressrelease",
+    "sources": []
+  },
+  {
+    "id": "nokia-2026-04-14-002",
+    "date": "2026-04-14",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "fiber_buildout"
+    ],
+    "impact": "neutral",
+    "title": "SkyFiber picks Nokia for BEAD-supported buildout",
+    "summary": "SkyFiber has tapped Nokia to support a partially BEAD-funded buildout project in Northern Nevada. #pressrelease",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-14-003",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "fiber_buildout"
+    ],
+    "impact": "neutral",
+    "title": "Here comes Starlink, the next telecom giant",
+    "summary": "SpaceX is building out a global telco of immense scale, reaching into both fixed-line broadband and the direct-to-device mobile segment.",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-14-004",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "fiber_buildout"
+    ],
+    "impact": "neutral",
+    "title": "The Divide: Blair Levin on 30 years of the Telecom Act and what must come next",
+    "summary": "Former FCC official Blair Levin joins the podcast to discuss BEAD program updates and how the federal government can best prepare for the future of connectivity and AI as we mark 30 years of the 1996 ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-14-006",
+    "date": "2026-04-14",
+    "companies": [],
+    "topics": [
+      "arpu",
+      "fiber_buildout",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "India broadband growth accelerates with fiber and FWA",
+    "summary": "Fixed broadband revenue in India is expected to increase steadily, supported by upgrades to higher-ARPU FTTH plans and wider digital adoption In sum – what to know: Broadband growth – Fixed services r",
+    "sources": []
+  },
+  {
+    "id": "ericsson-2026-04-13-005",
+    "date": "2026-04-13",
+    "companies": [
+      "ericsson",
+      "nokia"
+    ],
+    "topics": [
+      "5g_deployment"
+    ],
+    "impact": "neutral",
+    "title": "How the UK forgot open RAN and learned to love Ericsson and Nokia",
+    "summary": "Recent contracts awarded by VodafoneThree and VMO2 have ensured the UK will remain a Nordic duopoly for years.",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-10-008",
+    "date": "2026-04-10",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Has telecom network capex peaked? - SDxCentral",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9Kc0RESGRkVV9XdmpiWXo0bGMwN0d6UEd0MnEzcnRkMDZ1MHJOQ1VsMXFabHU4Nm83QnZLSUdWSm0xU3FSVDg1M0tybEFkRWJTbzRLVEUtck1IcmdnTDFxOVRxcmFrMlZ2WWctdXNybU",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-07-007",
+    "date": "2026-04-07",
+    "companies": [],
+    "topics": [
+      "fiber_buildout"
+    ],
+    "impact": "neutral",
+    "title": "Tarana says Starlink’s BEAD antics “pulled the rug out” from NTIA",
+    "summary": "<a href=\"https://totaltele.com/tarana-says-starlinks-bead-antics-pulled-the-rug-out-from-ntia/\" title=\"Tarana says Starlink’s BEAD antics “pulled the rug out” from NTIA\" rel=\"nofollow\"><img width=\"768",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-03-001",
     "date": "2026-04-03",
     "companies": [],
@@ -21,6 +136,42 @@
     "impact": "neutral",
     "title": " Corsair’s limited-time memory sale brings 25% savings, but persistent DDR5 price hikes paint a grim outlook for buyers ",
     "summary": "\n                             While Corsair’s DDR5 deal offers notable discounts, rising DRAM prices mean buyers still pay significantly more than before. \n                                            ",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-13-012",
+    "date": "2026-03-13",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Telecom Services Q1 2026 Earnings Review: Satellite vs. Wireless Performance - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNamZDYk1NaUswWC1iTkkzeFNDWGpYVm9TRlMzZUJRUVVEeU1rQmpZRWU4ck9Dd0NHZzB1Sk5YQUhRWFIybW9GNHZxbUZmcEdDVl9VaFhwSUVkamlTS3ZWSzNMbEcyVWxhT1U1ckFMYT",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-03-09-009",
+    "date": "2026-03-09",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Cut with Precision: Private 5G Network Slicing Drives New Revenue - Telecom Review Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMTdoYklvaDBoeUJBdmVpSndjVzlsWnNLT3V1eHdGaC0tNkE4OW85d2pmOE9PYTZSVllEM0ZYNzFpeHJoWWZIcTlxT0dsUEdyUWNQdE9XazJ3dHJKT0d1X2l6RDU4aEdGRGRMS1cyaT",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-02-19-011",
+    "date": "2026-02-19",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "2026 Global Telecommunications Industry Outlook - Deloitte",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOOEV0bVp0eVBxaFQ4LW9paW9BXzhjM043Ny05UXpoS2JTQXExcFcxckZpekFad01aN0x6V3hLSmdEWXRnVFpHb2VzeFVGQkNMNkVIUUsyemJkX3hucE9QVFZ4NDlLYkE2UUkzd2tOdk",
     "sources": []
   }
 ]
