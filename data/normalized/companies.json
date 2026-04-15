@@ -6,8 +6,8 @@
       "short_name": "愛立信",
       "position": "upstream",
       "role": "網通設備",
-      "x": 0.08,
-      "y": 0.06
+      "x": 0.05,
+      "y": 0.04
     },
     {
       "id": "nokia",
@@ -15,8 +15,8 @@
       "short_name": "諾基亞",
       "position": "upstream",
       "role": "網通設備",
-      "x": 0.248,
-      "y": 0.06
+      "x": 0.5,
+      "y": 0.04
     },
     {
       "id": "zte",
@@ -24,53 +24,53 @@
       "short_name": "中興",
       "position": "upstream",
       "role": "網通設備",
-      "x": 0.416,
-      "y": 0.06
+      "x": 0.95,
+      "y": 0.04
     },
     {
       "id": "ceragon",
       "name": "Ceragon Networks",
-      "short_name": "Ceragon Networks",
+      "short_name": "Ceragon",
       "position": "upstream",
       "role": "微波回傳",
-      "x": 0.584,
-      "y": 0.06
+      "x": 0.5,
+      "y": 0.11
     },
     {
       "id": "commscope",
       "name": "CommScope Holding",
-      "short_name": "CommScope Holding",
+      "short_name": "CommScope",
       "position": "upstream",
       "role": "基礎設施",
-      "x": 0.752,
-      "y": 0.06
+      "x": 0.5,
+      "y": 0.17
     },
     {
       "id": "ciena",
       "name": "Ciena Corporation",
-      "short_name": "Ciena Corporation",
+      "short_name": "Ciena",
       "position": "upstream",
       "role": "光通訊設備",
-      "x": 0.92,
-      "y": 0.06
+      "x": 0.5,
+      "y": 0.24
     },
     {
       "id": "calix",
       "name": "Calix Inc",
-      "short_name": "Calix Inc",
+      "short_name": "Calix",
       "position": "upstream",
       "role": "光纖接入",
       "x": 0.5,
-      "y": 0.28
+      "y": 0.3
     },
     {
       "id": "att",
       "name": "AT&T",
-      "short_name": "AT&T",
+      "short_name": "AT&T Inc",
       "position": "midstream",
       "role": "電信營運",
-      "x": 0.08,
-      "y": 0.36
+      "x": 0.05,
+      "y": 0.5
     },
     {
       "id": "verizon",
@@ -78,17 +78,17 @@
       "short_name": "威訊",
       "position": "midstream",
       "role": "電信營運",
-      "x": 0.248,
-      "y": 0.36
+      "x": 0.179,
+      "y": 0.5
     },
     {
       "id": "tmobile",
       "name": "T-Mobile US",
-      "short_name": "T-Mobile US",
+      "short_name": "T-Mobile",
       "position": "midstream",
       "role": "電信營運",
-      "x": 0.416,
-      "y": 0.36
+      "x": 0.307,
+      "y": 0.5
     },
     {
       "id": "chunghwa",
@@ -96,8 +96,8 @@
       "short_name": "中華電",
       "position": "midstream",
       "role": "電信營運",
-      "x": 0.584,
-      "y": 0.36
+      "x": 0.436,
+      "y": 0.5
     },
     {
       "id": "taiwan_mobile",
@@ -105,8 +105,8 @@
       "short_name": "台灣大",
       "position": "midstream",
       "role": "電信營運",
-      "x": 0.752,
-      "y": 0.36
+      "x": 0.564,
+      "y": 0.5
     },
     {
       "id": "fareastone",
@@ -114,8 +114,8 @@
       "short_name": "遠傳",
       "position": "midstream",
       "role": "電信營運",
-      "x": 0.92,
-      "y": 0.36
+      "x": 0.693,
+      "y": 0.5
     },
     {
       "id": "deutsche_telekom",
@@ -123,8 +123,8 @@
       "short_name": "德國電信",
       "position": "midstream",
       "role": "電信營運",
-      "x": 0.08,
-      "y": 0.64
+      "x": 0.821,
+      "y": 0.5
     },
     {
       "id": "softbank",
@@ -132,8 +132,8 @@
       "short_name": "軟銀",
       "position": "midstream",
       "role": "電信營運",
-      "x": 0.92,
-      "y": 0.64
+      "x": 0.95,
+      "y": 0.5
     },
     {
       "id": "american_tower",
@@ -141,8 +141,8 @@
       "short_name": "美國電塔",
       "position": "downstream",
       "role": "電塔REIT",
-      "x": 0.08,
-      "y": 0.83
+      "x": 0.05,
+      "y": 0.7
     },
     {
       "id": "crown_castle",
@@ -150,17 +150,17 @@
       "short_name": "皇冠城堡",
       "position": "downstream",
       "role": "電塔REIT",
-      "x": 0.36,
-      "y": 0.83
+      "x": 0.5,
+      "y": 0.7
     },
     {
       "id": "sba_comm",
       "name": "SBA Communications",
-      "short_name": "SBA Communications",
+      "short_name": "SBA",
       "position": "downstream",
       "role": "電塔REIT",
-      "x": 0.64,
-      "y": 0.83
+      "x": 0.95,
+      "y": 0.7
     },
     {
       "id": "equinix",
@@ -168,8 +168,8 @@
       "short_name": "Equinix",
       "position": "downstream",
       "role": "資料中心",
-      "x": 0.92,
-      "y": 0.83
+      "x": 0.5,
+      "y": 0.96
     }
   ],
   "links": [
@@ -366,14 +366,20 @@
   ],
   "etfs": [
     {
-      "id": "iyz",
+      "id": "etf_iyz",
       "name": "iShares U.S. Telecommunications ETF",
-      "ticker": "IYZ"
+      "ticker": "IYZ",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "美國電信 ETF，涵蓋營運商與設備商"
     },
     {
-      "id": "fivg",
+      "id": "etf_fivg",
       "name": "Defiance Next Gen Connectivity ETF",
-      "ticker": "FIVG"
+      "ticker": "FIVG",
+      "market": "NYSE",
+      "currency": "USD",
+      "description": "5G 與次世代連接 ETF"
     }
   ]
 }

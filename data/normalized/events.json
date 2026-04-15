@@ -1,1001 +1,1801 @@
 [
   {
-    "id": "rss-84847",
+    "id": "rss-54149",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Powering the Future: Orange Business’s Cloud Revolution with PwC and Microsoft",
+    "summary": "",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Powering the Future: Orange Business’s Cloud Revolution with PwC and Microsoft",
+        "url": "https://www.lightreading.com/cloud/powering-the-future-orange-business-s-cloud-revolution-with-pwc-and-microsoft",
+        "fetchedAt": "2026-04-15T09:12:17.225107Z",
+        "excerpt": ""
+      }
+    ]
+  },
+  {
+    "id": "rss-1112",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "The decline and fall of the Telecom Italia empire",
+    "summary": "Previously one of Europe's most valuable telecom companies, Telecom Italia is now a fraction of its former size and may be destined for state ownership.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "The decline and fall of the Telecom Italia empire",
+        "url": "https://www.lightreading.com/regulatory-politics/the-decline-and-fall-of-the-telecom-italia-empire",
+        "fetchedAt": "2026-04-15T09:12:17.225122Z",
+        "excerpt": "Previously one of Europe's most valuable telecom companies, Telecom Italia is now a fraction of its former size and may be destined for state ownership."
+      }
+    ]
+  },
+  {
+    "id": "rss-1052",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Nokia, Blaize target AI inference gap in APAC",
+    "summary": "Nokia and Blaize are developing a hybrid AI architecture to address inference deployment challenges in the APAC region.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Nokia, Blaize target AI inference gap in APAC",
+        "url": "https://www.lightreading.com/ai-machine-learning/nokia-blaize-target-ai-inference-gap-in-apac",
+        "fetchedAt": "2026-04-15T09:12:17.225128Z",
+        "excerpt": "Nokia and Blaize are developing a hybrid AI architecture to address inference deployment challenges in the APAC region."
+      }
+    ]
+  },
+  {
+    "id": "rss-82761",
     "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "The Smart Advantage: How Artificial Intelligence Is Transforming Inspection And Metrology In Semiconductor Manufacturing",
-    "summary": "<p>Deep learning enables systems to detect and flag issues that could otherwise be misread or missed entirely. </p>\n<p>The post <a href=\"https://semiengineering.com/the-smart-advantage-how-artificial-",
+    "title": "Winncom launches program to help with BEAD compliance",
+    "summary": "Winncom's new BEAD Post-Award Compliance Assistance Program is designed to help broadband providers move from funding selection to project implementation more efficiently. #pressrelease",
     "sources": [
       {
         "type": "news",
-        "title": "The Smart Advantage: How Artificial Intelligence Is Transforming Inspection And Metrology In Semiconductor Manufacturing",
-        "url": "https://semiengineering.com/the-smart-advantage-how-artificial-intelligence-is-transforming-inspection-and-metrology-in-semiconductor-manufacturing/",
-        "fetchedAt": "2026-04-14T23:00:02.371690Z",
-        "excerpt": "<p>Deep learning enables systems to detect and flag issues that could otherwise be misread or missed entirely. </p>\n<p>The post <a href=\"https://semiengineering.com/the-smart-advantage-how-artificial-intelligence-is-transforming-inspection-and-metrology-in-semiconductor-manufacturing/\">The Smart Advantage: How Artificial Intelligence Is Transforming Inspection And Metrology In Semiconductor Manufacturing</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</"
+        "title": "Winncom launches program to help with BEAD compliance",
+        "url": "https://www.lightreading.com/broadband/winncom-launches-program-to-help-with-bead-compliance",
+        "fetchedAt": "2026-04-15T09:12:17.225130Z",
+        "excerpt": "Winncom's new BEAD Post-Award Compliance Assistance Program is designed to help broadband providers move from funding selection to project implementation more efficiently. #pressrelease"
       }
     ]
   },
   {
-    "id": "rss-63513",
+    "id": "rss-53132",
     "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "Heterogeneous NPU Data Movement: What The Execution Flow Shows",
-    "summary": "<p>A concrete example of how architectural boundaries influence system behavior.</p>\n<p>The post <a href=\"https://semiengineering.com/heterogeneous-npu-data-movement-what-the-execution-flow-shows/\">He",
+    "title": "Amazon nets Globalstar for $11.5B, signs new Apple pact",
+    "summary": "Amazon has inked a deal to acquire Globalstar for about $11.6 billion, a transaction that will spark its move into the D2D arena and complement its expanding Amazon Leo platform. Amazon has also secur",
     "sources": [
       {
         "type": "news",
-        "title": "Heterogeneous NPU Data Movement: What The Execution Flow Shows",
-        "url": "https://semiengineering.com/heterogeneous-npu-data-movement-what-the-execution-flow-shows/",
-        "fetchedAt": "2026-04-14T23:00:02.371702Z",
-        "excerpt": "<p>A concrete example of how architectural boundaries influence system behavior.</p>\n<p>The post <a href=\"https://semiengineering.com/heterogeneous-npu-data-movement-what-the-execution-flow-shows/\">Heterogeneous NPU Data Movement: What The Execution Flow Shows</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
+        "title": "Amazon nets Globalstar for $11.5B, signs new Apple pact",
+        "url": "https://www.lightreading.com/satellite/amazon-nets-globalstar-for-11-5b-signs-new-apple-pact",
+        "fetchedAt": "2026-04-15T09:12:17.225132Z",
+        "excerpt": "Amazon has inked a deal to acquire Globalstar for about $11.6 billion, a transaction that will spark its move into the D2D arena and complement its expanding Amazon Leo platform. Amazon has also secured a new satellite connectivity deal with Apple."
       }
     ]
   },
   {
-    "id": "rss-15115",
+    "id": "rss-25396",
     "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "Research Bits: Apr. 14",
-    "summary": "<p>Memristors: Authentication for edge devices; ultra-high temperature operation; DNA plus perovskites.</p>\n<p>The post <a href=\"https://semiengineering.com/research-bits-apr-14/\">Research Bits: Apr. ",
+    "title": "SkyFiber picks Nokia for BEAD-supported buildout",
+    "summary": "SkyFiber has tapped Nokia to support a partially BEAD-funded buildout project in Northern Nevada. #pressrelease",
     "sources": [
       {
         "type": "news",
-        "title": "Research Bits: Apr. 14",
-        "url": "https://semiengineering.com/research-bits-apr-14/",
-        "fetchedAt": "2026-04-14T23:00:02.371705Z",
-        "excerpt": "<p>Memristors: Authentication for edge devices; ultra-high temperature operation; DNA plus perovskites.</p>\n<p>The post <a href=\"https://semiengineering.com/research-bits-apr-14/\">Research Bits: Apr. 14</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
+        "title": "SkyFiber picks Nokia for BEAD-supported buildout",
+        "url": "https://www.lightreading.com/digital-divide/skyfiber-picks-nokia-for-bead-supported-buildout",
+        "fetchedAt": "2026-04-15T09:12:17.225133Z",
+        "excerpt": "SkyFiber has tapped Nokia to support a partially BEAD-funded buildout project in Northern Nevada. #pressrelease"
       }
     ]
   },
   {
-    "id": "rss-83684",
+    "id": "rss-10778",
     "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "Chip Industry Technical Paper Roundup: Apr. 14",
-    "summary": "<p>Silicon spin qubits based on GAA; causal AI for AMS design; wide-bandgap automotive reliability; agentic HLS; co-packaged optics; constraint programming for semiconductor manufacturing; automated s",
+    "title": "China smartphone shipments fell 1% in Q1 2026 as rising costs pushed up device prices – Omdia",
+    "summary": "In Q1 2026, the combined market share of the top six vendors – Huawei, Apple, Xiaomi, OPPO, vivo, and HONOR – reached 94%. #pressrelease",
     "sources": [
       {
         "type": "news",
-        "title": "Chip Industry Technical Paper Roundup: Apr. 14",
-        "url": "https://semiengineering.com/chip-industry-technical-paper-roundup-apr-14/",
-        "fetchedAt": "2026-04-14T23:00:02.371707Z",
-        "excerpt": "<p>Silicon spin qubits based on GAA; causal AI for AMS design; wide-bandgap automotive reliability; agentic HLS; co-packaged optics; constraint programming for semiconductor manufacturing; automated security assertions with LLMs.</p>\n<p>The post <a href=\"https://semiengineering.com/chip-industry-technical-paper-roundup-apr-14/\">Chip Industry Technical Paper Roundup: Apr. 14</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
+        "title": "China smartphone shipments fell 1% in Q1 2026 as rising costs pushed up device prices – Omdia",
+        "url": "https://www.lightreading.com/smartphones-devices/china-smartphone-shipments-fell-1-in-q1-2026-as-rising-costs-pushed-up-device-prices-omdia",
+        "fetchedAt": "2026-04-15T09:12:17.225135Z",
+        "excerpt": "In Q1 2026, the combined market share of the top six vendors – Huawei, Apple, Xiaomi, OPPO, vivo, and HONOR – reached 94%. #pressrelease"
       }
     ]
   },
   {
-    "id": "rss-5221",
+    "id": "rss-69351",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Here comes Starlink, the next telecom giant",
+    "summary": "SpaceX is building out a global telco of immense scale, reaching into both fixed-line broadband and the direct-to-device mobile segment.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Here comes Starlink, the next telecom giant",
+        "url": "https://www.lightreading.com/satellite/here-comes-starlink-the-next-telecom-giant",
+        "fetchedAt": "2026-04-15T09:12:17.225136Z",
+        "excerpt": "SpaceX is building out a global telco of immense scale, reaching into both fixed-line broadband and the direct-to-device mobile segment."
+      }
+    ]
+  },
+  {
+    "id": "rss-41334",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Amazon to scoop up Globalstar",
+    "summary": "Amazon has inked a deal to acquire Globalstar, a deal that aims to expand the reach and services offered by Amazon Leo, a unit focused on deploying a constellation of thousands of low-Earth orbit sate",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Amazon to scoop up Globalstar",
+        "url": "https://www.lightreading.com/satellite/amazon-to-scoop-up-globalstar",
+        "fetchedAt": "2026-04-15T09:12:17.225138Z",
+        "excerpt": "Amazon has inked a deal to acquire Globalstar, a deal that aims to expand the reach and services offered by Amazon Leo, a unit focused on deploying a constellation of thousands of low-Earth orbit satellites. #pressrelease"
+      }
+    ]
+  },
+  {
+    "id": "rss-78915",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Taara expands into video distribution, sizes up data center opportunity",
+    "summary": "Taara, a Google X Moonshot Factory grad focusing on free space optics, has opened up a new video distribution use case and is exploring its role in both terrestrial and orbital data centers.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Taara expands into video distribution, sizes up data center opportunity",
+        "url": "https://www.lightreading.com/wireless/taara-expands-into-video-distribution-sizes-up-data-center-opportunity",
+        "fetchedAt": "2026-04-15T09:12:17.225139Z",
+        "excerpt": "Taara, a Google X Moonshot Factory grad focusing on free space optics, has opened up a new video distribution use case and is exploring its role in both terrestrial and orbital data centers."
+      }
+    ]
+  },
+  {
+    "id": "rss-74394",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Australia's new SMAP subsea cable ready for final testing",
+    "summary": "Subsea cable operator Subco announced that the final splice on the SMAP had been completed, marking the end of active marine construction.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Australia's new SMAP subsea cable ready for final testing",
+        "url": "https://www.lightreading.com/cable-technology/australia-s-new-smap-subsea-cable-ready-for-final-testing",
+        "fetchedAt": "2026-04-15T09:12:17.225141Z",
+        "excerpt": "Subsea cable operator Subco announced that the final splice on the SMAP had been completed, marking the end of active marine construction."
+      }
+    ]
+  },
+  {
+    "id": "rss-95054",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Eurobites: Deutsche Telekom plugs Thüga into 'sovereign' AI",
+    "summary": "Also in today's EMEA regional roundup: Project Mercury rises; euNetworks hooks up with AWS for 'sovereign' cloud; TIM's timescale for Sparkle sale.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Eurobites: Deutsche Telekom plugs Thüga into 'sovereign' AI",
+        "url": "https://www.lightreading.com/ai-machine-learning/eurobites-deutsche-telekom-plugs-th-ga-into-sovereign-ai",
+        "fetchedAt": "2026-04-15T09:12:17.225142Z",
+        "excerpt": "Also in today's EMEA regional roundup: Project Mercury rises; euNetworks hooks up with AWS for 'sovereign' cloud; TIM's timescale for Sparkle sale."
+      }
+    ]
+  },
+  {
+    "id": "rss-21209",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "A startup called Orbital joins the data center space race",
+    "summary": "Orbital, a startup led by Euwyn Poon, aims to develop a system comprising thousands of space-based data centers focused on AI inferencing. Its first space-based test is slated for 2027.",
+    "sources": [
+      {
+        "type": "news",
+        "title": "A startup called Orbital joins the data center space race",
+        "url": "https://www.lightreading.com/satellite/a-startup-called-orbital-joins-the-data-center-space-race",
+        "fetchedAt": "2026-04-15T09:12:17.225148Z",
+        "excerpt": "Orbital, a startup led by Euwyn Poon, aims to develop a system comprising thousands of space-based data centers focused on AI inferencing. Its first space-based test is slated for 2027."
+      }
+    ]
+  },
+  {
+    "id": "rss-30161",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "The Divide: Blair Levin on 30 years of the Telecom Act and what must come next",
+    "summary": "Former FCC official Blair Levin joins the podcast to discuss BEAD program updates and how the federal government can best prepare for the future of connectivity and AI as we mark 30 years of the 1996 ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "The Divide: Blair Levin on 30 years of the Telecom Act and what must come next",
+        "url": "https://www.lightreading.com/broadband/the-divide-blair-levin-on-30-years-of-the-telecom-act-and-what-must-come-next",
+        "fetchedAt": "2026-04-15T09:12:17.225150Z",
+        "excerpt": "Former FCC official Blair Levin joins the podcast to discuss BEAD program updates and how the federal government can best prepare for the future of connectivity and AI as we mark 30 years of the 1996 Telecommunications Act."
+      }
+    ]
+  },
+  {
+    "id": "rss-73807",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Samsung and Orange pour more cold water on 6G",
+    "summary": "The boss of Samsung Networks is not expecting any 6G investment 'bump,' while Orange's CTO continues to rail against the 'G paradigm.'",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Samsung and Orange pour more cold water on 6G",
+        "url": "https://www.lightreading.com/6g/samsung-and-orange-pour-more-cold-water-on-6g",
+        "fetchedAt": "2026-04-15T09:12:17.225151Z",
+        "excerpt": "The boss of Samsung Networks is not expecting any 6G investment 'bump,' while Orange's CTO continues to rail against the 'G paradigm.'"
+      }
+    ]
+  },
+  {
+    "id": "rss-69773",
     "date": "Mon, 13 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "EDA And IP Numbers Up Again, But Numbers Are More Nuanced",
-    "summary": "<p>Q4 numbers reflect strengths and weaknesses in different segments.</p>\n<p>The post <a href=\"https://semiengineering.com/eda-and-ip-numbers-up-again-but-numbers-are-more-nuanced/\">EDA And IP Numbers",
+    "title": "A third of US streaming subs would watch more ads for lower price",
+    "summary": "A new Bango study finds that 36% of Americans would tolerate twice as many ads in streaming and subscription services if it lowered the monthly cost. #pressrelease",
     "sources": [
       {
         "type": "news",
-        "title": "EDA And IP Numbers Up Again, But Numbers Are More Nuanced",
-        "url": "https://semiengineering.com/eda-and-ip-numbers-up-again-but-numbers-are-more-nuanced/",
-        "fetchedAt": "2026-04-14T23:00:02.371712Z",
-        "excerpt": "<p>Q4 numbers reflect strengths and weaknesses in different segments.</p>\n<p>The post <a href=\"https://semiengineering.com/eda-and-ip-numbers-up-again-but-numbers-are-more-nuanced/\">EDA And IP Numbers Up Again, But Numbers Are More Nuanced</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
+        "title": "A third of US streaming subs would watch more ads for lower price",
+        "url": "https://www.lightreading.com/video-streaming/a-third-of-us-streaming-subs-would-watch-more-ads-for-lower-price",
+        "fetchedAt": "2026-04-15T09:12:17.225153Z",
+        "excerpt": "A new Bango study finds that 36% of Americans would tolerate twice as many ads in streaming and subscription services if it lowered the monthly cost. #pressrelease"
       }
     ]
   },
   {
-    "id": "rss-25898",
+    "id": "rss-52424",
     "date": "Mon, 13 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "Startup Funding: Q1 2026",
-    "summary": "<p>Massive rounds for AI, EDA, and manufacturing; 80 startups raise $8.4B.</p>\n<p>The post <a href=\"https://semiengineering.com/startup-funding-q1-2026/\">Startup Funding: Q1 2026</a> appeared first on",
+    "title": "FCC taps ioXt Alliance as lead for US Cyber Trust Mark Program",
+    "summary": "The FCC has selected the ioXt Alliance to serve as the new Lead Administrator of its voluntary US Cyber Trust Mark Program for consumer wireless IoT products. #pressrelease",
     "sources": [
       {
         "type": "news",
-        "title": "Startup Funding: Q1 2026",
-        "url": "https://semiengineering.com/startup-funding-q1-2026/",
-        "fetchedAt": "2026-04-14T23:00:02.371717Z",
-        "excerpt": "<p>Massive rounds for AI, EDA, and manufacturing; 80 startups raise $8.4B.</p>\n<p>The post <a href=\"https://semiengineering.com/startup-funding-q1-2026/\">Startup Funding: Q1 2026</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
+        "title": "FCC taps ioXt Alliance as lead for US Cyber Trust Mark Program",
+        "url": "https://www.lightreading.com/regulatory-politics/fcc-taps-ioxt-alliance-as-lead-for-us-cyber-trust-mark-program",
+        "fetchedAt": "2026-04-15T09:12:17.225154Z",
+        "excerpt": "The FCC has selected the ioXt Alliance to serve as the new Lead Administrator of its voluntary US Cyber Trust Mark Program for consumer wireless IoT products. #pressrelease"
       }
     ]
   },
   {
-    "id": "rss-27414",
+    "id": "rss-5384",
     "date": "Mon, 13 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "Why Hardware Monitoring Needs Infrastructure, Not Just Sensors",
-    "summary": "<p>Embedded intelligence enables a system to respond to critical events before they cause failures in runtime applications. </p>\n<p>The post <a href=\"https://semiengineering.com/why-hardware-monitorin",
+    "title": "Ziply Fiber lights up 'Northern Link Route'",
+    "summary": "Ziply Fiber has lit up a 400-Gig 'Northern Link Route' that provides a low-latency link between the Pacific Northwest and Chicago that can be used by hyperscalers and data center operators. #pressrele",
     "sources": [
       {
         "type": "news",
-        "title": "Why Hardware Monitoring Needs Infrastructure, Not Just Sensors",
-        "url": "https://semiengineering.com/why-hardware-monitoring-needs-infrastructure-not-just-sensors/",
-        "fetchedAt": "2026-04-14T23:00:02.371718Z",
-        "excerpt": "<p>Embedded intelligence enables a system to respond to critical events before they cause failures in runtime applications. </p>\n<p>The post <a href=\"https://semiengineering.com/why-hardware-monitoring-needs-infrastructure-not-just-sensors/\">Why Hardware Monitoring Needs Infrastructure, Not Just Sensors</a> appeared first on <a href=\"https://semiengineering.com\">Semiconductor Engineering</a>.</p>\n"
+        "title": "Ziply Fiber lights up 'Northern Link Route'",
+        "url": "https://www.lightreading.com/broadband/ziply-fiber-lights-up-northern-link-route-",
+        "fetchedAt": "2026-04-15T09:12:17.225156Z",
+        "excerpt": "Ziply Fiber has lit up a 400-Gig 'Northern Link Route' that provides a low-latency link between the Pacific Northwest and Chicago that can be used by hyperscalers and data center operators. #pressrelease"
       }
     ]
   },
   {
-    "id": "rss-51093",
+    "id": "rss-48697",
     "date": "Mon, 13 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "GPU Rowhammer Attacks Beyond Data Corruption (U. of Toronto)",
-    "summary": "<p>A new technical paper, &#8220;GPUBreach: Privilege Escalation Attacks via GPU Rowhammer,&#8221; was published by researchers at University of Toronto. Summary &#8220;GPUBreach shows that GPU Rowham",
+    "title": "Synamedia platform aids satellite-to-IP transitions",
+    "summary": "Synamedia has updated the Quortex PowerVu, a standards-based platform designed to help broadcasters make their satellite-to-IP transitions. #pressrelease",
     "sources": [
       {
         "type": "news",
-        "title": "GPU Rowhammer Attacks Beyond Data Corruption (U. of Toronto)",
-        "url": "https://semiengineering.com/gpu-rowhammer-attacks-beyond-data-corruption-u-of-toronto/",
-        "fetchedAt": "2026-04-14T23:00:02.371724Z",
-        "excerpt": "<p>A new technical paper, &#8220;GPUBreach: Privilege Escalation Attacks via GPU Rowhammer,&#8221; was published by researchers at University of Toronto. Summary &#8220;GPUBreach shows that GPU Rowhammer attacks can move beyond data corruption to real privilege escalation. By corrupting GPU page tables, an unprivileged CUDA kernel can gain arbitrary GPU memory read/write, and then chain that capability... <a class=\"read_more\" href=\"https://semiengineering.com/gpu-rowhammer-attacks-beyond-data-co"
+        "title": "Synamedia platform aids satellite-to-IP transitions",
+        "url": "https://www.lightreading.com/video-broadcast/synamedia-platform-aids-satellite-to-ip-transitions",
+        "fetchedAt": "2026-04-15T09:12:17.225160Z",
+        "excerpt": "Synamedia has updated the Quortex PowerVu, a standards-based platform designed to help broadcasters make their satellite-to-IP transitions. #pressrelease"
       }
     ]
   },
   {
-    "id": "rss-36455",
-    "date": "Sun, 12 Ap",
+    "id": "rss-82498",
+    "date": "Mon, 13 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "Silent Data Corruption:  A Major Reliability Challenge in Large-Scale LLM Training (TU Berlin)",
-    "summary": "<p>A new technical paper, &#8220;Exploring Silent Data Corruption as a Reliability Challenge in LLM Training,&#8221; was published by researchers at Technische Universitat Berlin. Abstract &#8220;As L",
+    "title": "Branded calling for businesses gets a Boost in US",
+    "summary": "Boost Mobile supports branded calls for enterprises using First Orion's technology as call authentication services pick up in Europe too.",
     "sources": [
       {
         "type": "news",
-        "title": "Silent Data Corruption:  A Major Reliability Challenge in Large-Scale LLM Training (TU Berlin)",
-        "url": "https://semiengineering.com/silent-data-corruption-a-major-reliability-challenge-in-large-scale-llm-training-tu-berlin/",
-        "fetchedAt": "2026-04-14T23:00:02.371727Z",
-        "excerpt": "<p>A new technical paper, &#8220;Exploring Silent Data Corruption as a Reliability Challenge in LLM Training,&#8221; was published by researchers at Technische Universitat Berlin. Abstract &#8220;As Large Language Models (LLMs) scale in size and complexity, the consequences of failures during training become increasingly severe. A major challenge arises from Silent Data Corruption (SDC): hardware-induced faults that... <a class=\"read_more\" href=\"https://semiengineering.com/silent-data-corruption"
+        "title": "Branded calling for businesses gets a Boost in US",
+        "url": "https://www.lightreading.com/customer-experience/branded-calling-for-businesses-gets-a-boost-in-us",
+        "fetchedAt": "2026-04-15T09:12:17.225162Z",
+        "excerpt": "Boost Mobile supports branded calls for enterprises using First Orion's technology as call authentication services pick up in Europe too."
       }
     ]
   },
   {
-    "id": "rss-53622",
-    "date": "Sun, 12 Ap",
+    "id": "rss-17890",
+    "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": "An Engineering Roadmap Toward Completely Neural Computers (Meta AI, KAUST)",
-    "summary": "<p>A new technical paper, &#8220;Neural Computers,&#8221; was published by researchers at Meta AI and KAUST. Abstract &#8220;We propose a new frontier: Neural Computers (NCs) &#8212; an emerging machi",
+    "title": "Agentic workflows opening the door to an ‘experience of one’",
+    "summary": "<a href=\"https://totaltele.com/agentic-workflows-opening-the-door-to-an-experience-of-one/\" title=\"Agentic workflows opening the door to an ‘experience of one’\" rel=\"nofollow\"><img width=\"768\" height=",
     "sources": [
       {
         "type": "news",
-        "title": "An Engineering Roadmap Toward Completely Neural Computers (Meta AI, KAUST)",
-        "url": "https://semiengineering.com/an-engineering-roadmap-toward-completely-neural-computers-meta-ai-kaust/",
-        "fetchedAt": "2026-04-14T23:00:02.371729Z",
-        "excerpt": "<p>A new technical paper, &#8220;Neural Computers,&#8221; was published by researchers at Meta AI and KAUST. Abstract &#8220;We propose a new frontier: Neural Computers (NCs) &#8212; an emerging machine form that unifies computation, memory, and I/O in a learned runtime state. Unlike conventional computers, which execute explicit programs, agents, which act over external execution environments, and... <a class=\"read_more\" href=\"https://semiengineering.com/an-engineering-roadmap-toward-completely"
+        "title": "Agentic workflows opening the door to an ‘experience of one’",
+        "url": "https://totaltele.com/agentic-workflows-opening-the-door-to-an-experience-of-one/",
+        "fetchedAt": "2026-04-15T09:12:17.471593Z",
+        "excerpt": "<a href=\"https://totaltele.com/agentic-workflows-opening-the-door-to-an-experience-of-one/\" title=\"Agentic workflows opening the door to an ‘experience of one’\" rel=\"nofollow\"><img width=\"768\" height=\"432\" src=\"https://totaltele.com/wp-content/uploads/2026/04/CAL-8174-GRA-Graphic-for-a-Total-Telecom-Article-768x432.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin: auto; margin-bottom: 5px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" fetchpriority=\"h"
       }
     ]
   },
   {
-    "id": "rss-26724",
-    "date": "Fri, 10 Ap",
+    "id": "rss-25612",
+    "date": "Tue, 14 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " After jumping 2,200% over the last twelve months, DDR4 spot prices fall 5%, the first decline in nearly a year — DDR5 pricing sees some relief in China channel market ",
-    "summary": "\n                             DDR4 16Gb spot prices fell about 5% over the past month to roughly $74.10, ending nearly a year of consecutive monthly gains. \n                                           ",
+    "title": "How telecom’s most boring data is becoming its most valuable asset",
+    "summary": "<a href=\"https://totaltele.com/how-telecoms-most-boring-data-is-becoming-its-most-valuable-asset/\" title=\"How telecom’s most boring data is becoming its most valuable asset\" rel=\"nofollow\"><img width=",
     "sources": [
       {
         "type": "news",
-        "title": " After jumping 2,200% over the last twelve months, DDR4 spot prices fall 5%, the first decline in nearly a year — DDR5 pricing sees some relief in China channel market ",
-        "url": "https://www.tomshardware.com/tech-industry/ddr4-spot-prices-fall-for-first-time-in-nearly-a-year-as-chinese-channel-inventory-clears",
-        "fetchedAt": "2026-04-14T23:00:04.629242Z",
-        "excerpt": "\n                             DDR4 16Gb spot prices fell about 5% over the past month to roughly $74.10, ending nearly a year of consecutive monthly gains. \n                                                                                                            "
+        "title": "How telecom’s most boring data is becoming its most valuable asset",
+        "url": "https://totaltele.com/how-telecoms-most-boring-data-is-becoming-its-most-valuable-asset/",
+        "fetchedAt": "2026-04-15T09:12:17.471601Z",
+        "excerpt": "<a href=\"https://totaltele.com/how-telecoms-most-boring-data-is-becoming-its-most-valuable-asset/\" title=\"How telecom’s most boring data is becoming its most valuable asset\" rel=\"nofollow\"><img width=\"768\" height=\"422\" src=\"https://totaltele.com/wp-content/uploads/2026/04/AdobeStock_263924573-768x422.jpeg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin: auto; margin-bottom: 5px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" loading=\"lazy\" srcset=\"https:/"
       }
     ]
   },
   {
-    "id": "rss-42025",
-    "date": "Fri, 03 Ap",
+    "id": "rss-17193",
+    "date": "Mon, 13 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Memory will consume 30% of hyperscaler AI data center spending this year, a 4X increase over 2023 — Nvidia gets preferential supply terms well below standard market rates, says analyst firm ",
-    "summary": "\n                             SemiAnalysis estimates on Thursday that memory will account for roughly 30% of total hyperscaler capex in calendar year 2026. \n                                           ",
+    "title": "African Development Bank approves $200m loan for Nigeria’s fibre Project BRIDGE",
+    "summary": "<a href=\"https://totaltele.com/african-development-bank-approves-200-loan-for-nigerias-fibre-project-bridge/\" title=\"African Development Bank approves $200m loan for Nigeria&#8217;s fibre Project BRID",
     "sources": [
       {
         "type": "news",
-        "title": " Memory will consume 30% of hyperscaler AI data center spending this year, a 4X increase over 2023 — Nvidia gets preferential supply terms well below standard market rates, says analyst firm ",
-        "url": "https://www.tomshardware.com/tech-industry/memory-will-consume-30-percent-of-hyperscaler-spending-this-year",
-        "fetchedAt": "2026-04-14T23:00:04.629248Z",
-        "excerpt": "\n                             SemiAnalysis estimates on Thursday that memory will account for roughly 30% of total hyperscaler capex in calendar year 2026. \n                                                                                                            "
+        "title": "African Development Bank approves $200m loan for Nigeria’s fibre Project BRIDGE",
+        "url": "https://totaltele.com/african-development-bank-approves-200-loan-for-nigerias-fibre-project-bridge/",
+        "fetchedAt": "2026-04-15T09:12:17.471605Z",
+        "excerpt": "<a href=\"https://totaltele.com/african-development-bank-approves-200-loan-for-nigerias-fibre-project-bridge/\" title=\"African Development Bank approves $200m loan for Nigeria&#8217;s fibre Project BRIDGE\" rel=\"nofollow\"><img width=\"768\" height=\"538\" src=\"https://totaltele.com/wp-content/uploads/2026/04/paov9-7vbmi-1-768x538.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"red and yellow light on dark room\" style=\"display: block; margin: auto; margin-bottom: 5px;max-width: 100%;\" link_thumbn"
       }
     ]
   },
   {
-    "id": "rss-51370",
-    "date": "Sun, 22 Ma",
+    "id": "rss-69394",
+    "date": "Thu, 09 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Micron predicts that cars will need 300GB of RAM — memory-laden vehicles could exacerbate shortages but create 'robust long-term growth in automotive memory demand' ",
-    "summary": "\n                             Micron CEO Sanjay Mehrotra predicts that self-driving vehicles would require at least 300GB of RAM, meaning increasing demand could drive another memory chip shortage as ",
+    "title": "UK drives off Russian submarines lurking near subsea cables",
+    "summary": "<a href=\"https://totaltele.com/uk-drives-off-russian-submarines-lurking-near-subsea-cables/\" title=\"UK drives off Russian submarines lurking near subsea cables\" rel=\"nofollow\"><img width=\"768\" height=",
     "sources": [
       {
         "type": "news",
-        "title": " Micron predicts that cars will need 300GB of RAM — memory-laden vehicles could exacerbate shortages but create 'robust long-term growth in automotive memory demand' ",
-        "url": "https://www.tomshardware.com/pc-components/dram/micron-predicts-that-cars-will-need-300gb-of-ram-memory-laden-vehicles-could-exacerbate-shortages-but-create-robust-long-term-growth-in-automotive-memory-demand",
-        "fetchedAt": "2026-04-14T23:00:04.629251Z",
-        "excerpt": "\n                             Micron CEO Sanjay Mehrotra predicts that self-driving vehicles would require at least 300GB of RAM, meaning increasing demand could drive another memory chip shortage as these cars are essentially AI supercomputers on wheels. \n                                                                                                            "
+        "title": "UK drives off Russian submarines lurking near subsea cables",
+        "url": "https://totaltele.com/uk-drives-off-russian-submarines-lurking-near-subsea-cables/",
+        "fetchedAt": "2026-04-15T09:12:17.471608Z",
+        "excerpt": "<a href=\"https://totaltele.com/uk-drives-off-russian-submarines-lurking-near-subsea-cables/\" title=\"UK drives off Russian submarines lurking near subsea cables\" rel=\"nofollow\"><img width=\"768\" height=\"512\" src=\"https://totaltele.com/wp-content/uploads/2026/04/quru8iy-rai-768x512.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"photography of blue water\" style=\"display: block; margin: auto; margin-bottom: 5px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" loading=\"lazy\" srcset=\"https"
       }
     ]
   },
   {
-    "id": "rss-59609",
-    "date": "Sun, 22 Ma",
+    "id": "rss-38852",
+    "date": "Thu, 09 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Corsair’s limited-time memory sale brings 25% savings, but persistent DDR5 price hikes paint a grim outlook for buyers ",
-    "summary": "\n                             While Corsair’s DDR5 deal offers notable discounts, rising DRAM prices mean buyers still pay significantly more than before. \n                                            ",
+    "title": "Preseem Launches Its First Proactive ISP Virtual Summit",
+    "summary": "<a href=\"https://totaltele.com/preseem-launches-its-first-proactive-isp-virtual-summit/\" title=\"Preseem Launches Its First Proactive ISP Virtual Summit\" rel=\"nofollow\"><img width=\"768\" height=\"192\" sr",
     "sources": [
       {
         "type": "news",
-        "title": " Corsair’s limited-time memory sale brings 25% savings, but persistent DDR5 price hikes paint a grim outlook for buyers ",
-        "url": "https://www.tomshardware.com/pc-components/ram/corsairs-limited-time-memory-sale-brings-25-percent-savings-but-persistent-ddr5-price-hikes-paint-a-grim-outlook-for-buyers",
-        "fetchedAt": "2026-04-14T23:00:04.629253Z",
-        "excerpt": "\n                             While Corsair’s DDR5 deal offers notable discounts, rising DRAM prices mean buyers still pay significantly more than before. \n                                                                                                            "
+        "title": "Preseem Launches Its First Proactive ISP Virtual Summit",
+        "url": "https://totaltele.com/preseem-launches-its-first-proactive-isp-virtual-summit/",
+        "fetchedAt": "2026-04-15T09:12:17.471610Z",
+        "excerpt": "<a href=\"https://totaltele.com/preseem-launches-its-first-proactive-isp-virtual-summit/\" title=\"Preseem Launches Its First Proactive ISP Virtual Summit\" rel=\"nofollow\"><img width=\"768\" height=\"192\" src=\"https://totaltele.com/wp-content/uploads/2026/04/Preseem-Logo-1200-x-300-768x192.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin: auto; margin-bottom: 5px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" loading=\"lazy\" srcset=\"https://totaltele.com/wp-c"
       }
     ]
   },
   {
-    "id": "rss-93939",
-    "date": "Wed, 18 Ma",
+    "id": "rss-19305",
+    "date": "Thu, 09 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " SK Group chairman says memory chip shortage will last until 2030 — wafer supply trails demand by 20% ",
-    "summary": "\n                             SK Group chairman Chey Tae-won told reporters at Nvidia's GTC conference in San Jose on Monday that the global memory chip shortage is likely to persist for another four ",
+    "title": "FCC actions will streamline retirement of US copper networks",
+    "summary": "<a href=\"https://totaltele.com/fcc-actions-will-streamline-retirement-of-us-copper-networks/\" title=\"FCC actions will streamline retirement of US copper networks\" rel=\"nofollow\"><img width=\"768\" heigh",
     "sources": [
       {
         "type": "news",
-        "title": " SK Group chairman says memory chip shortage will last until 2030 — wafer supply trails demand by 20% ",
-        "url": "https://www.tomshardware.com/pc-components/dram/sk-group-chairman-says-memory-chip-shortage-will-last-until-2030",
-        "fetchedAt": "2026-04-14T23:00:04.629255Z",
-        "excerpt": "\n                             SK Group chairman Chey Tae-won told reporters at Nvidia's GTC conference in San Jose on Monday that the global memory chip shortage is likely to persist for another four to five years. \n                                                                                                            "
+        "title": "FCC actions will streamline retirement of US copper networks",
+        "url": "https://totaltele.com/fcc-actions-will-streamline-retirement-of-us-copper-networks/",
+        "fetchedAt": "2026-04-15T09:12:17.471613Z",
+        "excerpt": "<a href=\"https://totaltele.com/fcc-actions-will-streamline-retirement-of-us-copper-networks/\" title=\"FCC actions will streamline retirement of US copper networks\" rel=\"nofollow\"><img width=\"768\" height=\"512\" src=\"https://totaltele.com/wp-content/uploads/2026/04/aoak4mr2cuu-768x512.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"a blurry image of lines in brown and white\" style=\"display: block; margin: auto; margin-bottom: 5px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" loading=\""
       }
     ]
   },
   {
-    "id": "rss-31740",
-    "date": "Wed, 11 Ma",
+    "id": "rss-98881",
+    "date": "Wed, 08 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Seagate CCO says storage price hikes are ‘the new normal’ — demand enters an unprecedented ‘supercycle’ driven by AI growth  ",
-    "summary": "\n                             Seagate CCO Ban-Seng Teh said this week that memory price hikes are \"the new normal\" for the storage industry, describing current market conditions as a supercycle driven",
+    "title": "ePLDT Group Powers Enterprise Transformation, Customer-Centric Innovation with CSG",
+    "summary": "<a href=\"https://totaltele.com/epldt-group-powers-enterprise-transformation-customer-centric-innovation-with-csg/\" title=\"ePLDT Group Powers Enterprise Transformation, Customer-Centric Innovation with",
     "sources": [
       {
         "type": "news",
-        "title": " Seagate CCO says storage price hikes are ‘the new normal’ — demand enters an unprecedented ‘supercycle’ driven by AI growth  ",
-        "url": "https://www.tomshardware.com/tech-industry/seagate-cco-says-memory-price-hikes-are-the-new-normal",
-        "fetchedAt": "2026-04-14T23:00:04.629256Z",
-        "excerpt": "\n                             Seagate CCO Ban-Seng Teh said this week that memory price hikes are \"the new normal\" for the storage industry, describing current market conditions as a supercycle driven by AI data center demand that shows no sign of following historical patterns of recovery. \n                                                                                                            "
+        "title": "ePLDT Group Powers Enterprise Transformation, Customer-Centric Innovation with CSG",
+        "url": "https://totaltele.com/epldt-group-powers-enterprise-transformation-customer-centric-innovation-with-csg/",
+        "fetchedAt": "2026-04-15T09:12:17.471616Z",
+        "excerpt": "<a href=\"https://totaltele.com/epldt-group-powers-enterprise-transformation-customer-centric-innovation-with-csg/\" title=\"ePLDT Group Powers Enterprise Transformation, Customer-Centric Innovation with CSG\" rel=\"nofollow\"><img width=\"768\" height=\"432\" src=\"https://totaltele.com/wp-content/uploads/2026/04/CSG_Logo-768x432.png\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin: auto; margin-bottom: 5px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" loading=\"la"
       }
     ]
   },
   {
-    "id": "rss-6421",
-    "date": "Sun, 08 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Memory bit flips cause up to 15% of Firefox crashes, asserts Mozilla engineer — figure inferred from 470,000 auto-submitted crash reports ",
-    "summary": "\n                             A Mozilla engineer has shared survey data and calculations suggesting that up to 15% of Firefox crashes are due to a bit flip. \n                                          ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Memory bit flips cause up to 15% of Firefox crashes, asserts Mozilla engineer — figure inferred from 470,000 auto-submitted crash reports ",
-        "url": "https://www.tomshardware.com/pc-components/ram/bit-flips-cause-up-to-15-percent-of-firefox-crashes-asserts-mozilla-engineer-figure-inferred-from-470-000-auto-submitted-crash-reports",
-        "fetchedAt": "2026-04-14T23:00:04.629258Z",
-        "excerpt": "\n                             A Mozilla engineer has shared survey data and calculations suggesting that up to 15% of Firefox crashes are due to a bit flip. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-82116",
-    "date": "Fri, 06 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Apple pulls $4,000 512GB Mac Studio upgrade option as AI RAM squeeze continues, raises 256GB upgrade price — M3 256GB upgrade now costs $2,000 ",
-    "summary": "\n                             The 512GB option, which was exclusive to the M3 Ultra chip and previously cost $4,000, no longer appears on Apple's configuration page. \n                                 ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Apple pulls $4,000 512GB Mac Studio upgrade option as AI RAM squeeze continues, raises 256GB upgrade price — M3 256GB upgrade now costs $2,000 ",
-        "url": "https://www.tomshardware.com/tech-industry/apple-pulls-512-mac-studio-upgrade-option",
-        "fetchedAt": "2026-04-14T23:00:04.629260Z",
-        "excerpt": "\n                             The 512GB option, which was exclusive to the M3 Ultra chip and previously cost $4,000, no longer appears on Apple's configuration page. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-33471",
-    "date": "Thu, 05 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Spiralling memory spot prices could trigger 'industry cycle collapse,' report warns — NAND wafer costs surge 25% in a single month ",
-    "summary": "\n                             DDR5 16G (2Gx8) chips averaged $39, up 7.4% month-over-month, while 1Tb TLC flash wafers jumped 25% to $25. \n                                                             ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Spiralling memory spot prices could trigger 'industry cycle collapse,' report warns — NAND wafer costs surge 25% in a single month ",
-        "url": "https://www.tomshardware.com/tech-industry/memory-spot-prices-climbed-again-in-february-nand-wafer-costs-surge-25-percent",
-        "fetchedAt": "2026-04-14T23:00:04.629261Z",
-        "excerpt": "\n                             DDR5 16G (2Gx8) chips averaged $39, up 7.4% month-over-month, while 1Tb TLC flash wafers jumped 25% to $25. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-76651",
-    "date": "Tue, 03 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " AI memory crunch forces DRAM market into 'hourly pricing' model, report claims — small and medium-sized businesses fighting for survival ",
-    "summary": "\n                             According to DigiTimes, these companies began struggling to absorb soaring memory costs in the second half of 2025. \n                                                     ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " AI memory crunch forces DRAM market into 'hourly pricing' model, report claims — small and medium-sized businesses fighting for survival ",
-        "url": "https://www.tomshardware.com/pc-components/ram/memory-prices-now-shifting-hourly-as-smaller-firms-fight-over-scraps",
-        "fetchedAt": "2026-04-14T23:00:04.629263Z",
-        "excerpt": "\n                             According to DigiTimes, these companies began struggling to absorb soaring memory costs in the second half of 2025. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-85053",
-    "date": "Tue, 03 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " 2026 will bring sharpest PC declines in over a decade — PC shipments to fall 10.4% ",
-    "summary": "\n                             The forecast puts 2026 on track for the steepest device shipment contraction in over a decade, according to Ranjit Atwal, senior director analyst at Gartner. \n           ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " 2026 will bring sharpest PC declines in over a decade — PC shipments to fall 10.4% ",
-        "url": "https://www.tomshardware.com/tech-industry/2026-will-bring-sharpest-pc-declines-in-over-a-decade",
-        "fetchedAt": "2026-04-14T23:00:04.629265Z",
-        "excerpt": "\n                             The forecast puts 2026 on track for the steepest device shipment contraction in over a decade, according to Ranjit Atwal, senior director analyst at Gartner. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-64885",
-    "date": "Mon, 02 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Entry-level PC market to ‘disappear’ by 2028 — rising memory prices pile more strain on consumer PC market ",
-    "summary": "\n                             A 130% surge in combined DRAM and SSD prices by the end of 2026 will push PC prices up 17% compared to 2025 levels and wipe out the sub-$500 PC market. \n                 ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Entry-level PC market to ‘disappear’ by 2028 — rising memory prices pile more strain on consumer PC market ",
-        "url": "https://www.tomshardware.com/tech-industry/rising-memory-prices-pile-more-strain-on-consumer-pc-market",
-        "fetchedAt": "2026-04-14T23:00:04.629266Z",
-        "excerpt": "\n                             A 130% surge in combined DRAM and SSD prices by the end of 2026 will push PC prices up 17% compared to 2025 levels and wipe out the sub-$500 PC market. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-99056",
-    "date": "Sun, 22 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " 55 years ago, the first computer search warrant was issued — in February 1971, a Santa Clara judge authorized police to seize punch cards and a 'computer memory bank' ",
-    "summary": "\n                             In February 1971, an order authorized Oakland Police to enter offices in Palo Alto and homes in Menlo Park to look not just for papers but also for data stored on machine",
-    "sources": [
-      {
-        "type": "news",
-        "title": " 55 years ago, the first computer search warrant was issued — in February 1971, a Santa Clara judge authorized police to seize punch cards and a 'computer memory bank' ",
-        "url": "https://www.tomshardware.com/tech-industry/55-years-ago-today-the-first-computer-search-warrant-was-issued",
-        "fetchedAt": "2026-04-14T23:00:04.629268Z",
-        "excerpt": "\n                             In February 1971, an order authorized Oakland Police to enter offices in Palo Alto and homes in Menlo Park to look not just for papers but also for data stored on machines. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-4156",
-    "date": "Mon, 16 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Turkish wedding party receives Nvidia RTX 5090, RAM necklaces, and Intel CPU for elaborate wedding gifts — A Turkish tech delight for the age of PC shortages  ",
-    "summary": "\n                             A video from a Turkish wedding reveals a delighted bride and groom being showered with opulent PC tech gifts. \n                                                           ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Turkish wedding party receives Nvidia RTX 5090, RAM necklaces, and Intel CPU for elaborate wedding gifts — A Turkish tech delight for the age of PC shortages  ",
-        "url": "https://www.tomshardware.com/pc-components/ddr5/turkish-wedding-party-receive-rtx-5090-ram-and-intel-cpu-wedding-gifts-a-turkish-tech-delight-for-the-ai-age",
-        "fetchedAt": "2026-04-14T23:00:04.629269Z",
-        "excerpt": "\n                             A video from a Turkish wedding reveals a delighted bride and groom being showered with opulent PC tech gifts. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-34151",
-    "date": "Sun, 15 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " OpenClaw-fueled ordering frenzy creates Apple Mac shortage — delivery for high Unified Memory units now ranges from 6 days to 6 weeks ",
-    "summary": "\n                             The Unified Memory architecture used by Apple Macs and MacBooks make it the ideal device for locally run agentic AI, driving demand for high-memory models and increasing ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " OpenClaw-fueled ordering frenzy creates Apple Mac shortage — delivery for high Unified Memory units now ranges from 6 days to 6 weeks ",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openclaw-fueled-ordering-frenzy-creates-apple-mac-shortage-delivery-for-high-unified-memory-units-now-ranges-from-6-days-to-6-weeks",
-        "fetchedAt": "2026-04-14T23:00:04.629271Z",
-        "excerpt": "\n                             The Unified Memory architecture used by Apple Macs and MacBooks make it the ideal device for locally run agentic AI, driving demand for high-memory models and increasing order lead times to more than a month. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-68075",
-    "date": "Sat, 14 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " 7x increase in memory costs fueling price increases in ISP-provided routers, gateways, and set-top boxes — home fiber rollouts may slow, and installations could become more expensive ",
-    "summary": "\n                             7x DRAM price jump affecting ISP routers, gateways, and STBs \n                                                                                                            ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " 7x increase in memory costs fueling price increases in ISP-provided routers, gateways, and set-top boxes — home fiber rollouts may slow, and installations could become more expensive ",
-        "url": "https://www.tomshardware.com/networking/routers/isp-provided-routers-gateways-and-set-top-boxes-face-price-increases-due-to-7x-uplift-in-memory-costs-home-fiber-rollouts-may-slow-and-installations-could-become-more-expensive",
-        "fetchedAt": "2026-04-14T23:00:04.629272Z",
-        "excerpt": "\n                             7x DRAM price jump affecting ISP routers, gateways, and STBs \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-51324",
-    "date": "Fri, 13 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Framework's latest update brings more bad news about memory and storage pricing crisis — RAM costs increased to $12 to $16 per GB, recommends purchasing some models elsewhere for Framework Laptop DIY Edition customers ",
-    "summary": "\n                             Framework said that it's releasing a monthly update to monitor the memory chip situation and also announced that it will try to keep its RAM pricing as close as possible ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Framework's latest update brings more bad news about memory and storage pricing crisis — RAM costs increased to $12 to $16 per GB, recommends purchasing some models elsewhere for Framework Laptop DIY Edition customers ",
-        "url": "https://www.tomshardware.com/laptops/framework-releases-monthly-update-about-memory-and-storage-pricing-woes-ram-costs-increased-to-usd12-to-usd16-per-gb-recommends-purchasing-some-models-elsewhere-for-framework-laptop-diy-edition-customers",
-        "fetchedAt": "2026-04-14T23:00:04.629274Z",
-        "excerpt": "\n                             Framework said that it's releasing a monthly update to monitor the memory chip situation and also announced that it will try to keep its RAM pricing as close as possible to the weighted average of its costs. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-34798",
-    "date": "Wed, 11 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Samsung and SK hynix shorten memory contracts as pricing power shifts back to suppliers — both companies now at 40-50% operating margins  ",
-    "summary": "\n                             Samsung and SK hynix have begun moving away from long-term, fixed-price supply contracts, replacing them with shorter agreements and post-settlement pricing mechanisms. \n",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Samsung and SK hynix shorten memory contracts as pricing power shifts back to suppliers — both companies now at 40-50% operating margins  ",
-        "url": "https://www.tomshardware.com/tech-industry/samsung-and-sk-hynix-shorten-memory-contracts-as-pricing-power-shifts-back-to-suppliers",
-        "fetchedAt": "2026-04-14T23:00:04.629275Z",
-        "excerpt": "\n                             Samsung and SK hynix have begun moving away from long-term, fixed-price supply contracts, replacing them with shorter agreements and post-settlement pricing mechanisms. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-60997",
-    "date": "Thu, 05 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Leading PC manufacturers considering using Chinese memory chips, report claims — HP and Dell qualifying CXMT DRAM, Acer and Asus asking Chinese partners to source locally-made memory chips ",
-    "summary": "\n                             HP and Dell are reportedly qualifying CXMT memory chips for their products, while Asus and Acer are asking their partners to source locally-made memory modules. The ongoi",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Leading PC manufacturers considering using Chinese memory chips, report claims — HP and Dell qualifying CXMT DRAM, Acer and Asus asking Chinese partners to source locally-made memory chips ",
-        "url": "https://www.tomshardware.com/pc-components/dram/leading-pc-manufacturers-considering-using-chinese-memory-chips-report-claims-hp-and-dell-qualifying-cxmt-dram-acer-and-asus-asking-chinese-partners-to-source-locally-made-memory-chips",
-        "fetchedAt": "2026-04-14T23:00:04.629277Z",
-        "excerpt": "\n                             HP and Dell are reportedly qualifying CXMT memory chips for their products, while Asus and Acer are asking their partners to source locally-made memory modules. The ongoing memory chip shortage is forcing even big companies to look for alternative sources to Micron, Samsung, and SK hynix. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-42771",
-    "date": "Mon, 02 Fe",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " AI infrastructure surge begins squeezing Apple’s component costs — company considering supplier other than TSMC for lower-end chips, report claims ",
-    "summary": "\n                             Apple is beginning to feel the downstream effects of the AI infrastructure boom, as surging demand for data center hardware pushes up component costs and weakens its leve",
-    "sources": [
-      {
-        "type": "news",
-        "title": " AI infrastructure surge begins squeezing Apple’s component costs — company considering supplier other than TSMC for lower-end chips, report claims ",
-        "url": "https://www.tomshardware.com/tech-industry/ai-infrastructure-surge-begins-squeezing-apples-component-costs",
-        "fetchedAt": "2026-04-14T23:00:04.629279Z",
-        "excerpt": "\n                             Apple is beginning to feel the downstream effects of the AI infrastructure boom, as surging demand for data center hardware pushes up component costs and weakens its leverage. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-82573",
-    "date": "Sun, 12 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " $27 platypus PCIe adapter converts half-height GPUs into full-height while adding two M.2 slots for SSDs — enthusiast demos low-profile RTX 4060 with two SSDs thanks to PCIe bifurcation ",
-    "summary": "\n                             A Redditor got his hands on this PCIe adapter that does the job of two different ones at the same time. It converts half-height GPUs into full height while adding M.2 slo",
-    "sources": [
-      {
-        "type": "news",
-        "title": " $27 platypus PCIe adapter converts half-height GPUs into full-height while adding two M.2 slots for SSDs — enthusiast demos low-profile RTX 4060 with two SSDs thanks to PCIe bifurcation ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/usd27-platypus-pcie-adapter-converts-half-height-gpus-into-full-height-while-adding-two-m-2-slots-for-ssds-enthusiast-demos-low-profile-rtx-4060-with-two-ssds-thanks-to-pcie-bifurcation",
-        "fetchedAt": "2026-04-14T23:00:04.700595Z",
-        "excerpt": "\n                             A Redditor got his hands on this PCIe adapter that does the job of two different ones at the same time. It converts half-height GPUs into full height while adding M.2 slots for storage expansion. All this is possible thanks to PCIe bifurcation, splitting an x16 slot into x8 for the GPU, and two x4 lanes for the SSDs. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-22596",
-    "date": "Sat, 11 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Two manufacturers commit to keep Blu-ray alive after others quit manufacturing — Verbatim and I-O Data extend Blu-ray supply pledge as manufacturers exit the market ",
-    "summary": "\n                             Verbatim Japan and I-O Data have widened their joint commitment to keep recordable Blu-ray products on shelves in Japan, this time covering drive hardware as well as medi",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Two manufacturers commit to keep Blu-ray alive after others quit manufacturing — Verbatim and I-O Data extend Blu-ray supply pledge as manufacturers exit the market ",
-        "url": "https://www.tomshardware.com/tech-industry/verbatim-and-i-o-data-extend-blu-ray-supply-pledge-as-manufacturers-exit-the-market",
-        "fetchedAt": "2026-04-14T23:00:04.700603Z",
-        "excerpt": "\n                             Verbatim Japan and I-O Data have widened their joint commitment to keep recordable Blu-ray products on shelves in Japan, this time covering drive hardware as well as media. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-23594",
-    "date": "Fri, 10 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Vdura hikes its enterprise SSD pricing, now costs 22.6x more than hard drives — the price of a 30TB SSD has climbed 472% ",
-    "summary": "\n                             Vdura has materially revised the enterprise SSD pricing figures in its Flash Volatility Index, telling customers in an April 8 update that the cost of a 30TB TLC enterpri",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Vdura hikes its enterprise SSD pricing, now costs 22.6x more than hard drives — the price of a 30TB SSD has climbed 472% ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/vdura-sharply-revises-its-enterprise-ssd-pricing-figures",
-        "fetchedAt": "2026-04-14T23:00:04.700607Z",
-        "excerpt": "\n                             Vdura has materially revised the enterprise SSD pricing figures in its Flash Volatility Index, telling customers in an April 8 update that the cost of a 30TB TLC enterprise drive climbed 472%. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-47584",
-    "date": "Fri, 10 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " 30 years of Lexar: What a look inside its R&D labs and factory reveals about its plans for an AI-ready future ",
-    "summary": "\n                             Lexar toured us around its R&D labs and production facilities to see how it's building storage solutions for today and tomorrow. \n                                        ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " 30 years of Lexar: What a look inside its R&D labs and factory reveals about its plans for an AI-ready future ",
-        "url": "https://www.tomshardware.com/pc-components/storage/30-years-of-lexar-what-a-look-inside-its-r-and-d-labs-and-factory-reveals-about-its-plans-for-an-ai-ready-future",
-        "fetchedAt": "2026-04-14T23:00:04.700615Z",
-        "excerpt": "\n                             Lexar toured us around its R&D labs and production facilities to see how it's building storage solutions for today and tomorrow. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-34673",
-    "date": "Fri, 10 Ap",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Engineer installs 3.5-inch floppy drive in a Tesla — modern EV recognizes and runs ancient storage device, even plays an MP3 file from diskette ",
-    "summary": "\n                             An engineer and software developer was able to make a 3.5-inch floppy drive work seamlessly with the Tesla with just a USB-to-FDD converter. \n                            ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Engineer installs 3.5-inch floppy drive in a Tesla — modern EV recognizes and runs ancient storage device, even plays an MP3 file from diskette ",
-        "url": "https://www.tomshardware.com/pc-components/storage/engineer-installs-3-5-inch-floppy-drive-in-a-tesla-modern-ev-recognizes-and-runs-ancient-storage-device-even-plays-an-mp3-file-from-diskette",
-        "fetchedAt": "2026-04-14T23:00:04.700619Z",
-        "excerpt": "\n                             An engineer and software developer was able to make a 3.5-inch floppy drive work seamlessly with the Tesla with just a USB-to-FDD converter. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-67450",
+    "id": "rss-59466",
     "date": "Tue, 07 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " 2TB SanDisk memory card card surfaces for eye-watering $2,000 — top-tier Extreme Pro UHS-II SD promises more than 300 MB/s sequential read and write performance ",
-    "summary": "\n                             The 2TB SanDisk Extreme Pro UHS-II SD card costs $2,000, bringing its price per GB to nearly $1, making it more than four times more expensive than much faster microSD Ex",
+    "title": "Telco retail: Going phygital at the dawn of AI commerce",
+    "summary": "<a href=\"https://totaltele.com/telco-retail-going-phygital-at-the-dawn-of-ai-commerce/\" title=\"Telco retail: Going phygital at the dawn of AI commerce\" rel=\"nofollow\"><img width=\"768\" height=\"384\" src",
     "sources": [
       {
         "type": "news",
-        "title": " 2TB SanDisk memory card card surfaces for eye-watering $2,000 — top-tier Extreme Pro UHS-II SD promises more than 300 MB/s sequential read and write performance ",
-        "url": "https://www.tomshardware.com/pc-components/storage/2tb-sandisk-memory-card-card-surfaces-for-eye-watering-usd2-000-top-tier-extreme-pro-uhs-ii-sd-promises-more-than-300-mb-s-sequential-read-and-write-performance",
-        "fetchedAt": "2026-04-14T23:00:04.700623Z",
-        "excerpt": "\n                             The 2TB SanDisk Extreme Pro UHS-II SD card costs $2,000, bringing its price per GB to nearly $1, making it more than four times more expensive than much faster microSD Express cards. \n                                                                                                            "
+        "title": "Telco retail: Going phygital at the dawn of AI commerce",
+        "url": "https://totaltele.com/telco-retail-going-phygital-at-the-dawn-of-ai-commerce/",
+        "fetchedAt": "2026-04-15T09:12:17.471618Z",
+        "excerpt": "<a href=\"https://totaltele.com/telco-retail-going-phygital-at-the-dawn-of-ai-commerce/\" title=\"Telco retail: Going phygital at the dawn of AI commerce\" rel=\"nofollow\"><img width=\"768\" height=\"384\" src=\"https://totaltele.com/wp-content/uploads/2026/04/Total-Telecom-2-768x384.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin: auto; margin-bottom: 5px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" loading=\"lazy\" srcset=\"https://totaltele.com/wp-content/up"
       }
     ]
   },
   {
-    "id": "rss-54303",
-    "date": "Mon, 06 Ap",
+    "id": "rss-31751",
+    "date": "Tue, 07 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " WD Innovation Day 2026 press Q&A transcript: roadmap plans to reach 60TB with ePMR and 100TB via HAMR by 2029 — 'at some point, the laws of physics will require us to transition to HAMR' ",
-    "summary": "\n                             WD's leadership, now fully split from Sandisk, talks about its expectations for the future with industry analysts. We cover the full transcript of the press-only session ",
+    "title": "FTI and e& Sign Cooperation Agreement to Explore Global Telecom and Digital Ecosystem Opportunities",
+    "summary": "<a href=\"https://totaltele.com/freedom-telecom-international-and-nokia-signs-strategic-cooperation-agreement-to-begin-joint-innovation-work-2/\" title=\"FTI and e&#038; Sign Cooperation Agreement to Exp",
     "sources": [
       {
         "type": "news",
-        "title": " WD Innovation Day 2026 press Q&A transcript: roadmap plans to reach 60TB with ePMR and 100TB via HAMR by 2029 — 'at some point, the laws of physics will require us to transition to HAMR' ",
-        "url": "https://www.tomshardware.com/pc-components/hdds/wd-innovation-day-2026-press-q-and-a-transcript-roadmap-plans-to-reach-60tb-with-epmr-and-100tb-via-hamr-by-2029-at-some-point-the-laws-of-physics-will-require-us-to-transition-to-hamr",
-        "fetchedAt": "2026-04-14T23:00:04.700626Z",
-        "excerpt": "\n                             WD's leadership, now fully split from Sandisk, talks about its expectations for the future with industry analysts. We cover the full transcript of the press-only session right here. \n                                                                                                            "
+        "title": "FTI and e& Sign Cooperation Agreement to Explore Global Telecom and Digital Ecosystem Opportunities",
+        "url": "https://totaltele.com/freedom-telecom-international-and-nokia-signs-strategic-cooperation-agreement-to-begin-joint-innovation-work-2/",
+        "fetchedAt": "2026-04-15T09:12:17.471621Z",
+        "excerpt": "<a href=\"https://totaltele.com/freedom-telecom-international-and-nokia-signs-strategic-cooperation-agreement-to-begin-joint-innovation-work-2/\" title=\"FTI and e&#038; Sign Cooperation Agreement to Explore Global Telecom and Digital Ecosystem Opportunities\" rel=\"nofollow\"><img width=\"768\" height=\"512\" src=\"https://totaltele.com/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-07-at-12.29.43-PM-768x512.jpeg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"\" style=\"display: block; margin: auto; "
       }
     ]
   },
   {
-    "id": "rss-96267",
-    "date": "Sat, 04 Ap",
+    "id": "rss-47532",
+    "date": "Tue, 07 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Sharge Disk Pro 2TB review: Great sustained writes, active cooling, and a built-in hub ",
-    "summary": "\n                             Sharge's Disk Pro pairs a snappy 10 Gbps SSD with a handy port hub and active cooling, all in a compact, eye-catching shell with a magnetic back. It's an impressive packa",
+    "title": "Tarana says Starlink’s BEAD antics “pulled the rug out” from NTIA",
+    "summary": "<a href=\"https://totaltele.com/tarana-says-starlinks-bead-antics-pulled-the-rug-out-from-ntia/\" title=\"Tarana says Starlink’s BEAD antics “pulled the rug out” from NTIA\" rel=\"nofollow\"><img width=\"768",
     "sources": [
       {
         "type": "news",
-        "title": " Sharge Disk Pro 2TB review: Great sustained writes, active cooling, and a built-in hub ",
-        "url": "https://www.tomshardware.com/pc-components/external-ssds/sharge-disk-pro-2tb-review",
-        "fetchedAt": "2026-04-14T23:00:04.700629Z",
-        "excerpt": "\n                             Sharge's Disk Pro pairs a snappy 10 Gbps SSD with a handy port hub and active cooling, all in a compact, eye-catching shell with a magnetic back. It's an impressive package for gamers and road warriors, but you'll pay a high price for all these features. \n                                                                                                            "
+        "title": "Tarana says Starlink’s BEAD antics “pulled the rug out” from NTIA",
+        "url": "https://totaltele.com/tarana-says-starlinks-bead-antics-pulled-the-rug-out-from-ntia/",
+        "fetchedAt": "2026-04-15T09:12:17.471623Z",
+        "excerpt": "<a href=\"https://totaltele.com/tarana-says-starlinks-bead-antics-pulled-the-rug-out-from-ntia/\" title=\"Tarana says Starlink’s BEAD antics “pulled the rug out” from NTIA\" rel=\"nofollow\"><img width=\"768\" height=\"512\" src=\"https://totaltele.com/wp-content/uploads/2026/04/p-kcm6xb9i-768x512.jpg\" class=\"webfeedsFeaturedVisual wp-post-image\" alt=\"ray of light near body of water\" style=\"display: block; margin: auto; margin-bottom: 5px;max-width: 100%;\" link_thumbnail=\"1\" decoding=\"async\" loading=\"lazy\""
       }
     ]
   },
   {
-    "id": "rss-50988",
+    "id": "rss-58402",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Network Bytes: Ziply, Enet, ADC, Oni-Tel",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/YV8letnKqF14r0Kw2l9LdOGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Network Bytes: Ziply, Enet, ADC, Oni-Tel\" title=\"Network Bytes: Ziply, En",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Network Bytes: Ziply, Enet, ADC, Oni-Tel",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaU9IZHshhpbOcv-4wGDP1Td",
+        "fetchedAt": "2026-04-15T09:12:19.038333Z",
+        "excerpt": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/YV8letnKqF14r0Kw2l9LdOGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Network Bytes: Ziply, Enet, ADC, Oni-Tel\" title=\"Network Bytes: Ziply, Enet, ADC, Oni-Tel\"> <p>Three network expansion projects on three continents to catch up with: &#8230; [<a href=\"https://www.telecomramblings.com/2026/04/network-bytes-ziply-enet-adc-oni-tel/\">visit site to read more</a>]"
+      }
+    ]
+  },
+  {
+    "id": "rss-92251",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Infrastructure Vulnerability May Be the Next Big Danger, Globally",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/nbohxrhPAdh2Ufqd1_cqxOGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Infrastructure Vulnerability May Be the Next Big Danger, Globally\" title=",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Infrastructure Vulnerability May Be the Next Big Danger, Globally",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaXwXhZNpGBdoJjaBQw8GWcA",
+        "fetchedAt": "2026-04-15T09:12:19.038344Z",
+        "excerpt": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/nbohxrhPAdh2Ufqd1_cqxOGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Infrastructure Vulnerability May Be the Next Big Danger, Globally\" title=\"Infrastructure Vulnerability May Be the Next Big Danger, Globally\"> <p>Over the weekend, the UK Defence Secretary <a href=\"https://capacityglobal.com/news/subsea-infrastructure-threat-risk-uk/\">highlighted activity by Russian submarines deep under the Atlantic</a>. The craft are said to have been s"
+      }
+    ]
+  },
+  {
+    "id": "rss-19625",
+    "date": "Fri, 10 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Redundancy, Diversity and Route Strategy: What Enterprises and Carriers Actually Need",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/wszZ9JLQmcye-XdU5yaULuGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Redundancy, Diversity and Route Strategy: What Enterprises and Carriers A",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Redundancy, Diversity and Route Strategy: What Enterprises and Carriers Actually Need",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaXeu7pirHjuKk-bWcJSA7qf",
+        "fetchedAt": "2026-04-15T09:12:19.038348Z",
+        "excerpt": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/wszZ9JLQmcye-XdU5yaULuGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Redundancy, Diversity and Route Strategy: What Enterprises and Carriers Actually Need\" title=\"Redundancy, Diversity and Route Strategy: What Enterprises and Carriers Actually Need\"> <p><em><a href=\"https://www.telecomramblings.com/files/2026/03/Tony-Thakur.jpg\"><img decoding=\"async\" class=\"alignright size-thumbnail wp-image-41992\" src=\"https://www.telecomramblings.com/fi"
+      }
+    ]
+  },
+  {
+    "id": "rss-83801",
+    "date": "Thu, 09 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Infra Bytes: MCG, Maysteel, C Spire",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/20iQDbk1nDCYnqC9l-ry3OGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Infra Bytes: MCG, Maysteel, C Spire\" title=\"Infra Bytes: MCG, Maysteel, C",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Infra Bytes: MCG, Maysteel, C Spire",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaWPrg1xAAyaLJqTjJgfb5qG",
+        "fetchedAt": "2026-04-15T09:12:19.038350Z",
+        "excerpt": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/20iQDbk1nDCYnqC9l-ry3OGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Infra Bytes: MCG, Maysteel, C Spire\" title=\"Infra Bytes: MCG, Maysteel, C Spire\"> <p>Two bits of inorganic activity, and some fiber in the deep south: &#8230; [<a href=\"https://www.telecomramblings.com/2026/04/infra-bytes-mcg-maysteel-c-spire/\">visit site to read more</a>]"
+      }
+    ]
+  },
+  {
+    "id": "rss-14883",
+    "date": "Wed, 08 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Wednesday Bytes:",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/MODzeXEv1pVES4mG3i7wJOGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Wednesday Bytes:\" title=\"Wednesday Bytes:\"> <p>A few stories to keep up w",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Wednesday Bytes:",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaVbKfbSXEAeulmRQJ6_F6vh",
+        "fetchedAt": "2026-04-15T09:12:19.038351Z",
+        "excerpt": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/MODzeXEv1pVES4mG3i7wJOGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Wednesday Bytes:\" title=\"Wednesday Bytes:\"> <p>A few stories to keep up with from: &#8230; [<a href=\"https://www.telecomramblings.com/2026/04/wednesday-bytes-2/\">visit site to read more</a>]"
+      }
+    ]
+  },
+  {
+    "id": "rss-61104",
+    "date": "Tue, 07 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Tuesday Bytes: ValorC3, Adtran, Liquid, Brightspeed",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/31j0XdR9m_EiSyhIn2Ykm-Gkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Tuesday Bytes: ValorC3, Adtran, Liquid, Brightspeed\" title=\"Tuesday Bytes",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Tuesday Bytes: ValorC3, Adtran, Liquid, Brightspeed",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaX1oQHsnHCiYbCcQg_Pp1zJ",
+        "fetchedAt": "2026-04-15T09:12:19.038353Z",
+        "excerpt": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/31j0XdR9m_EiSyhIn2Ykm-Gkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Tuesday Bytes: ValorC3, Adtran, Liquid, Brightspeed\" title=\"Tuesday Bytes: ValorC3, Adtran, Liquid, Brightspeed\"> <p>A few items from over the Easter break worth to catch up on: &#8230; [<a href=\"https://www.telecomramblings.com/2026/04/tuesday-bytes-valorc3-adtran-liquid-brightspeed/\">visit site to read more</a>]"
+      }
+    ]
+  },
+  {
+    "id": "rss-98824",
+    "date": "Fri, 03 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Engineering for 8pm: Why adaptive busy-hour capacity will define the next phase of FWA",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/D_AOvsxquATsIhJLzHuQn-Gkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Engineering for 8pm: Why adaptive busy-hour capacity will define the next",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Engineering for 8pm: Why adaptive busy-hour capacity will define the next phase of FWA",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaV_X6ydf9gXCyH8mOs-Nq4Y",
+        "fetchedAt": "2026-04-15T09:12:19.038355Z",
+        "excerpt": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/D_AOvsxquATsIhJLzHuQn-Gkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Engineering for 8pm: Why adaptive busy-hour capacity will define the next phase of FWA\" title=\"Engineering for 8pm: Why adaptive busy-hour capacity will define the next phase of FWA\"> <p><em>This Industry Viewpoint was authored by Paul Wright, Chief Revenue Officer at CBNG</em></p>\n<p>For much of the past decade, Fixed Wireless Access (FWA) has been marketed around peak "
+      }
+    ]
+  },
+  {
+    "id": "rss-11374",
     "date": "Thu, 02 Ap",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " GameStop NVMe SSD 2TB SSD Review: A surprisingly capable budget drive for the PS5 ",
-    "summary": "\n                             The GameStop NVMe SSD is a decent gamer-oriented drive with good performance and a nice heatsink at a reasonable price. SMI and Samsung hardware come together for a compe",
+    "title": "Thursday Roundup: Sparkle, Empire, Connectbase, Virgin Media, Brightspeed, CDM",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/YtOmz_YjiK30hZY-cjk50eGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Thursday Roundup: Sparkle, Empire, Connectbase, Virgin Media, Brightspeed",
     "sources": [
       {
         "type": "news",
-        "title": " GameStop NVMe SSD 2TB SSD Review: A surprisingly capable budget drive for the PS5 ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/gamestop-nvme-ssd-2tb-ssd-review",
-        "fetchedAt": "2026-04-14T23:00:04.700633Z",
-        "excerpt": "\n                             The GameStop NVMe SSD is a decent gamer-oriented drive with good performance and a nice heatsink at a reasonable price. SMI and Samsung hardware come together for a compelling package. \n                                                                                                            "
+        "title": "Thursday Roundup: Sparkle, Empire, Connectbase, Virgin Media, Brightspeed, CDM",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaWxbDV5eiD4LtlFNhBNmYAQ",
+        "fetchedAt": "2026-04-15T09:12:19.038357Z",
+        "excerpt": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/YtOmz_YjiK30hZY-cjk50eGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Thursday Roundup: Sparkle, Empire, Connectbase, Virgin Media, Brightspeed, CDM\" title=\"Thursday Roundup: Sparkle, Empire, Connectbase, Virgin Media, Brightspeed, CDM\"> <p>Lots of interesting news from around the industry to catch up with before Easter: &#8230; [<a href=\"https://www.telecomramblings.com/2026/04/thursday-roundup-sparkle-empire-connectbase-virgin-media-brig"
       }
     ]
   },
   {
-    "id": "rss-58222",
+    "id": "rss-61438",
+    "date": "Wed, 01 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "T-Mobile, TPG Eyeing Uniti Group?",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/sUIAIQ_U7n1pw_XdfsnycOGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"T-Mobile, TPG Eyeing Uniti Group?\" title=\"T-Mobile, TPG Eyeing Uniti Grou",
+    "sources": [
+      {
+        "type": "news",
+        "title": "T-Mobile, TPG Eyeing Uniti Group?",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaWWgpKXqfxeTQ6ptD5cLz3t",
+        "fetchedAt": "2026-04-15T09:12:19.038359Z",
+        "excerpt": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/sUIAIQ_U7n1pw_XdfsnycOGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"T-Mobile, TPG Eyeing Uniti Group?\" title=\"T-Mobile, TPG Eyeing Uniti Group?\"> <p>The rumor mill went from zero to 60 late yesterday afternoon after <a href=\"https://finance.yahoo.com/markets/stocks/articles/uniti-group-unit-climbs-15-064844922.html\">a report by TMT Finance</a>. Uniti Group might be getting an offer soon, with T-Mobile and TPG looking to divide things up."
+      }
+    ]
+  },
+  {
+    "id": "rss-44266",
     "date": "Tue, 31 Ma",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Kioxia discontinues 2D NAND products, last shipments to be made in 2028 — 1980s planar NAND memory reaches end of life ",
-    "summary": "\n                             After nearly four decades in production, Kioxia is set to discontinue its final 2D NAND devices by late 2028. \n                                                           ",
+    "title": "Tuesday Bytes: IQ Fiber, Brightspeed, CityFibre, Colt, Ciena",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/X_hazMuXRjPw2u2biMmdVeGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Tuesday Bytes: IQ Fiber, Brightspeed, CityFibre, Colt, Ciena\" title=\"Tues",
     "sources": [
       {
         "type": "news",
-        "title": " Kioxia discontinues 2D NAND products, last shipments to be made in 2028 — 1980s planar NAND memory reaches end of life ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/kioxia-discontinues-2d-nand-products-last-shipments-to-be-made-in-2028-1980s-planar-nand-memory-reaches-end-of-life",
-        "fetchedAt": "2026-04-14T23:00:04.700636Z",
-        "excerpt": "\n                             After nearly four decades in production, Kioxia is set to discontinue its final 2D NAND devices by late 2028. \n                                                                                                            "
+        "title": "Tuesday Bytes: IQ Fiber, Brightspeed, CityFibre, Colt, Ciena",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaUmhwxXGWximsQ36glFESvq",
+        "fetchedAt": "2026-04-15T09:12:19.038361Z",
+        "excerpt": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/X_hazMuXRjPw2u2biMmdVeGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Tuesday Bytes: IQ Fiber, Brightspeed, CityFibre, Colt, Ciena\" title=\"Tuesday Bytes: IQ Fiber, Brightspeed, CityFibre, Colt, Ciena\"> <p>Three bits of FTTx news, plus two international projects: &#8230; [<a href=\"https://www.telecomramblings.com/2026/03/tuesday-bytes-iq-fiber-brightspeed-cityfibre-colt-ciena/\">visit site to read more</a>]"
       }
     ]
   },
   {
-    "id": "rss-11441",
-    "date": "Tue, 31 Ma",
+    "id": "rss-83626",
+    "date": "Mon, 30 Ma",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " At just $17.68 per Terabyte, this 22TB external Seagate Expansion HDD is one of the cheapest hard drives on the market — backup copious amounts of data for $389 ",
-    "summary": "\n                             It's World Backup Day! Have you considered how your data is protected and stored? \n                                                                                       ",
+    "title": "Industry Spotlight: Fidium’s Dan Stoll on the Networks Ahead",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/xITYxDvaquqi8IXaiyZjP-Gkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Industry Spotlight: Fidium’s Dan Stoll on the Networks Ahead\" title=\"Indu",
     "sources": [
       {
         "type": "news",
-        "title": " At just $17.68 per Terabyte, this 22TB external Seagate Expansion HDD is one of the cheapest hard drives on the market — backup copious amounts of data for $389 ",
-        "url": "https://www.tomshardware.com/pc-components/external-hdds/at-just-usd17-68-per-terabyte-this-22tb-external-seagate-expansion-hdd-is-one-of-the-cheapest-hard-drives-on-the-market-backup-copious-amounts-of-data-for-usd389",
-        "fetchedAt": "2026-04-14T23:00:04.700640Z",
-        "excerpt": "\n                             It's World Backup Day! Have you considered how your data is protected and stored? \n                                                                                                            "
+        "title": "Industry Spotlight: Fidium’s Dan Stoll on the Networks Ahead",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaW6-VerB6EDU6iyDL3osMgn",
+        "fetchedAt": "2026-04-15T09:12:19.038363Z",
+        "excerpt": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/xITYxDvaquqi8IXaiyZjP-Gkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Industry Spotlight: Fidium’s Dan Stoll on the Networks Ahead\" title=\"Industry Spotlight: Fidium’s Dan Stoll on the Networks Ahead\"> <p><a href=\"https://www.telecomramblings.com/files/2026/03/danstoll.jpg\"><img decoding=\"async\" class=\"alignleft size-full wp-image-41986\" src=\"https://www.telecomramblings.com/files/2026/03/danstoll.jpg\" alt=\"\" width=\"150\" height=\"150\" srcse"
       }
     ]
   },
   {
-    "id": "rss-56391",
-    "date": "Tue, 31 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Grab an SSD or HDD upgrade for World Backup Day 2026 to keep your files safe, with 1TB drives starting from $109 — beat the AI-fueled storage price hikes with these savings on internal and external drives, enclosures, and accessories ",
-    "summary": "\n                             It's time to celebrate World Backup Day 2026 with these huge promotional deals on storage, from discounted hard drives to SSD cloners, flash drives, and more. \n          ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Grab an SSD or HDD upgrade for World Backup Day 2026 to keep your files safe, with 1TB drives starting from $109 — beat the AI-fueled storage price hikes with these savings on internal and external drives, enclosures, and accessories ",
-        "url": "https://www.tomshardware.com/pc-components/storage/grab-an-ssd-or-hdd-upgrade-for-world-backup-day-2026-to-keep-your-files-safe-with-1tb-drives-starting-from-usd109-beat-the-ai-fueled-storage-price-hikes-with-these-savings-on-internal-and-external-drives-enclosures-and-accessories",
-        "fetchedAt": "2026-04-14T23:00:04.700642Z",
-        "excerpt": "\n                             It's time to celebrate World Backup Day 2026 with these huge promotional deals on storage, from discounted hard drives to SSD cloners, flash drives, and more. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-32067",
-    "date": "Tue, 31 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " This $28 floppy disk SSD enclosure is a fun and fast way to keep your storage safe — both practical and nostalgic, this rugged USB-C aluminum enclosure for M.2 drives supports speeds of up to 1,200 MB/s ",
-    "summary": "\n                             Take your files on-the-go with this classic-looking SSD enclosure from Hagibis in celeberation of World Backup Day. Just $27.99 nets you this USB-C 3.2 Gen 2 M.2 NVMe SSD",
-    "sources": [
-      {
-        "type": "news",
-        "title": " This $28 floppy disk SSD enclosure is a fun and fast way to keep your storage safe — both practical and nostalgic, this rugged USB-C aluminum enclosure for M.2 drives supports speeds of up to 1,200 MB/s ",
-        "url": "https://www.tomshardware.com/pc-components/storage/this-usd28-floppy-disk-ssd-enclosure-is-a-fun-and-fast-way-to-keep-your-storage-safe-both-practical-and-nostalgic-this-rugged-usb-c-aluminum-enclosure-for-m-2-drives-supports-speeds-of-up-to-1-200-mb-s",
-        "fetchedAt": "2026-04-14T23:00:04.700644Z",
-        "excerpt": "\n                             Take your files on-the-go with this classic-looking SSD enclosure from Hagibis in celeberation of World Backup Day. Just $27.99 nets you this USB-C 3.2 Gen 2 M.2 NVMe SSD enclosure, shaped like an old floppy disk. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-23598",
-    "date": "Sat, 28 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Samsung preps PCIe 5.0 QLC SSD with a controller based on open-source RISC-V architecture — BM9K1 delivers speeds up to 11.4 GB/s for 'personal AI workloads' ",
-    "summary": "\n                             The BM9K1 reportedly delivers sequential read speeds of up to 11.4 GB/s, which Samsung said is 1.6 times faster than its predecessor, the PCIe 4.0 BM9C1. \n               ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Samsung preps PCIe 5.0 QLC SSD with a controller based on open-source RISC-V architecture — BM9K1 delivers speeds up to 11.4 GB/s for 'personal AI workloads' ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/samsung-announces-bm9k1-pcie-5-0-qlc-ssd",
-        "fetchedAt": "2026-04-14T23:00:04.700645Z",
-        "excerpt": "\n                             The BM9K1 reportedly delivers sequential read speeds of up to 11.4 GB/s, which Samsung said is 1.6 times faster than its predecessor, the PCIe 4.0 BM9C1. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-19722",
-    "date": "Sat, 28 Ma",
-    "companies": [],
-    "topics": [
-      "news"
-    ],
-    "impact": "neutral",
-    "title": " Sony freezes memory card orders in Japan amid growing storage crisis — the company attributes the cause to ‘shortage of semiconductors’ ",
-    "summary": "\n                             Sony Japan has announced that it will no longer accept orders for almost its entire lineup of CFexpress and SD memory cards as of March 27. \n                             ",
-    "sources": [
-      {
-        "type": "news",
-        "title": " Sony freezes memory card orders in Japan amid growing storage crisis — the company attributes the cause to ‘shortage of semiconductors’ ",
-        "url": "https://www.tomshardware.com/tech-industry/sony-suspends-nearly-all-memory-card-orders-in-japan",
-        "fetchedAt": "2026-04-14T23:00:04.700647Z",
-        "excerpt": "\n                             Sony Japan has announced that it will no longer accept orders for almost its entire lineup of CFexpress and SD memory cards as of March 27. \n                                                                                                            "
-      }
-    ]
-  },
-  {
-    "id": "rss-16880",
+    "id": "rss-87192",
     "date": "Fri, 27 Ma",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Exceptional fake SSD clone of Samsung 990 Pro is almost impossible to spot — near-identical performance blurs the line between real and fake as AI crunch drives knock-off market ",
-    "summary": "\n                             Japanese news outlet Akiba PC Hotline! examines a fake Samsung 990 Pro SSD that's starting to show up in the Japanese market. \n                                           ",
+    "title": "Beyond Unicast: Rearchitecting Connectivity for the Frontier Edge",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/qccZCbWOcWBX_ZqeavKi0eGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Beyond Unicast: Rearchitecting Connectivity for the Frontier Edge\" title=",
     "sources": [
       {
         "type": "news",
-        "title": " Exceptional fake SSD clone of Samsung 990 Pro is almost impossible to spot — near-identical performance blurs the line between real and fake as AI crunch drives knock-off market ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/exceptional-fake-ssd-clone-of-samsung-990-pro-is-almost-impossible-to-spot-near-identical-performance-blurs-the-line-between-real-and-fake-as-ai-crunch-drives-knock-off-market",
-        "fetchedAt": "2026-04-14T23:00:04.700649Z",
-        "excerpt": "\n                             Japanese news outlet Akiba PC Hotline! examines a fake Samsung 990 Pro SSD that's starting to show up in the Japanese market. \n                                                                                                            "
+        "title": "Beyond Unicast: Rearchitecting Connectivity for the Frontier Edge",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaXUMMOOyaezoPZTyabhfd6j",
+        "fetchedAt": "2026-04-15T09:12:19.038366Z",
+        "excerpt": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/qccZCbWOcWBX_ZqeavKi0eGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Beyond Unicast: Rearchitecting Connectivity for the Frontier Edge\" title=\"Beyond Unicast: Rearchitecting Connectivity for the Frontier Edge\"> <p><em><a href=\"https://www.telecomramblings.com/files/2026/02/Apoorva-Jain_Headshot.jpeg\"><img decoding=\"async\" class=\"alignright size-medium wp-image-41930\" src=\"https://www.telecomramblings.com/files/2026/02/Apoorva-Jain_Headsho"
       }
     ]
   },
   {
-    "id": "rss-31098",
+    "id": "rss-57675",
+    "date": "Thu, 26 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Metro Bytes: Boldyn, Sertex, Ripple, Brightspeed",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/NS6iZb4aNGgWk8VehjoMp-Gkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Metro Bytes: Boldyn, Sertex, Ripple, Brightspeed\" title=\"Metro Bytes: Bol",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Metro Bytes: Boldyn, Sertex, Ripple, Brightspeed",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaVHRXTDKYGBqkFdwgyqTMbo",
+        "fetchedAt": "2026-04-15T09:12:19.038368Z",
+        "excerpt": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/NS6iZb4aNGgWk8VehjoMp-Gkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Metro Bytes: Boldyn, Sertex, Ripple, Brightspeed\" title=\"Metro Bytes: Boldyn, Sertex, Ripple, Brightspeed\"> <p>Two bits of FTTX, some middle mile, and some underground: &#8230; [<a href=\"https://www.telecomramblings.com/2026/03/metro-bytes-boldyn-sertex-ripple-brightspeed/\">visit site to read more</a>]"
+      }
+    ]
+  },
+  {
+    "id": "rss-5988",
     "date": "Wed, 25 Ma",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Samsung’s 870 EVO SATA SSD quietly gets 8TB variant despite storage shortage and skyrocketing pricing — new model spotted in Europe for €1,300 with higher cache and endurance ",
-    "summary": "\n                             Samsung’s unlisted 870 EVO 8TB model appears at European retailers with pricing starting at €1,300. \n                                                                     ",
+    "title": "Wednesday Bytes: EdgeConneX, Aurora, Equinix, Cambridge MC, Sparkle",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/Pa9U3Ts0QGzcHQz4fi6DPeGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Wednesday Bytes: EdgeConneX, Aurora, Equinix, Cambridge MC, Sparkle\" titl",
     "sources": [
       {
         "type": "news",
-        "title": " Samsung’s 870 EVO SATA SSD quietly gets 8TB variant despite storage shortage and skyrocketing pricing — new model spotted in Europe for €1,300 with higher cache and endurance ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/samsungs-870-evo-sata-ssd-quietly-gets-8tb-variant-despite-ai-storage-struggle-new-model-spotted-in-europe-for-eur1-300-with-higher-cache-and-endurance",
-        "fetchedAt": "2026-04-14T23:00:04.700651Z",
-        "excerpt": "\n                             Samsung’s unlisted 870 EVO 8TB model appears at European retailers with pricing starting at €1,300. \n                                                                                                            "
+        "title": "Wednesday Bytes: EdgeConneX, Aurora, Equinix, Cambridge MC, Sparkle",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaX4f3eIuQ5Zk-hjVBWmRX44",
+        "fetchedAt": "2026-04-15T09:12:19.038369Z",
+        "excerpt": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/Pa9U3Ts0QGzcHQz4fi6DPeGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Wednesday Bytes: EdgeConneX, Aurora, Equinix, Cambridge MC, Sparkle\" title=\"Wednesday Bytes: EdgeConneX, Aurora, Equinix, Cambridge MC, Sparkle\"> <p>Five items from around the industry: &#8230; [<a href=\"https://www.telecomramblings.com/2026/03/wednesday-bytes-edgeconnex-aurora-equinix-cambridge-mc-sparkle/\">visit site to read more</a>]"
       }
     ]
   },
   {
-    "id": "rss-72527",
-    "date": "Wed, 25 Ma",
+    "id": "rss-50084",
+    "date": "Tue, 24 Ma",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " Seagate FireCuda 530R 2TB SSD Review: A stealthy workstation powerhouse ",
-    "summary": "\n                             The Seagate FireCuda 530R is a specialized workstation SSD that prioritizes reliability and performance consistency. With high write endurance and bundled data recovery s",
+    "title": "Tuesday Roundup: Ciena, RETN, TruVista, Duos",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/PwZcGSAT89q-0HBhaFCJOeGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Tuesday Roundup: Ciena, RETN, TruVista, Duos\" title=\"Tuesday Roundup: Cie",
     "sources": [
       {
         "type": "news",
-        "title": " Seagate FireCuda 530R 2TB SSD Review: A stealthy workstation powerhouse ",
-        "url": "https://www.tomshardware.com/pc-components/ssds/seagate-firecuda-530r-2tb-ssd-review",
-        "fetchedAt": "2026-04-14T23:00:04.700652Z",
-        "excerpt": "\n                             The Seagate FireCuda 530R is a specialized workstation SSD that prioritizes reliability and performance consistency. With high write endurance and bundled data recovery services, it provides extra peace of mind. \n                                                                                                            "
+        "title": "Tuesday Roundup: Ciena, RETN, TruVista, Duos",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaXz_Q8OuEE0hMw3SOG_ZyYT",
+        "fetchedAt": "2026-04-15T09:12:19.038371Z",
+        "excerpt": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/PwZcGSAT89q-0HBhaFCJOeGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Tuesday Roundup: Ciena, RETN, TruVista, Duos\" title=\"Tuesday Roundup: Ciena, RETN, TruVista, Duos\"> <p>Two from overseas, and two of regional interest from the southern US: &#8230; [<a href=\"https://www.telecomramblings.com/2026/03/tuesday-roundup-ciena-retn-truvista-duos/\">visit site to read more</a>]"
       }
     ]
   },
   {
-    "id": "rss-57052",
+    "id": "rss-6620",
     "date": "Mon, 23 Ma",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " MacBook Neo costs more in Portugal due to copyright levy for piracy compensation taxes — storage costs extra in multiple countries, thanks to draconian laws that pre-punish buyers ",
-    "summary": "\n                             Macbook Neo Portuguese copyright levy fee highlights draconian piracy compensation laws \n                                                                                 ",
+    "title": "Conect Infra Launches, Targets South American Terrestrial Fiber",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/yqNHNJeljC2WV88c9rdfI-Gkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Conect Infra Launches, Targets South American Terrestrial Fiber\" title=\"C",
     "sources": [
       {
         "type": "news",
-        "title": " MacBook Neo costs more in Portugal due to copyright levy for piracy compensation taxes — storage costs extra in multiple countries, thanks to draconian laws that pre-punish buyers ",
-        "url": "https://www.tomshardware.com/pc-components/storage/macbook-neo-costs-more-in-portugal-due-to-copyright-levy-for-piracy-compensation-taxes-storage-costs-extra-in-multiple-countries-thanks-to-draconian-laws-that-pre-punish-buyers",
-        "fetchedAt": "2026-04-14T23:00:04.700654Z",
-        "excerpt": "\n                             Macbook Neo Portuguese copyright levy fee highlights draconian piracy compensation laws \n                                                                                                            "
+        "title": "Conect Infra Launches, Targets South American Terrestrial Fiber",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaVkO5iWTW0u4WTUo6Khsq2P",
+        "fetchedAt": "2026-04-15T09:12:19.038373Z",
+        "excerpt": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/yqNHNJeljC2WV88c9rdfI-Gkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Conect Infra Launches, Targets South American Terrestrial Fiber\" title=\"Conect Infra Launches, Targets South American Terrestrial Fiber\"> <p>South America has a new optical infrastructure player. A group of investors has <a href=\"https://newswire.telecomramblings.com/2026/03/conecta-infra-launches-with-us350-million-investment-to-connect-south-americas-leading-data-cente"
       }
     ]
   },
   {
-    "id": "rss-93931",
-    "date": "Sun, 22 Ma",
+    "id": "rss-39663",
+    "date": "Fri, 20 Ma",
     "companies": [],
     "topics": [
       "news"
     ],
     "impact": "neutral",
-    "title": " City has roads named Tape Drive and Disk Drive from bygone HDD-making era — area was once home to the StorageTek empire ",
-    "summary": "\n                             Tape Drive and Disk Drive rods in the Louisville/Broomfield area are a relic of the STK diskmaker's time in the city. \n                                                   ",
+    "title": "The AI Power Gold Rush: How Hybrid-Drive Cooling Will Reframe Data Center Power Economics",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/8oUR5YiN6EJES4mG3i7wJOGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"The AI Power Gold Rush: How Hybrid-Drive Cooling Will Reframe Data Center",
     "sources": [
       {
         "type": "news",
-        "title": " City has roads named Tape Drive and Disk Drive from bygone HDD-making era — area was once home to the StorageTek empire ",
-        "url": "https://www.tomshardware.com/tech-industry/city-has-roads-named-tape-drive-and-disk-drive-from-bygone-hdd-making-era-area-was-once-home-to-the-storagetek-empire",
-        "fetchedAt": "2026-04-14T23:00:04.700655Z",
-        "excerpt": "\n                             Tape Drive and Disk Drive rods in the Louisville/Broomfield area are a relic of the STK diskmaker's time in the city. \n                                                                                                            "
+        "title": "The AI Power Gold Rush: How Hybrid-Drive Cooling Will Reframe Data Center Power Economics",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaVmdKv39IbEts4_VlTcFBnA",
+        "fetchedAt": "2026-04-15T09:12:19.038375Z",
+        "excerpt": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/8oUR5YiN6EJES4mG3i7wJOGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"The AI Power Gold Rush: How Hybrid-Drive Cooling Will Reframe Data Center Power Economics\" title=\"The AI Power Gold Rush: How Hybrid-Drive Cooling Will Reframe Data Center Power Economics\"> <p><em>This Industry Viewpoint was authored by Stephen Lafaille, VP Business Development</em></p>\n<p>The data center industry is entering a defining era – one in which power, not land"
+      }
+    ]
+  },
+  {
+    "id": "rss-66285",
+    "date": "Thu, 19 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "test",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/C0Vd7cv64g6aC4Ewmzx8jOGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"test\" title=\"test\"> <p>Two bits of last mile news and some cable landing ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "test",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaUqsB8C9p72ok25WNqBfx9-",
+        "fetchedAt": "2026-04-15T09:12:19.038377Z",
+        "excerpt": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/C0Vd7cv64g6aC4Ewmzx8jOGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"test\" title=\"test\"> <p>Two bits of last mile news and some cable landing activity south of the border:</p>\n<p> &#8230; [<a href=\"https://www.telecomramblings.com/2026/03/test/\">visit site to read more</a>]"
+      }
+    ]
+  },
+  {
+    "id": "rss-99705",
+    "date": "Wed, 18 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Wednesday Bytes: EdgeConneX, GCI",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/GqfNm97bh5QGpF_UMQPgy-Gkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Wednesday Bytes: EdgeConneX, GCI\" title=\"Wednesday Bytes: EdgeConneX, GCI",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Wednesday Bytes: EdgeConneX, GCI",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaWum-wiI02mtHd6e_eLfHF8",
+        "fetchedAt": "2026-04-15T09:12:19.038379Z",
+        "excerpt": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/GqfNm97bh5QGpF_UMQPgy-Gkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Wednesday Bytes: EdgeConneX, GCI\" title=\"Wednesday Bytes: EdgeConneX, GCI\"> <p>A couple of interesting infrastructure projects: &#8230; [<a href=\"https://www.telecomramblings.com/2026/03/wednesday-bytes-edgeconnex-gci/\">visit site to read more</a>]"
+      }
+    ]
+  },
+  {
+    "id": "rss-35293",
+    "date": "Tue, 17 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Tuesday Roundup: SUBCO, TelCables Brasil, Available Infrastructure",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/T7k7MflgnAGhogObK-rmwOGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Tuesday Roundup: SUBCO, TelCables Brasil, Available Infrastructure\" title",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Tuesday Roundup: SUBCO, TelCables Brasil, Available Infrastructure",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaX0rMNfbNWwLRwfgXpWpX-7",
+        "fetchedAt": "2026-04-15T09:12:19.038384Z",
+        "excerpt": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/T7k7MflgnAGhogObK-rmwOGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Tuesday Roundup: SUBCO, TelCables Brasil, Available Infrastructure\" title=\"Tuesday Roundup: SUBCO, TelCables Brasil, Available Infrastructure\"> "
+      }
+    ]
+  },
+  {
+    "id": "rss-10241",
+    "date": "Fri, 10 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Has telecom network capex peaked? - SDxCentral",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9Kc0RESGRkVV9XdmpiWXo0bGMwN0d6UEd0MnEzcnRkMDZ1MHJOQ1VsMXFabHU4Nm83QnZLSUdWSm0xU3FSVDg1M0tybEFkRWJTbzRLVEUtck1IcmdnTDFxOVRxcmFrMlZ2WWctdXNybU",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Has telecom network capex peaked? - SDxCentral",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Kc0RESGRkVV9XdmpiWXo0bGMwN0d6UEd0MnEzcnRkMDZ1MHJOQ1VsMXFabHU4Nm83QnZLSUdWSm0xU3FSVDg1M0tybEFkRWJTbzRLVEUtck1IcmdnTDFxOVRxcmFrMlZ2WWctdXNybUtwbkE?oc=5",
+        "fetchedAt": "2026-04-15T09:12:19.606293Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE9Kc0RESGRkVV9XdmpiWXo0bGMwN0d6UEd0MnEzcnRkMDZ1MHJOQ1VsMXFabHU4Nm83QnZLSUdWSm0xU3FSVDg1M0tybEFkRWJTbzRLVEUtck1IcmdnTDFxOVRxcmFrMlZ2WWctdXNybUtwbkE?oc=5\" target=\"_blank\">Has telecom network capex peaked?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SDxCentral</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-12382",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "C-DoT to commercialise indigenously-developed 5G radio network - ET Telecom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVFhwSUFKNmNJMTR1UmY2TmZUZDVWdXVIMEp3RjJTOVJpRl8xUzc3d0dOWWN2VmE2V3dzMmhBRGhObTJYLWUxUmZCb1dHc2JlZ01INkZEMHNaeFA1MDllb0d1bEdXT0wxSHJXUEJfdU",
+    "sources": [
+      {
+        "type": "news",
+        "title": "C-DoT to commercialise indigenously-developed 5G radio network - ET Telecom",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVFhwSUFKNmNJMTR1UmY2TmZUZDVWdXVIMEp3RjJTOVJpRl8xUzc3d0dOWWN2VmE2V3dzMmhBRGhObTJYLWUxUmZCb1dHc2JlZ01INkZEMHNaeFA1MDllb0d1bEdXT0wxSHJXUEJfdUltSGY3RExmY05PdGM2NDNrSVk1bWRuNnU2Sng1MUtCX1R5N2YyT1F4alZLaEY3WF9yUUhnNzN6LUt2V2hKd21uYlpWOWI1UlZZU1h1dEQ2M1lZMXFPMWs0Qk10dGpDNmxqQVhaVkdIUU1mbEExMG5hYlFIc2xISXViMm1KUzR30gHzAUFVX3lxTE5LUXNqQ3hob040RmZHbk1ONk1xYnM4LVRBZjZfaVFFdm5vRGV4WGg5bmlxdkFqMnllR1ZTUDFja3djUEN5YW85N1pLNTJnNEFxOTl3V0p1RGtZRlVKbnVkbVVJWDNtSlZkZ1Q1X1JieXlzQlFDSFA2NFBlci1GckQ3TDdxY05YcF9mUlZ2V25QVmFvWjBOcDNUczBQa3FIQWNxRTVMYjZWWk5INzBUbVJvMmhLTnB5ZkdmTEZEOXM5MmUzVm00SmV1R21vV1BSWVBmUFhjdWZ2VnRZdHZfNWZselJZdkkxWDVkeEx6anRXYWJOTQ?oc=5",
+        "fetchedAt": "2026-04-15T09:12:19.606305Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVFhwSUFKNmNJMTR1UmY2TmZUZDVWdXVIMEp3RjJTOVJpRl8xUzc3d0dOWWN2VmE2V3dzMmhBRGhObTJYLWUxUmZCb1dHc2JlZ01INkZEMHNaeFA1MDllb0d1bEdXT0wxSHJXUEJfdUltSGY3RExmY05PdGM2NDNrSVk1bWRuNnU2Sng1MUtCX1R5N2YyT1F4alZLaEY3WF9yUUhnNzN6LUt2V2hKd21uYlpWOWI1UlZZU1h1dEQ2M1lZMXFPMWs0Qk10dGpDNmxqQVhaVkdIUU1mbEExMG5hYlFIc2xISXViMm1KUzR30gHzAUFVX3lxTE5LUXNqQ3hob040RmZHbk1ONk1xYnM4LVRBZjZfaVFFdm5vRGV4WGg5bmlxdkFqMnllR1ZTUDFja3djUEN5YW85N1pLNTJnNEFxOTl3V0p1RGtZRlVKbn"
+      }
+    ]
+  },
+  {
+    "id": "rss-15718",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Vodafone uses 5G network slice for live cam at Principality Stadium - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQang2cTFISXZic09DME5IOHpGenMzOTkzQmFUOEFGTktGam9IQTV1dVliZ1pFZnhoZ3kwc3pPZUIyeUNmYks3ZzJBZEVhUjZNUVgtdUNRUWN3bGhRWHJsRzh2ZUN0alNNMzBRSGRYeU",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Vodafone uses 5G network slice for live cam at Principality Stadium - Telecompaper",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQang2cTFISXZic09DME5IOHpGenMzOTkzQmFUOEFGTktGam9IQTV1dVliZ1pFZnhoZ3kwc3pPZUIyeUNmYks3ZzJBZEVhUjZNUVgtdUNRUWN3bGhRWHJsRzh2ZUN0alNNMzBRSGRYeUdackoyZGt2VFlyb2RQTjM1ZkpUNWpUazZZSEh4TTIyX0d0THowSXZrR3JTMmVRVXRxWE5hb3J6bTJZR2lQdWpv?oc=5",
+        "fetchedAt": "2026-04-15T09:12:19.606308Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQang2cTFISXZic09DME5IOHpGenMzOTkzQmFUOEFGTktGam9IQTV1dVliZ1pFZnhoZ3kwc3pPZUIyeUNmYks3ZzJBZEVhUjZNUVgtdUNRUWN3bGhRWHJsRzh2ZUN0alNNMzBRSGRYeUdackoyZGt2VFlyb2RQTjM1ZkpUNWpUazZZSEh4TTIyX0d0THowSXZrR3JTMmVRVXRxWE5hb3J6bTJZR2lQdWpv?oc=5\" target=\"_blank\">Vodafone uses 5G network slice for live cam at Principality Stadium</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telecompaper</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-36001",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Telecom Network Market Rebounds to $215.8 bn in 2025 as AI and 5G Investments Accelerate - TelecomLead",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWTVQdkRJRkExOEp6WTZaWDZ1S0ZjekVIV3lDX1piQW5rZWFmcVAxSTdQWnAxUUJIV2VqaHlUX0xVYVdmZ2tfMW01cXA1TnBVVHdNdGNkM3o3MVJmd21zVDRfMXhZdkhSTTdYMldoQS",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Telecom Network Market Rebounds to $215.8 bn in 2025 as AI and 5G Investments Accelerate - TelecomLead",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWTVQdkRJRkExOEp6WTZaWDZ1S0ZjekVIV3lDX1piQW5rZWFmcVAxSTdQWnAxUUJIV2VqaHlUX0xVYVdmZ2tfMW01cXA1TnBVVHdNdGNkM3o3MVJmd21zVDRfMXhZdkhSTTdYMldoQS14ZzI5WWpFazg5aVFkb2lkdWEwcW5oQl84Z09XRHI4U1VSaGxYUWZ3V09IdkZ2UGNTVThKbm9hYjhkb2NFX2VONXVMYllaclUtV051aWFobm5FcEZTamotZG5OeU9XemxQYUHSAdoBQVVfeXFMTTRjcDFtWGJyNXdhRmg2RnZUX1pDZ0dHWWJNM1k2QjhSbWVGekJMUmlQbC1UWUlEUUxrcE1PVGJXOGtUMHgzSGljQmpfaEdLYUNST2hYbDh3VXV1WHR1SzJQTDM4NzBBUTZ1V1EtTlpiZzZmeERmRTBHYklKWllIUjNOOUJra1FaRlFZSXcxZ0Q1LWdBdk1MNmpTaU8wQzVBZ0ctc0Zvb3pvcExrMDZDRHEyX1IwbGJqX2FpM2h2dEo1YXg3YmtOcnZtVms3bUtVcDVNNG5ham9ic0E?oc=5",
+        "fetchedAt": "2026-04-15T09:12:19.606310Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWTVQdkRJRkExOEp6WTZaWDZ1S0ZjekVIV3lDX1piQW5rZWFmcVAxSTdQWnAxUUJIV2VqaHlUX0xVYVdmZ2tfMW01cXA1TnBVVHdNdGNkM3o3MVJmd21zVDRfMXhZdkhSTTdYMldoQS14ZzI5WWpFazg5aVFkb2lkdWEwcW5oQl84Z09XRHI4U1VSaGxYUWZ3V09IdkZ2UGNTVThKbm9hYjhkb2NFX2VONXVMYllaclUtV051aWFobm5FcEZTamotZG5OeU9XemxQYUHSAdoBQVVfeXFMTTRjcDFtWGJyNXdhRmg2RnZUX1pDZ0dHWWJNM1k2QjhSbWVGekJMUmlQbC1UWUlEUUxrcE1PVGJXOGtUMHgzSGljQmpfaEdLYUNST2hYbDh3VXV1WHR1SzJQTDM4NzBBUTZ1V1EtTlpiZzZmeERmRTBHYk"
+      }
+    ]
+  },
+  {
+    "id": "rss-41213",
+    "date": "Mon, 30 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Invences Empowers Small Businesses With Smart Telecom Networks - IEEE Spectrum",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE91LXo1X005SER0eGZRby1zdV9pTlplajJINW9kbkUzZGVQSEE0SXVITDdBWGZBNHp2NGpXUWxzZ3g5YkYxUVF2dFZ1eFF2eURFdXhtc2N0SW5OOVA2RFBKOWxwSi1Kdy1RcFFR0gF_QV",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Invences Empowers Small Businesses With Smart Telecom Networks - IEEE Spectrum",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91LXo1X005SER0eGZRby1zdV9pTlplajJINW9kbkUzZGVQSEE0SXVITDdBWGZBNHp2NGpXUWxzZ3g5YkYxUVF2dFZ1eFF2eURFdXhtc2N0SW5OOVA2RFBKOWxwSi1Kdy1RcFFR0gF_QVVfeXFMTU5TRkdpdk5zNDVHYXZSS1EwZ2pYNHp2T2p3Q1dZTnlTcGVud0wwYVRabVdXenRNSHVxb0gtbWdFU0tXWF9ncGJNWDFqS3RXaUd3cUJsS1NDN0lKMm1RNV9nSHJQS2tOZll4TW83bmVZUE1hMTd0dWNIUThnRU9HOA?oc=5",
+        "fetchedAt": "2026-04-15T09:12:19.606312Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE91LXo1X005SER0eGZRby1zdV9pTlplajJINW9kbkUzZGVQSEE0SXVITDdBWGZBNHp2NGpXUWxzZ3g5YkYxUVF2dFZ1eFF2eURFdXhtc2N0SW5OOVA2RFBKOWxwSi1Kdy1RcFFR0gF_QVVfeXFMTU5TRkdpdk5zNDVHYXZSS1EwZ2pYNHp2T2p3Q1dZTnlTcGVud0wwYVRabVdXenRNSHVxb0gtbWdFU0tXWF9ncGJNWDFqS3RXaUd3cUJsS1NDN0lKMm1RNV9nSHJQS2tOZll4TW83bmVZUE1hMTd0dWNIUThnRU9HOA?oc=5\" target=\"_blank\">Invences Empowers Small Businesses With Smart Telecom Networks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IEEE Spec"
+      }
+    ]
+  },
+  {
+    "id": "rss-90211",
+    "date": "Wed, 07 Ja",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Telecom Italia and Fastweb+Vodafone to share 5G networks - Light Reading",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPcUtLdHRrV1BfODhxaUx3bGFsN2pkZldBRlBfcThibmY3MEtNOUtudlREQTRyTGM1ZkFvbkl1dHdDN18zOHB1TnFDVGFfQzk4QTdwdnpEYVVMVEpLRnpWZFU0TkxBemxjbEFQZG50bl",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Telecom Italia and Fastweb+Vodafone to share 5G networks - Light Reading",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcUtLdHRrV1BfODhxaUx3bGFsN2pkZldBRlBfcThibmY3MEtNOUtudlREQTRyTGM1ZkFvbkl1dHdDN18zOHB1TnFDVGFfQzk4QTdwdnpEYVVMVEpLRnpWZFU0TkxBemxjbEFQZG50bldFQUt2bm04NENQMnRoV2pObjctbm9qbDl0cENoVFh4a0JqUQ?oc=5",
+        "fetchedAt": "2026-04-15T09:12:19.606314Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPcUtLdHRrV1BfODhxaUx3bGFsN2pkZldBRlBfcThibmY3MEtNOUtudlREQTRyTGM1ZkFvbkl1dHdDN18zOHB1TnFDVGFfQzk4QTdwdnpEYVVMVEpLRnpWZFU0TkxBemxjbEFQZG50bldFQUt2bm04NENQMnRoV2pObjctbm9qbDl0cENoVFh4a0JqUQ?oc=5\" target=\"_blank\">Telecom Italia and Fastweb+Vodafone to share 5G networks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Light Reading</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-56686",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "C-DOT’s indigenous 5G radio network moves toward global commercialization - Bisinfotech",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOck1aZ0NCTlI0YjJvX3NPUTc0Q212TmlweUpyU2l1aENsYWNRS1B0alBCZ1dpVVAxWXdfUktYaFNuTkpRc0x3NHJPS0lmbmpzeE54QTdWZ3ZTN3k5TzV3QmV6Y3ROYVhLY3h2S2dwej",
+    "sources": [
+      {
+        "type": "news",
+        "title": "C-DOT’s indigenous 5G radio network moves toward global commercialization - Bisinfotech",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOck1aZ0NCTlI0YjJvX3NPUTc0Q212TmlweUpyU2l1aENsYWNRS1B0alBCZ1dpVVAxWXdfUktYaFNuTkpRc0x3NHJPS0lmbmpzeE54QTdWZ3ZTN3k5TzV3QmV6Y3ROYVhLY3h2S2dwejlmT29LcWQ0Zjdoa3htTWtWR19DeUFIQklBZHdDTXZJQVZwRWd6VHZQSlpkMm9fVHpfU2tv?oc=5",
+        "fetchedAt": "2026-04-15T09:12:19.606316Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOck1aZ0NCTlI0YjJvX3NPUTc0Q212TmlweUpyU2l1aENsYWNRS1B0alBCZ1dpVVAxWXdfUktYaFNuTkpRc0x3NHJPS0lmbmpzeE54QTdWZ3ZTN3k5TzV3QmV6Y3ROYVhLY3h2S2dwejlmT29LcWQ0Zjdoa3htTWtWR19DeUFIQklBZHdDTXZJQVZwRWd6VHZQSlpkMm9fVHpfU2tv?oc=5\" target=\"_blank\">C-DOT’s indigenous 5G radio network moves toward global commercialization</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bisinfotech</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-109",
+    "date": "Tue, 24 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Chinese firms' involvement in 5G network may deter investors, EU warns Vietnam - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNV29PZGlKcFN4MlZjbHl0ejlzWElfZjFGeE9xWFRUM282eWxnX3lPTkJmUXNsbFlZWlpBRjBhc1g2aEZna2xFWjlKdHFubENkRlRfUFRUYVgwbGJTaGxUUDhocGE4WVlZVWZuY1ZHck",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Chinese firms' involvement in 5G network may deter investors, EU warns Vietnam - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNV29PZGlKcFN4MlZjbHl0ejlzWElfZjFGeE9xWFRUM282eWxnX3lPTkJmUXNsbFlZWlpBRjBhc1g2aEZna2xFWjlKdHFubENkRlRfUFRUYVgwbGJTaGxUUDhocGE4WVlZVWZuY1ZHcktBMzB0LVUzMHlOako0OEJraDdEOGxtZTBaaHRlYXFRdV9HeFBId0RwTWY5UnYyakh0aXZGX194bU90Z2EzbDB4Z2VQNVZPb095WjdCQnloUkV4SVNDY0F6cTJoN0M?oc=5",
+        "fetchedAt": "2026-04-15T09:12:19.606319Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNV29PZGlKcFN4MlZjbHl0ejlzWElfZjFGeE9xWFRUM282eWxnX3lPTkJmUXNsbFlZWlpBRjBhc1g2aEZna2xFWjlKdHFubENkRlRfUFRUYVgwbGJTaGxUUDhocGE4WVlZVWZuY1ZHcktBMzB0LVUzMHlOako0OEJraDdEOGxtZTBaaHRlYXFRdV9HeFBId0RwTWY5UnYyakh0aXZGX194bU90Z2EzbDB4Z2VQNVZPb095WjdCQnloUkV4SVNDY0F6cTJoN0M?oc=5\" target=\"_blank\">Chinese firms' involvement in 5G network may deter investors, EU warns Vietnam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-89244",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "C-DoT’s indigenously developed 5G radio network heads for global market - Communications Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPOGVqQ0ZacTZScGFFR0xmWS1yMTdKUWlvbmZlZlI2WXNIYVI5c2xPbmdKcEt1cVpxOE5HcFkyVUczN1lya2VkU1h1bVA1b2dVT0ZjNHBWMDh3cjVTd043Y3RycjRrOXgtY2MxSUE1Q2",
+    "sources": [
+      {
+        "type": "news",
+        "title": "C-DoT’s indigenously developed 5G radio network heads for global market - Communications Today",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOGVqQ0ZacTZScGFFR0xmWS1yMTdKUWlvbmZlZlI2WXNIYVI5c2xPbmdKcEt1cVpxOE5HcFkyVUczN1lya2VkU1h1bVA1b2dVT0ZjNHBWMDh3cjVTd043Y3RycjRrOXgtY2MxSUE1Q2U0RkVseFd1MEFEbXRNLXoxZjUxbnN4a2pnQW9RUlF3c1N4WEZlVFV1bUNwWjBOdGlFMjJab3F1c0J2T3lBZ0E?oc=5",
+        "fetchedAt": "2026-04-15T09:12:19.606321Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPOGVqQ0ZacTZScGFFR0xmWS1yMTdKUWlvbmZlZlI2WXNIYVI5c2xPbmdKcEt1cVpxOE5HcFkyVUczN1lya2VkU1h1bVA1b2dVT0ZjNHBWMDh3cjVTd043Y3RycjRrOXgtY2MxSUE1Q2U0RkVseFd1MEFEbXRNLXoxZjUxbnN4a2pnQW9RUlF3c1N4WEZlVFV1bUNwWjBOdGlFMjJab3F1c0J2T3lBZ0E?oc=5\" target=\"_blank\">C-DoT’s indigenously developed 5G radio network heads for global market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Communications Today</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-26645",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Korea ICT Minister, Telcos Pledge Cheaper 5G and AI Network Investment - Telecom Review Asia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTS05enJzNmJjQnFSRVplZGUySHNRVDBpY1J2dTgyZkY5LVZWUGRTNnNnbktmVTNHUEk3RkxYNHRwQlJRNHdma2lEanNZWTFSaGswNEpMTGZFZWdBMngyUlJFVTdyRmp1bWdzNjNxYz",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Korea ICT Minister, Telcos Pledge Cheaper 5G and AI Network Investment - Telecom Review Asia",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTS05enJzNmJjQnFSRVplZGUySHNRVDBpY1J2dTgyZkY5LVZWUGRTNnNnbktmVTNHUEk3RkxYNHRwQlJRNHdma2lEanNZWTFSaGswNEpMTGZFZWdBMngyUlJFVTdyRmp1bWdzNjNxYzdTY1pfNEFxRmpkUGdneWhialcyMDA3WjNJLWVwem1MZHVSRmhlQ05vWUdfNS1lX2hMZFZsOTdtdnpGUm1ueHVTZklSbHJUZ3pxZTlxOE5lcGllWFExRTdKUw?oc=5",
+        "fetchedAt": "2026-04-15T09:12:19.606323Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTS05enJzNmJjQnFSRVplZGUySHNRVDBpY1J2dTgyZkY5LVZWUGRTNnNnbktmVTNHUEk3RkxYNHRwQlJRNHdma2lEanNZWTFSaGswNEpMTGZFZWdBMngyUlJFVTdyRmp1bWdzNjNxYzdTY1pfNEFxRmpkUGdneWhialcyMDA3WjNJLWVwem1MZHVSRmhlQ05vWUdfNS1lX2hMZFZsOTdtdnpGUm1ueHVTZklSbHJUZ3pxZTlxOE5lcGllWFExRTdKUw?oc=5\" target=\"_blank\">Korea ICT Minister, Telcos Pledge Cheaper 5G and AI Network Investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telecom Review Asia</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-75602",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Verizon Communications Inc. stock (US92343V1044): Is its 5G network edge strong enough to unlock new - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNcFM1dzM1YkVTU3A1UWh2NDlFNnlfRGhkS01zeDRpZHlrcVhXUFZvRk10Wkt4cmF4T01DZkhaQTBHb25pbjFjN3NmLWxRYXJCZWhna1NXWjVEbDR1RkFySTV1cUlCY3E5Wkp0UkJRc2",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Verizon Communications Inc. stock (US92343V1044): Is its 5G network edge strong enough to unlock new - AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcFM1dzM1YkVTU3A1UWh2NDlFNnlfRGhkS01zeDRpZHlrcVhXUFZvRk10Wkt4cmF4T01DZkhaQTBHb25pbjFjN3NmLWxRYXJCZWhna1NXWjVEbDR1RkFySTV1cUlCY3E5Wkp0UkJRc2wtNGp6cWpRQTdYSnRUMHFsLXVtNGVpZlNsaUNWZlU2bzc1dExVVW9zcXJtanFfdlJuYU85ZVNSYzZjbnYxN19QSVJ3TnJyRjkxckgzTmh3QQ?oc=5",
+        "fetchedAt": "2026-04-15T09:12:19.606325Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNcFM1dzM1YkVTU3A1UWh2NDlFNnlfRGhkS01zeDRpZHlrcVhXUFZvRk10Wkt4cmF4T01DZkhaQTBHb25pbjFjN3NmLWxRYXJCZWhna1NXWjVEbDR1RkFySTV1cUlCY3E5Wkp0UkJRc2wtNGp6cWpRQTdYSnRUMHFsLXVtNGVpZlNsaUNWZlU2bzc1dExVVW9zcXJtanFfdlJuYU85ZVNSYzZjbnYxN19QSVJ3TnJyRjkxckgzTmh3QQ?oc=5\" target=\"_blank\">Verizon Communications Inc. stock (US92343V1044): Is its 5G network edge strong enough to unlock new</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-8088",
+    "date": "Mon, 02 Fe",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Brazil is largest national market for private networks says analyst firm - Fierce Network",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNZDMzYjNqYnFGdTFaM3B2bGgxZThkd0IxT3J1NmRsdE1YaGRiUGxIbGZBQ3Bod1pOMW16ZjdDR2JwOWJYLXpUdFlVUFVKdjdJc0JmcHlGYkNJWXJRaGhhUHpybmxucm01NGJudlRlR2",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Brazil is largest national market for private networks says analyst firm - Fierce Network",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZDMzYjNqYnFGdTFaM3B2bGgxZThkd0IxT3J1NmRsdE1YaGRiUGxIbGZBQ3Bod1pOMW16ZjdDR2JwOWJYLXpUdFlVUFVKdjdJc0JmcHlGYkNJWXJRaGhhUHpybmxucm01NGJudlRlR2ZCc3FRX1JOV1dGeVlsQ2txLXdFYUZ1QQ?oc=5",
+        "fetchedAt": "2026-04-15T09:12:19.606327Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNZDMzYjNqYnFGdTFaM3B2bGgxZThkd0IxT3J1NmRsdE1YaGRiUGxIbGZBQ3Bod1pOMW16ZjdDR2JwOWJYLXpUdFlVUFVKdjdJc0JmcHlGYkNJWXJRaGhhUHpybmxucm01NGJudlRlR2ZCc3FRX1JOV1dGeVlsQ2txLXdFYUZ1QQ?oc=5\" target=\"_blank\">Brazil is largest national market for private networks says analyst firm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Fierce Network</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-78917",
+    "date": "Mon, 09 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Cut with Precision: Private 5G Network Slicing Drives New Revenue - Telecom Review Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMTdoYklvaDBoeUJBdmVpSndjVzlsWnNLT3V1eHdGaC0tNkE4OW85d2pmOE9PYTZSVllEM0ZYNzFpeHJoWWZIcTlxT0dsUEdyUWNQdE9XazJ3dHJKT0d1X2l6RDU4aEdGRGRMS1cyaT",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Cut with Precision: Private 5G Network Slicing Drives New Revenue - Telecom Review Africa",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMTdoYklvaDBoeUJBdmVpSndjVzlsWnNLT3V1eHdGaC0tNkE4OW85d2pmOE9PYTZSVllEM0ZYNzFpeHJoWWZIcTlxT0dsUEdyUWNQdE9XazJ3dHJKT0d1X2l6RDU4aEdGRGRMS1cyaTBsczlqZHp5SDNheFkwOUIyVk84UmNZNTViOWZ3dWh3YjZxUGliZDgyZkdPZlBsQ1h4WWJBUmN2WFRhS20wNGR4d0RONDFyRVA0YUd6YlpHMmMwVW8?oc=5",
+        "fetchedAt": "2026-04-15T09:12:19.606329Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMTdoYklvaDBoeUJBdmVpSndjVzlsWnNLT3V1eHdGaC0tNkE4OW85d2pmOE9PYTZSVllEM0ZYNzFpeHJoWWZIcTlxT0dsUEdyUWNQdE9XazJ3dHJKT0d1X2l6RDU4aEdGRGRMS1cyaTBsczlqZHp5SDNheFkwOUIyVk84UmNZNTViOWZ3dWh3YjZxUGliZDgyZkdPZlBsQ1h4WWJBUmN2WFRhS20wNGR4d0RONDFyRVA0YUd6YlpHMmMwVW8?oc=5\" target=\"_blank\">Cut with Precision: Private 5G Network Slicing Drives New Revenue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Telecom Review Africa</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-59648",
+    "date": "Mon, 17 No",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Nokia lands 5G network modernization deal with Telecom Italia - Data Center Dynamics",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRzY2RVhTMmc1TEczOHl0eDdELTIwWUljNFRUbXFQOF9sLWVWVndOSFFBdU8yWS04ZGltMmFZMlZiOGx4Q0tlM0gxTzB5dHhqSjFpZmFkOHZyNmF5SGE5VGlvSGZpT09KeUY1N1VPZG",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Nokia lands 5G network modernization deal with Telecom Italia - Data Center Dynamics",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRzY2RVhTMmc1TEczOHl0eDdELTIwWUljNFRUbXFQOF9sLWVWVndOSFFBdU8yWS04ZGltMmFZMlZiOGx4Q0tlM0gxTzB5dHhqSjFpZmFkOHZyNmF5SGE5VGlvSGZpT09KeUY1N1VPZGZHM0s5VHZoQUxpczFaN1lUTGx2dHBDejItaU5oQWFPcm41eVZCd283VTRqTGlfOUh2OF90ajdJUy0?oc=5",
+        "fetchedAt": "2026-04-15T09:12:19.606333Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRzY2RVhTMmc1TEczOHl0eDdELTIwWUljNFRUbXFQOF9sLWVWVndOSFFBdU8yWS04ZGltMmFZMlZiOGx4Q0tlM0gxTzB5dHhqSjFpZmFkOHZyNmF5SGE5VGlvSGZpT09KeUY1N1VPZGZHM0s5VHZoQUxpczFaN1lUTGx2dHBDejItaU5oQWFPcm41eVZCd283VTRqTGlfOUh2OF90ajdJUy0?oc=5\" target=\"_blank\">Nokia lands 5G network modernization deal with Telecom Italia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Data Center Dynamics</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-86000",
+    "date": "Mon, 19 Ja",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Bouygues gives Bordeaux hospital a connectivity check-up with 5G private network - telecomtv.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYnBaWWgxbE1ZdXZuVy1nNmNQcWpWb1hfYXk3TUpVazJvRGJoSENiRmUtVWkwZGFOeldiWU9SRkhDMnRBRE5SWFEtckF3OFdzdzZzV3M3X0VHblRlOUtSdzZna21hOFoycTFFRHE3bk",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Bouygues gives Bordeaux hospital a connectivity check-up with 5G private network - telecomtv.com",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYnBaWWgxbE1ZdXZuVy1nNmNQcWpWb1hfYXk3TUpVazJvRGJoSENiRmUtVWkwZGFOeldiWU9SRkhDMnRBRE5SWFEtckF3OFdzdzZzV3M3X0VHblRlOUtSdzZna21hOFoycTFFRHE3bkJZRTI3OHpBUkhabXQzb2xET2ozY0I1ZVVtTXplOG5kb2xEM2RUc21FaThIVEwzNk1kb0NYZElheXFYV3RSb3UtQmU4RE1zY2VlVnFfN1EyRnVlNkc5UUxjcm1uamk4cEJZWkF5UtIB2gFBVV95cUxPY09hSTBmN2o5TGdXWGdsZ3llNmN1NklHaGVMUjlWZnZ1eFJWeldEU09ndVR1WXpnY2dRQUdrSWU4b3hyWEZiOUZDeng5LTNKcjkyNVAwWjUyUm94Rm83eFo5MzBncXktYU5jMnM0c3ZkS0VIZXVNQjRvR0xuZW1rVHkwMnN0Q0dISHVtMDRrSGhFTzZ5OHFMNHE4TkJGNDBTdTFTbkJrZFZCanQ2NjRrNGpHeWZoU0dFdVdkRE42ZHJXbF9fRnRLSlFBNWFvV1JQeGoySGpKV0hxQQ?oc=5",
+        "fetchedAt": "2026-04-15T09:12:19.606335Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYnBaWWgxbE1ZdXZuVy1nNmNQcWpWb1hfYXk3TUpVazJvRGJoSENiRmUtVWkwZGFOeldiWU9SRkhDMnRBRE5SWFEtckF3OFdzdzZzV3M3X0VHblRlOUtSdzZna21hOFoycTFFRHE3bkJZRTI3OHpBUkhabXQzb2xET2ozY0I1ZVVtTXplOG5kb2xEM2RUc21FaThIVEwzNk1kb0NYZElheXFYV3RSb3UtQmU4RE1zY2VlVnFfN1EyRnVlNkc5UUxjcm1uamk4cEJZWkF5UtIB2gFBVV95cUxPY09hSTBmN2o5TGdXWGdsZ3llNmN1NklHaGVMUjlWZnZ1eFJWeldEU09ndVR1WXpnY2dRQUdrSWU4b3hyWEZiOUZDeng5LTNKcjkyNVAwWjUyUm94Rm83eFo5MzBncXktYU5jMnM0c3ZkS0VIZXVNQj"
+      }
+    ]
+  },
+  {
+    "id": "rss-87552",
+    "date": "Mon, 26 Ja",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "European mobile networks lose ground in the global 5G race - ING THINK economic and financial analysis | ING THINK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPY3Jjcmp4clJablNDZXNnZEk0OURKcENhbXYzaTZ1ZVpHdkVyVmtRQTgyejF5TXhFSlUtMHRobGRvRG8tRDFhcWt6OGJ1MHRxbFN2dm1DQmk3U0cxUTlQMW9qTE9zSlpna1BPTmt6eU",
+    "sources": [
+      {
+        "type": "news",
+        "title": "European mobile networks lose ground in the global 5G race - ING THINK economic and financial analysis | ING THINK",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPY3Jjcmp4clJablNDZXNnZEk0OURKcENhbXYzaTZ1ZVpHdkVyVmtRQTgyejF5TXhFSlUtMHRobGRvRG8tRDFhcWt6OGJ1MHRxbFN2dm1DQmk3U0cxUTlQMW9qTE9zSlpna1BPTmt6eUF3WGIzT1pnSTB6eGxrb0xkczVVcGNtZUZvUEw4ZG1vQQ?oc=5",
+        "fetchedAt": "2026-04-15T09:12:19.606337Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPY3Jjcmp4clJablNDZXNnZEk0OURKcENhbXYzaTZ1ZVpHdkVyVmtRQTgyejF5TXhFSlUtMHRobGRvRG8tRDFhcWt6OGJ1MHRxbFN2dm1DQmk3U0cxUTlQMW9qTE9zSlpna1BPTmt6eUF3WGIzT1pnSTB6eGxrb0xkczVVcGNtZUZvUEw4ZG1vQQ?oc=5\" target=\"_blank\">European mobile networks lose ground in the global 5G race</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">ING THINK economic and financial analysis | ING THINK</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-34777",
+    "date": "Tue, 10 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "China Telecom outlines AI-driven transformation strategy - RCR Wireless News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LUlY2RGZKOGFrd214ZTVpSzZsNkN2Vlo4cnlOcDFzR0tlMUZCdmNvNEh0cjBpMUZpRm54UkhsbnhZT0l5eWxSS0llTks4NzNScmJ6NGFYR3pnelh6amZmVGZnYkprNVE?oc=5\" targ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "China Telecom outlines AI-driven transformation strategy - RCR Wireless News",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LUlY2RGZKOGFrd214ZTVpSzZsNkN2Vlo4cnlOcDFzR0tlMUZCdmNvNEh0cjBpMUZpRm54UkhsbnhZT0l5eWxSS0llTks4NzNScmJ6NGFYR3pnelh6amZmVGZnYkprNVE?oc=5",
+        "fetchedAt": "2026-04-15T09:12:19.606339Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1LUlY2RGZKOGFrd214ZTVpSzZsNkN2Vlo4cnlOcDFzR0tlMUZCdmNvNEh0cjBpMUZpRm54UkhsbnhZT0l5eWxSS0llTks4NzNScmJ6NGFYR3pnelh6amZmVGZnYkprNVE?oc=5\" target=\"_blank\">China Telecom outlines AI-driven transformation strategy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">RCR Wireless News</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-24652",
+    "date": "Thu, 12 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "40 Years of Wireless Evolution Leads to a Smart, Sensing Network - IEEE Spectrum",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE0telVJbHJJV1dzblh6RHAxanVnd0VIRld5QnAta2lvSDNMNjlCNGgxQWZtRmV0N2JNbVU5d21oWDZzYlQ5SU02ZWdkTnNFTDBRbFY1aGxPd09WMkFhWjJv0gFzQVVfeXFMTmxyeGZpOV",
+    "sources": [
+      {
+        "type": "news",
+        "title": "40 Years of Wireless Evolution Leads to a Smart, Sensing Network - IEEE Spectrum",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0telVJbHJJV1dzblh6RHAxanVnd0VIRld5QnAta2lvSDNMNjlCNGgxQWZtRmV0N2JNbVU5d21oWDZzYlQ5SU02ZWdkTnNFTDBRbFY1aGxPd09WMkFhWjJv0gFzQVVfeXFMTmxyeGZpOVVESW9feFN2ckJZM196VmJYTTM2U0cwakUza0NKczFWakR0TlhNUndFQUtaSC01TUppOVl4WVE5Yk1RX2VVRlJEMFFqUktMRXl4X1pFZVFFT09vOFNTenhtTktkTGpacHhWOTc3UQ?oc=5",
+        "fetchedAt": "2026-04-15T09:12:19.606341Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE0telVJbHJJV1dzblh6RHAxanVnd0VIRld5QnAta2lvSDNMNjlCNGgxQWZtRmV0N2JNbVU5d21oWDZzYlQ5SU02ZWdkTnNFTDBRbFY1aGxPd09WMkFhWjJv0gFzQVVfeXFMTmxyeGZpOVVESW9feFN2ckJZM196VmJYTTM2U0cwakUza0NKczFWakR0TlhNUndFQUtaSC01TUppOVl4WVE5Yk1RX2VVRlJEMFFqUktMRXl4X1pFZVFFT09vOFNTenhtTktkTGpacHhWOTc3UQ?oc=5\" target=\"_blank\">40 Years of Wireless Evolution Leads to a Smart, Sensing Network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IEEE Spectrum</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-64752",
+    "date": "Wed, 17 De",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Telecom Argentina Sets the Blueprint for “Building the Best 5G Core Network” - Light Reading",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ0hNRkZLQ01UWnBmUXlMS1ZDVllZaEMxcW5WbHVYMk85Wjd1TUQtcFhmeG9hcU9KWGt3SlRCSHhvZ3o5QWg3eHplbWpWc21rRmdRTjQ4NFIwazQ0dGdxSDFhOFNUaHZzeVJ0bnBiMH",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Telecom Argentina Sets the Blueprint for “Building the Best 5G Core Network” - Light Reading",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ0hNRkZLQ01UWnBmUXlMS1ZDVllZaEMxcW5WbHVYMk85Wjd1TUQtcFhmeG9hcU9KWGt3SlRCSHhvZ3o5QWg3eHplbWpWc21rRmdRTjQ4NFIwazQ0dGdxSDFhOFNUaHZzeVJ0bnBiMHVoQTdmc0NBZHZreVFyR2N3MEgxZi1RWnJrc3hZQ0luSFVYRy1XYl9aUVJIZG5jMUdSLWtCWGtBaW9ZSFE?oc=5",
+        "fetchedAt": "2026-04-15T09:12:19.606343Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ0hNRkZLQ01UWnBmUXlMS1ZDVllZaEMxcW5WbHVYMk85Wjd1TUQtcFhmeG9hcU9KWGt3SlRCSHhvZ3o5QWg3eHplbWpWc21rRmdRTjQ4NFIwazQ0dGdxSDFhOFNUaHZzeVJ0bnBiMHVoQTdmc0NBZHZreVFyR2N3MEgxZi1RWnJrc3hZQ0luSFVYRy1XYl9aUVJIZG5jMUdSLWtCWGtBaW9ZSFE?oc=5\" target=\"_blank\">Telecom Argentina Sets the Blueprint for “Building the Best 5G Core Network”</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Light Reading</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-51326",
+    "date": "Tue, 06 Ja",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Telecom Italia, Fastweb eye 5G cost savings with Italy's network deal, sources say - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOF8wTHp4V2hGdDVYWFBpUHg2Q3FhNm9SRmQ3VmRWTmtfUmpySHRDcXo4bzl5Z3JxRXZoMFduUXF1dUFEcFJaRzBDOVFCTlhEVzBDemx1RDA5NkE0eHhzRVRxdmV3a0ZSSUtMWEZ2V1",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Telecom Italia, Fastweb eye 5G cost savings with Italy's network deal, sources say - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOF8wTHp4V2hGdDVYWFBpUHg2Q3FhNm9SRmQ3VmRWTmtfUmpySHRDcXo4bzl5Z3JxRXZoMFduUXF1dUFEcFJaRzBDOVFCTlhEVzBDemx1RDA5NkE0eHhzRVRxdmV3a0ZSSUtMWEZ2V1VTdEtIS21DOEx6UWxkcmNNSjJ5S3gyUWhJRk5CRmpIUDlURUxzQWdicDNPVVFicElkaXNseFJ2eldEVXZJbkRPMVc2c1ZSWjVKcVRVSFJra1FXNk1xcHNnRDV4U0Jldk03NUVRLQ?oc=5",
+        "fetchedAt": "2026-04-15T09:12:19.606344Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOF8wTHp4V2hGdDVYWFBpUHg2Q3FhNm9SRmQ3VmRWTmtfUmpySHRDcXo4bzl5Z3JxRXZoMFduUXF1dUFEcFJaRzBDOVFCTlhEVzBDemx1RDA5NkE0eHhzRVRxdmV3a0ZSSUtMWEZ2V1VTdEtIS21DOEx6UWxkcmNNSjJ5S3gyUWhJRk5CRmpIUDlURUxzQWdicDNPVVFicElkaXNseFJ2eldEVXZJbkRPMVc2c1ZSWjVKcVRVSFJra1FXNk1xcHNnRDV4U0Jldk03NUVRLQ?oc=5\" target=\"_blank\">Telecom Italia, Fastweb eye 5G cost savings with Italy's network deal, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-59152",
+    "date": "Fri, 10 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Telecom Stocks To Watch And Industry News - Investor's Business Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE80TDNBLTNDWTlDR0VrMUpqY3o1azJjS3hDeWJPYWR4VGtmemxxcE55MzJkZHFuMzVoSWpUeFJEcjJwaXdnbUxHTlNxaXlMa0M5WkhlYTd2MHM3ai0xbVlDNzQ0T0VnZlIxeHpQOEpEdk",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Telecom Stocks To Watch And Industry News - Investor's Business Daily",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80TDNBLTNDWTlDR0VrMUpqY3o1azJjS3hDeWJPYWR4VGtmemxxcE55MzJkZHFuMzVoSWpUeFJEcjJwaXdnbUxHTlNxaXlMa0M5WkhlYTd2MHM3ai0xbVlDNzQ0T0VnZlIxeHpQOEpEdkZ2dk80czJlMXZVWHh6QQ?oc=5",
+        "fetchedAt": "2026-04-15T09:12:20.128345Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE80TDNBLTNDWTlDR0VrMUpqY3o1azJjS3hDeWJPYWR4VGtmemxxcE55MzJkZHFuMzVoSWpUeFJEcjJwaXdnbUxHTlNxaXlMa0M5WkhlYTd2MHM3ai0xbVlDNzQ0T0VnZlIxeHpQOEpEdkZ2dk80czJlMXZVWHh6QQ?oc=5\" target=\"_blank\">Telecom Stocks To Watch And Industry News</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-88295",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Government Slashes 40 Billion Won From Telecoms, Demands 6G Investments - 조선일보",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxORkFEZHYxUkhsNzNDZG9uR19ES1cyU3psaVVSbG5pY3pGaUFiWEZseThPa0x0aTZiX2hhNkw2X2NxdmduNDB0ZkVwUFg1cDF5T0g1WVEzaVpseUEtNS1LQk5ZU3NiNDNfME9OWHFjWE",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Government Slashes 40 Billion Won From Telecoms, Demands 6G Investments - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORkFEZHYxUkhsNzNDZG9uR19ES1cyU3psaVVSbG5pY3pGaUFiWEZseThPa0x0aTZiX2hhNkw2X2NxdmduNDB0ZkVwUFg1cDF5T0g1WVEzaVpseUEtNS1LQk5ZU3NiNDNfME9OWHFjWE51TG1lSXV4eVhTU2Y2TS1YUE5QeWdJR3Fs?oc=5",
+        "fetchedAt": "2026-04-15T09:12:20.128357Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxORkFEZHYxUkhsNzNDZG9uR19ES1cyU3psaVVSbG5pY3pGaUFiWEZseThPa0x0aTZiX2hhNkw2X2NxdmduNDB0ZkVwUFg1cDF5T0g1WVEzaVpseUEtNS1LQk5ZU3NiNDNfME9OWHFjWE51TG1lSXV4eVhTU2Y2TS1YUE5QeWdJR3Fs?oc=5\" target=\"_blank\">Government Slashes 40 Billion Won From Telecoms, Demands 6G Investments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">조선일보</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-91513",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Telecom sector facing fragile investor sentiment amid price wars: analysts - Castanet",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWXdLUnpDdERnYVlIMzJ6dk9ibzd0RzZhYWF4R2I1eEluaHpCbVdEcTFfQzVjbnJ1NGctTG9MRzRtd0hqN2hNbTVvSUxCTl9ZM1ZYeE9sMFowWUxzVGg0MjRRcWw0d29LWE1PWXdvTj",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Telecom sector facing fragile investor sentiment amid price wars: analysts - Castanet",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWXdLUnpDdERnYVlIMzJ6dk9ibzd0RzZhYWF4R2I1eEluaHpCbVdEcTFfQzVjbnJ1NGctTG9MRzRtd0hqN2hNbTVvSUxCTl9ZM1ZYeE9sMFowWUxzVGg0MjRRcWw0d29LWE1PWXdvTjBSNlRwT0NpX3pVNnc5U0pOTmRlR1FrY0JXNC1rWEdLWWxEdWprVEFfNmhFYXpKMGtKVXNaUU0yYlVWVlZIM25SZVM5OXh0bmhBcFp3?oc=5",
+        "fetchedAt": "2026-04-15T09:12:20.128360Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWXdLUnpDdERnYVlIMzJ6dk9ibzd0RzZhYWF4R2I1eEluaHpCbVdEcTFfQzVjbnJ1NGctTG9MRzRtd0hqN2hNbTVvSUxCTl9ZM1ZYeE9sMFowWUxzVGg0MjRRcWw0d29LWE1PWXdvTjBSNlRwT0NpX3pVNnc5U0pOTmRlR1FrY0JXNC1rWEdLWWxEdWprVEFfNmhFYXpKMGtKVXNaUU0yYlVWVlZIM25SZVM5OXh0bmhBcFp3?oc=5\" target=\"_blank\">Telecom sector facing fragile investor sentiment amid price wars: analysts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Castanet</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-56621",
+    "date": "Thu, 09 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Industry Analyst offers comment to news media for AI, 5G, Wireless, Telecom and Technology coverage - Pocono Record",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOG13bkFOZXJtRVdWTFZYYVVsOXBNajhkOWNiVmwwZDVTdnB1dUlZSWgtLWFuQXFJd2oyQjRyNVBQQTBTRm5la1J2OUpFdnhsNUlKUkFiVXZUTkhtUGdVMG9TQXJZS25MMUpTSE56UU",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Industry Analyst offers comment to news media for AI, 5G, Wireless, Telecom and Technology coverage - Pocono Record",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOG13bkFOZXJtRVdWTFZYYVVsOXBNajhkOWNiVmwwZDVTdnB1dUlZSWgtLWFuQXFJd2oyQjRyNVBQQTBTRm5la1J2OUpFdnhsNUlKUkFiVXZUTkhtUGdVMG9TQXJZS25MMUpTSE56UUI1MWFPZTJ2ZjJJcTFwckdabDJXQnNOUFh0QUttbl9mN3ZRMEo3M3pJZ01mX00ydnJGRnhjMUtsem1KX0RkOE9qUi1lWjNoZkl1Rl9qZE9sLUFydkhjRlZBQmMxUG5DTUpqY1VfY1hFdkdoWlJJZkJKX3gxR25mVFk?oc=5",
+        "fetchedAt": "2026-04-15T09:12:20.128362Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOG13bkFOZXJtRVdWTFZYYVVsOXBNajhkOWNiVmwwZDVTdnB1dUlZSWgtLWFuQXFJd2oyQjRyNVBQQTBTRm5la1J2OUpFdnhsNUlKUkFiVXZUTkhtUGdVMG9TQXJZS25MMUpTSE56UUI1MWFPZTJ2ZjJJcTFwckdabDJXQnNOUFh0QUttbl9mN3ZRMEo3M3pJZ01mX00ydnJGRnhjMUtsem1KX0RkOE9qUi1lWjNoZkl1Rl9qZE9sLUFydkhjRlZBQmMxUG5DTUpqY1VfY1hFdkdoWlJJZkJKX3gxR25mVFk?oc=5\" target=\"_blank\">Industry Analyst offers comment to news media for AI, 5G, Wireless, Telecom and Technology coverage</a>&nbsp;&nbsp;<"
+      }
+    ]
+  },
+  {
+    "id": "rss-74683",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Sierra Leone Sparks Telecom Comeback with Bold Relaunch of Sierratel - TechAfrica News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWEtRZnBrUlZUTkhXN1FDbEt6Z2l3WHZ3U0oxT2hvVVNLMm1hS29ibFhDaGFlSnBCNDBqX1dETHlWaGxuc2d0eWQwR2NHcmt5OWNjRVI5b2pFejdqRGJLNHJFelN1dFoyYTNHbjY4LW",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Sierra Leone Sparks Telecom Comeback with Bold Relaunch of Sierratel - TechAfrica News",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWEtRZnBrUlZUTkhXN1FDbEt6Z2l3WHZ3U0oxT2hvVVNLMm1hS29ibFhDaGFlSnBCNDBqX1dETHlWaGxuc2d0eWQwR2NHcmt5OWNjRVI5b2pFejdqRGJLNHJFelN1dFoyYTNHbjY4LWRHZ2sxSHVMYVk0MlNIb1gwcHI4MHhTbi1QbVIwVFdCMTB2bWZRY3RNbV9ka1R2d3k5OVFCdzdnOHhNZG8?oc=5",
+        "fetchedAt": "2026-04-15T09:12:20.128364Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWEtRZnBrUlZUTkhXN1FDbEt6Z2l3WHZ3U0oxT2hvVVNLMm1hS29ibFhDaGFlSnBCNDBqX1dETHlWaGxuc2d0eWQwR2NHcmt5OWNjRVI5b2pFejdqRGJLNHJFelN1dFoyYTNHbjY4LWRHZ2sxSHVMYVk0MlNIb1gwcHI4MHhTbi1QbVIwVFdCMTB2bWZRY3RNbV9ka1R2d3k5OVFCdzdnOHhNZG8?oc=5\" target=\"_blank\">Sierra Leone Sparks Telecom Comeback with Bold Relaunch of Sierratel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TechAfrica News</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-73746",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Telecom infrastructure providers, gear makers face disruptions - ET Telecom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPa3ZZS3pnbEtBS3ItanpjZnBRcUF4TWwxQ3RRT2NkdENHTTd2MTJ2cDdfUXVoWEk3NEFMb21oVnY1SWZHQVJSSzMxay1lbTJwa3RPYlZGTEJPSzFaTF9abDZLek5YT1UxdkZBcWw3LV",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Telecom infrastructure providers, gear makers face disruptions - ET Telecom",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPa3ZZS3pnbEtBS3ItanpjZnBRcUF4TWwxQ3RRT2NkdENHTTd2MTJ2cDdfUXVoWEk3NEFMb21oVnY1SWZHQVJSSzMxay1lbTJwa3RPYlZGTEJPSzFaTF9abDZLek5YT1UxdkZBcWw3LVUwd242NGY0UDVqMEdidEszUjRNWGdCSW12ZnVnSGg0Z2cwN2JoVzZWa1hncHJfX3VIUVIzR21ndFgxQ3U3ZzhETmRHN0ctcXFVT0h4Tlg2elZUZllFMnfSAcsBQVVfeXFMTzVpLVZBOGdOVWVCTkh5dTdoUUkxSGo5S0pvWFVZVk81eUtZdUwxUElXQ2p0eGR3MlhrUm5GbGQ2R3BDejVoZFhLZVRkeWt6THFoRVV5VGUxUzl3cVFmdDR2OEZkb1h1VjBrUFF1UGFUYWltT2lnbTF5WVZLNm9jTS1HY0lfc2w0MWFROW1KeTUtUllad1pNeGpXbWktamx3bEtDNHRpVWlZVnZMMzV2eGgzRmV6cEd1cF9rdUFBbGZ4dXlnNHBMM3dsWHc?oc=5",
+        "fetchedAt": "2026-04-15T09:12:20.128366Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPa3ZZS3pnbEtBS3ItanpjZnBRcUF4TWwxQ3RRT2NkdENHTTd2MTJ2cDdfUXVoWEk3NEFMb21oVnY1SWZHQVJSSzMxay1lbTJwa3RPYlZGTEJPSzFaTF9abDZLek5YT1UxdkZBcWw3LVUwd242NGY0UDVqMEdidEszUjRNWGdCSW12ZnVnSGg0Z2cwN2JoVzZWa1hncHJfX3VIUVIzR21ndFgxQ3U3ZzhETmRHN0ctcXFVT0h4Tlg2elZUZllFMnfSAcsBQVVfeXFMTzVpLVZBOGdOVWVCTkh5dTdoUUkxSGo5S0pvWFVZVk81eUtZdUwxUElXQ2p0eGR3MlhrUm5GbGQ2R3BDejVoZFhLZVRkeWt6THFoRVV5VGUxUzl3cVFmdDR2OEZkb1h1VjBrUFF1UGFUYWltT2lnbTF5WVZLNm9jTS1HY0lfc2"
+      }
+    ]
+  },
+  {
+    "id": "rss-37554",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Kazakhstan's telecom sector grows to ₸379 billion in Q1 2026 - Qazinform",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPWTdLYl9jSWpfQ2RhRVlwOHpjOGNhRXg0a002cDIwQzRYQllXMnBNenR2aFIxM0FrQjBKN0JoX2ZyMEtraXFXLTl4UWdvTEdnQW5pRzQ2Y0JnZnowdms1WGJpWDg0RXMyaE9WQTRFcH",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Kazakhstan's telecom sector grows to ₸379 billion in Q1 2026 - Qazinform",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWTdLYl9jSWpfQ2RhRVlwOHpjOGNhRXg0a002cDIwQzRYQllXMnBNenR2aFIxM0FrQjBKN0JoX2ZyMEtraXFXLTl4UWdvTEdnQW5pRzQ2Y0JnZnowdms1WGJpWDg0RXMyaE9WQTRFcHhBZmU2T3pnbUxtTGZ3cHhrejJyQ0w0VEFwWVF6VXNWR0V5NzZhVWhz0gGXAUFVX3lxTE1MY2NkVll0MDV6ZXZOa1ppVFVrd0s2dUdlRU1SUmhaWi1YXzdlSl9uOG4ySWctRGdoVUt4QWx5VnJ4VS1NY2xtd1E3Wm9rT1JGNEU0cDdxSjB6WFk2Q3BCYmJFTGp1NDd1MGFONTJPRElKOTBBWUhTRmFPanpNc3hnVUF4NExuc2R3dFRsNUVXVDdydFlvYnc?oc=5",
+        "fetchedAt": "2026-04-15T09:12:20.128370Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPWTdLYl9jSWpfQ2RhRVlwOHpjOGNhRXg0a002cDIwQzRYQllXMnBNenR2aFIxM0FrQjBKN0JoX2ZyMEtraXFXLTl4UWdvTEdnQW5pRzQ2Y0JnZnowdms1WGJpWDg0RXMyaE9WQTRFcHhBZmU2T3pnbUxtTGZ3cHhrejJyQ0w0VEFwWVF6VXNWR0V5NzZhVWhz0gGXAUFVX3lxTE1MY2NkVll0MDV6ZXZOa1ppVFVrd0s2dUdlRU1SUmhaWi1YXzdlSl9uOG4ySWctRGdoVUt4QWx5VnJ4VS1NY2xtd1E3Wm9rT1JGNEU0cDdxSjB6WFk2Q3BCYmJFTGp1NDd1MGFONTJPRElKOTBBWUhTRmFPanpNc3hnVUF4NExuc2R3dFRsNUVXVDdydFlvYnc?oc=5\" target=\"_blank\">Kazakhstan's tel"
+      }
+    ]
+  },
+  {
+    "id": "rss-56333",
+    "date": "Fri, 09 Ja",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Telecom sector sees steady rise in ransomware attacks - Cybersecurity Dive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPRHBpSkpYT3g5OHlJNUJIQ0JaR3h2bzdvMnV3SEh3WjYzUWRXaW5lWF8zTHlrV3lGendiYnN0blFtLWlGWHE4c2xOMTVET0g0MG45UTVjY002NjVRdXdIN0hjNGtjWjJMRGFiUXhSUW",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Telecom sector sees steady rise in ransomware attacks - Cybersecurity Dive",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRHBpSkpYT3g5OHlJNUJIQ0JaR3h2bzdvMnV3SEh3WjYzUWRXaW5lWF8zTHlrV3lGendiYnN0blFtLWlGWHE4c2xOMTVET0g0MG45UTVjY002NjVRdXdIN0hjNGtjWjJMRGFiUXhSUWh5MzFOV2IwdmR4eHRKZUtjWU5mMA?oc=5",
+        "fetchedAt": "2026-04-15T09:12:20.128372Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPRHBpSkpYT3g5OHlJNUJIQ0JaR3h2bzdvMnV3SEh3WjYzUWRXaW5lWF8zTHlrV3lGendiYnN0blFtLWlGWHE4c2xOMTVET0g0MG45UTVjY002NjVRdXdIN0hjNGtjWjJMRGFiUXhSUWh5MzFOV2IwdmR4eHRKZUtjWU5mMA?oc=5\" target=\"_blank\">Telecom sector sees steady rise in ransomware attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cybersecurity Dive</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-42148",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Singapore Telecommunications Ltd stock (SG1M31001969): Is its digital pivot strong enough to unlock - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPVmRrYmRLcTBZM0ZoNzlvR19zX3NsUjZmbzM0d0xzUkdWaGMyS3dZbktuZy1YZG1CVGJ0QmVhYTJDLS1wZHZhYVlHLWxWV25sZHdYQXRhaFJyTDZZOFFhWnFNMUtaTXRjX2VSWXB6Vm",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Singapore Telecommunications Ltd stock (SG1M31001969): Is its digital pivot strong enough to unlock - AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVmRrYmRLcTBZM0ZoNzlvR19zX3NsUjZmbzM0d0xzUkdWaGMyS3dZbktuZy1YZG1CVGJ0QmVhYTJDLS1wZHZhYVlHLWxWV25sZHdYQXRhaFJyTDZZOFFhWnFNMUtaTXRjX2VSWXB6VmRVWG5oTlBTTWF2cVdwRnA4VzRHUnEzZTB4UXJZLTFabHZWaUgyMnJQdXEyY2h6d2sxSHoxX2h6TVRJalA5LUtFbkhNVjVLT2RmQ3dGVw?oc=5",
+        "fetchedAt": "2026-04-15T09:12:20.128373Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPVmRrYmRLcTBZM0ZoNzlvR19zX3NsUjZmbzM0d0xzUkdWaGMyS3dZbktuZy1YZG1CVGJ0QmVhYTJDLS1wZHZhYVlHLWxWV25sZHdYQXRhaFJyTDZZOFFhWnFNMUtaTXRjX2VSWXB6VmRVWG5oTlBTTWF2cVdwRnA4VzRHUnEzZTB4UXJZLTFabHZWaUgyMnJQdXEyY2h6d2sxSHoxX2h6TVRJalA5LUtFbkhNVjVLT2RmQ3dGVw?oc=5\" target=\"_blank\">Singapore Telecommunications Ltd stock (SG1M31001969): Is its digital pivot strong enough to unlock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-41745",
+    "date": "Mon, 13 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Telecom sector facing 'fragile' investor sentiment amid price wars: analysts - Airdrie City View",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQc0owMHFhWlA0S3NIcGx0akl6WkVvWVE5RWxYY2p5NFJWZkQ3TXZZdVdBQ1lXVk5nZnRabnhOTVZiLU9GWUVGNTV1a0ctdVA4X3FkZEZLTV9wcjl0WmlKYWdWdXh1S1dpQ0xlZXdkN0",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Telecom sector facing 'fragile' investor sentiment amid price wars: analysts - Airdrie City View",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQc0owMHFhWlA0S3NIcGx0akl6WkVvWVE5RWxYY2p5NFJWZkQ3TXZZdVdBQ1lXVk5nZnRabnhOTVZiLU9GWUVGNTV1a0ctdVA4X3FkZEZLTV9wcjl0WmlKYWdWdXh1S1dpQ0xlZXdkN092bXViRW5GYnZvTE9VVC04Rk03a2RTNEY0bUhVeDBNN1d1VzVWTUw4UzlPTHA0SG50TklKaVNQdVoyanhsb2tDU2VURDRXN1JGcVMySUlFdEw4TlpIamdXaFJQcmQ?oc=5",
+        "fetchedAt": "2026-04-15T09:12:20.128375Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQc0owMHFhWlA0S3NIcGx0akl6WkVvWVE5RWxYY2p5NFJWZkQ3TXZZdVdBQ1lXVk5nZnRabnhOTVZiLU9GWUVGNTV1a0ctdVA4X3FkZEZLTV9wcjl0WmlKYWdWdXh1S1dpQ0xlZXdkN092bXViRW5GYnZvTE9VVC04Rk03a2RTNEY0bUhVeDBNN1d1VzVWTUw4UzlPTHA0SG50TklKaVNQdVoyanhsb2tDU2VURDRXN1JGcVMySUlFdEw4TlpIamdXaFJQcmQ?oc=5\" target=\"_blank\">Telecom sector facing 'fragile' investor sentiment amid price wars: analysts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Airdrie City View</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-41514",
+    "date": "Tue, 14 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "TELUS (TSX:T) Strengthens Position In Canadian Telecom Sector In S&P/TSX - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxON085SWhIVTlkMnhUQTU1dXFBUk1ycjlWY3g5ZGE0dWhmamVQd0QtQTd5N05iWG5qVUlWMHlQNEpqYktrRndzU1UxeUdtSGV4bk1Zal9WZ2dxdk5CWEtiR25VX1lBNXJTVEluNmlncl",
+    "sources": [
+      {
+        "type": "news",
+        "title": "TELUS (TSX:T) Strengthens Position In Canadian Telecom Sector In S&P/TSX - Kalkine Media",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON085SWhIVTlkMnhUQTU1dXFBUk1ycjlWY3g5ZGE0dWhmamVQd0QtQTd5N05iWG5qVUlWMHlQNEpqYktrRndzU1UxeUdtSGV4bk1Zal9WZ2dxdk5CWEtiR25VX1lBNXJTVEluNmlncllGYm5pYUNBZUVLdDBFdWwwX0VkMXJXamNPSGstM3ZuSVlDOFoxZ016d2Ytc1p3a0Zpd3NHb1h1VUM3U191N2Qta3ptb0JYN0E?oc=5",
+        "fetchedAt": "2026-04-15T09:12:20.128378Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxON085SWhIVTlkMnhUQTU1dXFBUk1ycjlWY3g5ZGE0dWhmamVQd0QtQTd5N05iWG5qVUlWMHlQNEpqYktrRndzU1UxeUdtSGV4bk1Zal9WZ2dxdk5CWEtiR25VX1lBNXJTVEluNmlncllGYm5pYUNBZUVLdDBFdWwwX0VkMXJXamNPSGstM3ZuSVlDOFoxZ016d2Ytc1p3a0Zpd3NHb1h1VUM3U191N2Qta3ptb0JYN0E?oc=5\" target=\"_blank\">TELUS (TSX:T) Strengthens Position In Canadian Telecom Sector In S&P/TSX</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Kalkine Media</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-48268",
+    "date": "Thu, 19 Fe",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "2026 Global Telecommunications Industry Outlook - Deloitte",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOOEV0bVp0eVBxaFQ4LW9paW9BXzhjM043Ny05UXpoS2JTQXExcFcxckZpekFad01aN0x6V3hLSmdEWXRnVFpHb2VzeFVGQkNMNkVIUUsyemJkX3hucE9QVFZ4NDlLYkE2UUkzd2tOdk",
+    "sources": [
+      {
+        "type": "news",
+        "title": "2026 Global Telecommunications Industry Outlook - Deloitte",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOOEV0bVp0eVBxaFQ4LW9paW9BXzhjM043Ny05UXpoS2JTQXExcFcxckZpekFad01aN0x6V3hLSmdEWXRnVFpHb2VzeFVGQkNMNkVIUUsyemJkX3hucE9QVFZ4NDlLYkE2UUkzd2tOdkNlWjdCSjNOc09rS3RqeTZ6ZnpPRXlUSXdlUnNxYmswdmI1VDJMU285NzQ1NVlDX05mVVlKTFROem1qbG9RWTJzV1Uzb0lNQXMwYWt2NkRJUFU4NnpHbF9XbllCbGxoWDQ?oc=5",
+        "fetchedAt": "2026-04-15T09:12:20.128379Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxOOEV0bVp0eVBxaFQ4LW9paW9BXzhjM043Ny05UXpoS2JTQXExcFcxckZpekFad01aN0x6V3hLSmdEWXRnVFpHb2VzeFVGQkNMNkVIUUsyemJkX3hucE9QVFZ4NDlLYkE2UUkzd2tOdkNlWjdCSjNOc09rS3RqeTZ6ZnpPRXlUSXdlUnNxYmswdmI1VDJMU285NzQ1NVlDX05mVVlKTFROem1qbG9RWTJzV1Uzb0lNQXMwYWt2NkRJUFU4NnpHbF9XbllCbGxoWDQ?oc=5\" target=\"_blank\">2026 Global Telecommunications Industry Outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Deloitte</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-44287",
+    "date": "Fri, 13 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Telecom Services Q1 2026 Earnings Review: Satellite vs. Wireless Performance - News and Statistics - IndexBox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNamZDYk1NaUswWC1iTkkzeFNDWGpYVm9TRlMzZUJRUVVEeU1rQmpZRWU4ck9Dd0NHZzB1Sk5YQUhRWFIybW9GNHZxbUZmcEdDVl9VaFhwSUVkamlTS3ZWSzNMbEcyVWxhT1U1ckFMYT",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Telecom Services Q1 2026 Earnings Review: Satellite vs. Wireless Performance - News and Statistics - IndexBox",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNamZDYk1NaUswWC1iTkkzeFNDWGpYVm9TRlMzZUJRUVVEeU1rQmpZRWU4ck9Dd0NHZzB1Sk5YQUhRWFIybW9GNHZxbUZmcEdDVl9VaFhwSUVkamlTS3ZWSzNMbEcyVWxhT1U1ckFMYTR6c1JtS3FraE1QWFRmd3QxX3ZWZFdYc3NlT2ZhekItNTRWSnlnb1B4VXItc0RSNGNHQ0NF?oc=5",
+        "fetchedAt": "2026-04-15T09:12:20.128381Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNamZDYk1NaUswWC1iTkkzeFNDWGpYVm9TRlMzZUJRUVVEeU1rQmpZRWU4ck9Dd0NHZzB1Sk5YQUhRWFIybW9GNHZxbUZmcEdDVl9VaFhwSUVkamlTS3ZWSzNMbEcyVWxhT1U1ckFMYTR6c1JtS3FraE1QWFRmd3QxX3ZWZFdYc3NlT2ZhekItNTRWSnlnb1B4VXItc0RSNGNHQ0NF?oc=5\" target=\"_blank\">Telecom Services Q1 2026 Earnings Review: Satellite vs. Wireless Performance - News and Statistics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">IndexBox</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-86359",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Far EasTone Telecommunications stock (TW0004904008): Why does its Taiwan mobile dominance matter mor - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOTVRTbHBJOVFXTUFLT0tJNTFEbmMwZndkdFlfcmtMQ1hZYUVPMmN3N0liU3VySXNGSG9KakJDaE1qMU8zNWM0SU1EMmU3MWQ3eVdSZmZhUXdxcUoxQlRWVGxMWkg5NngtaU1XLU5Uek",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Far EasTone Telecommunications stock (TW0004904008): Why does its Taiwan mobile dominance matter mor - AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTVRTbHBJOVFXTUFLT0tJNTFEbmMwZndkdFlfcmtMQ1hZYUVPMmN3N0liU3VySXNGSG9KakJDaE1qMU8zNWM0SU1EMmU3MWQ3eVdSZmZhUXdxcUoxQlRWVGxMWkg5NngtaU1XLU5UekFYNDlqNThqcHo3clZROXNJQUtReTRRWkp2TDdUeExsdlAwcllXemZlSm1VZkxKOEFBeFVZV1U3c21LWUJlRWZwS3FodjFlRWxzMWRhTWs5VHVmcTFsZkJV?oc=5",
+        "fetchedAt": "2026-04-15T09:12:20.128383Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOTVRTbHBJOVFXTUFLT0tJNTFEbmMwZndkdFlfcmtMQ1hZYUVPMmN3N0liU3VySXNGSG9KakJDaE1qMU8zNWM0SU1EMmU3MWQ3eVdSZmZhUXdxcUoxQlRWVGxMWkg5NngtaU1XLU5UekFYNDlqNThqcHo3clZROXNJQUtReTRRWkp2TDdUeExsdlAwcllXemZlSm1VZkxKOEFBeFVZV1U3c21LWUJlRWZwS3FodjFlRWxzMWRhTWs5VHVmcTFsZkJV?oc=5\" target=\"_blank\">Far EasTone Telecommunications stock (TW0004904008): Why does its Taiwan mobile dominance matter mor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-64275",
+    "date": "Thu, 20 No",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "FCC eliminates cybersecurity requirements for telecom companies - Cybersecurity Dive",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNRlB0bHdScjVxSU9XSktmdGY4NzhqdnU5eEx4OXQySlhuU0R0aWV2YWVFa2Ixakw3S1lDcmdSaWM2Nm9tVko1bm1wNGtlTV9kN29CTTNBTUJWZjkxZHlGZURYTUhUYU1BUlI2NkdKcG",
+    "sources": [
+      {
+        "type": "news",
+        "title": "FCC eliminates cybersecurity requirements for telecom companies - Cybersecurity Dive",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRlB0bHdScjVxSU9XSktmdGY4NzhqdnU5eEx4OXQySlhuU0R0aWV2YWVFa2Ixakw3S1lDcmdSaWM2Nm9tVko1bm1wNGtlTV9kN29CTTNBTUJWZjkxZHlGZURYTUhUYU1BUlI2NkdKcG5fTENnMFFZSzB2QTNiN3FOQm5HWVNtTDFoaV9ma1B1V3Y4bW8tOFZ0NEx1bHI?oc=5",
+        "fetchedAt": "2026-04-15T09:12:20.128385Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNRlB0bHdScjVxSU9XSktmdGY4NzhqdnU5eEx4OXQySlhuU0R0aWV2YWVFa2Ixakw3S1lDcmdSaWM2Nm9tVko1bm1wNGtlTV9kN29CTTNBTUJWZjkxZHlGZURYTUhUYU1BUlI2NkdKcG5fTENnMFFZSzB2QTNiN3FOQm5HWVNtTDFoaV9ma1B1V3Y4bW8tOFZ0NEx1bHI?oc=5\" target=\"_blank\">FCC eliminates cybersecurity requirements for telecom companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Cybersecurity Dive</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-64942",
+    "date": "Wed, 15 Ap",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Telefônica Brasil S.A. stock (BRVIVTACNOR0): Why its telecom dominance in Brazil matter more now fo - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQYnFDNHBDSXlsMGJqTWRrcVFWNFROWm5nSmRzX1drUXR5Q2VpaEt4NWt2clJDRFhIb09EcVJxRlNmaXlEX2ZpYU9aUHZEdlE0dEtTdHJiREpreENZTFVtdlRQU1JraGFRZC05aW1Lc0",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Telefônica Brasil S.A. stock (BRVIVTACNOR0): Why its telecom dominance in Brazil matter more now fo - AD HOC NEWS",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYnFDNHBDSXlsMGJqTWRrcVFWNFROWm5nSmRzX1drUXR5Q2VpaEt4NWt2clJDRFhIb09EcVJxRlNmaXlEX2ZpYU9aUHZEdlE0dEtTdHJiREpreENZTFVtdlRQU1JraGFRZC05aW1Lc0dWeVVfZTBlWG8zb3VzaWJ4ejNKUzR3UjNqYXo0cFJfMzVmOS03bUwxSmhjc3pSQVFfSlcySXZITFVEQklWTDVlUEJNaXMyWWFqdk1aY0x6YVJYaUN1NjNB?oc=5",
+        "fetchedAt": "2026-04-15T09:12:20.128387Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQYnFDNHBDSXlsMGJqTWRrcVFWNFROWm5nSmRzX1drUXR5Q2VpaEt4NWt2clJDRFhIb09EcVJxRlNmaXlEX2ZpYU9aUHZEdlE0dEtTdHJiREpreENZTFVtdlRQU1JraGFRZC05aW1Lc0dWeVVfZTBlWG8zb3VzaWJ4ejNKUzR3UjNqYXo0cFJfMzVmOS03bUwxSmhjc3pSQVFfSlcySXZITFVEQklWTDVlUEJNaXMyWWFqdk1aY0x6YVJYaUN1NjNB?oc=5\" target=\"_blank\">Telefônica Brasil S.A. stock (BRVIVTACNOR0): Why its telecom dominance in Brazil matter more now fo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AD HOC NEWS</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-15900",
+    "date": "Thu, 26 Fe",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "HCLTech to drive dialogues on AI-native future of telecom industry at MWC 2026 - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQT21wdzd1aWJ6M3h4eUo4cmJmYVA0QUdsejJYa2plY24zTlQtbTM4dzJPX05qdVI4UlFhY3cyMHV0bmM1cFJWMWpxRVpJOF9ZYWEtY0JfRU0wdGNKVXZVQVVTNjctZm9PUnVNZzBGZl",
+    "sources": [
+      {
+        "type": "news",
+        "title": "HCLTech to drive dialogues on AI-native future of telecom industry at MWC 2026 - PR Newswire",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT21wdzd1aWJ6M3h4eUo4cmJmYVA0QUdsejJYa2plY24zTlQtbTM4dzJPX05qdVI4UlFhY3cyMHV0bmM1cFJWMWpxRVpJOF9ZYWEtY0JfRU0wdGNKVXZVQVVTNjctZm9PUnVNZzBGZlZPWVFiWUJxUF9SSDRGRG1NdVpkcTRoNm9GcjlVMEhSc1I1VHM4dWU2NzBIa0p0a2lOcnhBMjl4VDA0bFJxNThWdTNHdjI3b21qZGxLaG5NZUl2LXZWdGJiMlZoU1kwdmM?oc=5",
+        "fetchedAt": "2026-04-15T09:12:20.128389Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQT21wdzd1aWJ6M3h4eUo4cmJmYVA0QUdsejJYa2plY24zTlQtbTM4dzJPX05qdVI4UlFhY3cyMHV0bmM1cFJWMWpxRVpJOF9ZYWEtY0JfRU0wdGNKVXZVQVVTNjctZm9PUnVNZzBGZlZPWVFiWUJxUF9SSDRGRG1NdVpkcTRoNm9GcjlVMEhSc1I1VHM4dWU2NzBIa0p0a2lOcnhBMjl4VDA0bFJxNThWdTNHdjI3b21qZGxLaG5NZUl2LXZWdGJiMlZoU1kwdmM?oc=5\" target=\"_blank\">HCLTech to drive dialogues on AI-native future of telecom industry at MWC 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">PR Newswire</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-56579",
+    "date": "Mon, 02 Ma",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "MWC 2026 kicks off as the telecom industry face three 'mountains': 5G, AI, and scams - SDxCentral",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOWFBoUmhyOGZ6dEJtVm1EV3Q1ZEllUzZzTktINE9fNVdfRWZkYVBULVMzeUN3MzN1WnZzR2gwNWhWejZxOFZudm01Ykg0emdGZ1Aza2l1Qi1CVWo5aFFzSmhLQjJtVTBfOVA4ZmF2X0",
+    "sources": [
+      {
+        "type": "news",
+        "title": "MWC 2026 kicks off as the telecom industry face three 'mountains': 5G, AI, and scams - SDxCentral",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWFBoUmhyOGZ6dEJtVm1EV3Q1ZEllUzZzTktINE9fNVdfRWZkYVBULVMzeUN3MzN1WnZzR2gwNWhWejZxOFZudm01Ykg0emdGZ1Aza2l1Qi1CVWo5aFFzSmhLQjJtVTBfOVA4ZmF2X0p2SktoZXR2c0p2VnNGZ1dwUFhnTFlzMGNlQkVqaGltMDdtM2RzQjk1OTk2bDVWWUpQYnBMczFWeHdwckVGdm0yaHRB?oc=5",
+        "fetchedAt": "2026-04-15T09:12:20.128391Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOWFBoUmhyOGZ6dEJtVm1EV3Q1ZEllUzZzTktINE9fNVdfRWZkYVBULVMzeUN3MzN1WnZzR2gwNWhWejZxOFZudm01Ykg0emdGZ1Aza2l1Qi1CVWo5aFFzSmhLQjJtVTBfOVA4ZmF2X0p2SktoZXR2c0p2VnNGZ1dwUFhnTFlzMGNlQkVqaGltMDdtM2RzQjk1OTk2bDVWWUpQYnBMczFWeHdwckVGdm0yaHRB?oc=5\" target=\"_blank\">MWC 2026 kicks off as the telecom industry face three 'mountains': 5G, AI, and scams</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SDxCentral</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-66949",
+    "date": "Thu, 22 Ja",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Telecom is suffering a big exodus of vendors - Light Reading",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQd2tOQXZFLWVvLWszNUF4LUpjdFVHOVJwdHF6czlMR0pPZjJOS1lLN3VzMjVtQy00R1ljODhvLVJ0VktTQmhFTUxIZ0tNa0k3UEZZUWxFVVQxamxDZDZuWnQ1cXpCZWRKczVpS21JNX",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Telecom is suffering a big exodus of vendors - Light Reading",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd2tOQXZFLWVvLWszNUF4LUpjdFVHOVJwdHF6czlMR0pPZjJOS1lLN3VzMjVtQy00R1ljODhvLVJ0VktTQmhFTUxIZ0tNa0k3UEZZUWxFVVQxamxDZDZuWnQ1cXpCZWRKczVpS21JNXJkS2pmR045eVdTZmN4Z2ZpS0lR?oc=5",
+        "fetchedAt": "2026-04-15T09:12:20.128392Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQd2tOQXZFLWVvLWszNUF4LUpjdFVHOVJwdHF6czlMR0pPZjJOS1lLN3VzMjVtQy00R1ljODhvLVJ0VktTQmhFTUxIZ0tNa0k3UEZZUWxFVVQxamxDZDZuWnQ1cXpCZWRKczVpS21JNXJkS2pmR045eVdTZmN4Z2ZpS0lR?oc=5\" target=\"_blank\">Telecom is suffering a big exodus of vendors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Light Reading</font>"
+      }
+    ]
+  },
+  {
+    "id": "rss-84376",
+    "date": "Thu, 05 Fe",
+    "companies": [],
+    "topics": [
+      "news"
+    ],
+    "impact": "neutral",
+    "title": "Strengthening America’s Telecom Workers - Federal Communications Commission (.gov)",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE16OHM5UEdjRG9iSjg2SXpNaFZFMzVXU2c4S21QckxQWFhjTGp6Q0h2SV9XU3EwS1I1cHExNmRUc1RBLXB3bHJ3UW9EbTBrc2lZRm5ucUdyRHJGLW54RU9PT2lVaG8wSF9FR2c?oc=5\" ",
+    "sources": [
+      {
+        "type": "news",
+        "title": "Strengthening America’s Telecom Workers - Federal Communications Commission (.gov)",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16OHM5UEdjRG9iSjg2SXpNaFZFMzVXU2c4S21QckxQWFhjTGp6Q0h2SV9XU3EwS1I1cHExNmRUc1RBLXB3bHJ3UW9EbTBrc2lZRm5ucUdyRHJGLW54RU9PT2lVaG8wSF9FR2c?oc=5",
+        "fetchedAt": "2026-04-15T09:12:20.128395Z",
+        "excerpt": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE16OHM5UEdjRG9iSjg2SXpNaFZFMzVXU2c4S21QckxQWFhjTGp6Q0h2SV9XU3EwS1I1cHExNmRUc1RBLXB3bHJ3UW9EbTBrc2lZRm5ucUdyRHJGLW54RU9PT2lVaG8wSF9FR2c?oc=5\" target=\"_blank\">Strengthening America’s Telecom Workers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Federal Communications Commission (.gov)</font>"
       }
     ]
   }
