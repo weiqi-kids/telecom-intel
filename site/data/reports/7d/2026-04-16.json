@@ -1,0 +1,102 @@
+{
+  "date": "2026-04-16",
+  "date_range": {
+    "start": "2026-04-10",
+    "end": "2026-04-16"
+  },
+  "generated_at": "2026-04-16T09:11:58.326702Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "american_tower-2026-04-15-008",
+      "date": "2026-04-15",
+      "title": "Mizuho Upgrades American Tower (AMT) to Outperform Amid Positive Outlook - GuruFocus",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "spectrum_auction": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "fiber_buildout": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "ceragon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 4,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-10",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-11",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-12",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-13",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-15",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-16",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-10 ~ 2026-04-16）共 4 則事件，重點為「Mizuho Upgrades American Tower (AMT) to Outperf...」。法說會、光纖建設、頻譜拍賣為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "Ceragon",
+        "reason": "本週有 1 則相關事件，建議持續追蹤動態。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

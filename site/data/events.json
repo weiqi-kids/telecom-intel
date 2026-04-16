@@ -1,5 +1,18 @@
 [
   {
+    "id": "unknown-2026-04-16-015",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Battle lines drawn over Christchurch's $421M fiber network",
+    "summary": "Christchurch's debt-laden city council is again likely to vote on whether to sell off New Zealand's Enable Network, a profitable broadband asset.",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-15-010",
     "date": "2026-04-15",
     "companies": [],
@@ -35,6 +48,130 @@
     "impact": "neutral",
     "title": "ACA Connects takes bulk billing defense to the FTC",
     "summary": "ACA Connects filed comments with the Federal Trade Commission defending the use of bulk billing for cable and broadband services in rental housing properties, calling it good for competition and benef",
+    "sources": []
+  },
+  {
+    "id": "nokia-2026-04-15-001",
+    "date": "2026-04-15",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Intel Joins Nokia & Dell in 5G Edge Innovation: Will it Boost Profits? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOSlEwTWsyRkRfUV96NVFlYm5YNEtUR1ZxdXBFRVRDUWp0UHlDRnVFQW1uSTJSeGdZcXlpOVRyNUFjdGJJMGNlajFvM3VQdUozOWhYblhvV2J2VEdqejgzbHYyZGJOVEt1TVhFbVdYbE",
+    "sources": []
+  },
+  {
+    "id": "ciena-2026-04-15-005",
+    "date": "2026-04-15",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ciena's Capex Acceleration: Aligning With Demand or Overreach? - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUXZ3dzdwczAxeC1UWTZVRFE3SUI4ak85VE5vZjFzdExWdXdfSUFleWY3SGkzMGY3eTdfOVBGQlhmZFh5QTdYNDVDeXdkSGN1QmxSYUtEZ1lnRnBQNWRnRHh4T1NtM251OVEzMUU0Z2",
+    "sources": []
+  },
+  {
+    "id": "american_tower-2026-04-15-007",
+    "date": "2026-04-15",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "tower_consolidation"
+    ],
+    "impact": "positive",
+    "title": "Mizuho Upgrades American Tower to Outperform: Will This Cell Tower Giant Finally Reclaim Its Crown? - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdUhuMEJaWFBIN1RMQ1VTRUF5V1pJMjczTGVZUzJVOXJORjBXclJMa3RmbnlEbUFPVjJaZ2t4eTFmbnRLMXoxQ2tsUjdqa0JxbFRvdktUZjBoOHZuamFrYW9VMUVMWmpXSkVsMWt6dT",
+    "sources": []
+  },
+  {
+    "id": "american_tower-2026-04-15-008",
+    "date": "2026-04-15",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Mizuho Upgrades American Tower (AMT) to Outperform Amid Positive Outlook - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQTE5idjlyVFo2MWxzQXRuckpjZmhEQl9UNzFGUWJXWDlkTlFYd0oteTJuZjBGZXBaTEw1aGU5elFxY05QdkVLeVlTNFNFd193TmY3a0p4WmQ5NXU2dVBUdWNGZ25wd2h1YUozc1hvTn",
+    "sources": []
+  },
+  {
+    "id": "sba_comm-2026-04-15-010",
+    "date": "2026-04-15",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SBA Communications schedules April 29 earnings call after close - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPcGM0X25Sbzh2OXMtaWF6dDFPeGxkTnloWHlxYnhwbmVKWGV0a2EtbjFmX0VmTUlxMmd3MUpRQ0lHRnY3MEk3elVqRU82clZ0V2dJSzB4Smo1WVRfY3Z1Nnc3aDRFelV0OFhIVFZUSW",
+    "sources": []
+  },
+  {
+    "id": "sba_comm-2026-04-15-011",
+    "date": "2026-04-15",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SBA Communications Corporation Sets Date for First Quarter 2026 Earnings Release - WFMZ.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPaTluSThsdlluZnN0OHlaY2piZGMxaXpRamtOVzZLT2pHV05ReTFWdjk0ZXRQRDRlTXZGRnRQb0Mxci1HRFdiN2FZYlUyaG1QWmZpWXFxNjFla3lPaVlPNkxXcTFjWW16aW5JazJHVk",
+    "sources": []
+  },
+  {
+    "id": "sba_comm-2026-04-15-012",
+    "date": "2026-04-15",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Did SBA’s Q1 2026 Results and Profit Pressure Just Recast SBA Communications' (SBAC) Earnings Story? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPeDUyYnp6a1MtOUhxNldoeEU3Y2VELUJOeUs1X1QtejFQUlZDWHh4WFQwUm1uZl9pZHdJZ0E4VE52TVozSEFqNmxRLVZUYWJqYWFNd2Zva1FsekZ0clp2R1lPVFlEeTRzcjNncy1xZ0",
+    "sources": []
+  },
+  {
+    "id": "sba_comm-2026-04-15-013",
+    "date": "2026-04-15",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SBA Communications Corporation Sets Date for First Quarter 2026 Earnings Release - Bluefield Daily Telegraph",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAJBVV95cUxOZTlvcVgtbDVncldPR1pPemRybnowdmJqRGFGTWxCX1BVLWZyaVdXbFZoNjlhNHZfblM2NUFiLVMxdElQVDl6QmU4MlpGaTNqTXZGZEJXU1laUmpNWWh5UW1zeEtZbEZVZjBfa3AwLX",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-15-016",
+    "date": "2026-04-15",
+    "companies": [],
+    "topics": [
+      "5g_deployment"
+    ],
+    "impact": "neutral",
+    "title": "Startup ODC charts AI-RAN course through private 5G",
+    "summary": "Former Altiostar open RAN engineers are back with new startup ODC and an Nvidia-based AI-RAN platform that supports sensing apps for private 5G networks.",
     "sources": []
   },
   {
@@ -145,6 +282,20 @@
     "sources": []
   },
   {
+    "id": "american_tower-2026-04-13-009",
+    "date": "2026-04-13",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Earnings Preview: What to Expect From American Tower’s Report - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQYnpJNDNjVVhubjdUemxZeWJmOUR3dkl4d3lSMlo1aWp6MmRsRVowbkNqMXlsT0RPdUg1N2VoNTBMLThLd2lYWWl1dUktTnFhZ0NaN0RIaWRETnJWMGhldzFtOWV2NHhkNlk1dW9oeF",
+    "sources": []
+  },
+  {
     "id": "sba_comm-2026-04-12-034",
     "date": "2026-04-12",
     "companies": [
@@ -184,6 +335,20 @@
     "impact": "neutral",
     "title": "SBA Communications Earnings Preview: Analysts Expect FFO Dip - National Today",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUG1NVW11ZF9ucTR5T0Q1aWp4VGZha3BwNHliVjlveTl6aGFIN2RSMEdLWTFoRm4yVUNvV29aa0pjWDVmc1dlbE5MZEZZODdETG45TVFBWTRrOU5kb0R3U1liQ1Q2WG1ZRFhxWlFCMm",
+    "sources": []
+  },
+  {
+    "id": "sba_comm-2026-04-12-014",
+    "date": "2026-04-12",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "What You Need to Know Ahead of SBA Communications' Earnings Release - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQZWlRWDhoWHNLWlNfcnI5MU5YMGR4X1I2SGxzWFQwV05qRHFMbWRPblpNX3ZJb3l3cTNxdUkwUnY1NkJEdHlMQTZZYVkxWTNGS2dkaXFFUTZvQ3RUU3h0U0tvY3BLWXFBSzZQUVZRS3",
     "sources": []
   },
   {
@@ -307,6 +472,20 @@
     "sources": []
   },
   {
+    "id": "commscope-2026-03-25-004",
+    "date": "2026-03-25",
+    "companies": [
+      "commscope"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Operating profit of Commscope Holding Company from 2021 to 2025 - Statista",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNcUcxdWZoT1dHSzllNlJhN1IxcEVBRlJwNkhMRVBLajRtY1pSR2Vtd3FodXRUN3lnTTYzRWo1M0JvUzktN2xyY3h0clZUVDF5eHRjVGNGUlc2VU1FQWpnQVp4aExFeG5fOW5LTEs0Wm",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-03-22-002",
     "date": "2026-03-22",
     "companies": [],
@@ -383,6 +562,20 @@
     "sources": []
   },
   {
+    "id": "ceragon-2026-02-18-003",
+    "date": "2026-02-18",
+    "companies": [
+      "ceragon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Ceragon Networks: Upgrading On Improved Outlook And Discounted Valuation (NASDAQ:CRNT) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOUFY2anFkM29hOXluTUt0Wkk0R3I1SHpibFUzM1ozRkhUNDUtTzBIYVBUUC04LW1mUzQtRnhmN3h0VEZydFk5ZXJvaHpYbmNZLU9lTTdidFVkVFd3cS1ORUhLT1ZXOTlOM0VQMkNSQW",
+    "sources": []
+  },
+  {
     "id": "ceragon-2026-02-17-006",
     "date": "2026-02-17",
     "companies": [
@@ -406,6 +599,20 @@
     "impact": "neutral",
     "title": "Ceragon Networks (CRNT) Misses Q4 Earnings Estimates - Yahoo Finance",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNVVFScklDYVNlMHJIMVhaOUtwWFE4R21YV21OUGo2YzJNTURVTWU3ZVd1Y21iT0I1LVp4bXZ0VFdMdl9sVy1ScWZ3WG85RWtyZDNfdVNhLWVQWkdSTzNIZ2RQTUpFSnN6UHRtNkMwMD",
+    "sources": []
+  },
+  {
+    "id": "softbank-2026-02-09-006",
+    "date": "2026-02-09",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank shares surge 10% after telecom unit lifts outlook, Arm strength bolsters AI narrative - CNBC",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxORVR5QWRYQ25WVi15bG55azJ3aFRVeHB6UV9qTmtxTXdwRF92YmxiQzVMTUs5eVZ3UEVVQUFud3RYcnp4SUZ1NG5rT3hlc1MxNlB0bExabGM5bTNGSzNoU3JGZVBic0JuYXB0NG5GNk",
     "sources": []
   },
   {
@@ -670,6 +877,18 @@
     "impact": "neutral",
     "title": "Security of Broadband Access Network - ZTE",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOSGNvNjRkLUdUMGNWeV9LWFJFVkRTdlNFaTFJX1RuRHNYbDNmX2MzRlA2VUhYc2l0ZFltQXBtTFJPOVktQy13eWhobzJmZUo1TEJBaWs5Y3UwYjVCQzRrNkNYM3pndklDbjMyQ0dVYj",
+    "sources": []
+  },
+  {
+    "id": "unknown-2007-09-23-002",
+    "date": "2007-09-23",
+    "companies": [],
+    "topics": [
+      "fiber_buildout"
+    ],
+    "impact": "neutral",
+    "title": "Arroyo cites graft in suspension of broadband deal - Taipei Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5jTFhFZ2h4WTQyWDdnaGpCSnV2RVFuOWYxcndjeUo3ZmgyUklMVE9YdURna3RqLWtEVVlBSXktYXV0dkYxRS1ja1RqUkVyX0JxQ1U4eHRmVFplbm5yUFpES3gxUHNuM0lYV0xQWmVWc2",
     "sources": []
   }
 ]
