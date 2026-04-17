@@ -1,5 +1,17 @@
 [
   {
+    "id": "ericsson-2026-04-17-009",
+    "date": "2026-04-17",
+    "companies": [
+      "ericsson"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Ericsson Marginally Misses Forecasts; AI Demand Pushes Up Chip Costs - Meyka",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPbV9YZUdfU0Z1d1JXdGY0M2xrNEkzMTNuZ19jSWthcFdyLWh6Q2hHNlduQ0NxX0JDeUFLTG41MGVSYmZuYkc0Q29CblA2Tk1NT09ZUEZtVG95dTNnUHJWbXM0LV9PbmhIdGlDQk9uTm",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-16-015",
     "date": "2026-04-16",
     "companies": [],
@@ -10,6 +22,47 @@
     "impact": "neutral",
     "title": "Battle lines drawn over Christchurch's $421M fiber network",
     "summary": "Christchurch's debt-laden city council is again likely to vote on whether to sell off New Zealand's Enable Network, a profitable broadband asset.",
+    "sources": []
+  },
+  {
+    "id": "deutsche_telekom-2026-04-16-005",
+    "date": "2026-04-16",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Telekom's Oversold Signal Meets a Critical Earnings Test - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOFE1aDVDQndMMUNqMGtGNVVHV1FRYlgzVnJEbjNrS3k0RzBiWFNMd0FWcTJ5UU9ndy03Ykl5M3NLd1MteHBEMFk5LUtOVHl1cUt0QUdvVWJnT0ppT1g5dmg0eWNNblI4VWd0d2o2bD",
+    "sources": []
+  },
+  {
+    "id": "american_tower-2026-04-16-007",
+    "date": "2026-04-16",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Assessing American Tower’s Valuation After Mizuho Upgrade And Stronger 5G And CoreSite Outlook - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQLW5sRTJiQVY3amVmR3JQX3lOV3JvcFdNSjh5SThnMnJKa042eGJkTjFFSTJnOFRESnFlZEo0aEpIYWNQVDJhVHBrUU1obTkyRHB2WUZIc1RWS0RPMXMwTURnZGVuMGxJT0t2a0xBaX",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-16-008",
+    "date": "2026-04-16",
+    "companies": [],
+    "topics": [
+      "arpu",
+      "fiber_buildout"
+    ],
+    "impact": "neutral",
+    "title": "BSNL and Airtel top nPerf's India broadband rankings",
+    "summary": "BSNL comes first in nPerf's ranking of fixed broadband performance in India despite its lower subscriber share, while Airtel dominates mobile and 5G.",
     "sources": []
   },
   {
@@ -172,6 +225,20 @@
     "impact": "neutral",
     "title": "Startup ODC charts AI-RAN course through private 5G",
     "summary": "Former Altiostar open RAN engineers are back with new startup ODC and an Nvidia-based AI-RAN platform that supports sensing apps for private 5G networks.",
+    "sources": []
+  },
+  {
+    "id": "ciena-2026-04-15-003",
+    "date": "2026-04-15",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ciena's Capex Acceleration: Aligning With Demand or Overreach? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc0tVQlA5UXRLRXlrQmFJOWtYNzZoS2s5SElfUVZRMUktVnJiX1dFbjlmMHdsMlgyOUVtOXBtLVd1OUg4UWg3NWdoZ011cGNWb2hsZG14TjZzYTJGMi1ia0Y0Y29KQWZfdDRnaDRjMG",
     "sources": []
   },
   {
@@ -562,6 +629,20 @@
     "sources": []
   },
   {
+    "id": "calix-2026-02-19-004",
+    "date": "2026-02-19",
+    "companies": [
+      "calix"
+    ],
+    "topics": [
+      "fiber_buildout"
+    ],
+    "impact": "neutral",
+    "title": "Top BEAD Recipient Helexon Chooses Calix Agent Workforce To Accelerate Delivery of Next-Generation Broadband Experiences - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAJBVV95cUxNYWt4T01nZTJOMlo0U1VtUjlna21DZkZxbWxiaE9lZGF0N2VDME5LSEhOM2trQVZSOWRLZVZNSTQ2cVgxaDZ2QmdaRWstZ21jQm54Xzg1WENDcVlLRjNHSE5kRjNUR210a2RkLVVtcW",
+    "sources": []
+  },
+  {
     "id": "ceragon-2026-02-18-003",
     "date": "2026-02-18",
     "companies": [
@@ -599,6 +680,35 @@
     "impact": "neutral",
     "title": "Ceragon Networks (CRNT) Misses Q4 Earnings Estimates - Yahoo Finance",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNVVFScklDYVNlMHJIMVhaOUtwWFE4R21YV21OUGo2YzJNTURVTWU3ZVd1Y21iT0I1LVp4bXZ0VFdMdl9sVy1ScWZ3WG85RWtyZDNfdVNhLWVQWkdSTzNIZ2RQTUpFSnN6UHRtNkMwMD",
+    "sources": []
+  },
+  {
+    "id": "ceragon-2026-02-11-002",
+    "date": "2026-02-11",
+    "companies": [
+      "ceragon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "The past five years for Ceragon Networks (NASDAQ:CRNT) investors has not been profitable - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPRVFkYS1GTE4xNC1PSW5EaW0zVkJzd054dFI2V1pvQWJvaGRwc0tObGhwQkg5Tk1VLTVMYXNDdk5LcFdYSml6djJiQ3AxZlB3ZUMtUGtiUnV3Tl9xN19uTmJMZG1kRzRnUlJqNEhTdU",
+    "sources": []
+  },
+  {
+    "id": "tmobile-2026-02-11-006",
+    "date": "2026-02-11",
+    "companies": [
+      "tmobile",
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Deutsche Telekom welcomes T-Mobile’s growth outlook and plans no sale of T-Mobile shares in 2026 - Deutsche Telekom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQUFBRZFc3a1p0NFF3SDRCSHJGVzJfVEFBZG45M1JKWEJJSmg1d3hQdDc1eVlkVXNySzNCLVZnSUxaUjN6RmZpU0hSeXNiVUxnX19yMDFXa0dNQ3J6aHNDMHRuVGR5TlNGaldMLU05V2",
     "sources": []
   },
   {
