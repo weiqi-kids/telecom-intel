@@ -1,5 +1,20 @@
 [
   {
+    "id": "deutsche_telekom-2026-04-19-002",
+    "date": "2026-04-19",
+    "companies": [
+      "deutsche_telekom",
+      "tmobile"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Telekom Shares Navigate Labor Talks and T-Mobile US Earnings - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPMF95d1oxb0RhWVppTDFJc1RHb3g1Mkh1ZUhHM0p2ejg1dTFLY0ZNdlJ0aHV6SGdXRndqS0dZU2tQRWFMZGNSUUpqMk84V05YNTJjdlFlQ1Ztb0oxOFJCakhwVVBybXUtQzlCc0MwVX",
+    "sources": []
+  },
+  {
     "id": "ericsson-2026-04-17-009",
     "date": "2026-04-17",
     "companies": [
@@ -75,6 +90,20 @@
     "impact": "neutral",
     "title": "BSNL and Airtel top nPerf's India broadband rankings",
     "summary": "BSNL comes first in nPerf's ranking of fixed broadband performance in India despite its lower subscriber share, while Airtel dominates mobile and 5G.",
+    "sources": []
+  },
+  {
+    "id": "ceragon-2026-04-16-001",
+    "date": "2026-04-16",
+    "companies": [
+      "ceragon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ceragon Secures $10 Million in Global Private Network Contracts, Boosting 2026 Revenue Visibility - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxQMEotUHczTEp6OC1YVXp4akdVNy03TzZXalpqQ0xoZVBFLVU1Z3FlSlVMUUxoVDBrT19ZYnpQaDVsMlg3Tk95YmJ2aDNmUUdKM2cwNXd4ZEhNUGtiVV9KTHZ0ZmJfX1c0T3J1WGdGTk",
     "sources": []
   },
   {
