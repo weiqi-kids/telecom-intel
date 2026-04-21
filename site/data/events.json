@@ -1,5 +1,17 @@
 [
   {
+    "id": "unknown-2026-04-21-005",
+    "date": "2026-04-21",
+    "companies": [],
+    "topics": [
+      "arpu"
+    ],
+    "impact": "neutral",
+    "title": "US telecom aims to use fintech to build Mexican prepaid market - Communications Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOVWFVNVh5dHRnQU1sSWJhMkhBZV9DOUZnRnBFQlJGT2hlYmNDanZDNzdZenBSYzZqeENfM245dUVTdDhfQndmUFBtQ1RxUUZKblEzb1lGS0V5Z0ZHbGV0SlpoUVBWb091UDE5Tm05QX",
+    "sources": []
+  },
+  {
     "id": "unknown-2026-04-20-003",
     "date": "2026-04-20",
     "companies": [],
@@ -9,6 +21,57 @@
     "impact": "neutral",
     "title": "Telecom Argentina S.A. stock (US8792732096): Why does its broadband push matter more now for investo - AD HOC NEWS",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPeTE2am1fMC1aSEQwUURLM2k1cjVzTWptYm1tT0loTHNaMnBOaldrMDdZeWtJb18xa3JiTGJpVVB4d1ZjbjEtTE9nd3R5WjkzLXNGSUNKZm9VejZlN1RvcXQwMGVNcHZXci1xOF9PYW",
+    "sources": []
+  },
+  {
+    "id": "american_tower-2026-04-20-001",
+    "date": "2026-04-20",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "spectrum_auction"
+    ],
+    "impact": "neutral",
+    "title": "American Tower deploys 5G DAS at Pittsburgh International Airport - Data Center Dynamics",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPRm83LURqLTZNcC1ObkpjbVk4X2M5eHdYX1VXMTkza0llQmxiZV9UazZGamt0SVJGeEhydlh2Vk5vQnNCb2lHUEhVMjhYekNXbzNQTFg4VDNSakFGZnhHZXRmaUhoNTJfR3pScjZPRD",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-20-002",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "fiber_buildout"
+    ],
+    "impact": "neutral",
+    "title": "Vyve Broadband names co-presidents amid Cable One deal",
+    "summary": "Vyve Broadband has appointed COO Melanie Hannasch and SVP of Engineering Guy McCormick as co-presidents following the recent departure of Andy Parrott. Cable One is nearing a deal to acquire more of M",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-20-004",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Telecom connectivity revenues climbed in Q4 2025 – Omdia",
+    "summary": "Mobile and fixed broadband and voice services pulled in $333 billion in Q4 2025, up 5%, with 5G surpassing 3 billion connections. #pressrelease",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-20-006",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "fiber_buildout"
+    ],
+    "impact": "neutral",
+    "title": "Shenandoah Telecom stock (US8233541093): Why does its rural broadband focus matter more now? - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZklHRHlfcE10aTRTb2VWWnFrcmxHNkpzU05ZaFN1Y1owLVl3VjhzLUd1cjdHTGpzZVpWRlBfbUlmS05WeHlKNFNMLWRYaDZENU1WUUM1MW1BWkRPN2g3WFpNNXRyWTJHdHhzbi1taE",
     "sources": []
   },
   {
