@@ -1,0 +1,78 @@
+{
+  "date": "2026-04-22",
+  "generated_at": "2026-04-22T09:14:10.428339Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sba_comm-2026-04-22-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SBA Communications (SBAC) Projected to Post Quarterly Earnings on Wednesday - MarketBeat",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "sba_comm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為SBA相關動態：「SBA Communications (SBAC) Projected to Post Quarterly Ear...」。主要關注主題為法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "SBA Communications (SBAC) Projected to Post Quarterly Earnings on Wednesday -...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "SBA為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
