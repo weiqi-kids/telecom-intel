@@ -1,5 +1,45 @@
 [
   {
+    "id": "nokia-2026-04-23-001",
+    "date": "2026-04-23",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nokia up 8% after earnings report - Breakingthenews.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNNEpYUGpTZmR3S1hzV1I1dW1pZFVfODMzTUI4VDR0Q2pfRGZ3TnRiNDZPVkM1bHBROHNUeWhDSDNibjNDbHg3bzM2a1RZZ01oVmE1YTVvNG1hZEdqRURzNUwzTE5RX0ZIMk1MVkRKWE",
+    "sources": []
+  },
+  {
+    "id": "ceragon-2026-04-23-002",
+    "date": "2026-04-23",
+    "companies": [
+      "ceragon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ceragon (CRNT) Quarterly Preview | Ceragon Networks Ltd. posts 2% EPS miss, no revenue estimates - Guidance Upgrade - soytecaobang.gov.vn",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPcE9NWTV6VjJuTFZIMGdFWEVaTmRhMnhrNmg1OWViTGF0MHlsZW16azEtR0ZhZWNZUHA3amVfUlRPWDZIb2gxdkJIR1RTdnNqaFMwbHVXWndqbDRlc2pwaU05c1JkTGdhRkp4LVdYel",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-013",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "China telco earnings slump on tax hike, weak growth",
+    "summary": "China Unicom net sinks 17% as China Mobile earnings drop 4%.",
+    "sources": []
+  },
+  {
     "id": "sba_comm-2026-04-22-006",
     "date": "2026-04-22",
     "companies": [
@@ -11,6 +51,74 @@
     "impact": "neutral",
     "title": "SBA Communications (SBAC) Projected to Post Quarterly Earnings on Wednesday - MarketBeat",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOeU1ZRjNoT05uTjhRQ3hVVTR0YXNDTXpZZWtNNEpMUjVmVWVuOGhwbUVnaFFZR1lGaDBNMlRmaVpHVXNETmhoZDZZSDNJYlRvWVdBYnByVWZ6eE1nSmRhRmdjaGtST0luNkdmNlJiSm",
+    "sources": []
+  },
+  {
+    "id": "ciena-2026-04-22-004",
+    "date": "2026-04-22",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ciena (CIEN) slides 5.6% as investors appear to take profits amid ongoing insider-sale disclosures - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNUhZWktzMmNGdU9FYllBSlZiMGR6TFpZbWNqYU5ENVpHREFLUGtYUWE4WmpqNkZhMTBWZ2xRYjU1VzYyc2EzWFlZVmJqbWtiYTVpZVlTaDkwc2NFQnREdGZBMXRSYXo3SWR4UWdSQX",
+    "sources": []
+  },
+  {
+    "id": "deutsche_telekom-2026-04-22-009",
+    "date": "2026-04-22",
+    "companies": [
+      "deutsche_telekom",
+      "tmobile",
+      "att"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AT&T revenue rises YOY in Q1'26; T-Mobile, Deutsche Telekom explore merger - S&P Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxOM21NU1BWb0J2bWhRV2hNRjhGem9NRFJPcHZOdk9ZTkFyQ0VYb2VNR3lPN1Z3Q3c2dE5KOXpEZUtOSG5mNlJ2dDhRbEY1STlKYlRVZ2s4c3RZQ2FuaW5xR3NuWjdWTUwzZk8tWUhlNG",
+    "sources": []
+  },
+  {
+    "id": "american_tower-2026-04-22-011",
+    "date": "2026-04-22",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is American Tower Stock a Smart Buy Before Q1 Earnings Release? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxObUhKLVdLNFZ2eC1wLWhiOE9lLXQtU1RFeDJsNERiM3dNZUdjQThzeERfY19hRmZEWEhWZUd0STRFczFRai1NOXN0OUNBdGI3TUNsRlh2b3N6X2EtTFRoYjh2RFZGQjlldDNuM1VHdk",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-22-014",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "arpu"
+    ],
+    "impact": "positive",
+    "title": "Comcast's new mobile plans could boost ARPU",
+    "summary": "Comcast has launched two new unlimited plans – Mobile Plus and Mobile Select – that aim to put more focus on premium features and simplicity. Their flat rate per line structure could improve ARPU comp",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-22-015",
+    "date": "2026-04-22",
+    "companies": [],
+    "topics": [
+      "5g_deployment"
+    ],
+    "impact": "neutral",
+    "title": "Rakuten Symphony to test open RAN technology across seven countries",
+    "summary": "Rakuten Symphony received a Japanese government grant worth over $52 million to conduct a trial in Indonesia, Malaysia, Vietnam, India, Kuwait, Bolivia and Paraguay.",
     "sources": []
   },
   {
@@ -733,6 +841,20 @@
     "sources": []
   },
   {
+    "id": "american_tower-2026-03-31-012",
+    "date": "2026-03-31",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "American Tower Plans First Quarter 2026 Earnings Release and Conference Call - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQeWZlWHJjeHBEWE94SDV2WXY4clFPSHcwei1ucDRRMC1uaTIyTEZKa0NqUGNoTVZlM2poaWQ3VnVvbXNyMnlGbk02UnpQUjlScUtsN3JMMnBvUzhyREw3aE12ZUdvclBYS3lKbEx2dH",
+    "sources": []
+  },
+  {
     "id": "calix-2026-03-27-018",
     "date": "2026-03-27",
     "companies": [
@@ -1018,6 +1140,20 @@
     "sources": []
   },
   {
+    "id": "softbank-2026-02-09-010",
+    "date": "2026-02-09",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Earnings call transcript: SoftBank Corp Q3 2025 sees record revenue growth - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxORHpLeERQSHlOLXpqd1dYbE1XUUkyQkZVZmlpZkFPcTZsaWcwRFJRODNKNGR4ZGw5NHJqM1owbTJ4QnF1aDVpemdoWGJZTHU0SVpESUc2OWcxSEsxd3p0cm1mcW5zMjNlRDJOa3RpcV",
+    "sources": []
+  },
+  {
     "id": "ceragon-2026-02-03-005",
     "date": "2026-02-03",
     "companies": [
@@ -1185,6 +1321,34 @@
     "sources": []
   },
   {
+    "id": "calix-2025-08-28-005",
+    "date": "2025-08-28",
+    "companies": [
+      "calix"
+    ],
+    "topics": [
+      "fiber_buildout"
+    ],
+    "impact": "neutral",
+    "title": "Calix Unlocks Flexibility for Broadband Network Design, Maximizing Returns for BSPs’ Platform Investment and Lowering Total Cost of Ownership - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogJBVV95cUxNWUZIUU9nSTJ6cTR1YWxoaU5nemlGemFIQjlFNHpDN2x4dDNBaXVoYTRDUE54aUdCeFJjSVVTT25yRFBZV3VoNl83M0FnUldmTkVHUEdhVEpFN2lpZnIwTzhKTlc0UUVXUGdDS3VlUk",
+    "sources": []
+  },
+  {
+    "id": "commscope-2025-08-14-003",
+    "date": "2025-08-14",
+    "companies": [
+      "commscope"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "We Think That There Are Issues Underlying CommScope Holding Company's (NASDAQ:COMM) Earnings - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNeEEybUo0QWs0ODlLbnVla2MxSkd6WW9aRGUwUUx2SXY0VnVISW9jTkJHRm5feHdTTHJaRUpfbWFtMzBZal9Fd0pfSkpSWnhpdjNtOTZQdG9uT0Jnd3c1WDRIcnVQcERDWkFvbG41dU",
+    "sources": []
+  },
+  {
     "id": "commscope-2025-08-05-014",
     "date": "2025-08-05",
     "companies": [
@@ -1210,6 +1374,20 @@
     "impact": "neutral",
     "title": "Amphenol to buy CommScope unit in $10.5 billion broadband connectivity deal - Reuters",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZTRJZ05CQUx2SThrd3JmeV9MUWpZUlRhU2Z1YVVqd1BHQkR5TjhJRFRhZ3Vmd2JhbDNES3FVYjdBVFJtSVE1V0dSYUw0d3J6NnNJOHVPbjFUSVh2XzdjUEhwWmd3alhVWGVKRWNDVF",
+    "sources": []
+  },
+  {
+    "id": "calix-2025-07-08-006",
+    "date": "2025-07-08",
+    "companies": [
+      "calix"
+    ],
+    "topics": [
+      "arpu"
+    ],
+    "impact": "neutral",
+    "title": "Calix Announces CommandIQ 3.0: Evolving the Ultimate Subscriber Engagement App for the AI Era - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVHBFZVUwS1VtNk5MR3VfS2hpV1VQSHYtdm1ZbER1UDVFSTAzMEJ4djJqSTN0cm5hQWI1RWRiR0UxbWpGNEFiZm5NS3VrX3NIUDg0Ukp4OUoybjJ3djZxN25MQ0xTcGJkbVJCMElCcW",
     "sources": []
   },
   {
@@ -1278,6 +1456,34 @@
     "impact": "neutral",
     "title": "Chunghwa Telecom’s net profit soars amid 5G trend - Taipei Times",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE15eFhvQ1FXMmc0RENzb1otQm5waklXeFd5Z2Z3cldxdGV0TFJPeHlqWm5DOWhJNXlFNGxjLTk1Q1BnUmE0dXRDaWFmRkpYN3FGRFpvZDZJUTN4amVNc1dPQlNOWVJHRmxHOUoxM1hqX1",
+    "sources": []
+  },
+  {
+    "id": "calix-2022-11-16-008",
+    "date": "2022-11-16",
+    "companies": [
+      "calix"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Calix expands Calix Revenue EDGE to include small business and multi-dwelling units - Light Reading",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNSkpIcDNvOHBITkVIcW1TS2FjLThCY3p0Tm03NkwwWGFmRTZUMDU0TXpzQjc4OTlIWk9ZMjBWSnI4dGJVLUlINXdka1JzWGZqeEpEeUNvdEZHTWZaVEY5SDZoa01FWnM0OXJONWJMdk",
+    "sources": []
+  },
+  {
+    "id": "calix-2021-03-18-007",
+    "date": "2021-03-18",
+    "companies": [
+      "calix"
+    ],
+    "topics": [
+      "fiber_buildout"
+    ],
+    "impact": "neutral",
+    "title": "Broadband Innovator, Novus, Teams With Calix to Deliver Blazing Fast Consumer Cool Experiences - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVXhjdy0zVTFRekxrMEZPeEg2YUc1Y0RfM3ZiQjdfdk9VdVZwZjZBNTdLMHFmTWhIdlZOS2x0amNQMlRVck5DLVk2eXJ3ZVdnMDhxUzFRMlV0ajdTTlNQaGd3ZUpvSmw3NlZFVWtYQk",
     "sources": []
   },
   {
