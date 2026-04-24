@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-23T09:20:42.039879Z",
+  "updated_at": "2026-04-24T09:24:33.537867Z",
   "quarter": "2025-09-30, 2025-12-31, 2026-01-31",
   "companies": [
     {
@@ -35,14 +35,14 @@
       "name": "Calix Inc",
       "ticker": "CALX",
       "currency": "USD",
-      "ar": 99367000,
-      "ar_prev": 87465000,
-      "ar_qoq": "+14%",
-      "inventory": 133737000,
-      "inv_prev": 107981000,
-      "inv_qoq": "+24%",
-      "alert": true,
-      "quarter_date": "2025-12-31"
+      "ar": 116772000,
+      "ar_prev": 99367000,
+      "ar_qoq": "+18%",
+      "inventory": 154626000,
+      "inv_prev": 133737000,
+      "inv_qoq": "+16%",
+      "alert": false,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "ceragon",
@@ -161,14 +161,14 @@
       "name": "諾基亞",
       "ticker": "NOK",
       "currency": "USD",
-      "ar": 4975000000,
-      "ar_prev": 3990000000,
-      "ar_qoq": "+25%",
-      "inventory": 2209000000,
-      "inv_prev": 2380000000,
-      "inv_qoq": "-7%",
-      "alert": true,
-      "quarter_date": "2025-12-31"
+      "ar": 4562000000,
+      "ar_prev": 4975000000,
+      "ar_qoq": "-8%",
+      "inventory": 2381000000,
+      "inv_prev": 2209000000,
+      "inv_qoq": "+8%",
+      "alert": false,
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "sba_comm",

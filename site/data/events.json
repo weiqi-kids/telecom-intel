@@ -1,5 +1,17 @@
 [
   {
+    "id": "unknown-2026-04-24-013",
+    "date": "2026-04-24",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nigeria’s telecom paradox: Huge profits, poor service - The Nigerian Observer",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPcW1RamlhM3dSdHh5d254dDVYUnk1OEpJZUVmdDQydmdzclVpQ1V4T1h1cVhsVWpGdE9NS3F2WVM5S2FSSm9LSC1OSGJHMzFkOHRFU2s2SHk2aEJWWTJ1WXRad2pkZWZjTmNlNHVNZ0",
+    "sources": []
+  },
+  {
     "id": "nokia-2026-04-23-001",
     "date": "2026-04-23",
     "companies": [
@@ -37,6 +49,112 @@
     "impact": "neutral",
     "title": "China telco earnings slump on tax hike, weak growth",
     "summary": "China Unicom net sinks 17% as China Mobile earnings drop 4%.",
+    "sources": []
+  },
+  {
+    "id": "tmobile-2026-04-23-004",
+    "date": "2026-04-23",
+    "companies": [
+      "tmobile",
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "fiber_buildout"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Telekom reportedly considers merger with T-Mobile US - Broadband Communities",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWnItcHItdm1PMGNVbGdBbDRGb1NUc0IyTmM1OTQyNWlSZjdVZ0ZBVmdfbjRGVkhWQXF4aXZoTXNKUVFmQW5aSGgzYTlkaWJRckxjR0Y1MEJDb2x1VGdZajhpUXN4VFlqSTZVa0tLcW",
+    "sources": []
+  },
+  {
+    "id": "american_tower-2026-04-23-005",
+    "date": "2026-04-23",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Seeking Clues to American Tower (AMT) Q1 Earnings? A Peek Into Wall Street Projections for Key Metrics - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQTkUzVllvNWYwYkNiZW44aklPdURucTRiamwxTXNDMUpKNXdXdEJPRjZESGVWZURVVFhSLVhmTDhvUHVEUkhvTURfbGJsYXhaSUZWbWhkcEs1amtsclRkVF9QbnV4d3RNQ1hlVWg4TW",
+    "sources": []
+  },
+  {
+    "id": "sba_comm-2026-04-23-007",
+    "date": "2026-04-23",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Is SBA Communications Stock a Smart Buy Before Q1 Earnings Release? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPbVpFVE9iVXlUNWdVSS1pQnR0NzZsT1daTlRQOWZPa056QzJpc2JYTTBQbE01MjJZaEdQN2xicXBfQ0ZyOXI4SUVlU05IVDcyd3E1OWNUekc2am13czc2OUxRSGVBWnhXVEtVUzFIOX",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-008",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "spectrum_auction"
+    ],
+    "impact": "neutral",
+    "title": "FCC touts D2D actions",
+    "summary": "The FCC said it has progressed the nascent D2D market this week by granting licenses to AST SpaceMobile and by reaffirming exclusive rights for certain D2D spectrum bands. #pressrelease",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-009",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Omdia raises 2026 semiconductor forecast to 62.7% as AI drives global memory crunch",
+    "summary": "Computing and data storage will lead all segments in semiconductor revenue growth, rising 90% year-on-year in 2026 to exceed $700bn. #pressrelease",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-010",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "fiber_buildout"
+    ],
+    "impact": "neutral",
+    "title": "Comcast shares climb amid narrowing broadband losses, record mobile gains",
+    "summary": "Comcast shed a better-than-expected 65,000 broadband subs alongside a record gain of 435,000 mobile lines in Q1 thanks in part to its pivot to new pricing and packaging. A challenge ahead? Converting ",
+    "sources": []
+  },
+  {
+    "id": "nokia-2026-04-23-011",
+    "date": "2026-04-23",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nokia enjoys optical boom but mobile is still feeling the heat",
+    "summary": "Shares at Nokia rose to a 16-year high as it lifted guidance on AI demand, but its long-suffering mobile business desperately needs a revival.",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-23-014",
+    "date": "2026-04-23",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Thailand’s Fixed Broadband Sector Drives Steady Telecom Revenue Growth - Telecom Review Asia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbzJRdVJDMkZDUTQ0b3ZLY3JkZUR2ckZYVVJzVVZUV2xSOFFqSjgzcGNQVDcxOUszSkUza0h6cDh0OVRJaEx3T0hIblllUjFQaEdiN01acXlobDlPSi1aMFNtdnVMZ1NLcWJmM0NGOT",
     "sources": []
   },
   {
@@ -248,6 +366,19 @@
     "impact": "neutral",
     "title": "Shenandoah Telecom stock (US8233541093): Why does its rural broadband focus matter more now? - AD HOC NEWS",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZklHRHlfcE10aTRTb2VWWnFrcmxHNkpzU05ZaFN1Y1owLVl3VjhzLUd1cjdHTGpzZVpWRlBfbUlmS05WeHlKNFNMLWRYaDZENU1WUUM1MW1BWkRPN2g3WFpNNXRyWTJHdHhzbi1taE",
+    "sources": []
+  },
+  {
+    "id": "unknown-2026-04-20-012",
+    "date": "2026-04-20",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "How Telcos can Win the New CDN Playbook",
+    "summary": "This Industry Viewpoint was authored by Jacques Le Mancq, President and CEO of Broadpeak Telecommunications service providers face sustained pressure to diversify revenues and protect their share of c",
     "sources": []
   },
   {
@@ -975,6 +1106,20 @@
     "sources": []
   },
   {
+    "id": "american_tower-2026-03-02-006",
+    "date": "2026-03-02",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "American Tower (AMT) Valuation Check After Earnings‑Driven Growth In Towers And Data Centers - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOT1JsWnRURnJHazVFVlpPUEg1NlJjYno2SjhRQnhYd1gzWGg5cjQ4clFaMUV1UFFGUjhSelQ2MDB4ckt0cm9aZ21MZzFmMmFwX3F3NjM0VUNlUTBDZmhXaUdtajYtZFdMbzJtU25KZm",
+    "sources": []
+  },
+  {
     "id": "ceragon-2026-02-24-009",
     "date": "2026-02-24",
     "companies": [
@@ -1484,6 +1629,19 @@
     "impact": "neutral",
     "title": "Broadband Innovator, Novus, Teams With Calix to Deliver Blazing Fast Consumer Cool Experiences - Business Wire",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVXhjdy0zVTFRekxrMEZPeEg2YUc1Y0RfM3ZiQjdfdk9VdVZwZjZBNTdLMHFmTWhIdlZOS2x0amNQMlRVck5DLVk2eXJ3ZVdnMDhxUzFRMlV0ajdTTlNQaGd3ZUpvSmw3NlZFVWtYQk",
+    "sources": []
+  },
+  {
+    "id": "unknown-2021-03-17-003",
+    "date": "2021-03-17",
+    "companies": [],
+    "topics": [
+      "5g_deployment",
+      "arpu"
+    ],
+    "impact": "neutral",
+    "title": "FET unveils 5G subscriber goal - Taipei Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9wblBaOVVIWXlNNUpwaFpya0hJNFJ0OHZYY2otRmVLUmlESTQ1X1U0T29wZUVnVnVFR0d3TE1ZNVpNUU9CUnZsRFpORXo2TGlzZVBubXBjY0FRN3VRTV9NdGJVRnBIS2hidXl5c1BLV3",
     "sources": []
   },
   {
