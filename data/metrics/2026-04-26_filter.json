@@ -1,11 +1,11 @@
 {
-  "total_raw": 316,
-  "dup_title": 93,
+  "total_raw": 631,
+  "dup_title": 185,
   "no_date": 0,
-  "too_old": 134,
-  "gate1_fail": 39,
-  "gate2_fail": 46,
-  "passed": 4,
+  "too_old": 274,
+  "gate1_fail": 40,
+  "gate2_fail": 52,
+  "passed": 80,
   "gate2_samples": [
     "Nokia Corporation Interim Report for Q1 2026 - Nokia",
     "Changes in Nokia Corporation's own shares - Nokia",

@@ -1,6 +1,6 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T08:53:30.699969Z",
+  "generated_at": "2026-04-26T14:12:42.791283Z",
   "top_events": [
     {
       "rank": 1,
@@ -41,39 +41,129 @@
         "score": 0.0
       },
       "source_url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQb0s4T3J3dVpFdDE4cEQ1dFh5NnhnQzU5TWM1T0U5VWRsUTFYNU9nUzg3YVFXaFo3MUFma2tuV0xjVlJDLWhMNDJPUjdCRDJPdWVZRDlYZUptbmNoMVBOZUw0YjBERkgtS1JLb2lPN3NFZ2tpT18zeWJ5WUNpVUF0UE1MYk5oUGpqdG9nQnpWSUZLOE1TVmhLcmJORDMzWlFsM0hfVmEtZzRWWVVDQ1V3eWlYWHJFTlVSZzlIdjVrY0tuRFZEMVRZaXVERE1Mb0FPRGtIWV90dzJ3SEpjWDlHWHJneE83Q3JZNFJQaHc1WndmMW9mZDZUcGs3NHhVUy01amoxVWJVWHBBRVNqQ1NUQUNoNndwX2VBSEZTb280M2M2VHVHdUtDU2xmb293bjBzcC14Wm1lT1lNb243dnN6YktjQktCVlgzLWZqRVMxRkRWY3o5cGtFekhuZnV4Zk9iLTFOZG5CX0VLWUdjei1uQVJnTVk4dmRyb1lTYjNRSEFDQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nokia-2026-04-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia Corporation (NYSE:NOK) Announces Quarterly Dividend of $0.05 - MarketBeat",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUHVWUzhoVXZiTDJSTmFPVE9mVUF5TTQ2c05ndTBGbi1WeTJpSnZQTXRmbFduVkRpYXJQbWVwMUxPOHhUSkkxWm03cGxkenFRMFhMZ0NOS1A2amZUUXVSWlJMcmFMNlVEd1VLSW9kQmtxTGIxS2NsejdhM1N2cG1wYXVoaTR2SlNsNVpYSUdwTHdja0NtQzNCd21YVHU4VXpXSTMtQlJzc3poTUtPcDRfRkt4ZS1GZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ciena-2026-04-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Corporation $CIEN Shares Sold by Arizona State Retirement System - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaVNERFd6M0pWakNBZ0o4OFZWSlFEX3ZEVU42WTUtVnQwbl80eTEzOG1ZY09FRGpSa2pRZlFIdUpSLXFCVE0xSkdSYUtBdHFwS3FZR3BBTjNUUFVkNkgwZ3hab3JKcWxmSWp2T01aTDBKdXhaTlJhTlJpRE9JMVRGSVBsRVoyNUx5SGl1R3djZ09GVmVhc2l2LWM3NFV3NTBPcWRGTmt0d2FmeDJtV3VwazQzUFRTZ1NJNF9pYkNfM1ozR2dkN2ptcWJn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ciena-2026-04-26-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Corporation $CIEN Stake Boosted by Teacher Retirement System of Texas - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNXFZRHMwS29EMHdQajRabURZRjNLdXVQaGZBWnZnR3J0dU9WZExMRDhWeTVxMGR1TmpwbE5uc19uWU5CWnZRWS1GWUNESGNaSDFSSUhOQlBaY1FEeHFXRWxlRzRvdTZIX25CSzZhU2VfdnA4dHpRNzVhV2ltUmRXRTZ1S1ZnUzRiX3FzeXBpUFhCZGFuY0tJMENOeWJfc0FOR3YxLWQtZFZCaFFJT3poc3dBTmdkc1FxUmU2S1VPWEpmZWt5eUdoZEZWMWU2cHRN?oc=5"
     }
   ],
   "anomalies": [],
-  "topic_trends": {},
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 2,
+    "total_events": 14,
     "sentiment_distribution": {
-      "positive": 0,
-      "neutral": 2,
-      "negative": 0
+      "positive": 1,
+      "neutral": 12,
+      "negative": 1
     },
     "top_companies": [
       {
+        "id": "ciena",
+        "count": 5
+      },
+      {
         "id": "nokia",
-        "count": 1
+        "count": 2
       },
       {
         "id": "sba_comm",
+        "count": 2
+      },
+      {
+        "id": "american_tower",
+        "count": 2
+      },
+      {
+        "id": "deutsche_telekom",
         "count": 1
       }
     ],
-    "top_topics": []
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      }
+    ]
   },
   "filter_audit": {
-    "total_raw": 316,
-    "dup_title": 93,
-    "too_old": 134,
-    "gate1_blocked": 39,
-    "gate2_blocked": 46,
-    "passed": 4,
-    "pass_rate": "1.8%",
-    "gate2_block_rate": "20.6%",
+    "total_raw": 631,
+    "dup_title": 185,
+    "too_old": 274,
+    "gate1_blocked": 40,
+    "gate2_blocked": 52,
+    "passed": 80,
+    "pass_rate": "17.9%",
+    "gate2_block_rate": "11.7%",
     "gate2_samples": [
       "Nokia Corporation Interim Report for Q1 2026 - Nokia",
       "Changes in Nokia Corporation's own shares - Nokia",
@@ -84,7 +174,7 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 2 則事件，焦點為諾基亞、SBA相關動態：「Calamos Advisors LLC Grows Stake in Nokia Corporation $NO...」。市場情緒中性，暫無明顯方向。",
+    "summary": "今日共 14 則事件，焦點為Ciena、諾基亞、SBA相關動態：「Calamos Advisors LLC Grows Stake in Nokia Corporation $NO...」。主要關注主題為產業通用，市場情緒中性。",
     "signals": [
       {
         "text": "Calamos Advisors LLC Grows Stake in Nokia Corporation $NOK - MarketBeat",
