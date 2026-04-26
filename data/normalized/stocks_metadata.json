@@ -1,102 +1,102 @@
 {
   "ericsson": {
-    "earliest": "2022-05-11",
+    "earliest": "2022-02-10",
     "latest": "2026-04-24",
-    "count": 992
+    "count": 1054
   },
   "nokia": {
-    "earliest": "2022-05-11",
+    "earliest": "2022-02-10",
     "latest": "2026-04-24",
-    "count": 992
+    "count": 1054
   },
   "zte": {
-    "earliest": "2022-05-11",
+    "earliest": "2022-02-10",
     "latest": "2026-04-24",
-    "count": 961
+    "count": 1020
   },
   "ceragon": {
-    "earliest": "2022-05-11",
+    "earliest": "2022-02-10",
     "latest": "2026-04-24",
-    "count": 992
+    "count": 1054
   },
   "ciena": {
-    "earliest": "2022-05-11",
+    "earliest": "2022-02-10",
     "latest": "2026-04-24",
-    "count": 992
+    "count": 1054
   },
   "calix": {
-    "earliest": "2022-05-11",
+    "earliest": "2022-02-10",
     "latest": "2026-04-24",
-    "count": 992
+    "count": 1054
   },
   "att": {
-    "earliest": "2022-05-11",
+    "earliest": "2022-02-10",
     "latest": "2026-04-24",
-    "count": 992
+    "count": 1054
   },
   "verizon": {
-    "earliest": "2022-05-11",
+    "earliest": "2022-02-10",
     "latest": "2026-04-24",
-    "count": 992
+    "count": 1054
   },
   "tmobile": {
-    "earliest": "2022-05-11",
+    "earliest": "2022-02-10",
     "latest": "2026-04-24",
-    "count": 992
+    "count": 1054
   },
   "chunghwa": {
-    "earliest": "2022-05-13",
+    "earliest": "2022-02-14",
     "latest": "2026-04-24",
-    "count": 957
+    "count": 1017
   },
   "taiwan_mobile": {
-    "earliest": "2022-05-13",
+    "earliest": "2022-02-14",
     "latest": "2026-04-24",
-    "count": 957
+    "count": 1017
   },
   "fareastone": {
-    "earliest": "2022-05-13",
+    "earliest": "2022-02-14",
     "latest": "2026-04-24",
-    "count": 957
+    "count": 1017
   },
   "deutsche_telekom": {
-    "earliest": "2022-05-12",
+    "earliest": "2022-02-11",
     "latest": "2026-04-24",
-    "count": 1007
+    "count": 1069
   },
   "softbank": {
-    "earliest": "2022-05-16",
+    "earliest": "2022-02-15",
     "latest": "2026-04-24",
-    "count": 968
+    "count": 1026
   },
   "american_tower": {
-    "earliest": "2022-05-11",
+    "earliest": "2022-02-10",
     "latest": "2026-04-24",
-    "count": 992
+    "count": 1054
   },
   "crown_castle": {
-    "earliest": "2022-05-11",
+    "earliest": "2022-02-10",
     "latest": "2026-04-24",
-    "count": 992
+    "count": 1054
   },
   "sba_comm": {
-    "earliest": "2022-05-11",
+    "earliest": "2022-02-10",
     "latest": "2026-04-24",
-    "count": 992
+    "count": 1054
   },
   "equinix": {
-    "earliest": "2022-05-11",
+    "earliest": "2022-02-10",
     "latest": "2026-04-24",
-    "count": 992
+    "count": 1054
   },
   "etf_iyz": {
-    "earliest": "2022-05-11",
+    "earliest": "2022-02-10",
     "latest": "2026-04-24",
-    "count": 992
+    "count": 1054
   },
   "etf_fivg": {
-    "earliest": "2022-05-11",
+    "earliest": "2022-02-10",
     "latest": "2026-04-24",
-    "count": 991
+    "count": 1053
   }
 }
