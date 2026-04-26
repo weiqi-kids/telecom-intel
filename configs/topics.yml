@@ -115,3 +115,73 @@ topics:
     - EBITDA
     - capex
     - 資本支出
+  industry_general:
+    display: 產業通用
+    keywords:
+    - telecom
+    - telecommunications
+    - telco
+    - network
+    - wireless
+    - mobile
+    - broadband
+    - fiber
+    - fibre
+    - optical
+    - tower
+    - antenna
+    - base station
+    - data center
+    - data centre
+    - satellite
+    - submarine cable
+    - cable
+    - Wi-Fi
+    - wifi
+    - router
+    - switch
+    - RAN
+    - radio access
+    - IoT
+    - internet of things
+    - 6G
+    - connectivity
+    - roaming
+    - carrier
+    - operator
+    - stock
+    - shares
+    - rating
+    - analyst
+    - valuation
+    - target price
+    - price target
+    - overweight
+    - underweight
+    - outperform
+    - underperform
+    - strong buy
+    - buy rating
+    - sell rating
+    - hold rating
+    - upgrade
+    - downgrade
+    - stock price
+    - 電信
+    - 基地台
+    - 頻譜
+    - 行動通訊
+    - 網路
+    - 光纖
+    - 衛星
+    - 數據中心
+    - share price
+    - position
+    - holdings
+    - shareholder
+    - annual report
+    - interim report
+    - P/E
+    - 股價
+    - 評等
+    - 目標價
