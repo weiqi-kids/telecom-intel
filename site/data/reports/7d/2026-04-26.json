@@ -4,7 +4,7 @@
     "start": "2026-04-20",
     "end": "2026-04-26"
   },
-  "generated_at": "2026-04-26T03:22:06.065363Z",
+  "generated_at": "2026-04-26T08:53:30.763162Z",
   "highlights": [
     {
       "rank": 1,
@@ -38,12 +38,12 @@
   },
   "company_7d_summary": {
     "sba_comm": {
-      "event_count": 1,
+      "event_count": 2,
       "sentiment_avg": 0.0,
       "rank": 1
     },
     "nokia": {
-      "event_count": 1,
+      "event_count": 2,
       "sentiment_avg": 0.0,
       "rank": 2
     },
@@ -56,9 +56,9 @@
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 7,
+        "this": 9,
         "last": 6,
-        "change_pct": 16.7
+        "change_pct": 50.0
       }
     }
   },
@@ -95,20 +95,20 @@
     },
     {
       "date": "2026-04-26",
-      "event_count": 0,
+      "event_count": 2,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-20 ~ 2026-04-26）共 7 則事件，重點為「AT&T revenue rises YOY in Q1'26; T-Mobile, Deut...」。法說會、光纖建設、ARPU為本週焦點話題。",
+    "summary": "本週（2026-04-20 ~ 2026-04-26）共 9 則事件，重點為「AT&T revenue rises YOY in Q1'26; T-Mobile, Deut...」。法說會、光纖建設、ARPU為本週焦點話題。",
     "watchlist": [
       {
         "company": "SBA",
-        "reason": "本週有 1 則相關事件，建議持續追蹤動態。"
+        "reason": "本週有 2 則相關事件，建議持續追蹤動態。"
       },
       {
         "company": "諾基亞",
-        "reason": "本週有 1 則相關事件，建議持續追蹤動態。"
+        "reason": "本週有 2 則相關事件，建議持續追蹤動態。"
       }
     ]
   },

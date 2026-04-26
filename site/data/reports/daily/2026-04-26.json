@@ -1,29 +1,97 @@
 {
   "date": "2026-04-26",
-  "generated_at": "2026-04-26T03:22:06.001737Z",
-  "top_events": [],
+  "generated_at": "2026-04-26T08:53:30.699969Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nokia-2026-04-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Calamos Advisors LLC Grows Stake in Nokia Corporation $NOK - MarketBeat",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT3VyalZZdFc5OUhMamFzOC00SmFlUld1Mmc1WExBdmUwc0xWNG9lUUNnVV9ld25RMlI4SlpaLTQwbWJ6eVVpZEh2cWxKVVFPNXZNRHk5R091c2ZtZmdnUklVZjVoMDFTRmJZbU9UdTJmMnI3V0FncnlhcVNJY1VQdl85OXh6Y2dNVXlOczEyVFBLWGZOVmdlMFJGcG1jXzF0Wk9aZTY2Ymh0eW43OGJHSVd5MEloR3FjRmc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sba_comm-2026-04-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SBA Communications upgraded at Truist on 'multiple paths to upside in shares' - MSN",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxQb0s4T3J3dVpFdDE4cEQ1dFh5NnhnQzU5TWM1T0U5VWRsUTFYNU9nUzg3YVFXaFo3MUFma2tuV0xjVlJDLWhMNDJPUjdCRDJPdWVZRDlYZUptbmNoMVBOZUw0YjBERkgtS1JLb2lPN3NFZ2tpT18zeWJ5WUNpVUF0UE1MYk5oUGpqdG9nQnpWSUZLOE1TVmhLcmJORDMzWlFsM0hfVmEtZzRWWVVDQ1V3eWlYWHJFTlVSZzlIdjVrY0tuRFZEMVRZaXVERE1Mb0FPRGtIWV90dzJ3SEpjWDlHWHJneE83Q3JZNFJQaHc1WndmMW9mZDZUcGs3NHhVUy01amoxVWJVWHBBRVNqQ1NUQUNoNndwX2VBSEZTb280M2M2VHVHdUtDU2xmb293bjBzcC14Wm1lT1lNb243dnN6YktjQktCVlgzLWZqRVMxRkRWY3o5cGtFekhuZnV4Zk9iLTFOZG5CX0VLWUdjei1uQVJnTVk4dmRyb1lTYjNRSEFDQQ?oc=5"
+    }
+  ],
   "anomalies": [],
   "topic_trends": {},
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 0,
+    "total_events": 2,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 0,
+      "neutral": 2,
       "negative": 0
     },
-    "top_companies": [],
+    "top_companies": [
+      {
+        "id": "nokia",
+        "count": 1
+      },
+      {
+        "id": "sba_comm",
+        "count": 1
+      }
+    ],
     "top_topics": []
   },
+  "filter_audit": {
+    "total_raw": 316,
+    "dup_title": 93,
+    "too_old": 134,
+    "gate1_blocked": 39,
+    "gate2_blocked": 46,
+    "passed": 4,
+    "pass_rate": "1.8%",
+    "gate2_block_rate": "20.6%",
+    "gate2_samples": [
+      "Nokia Corporation Interim Report for Q1 2026 - Nokia",
+      "Changes in Nokia Corporation's own shares - Nokia",
+      "Waterfront Wealth Inc. Sells 380,113 Shares of Nokia Corporation $NOK - MarketBeat",
+      "Nokia (NYSE:NOK) Stock Price Down 4.7% - What's Next? - MarketBeat",
+      "Nokia Stock Jumps As Wall Street Backs AI And Optical Pivot - timothysykes.com"
+    ],
+    "alert": false
+  },
   "llm_analysis": {
-    "summary": "2026-04-26 無電信產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "summary": "今日共 2 則事件，焦點為諾基亞、SBA相關動態：「Calamos Advisors LLC Grows Stake in Nokia Corporation $NO...」。市場情緒中性，暫無明顯方向。",
     "signals": [
       {
-        "text": "今日無重大異常訊號，產業動態平穩。",
+        "text": "Calamos Advisors LLC Grows Stake in Nokia Corporation $NOK - MarketBeat",
         "level": "green"
       },
       {
-        "text": "建議持續監控後續發展動態。",
+        "text": "SBA Communications upgraded at Truist on 'multiple paths to upside in shares'...",
         "level": "green"
       }
     ]
