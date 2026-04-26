@@ -1,5 +1,3 @@
-# 電信供應鏈情報追蹤 - 公司清單
-
 companies:
 - id: ericsson
   name: Ericsson
@@ -20,6 +18,7 @@ companies:
   - chunghwa
   - taiwan_mobile
   - fareastone
+  fetch_mode: http
 - id: nokia
   name: Nokia Corporation
   aliases:
@@ -39,6 +38,7 @@ companies:
   - chunghwa
   - taiwan_mobile
   - fareastone
+  fetch_mode: http
 - id: zte
   name: 中興通訊
   aliases:
@@ -56,6 +56,7 @@ companies:
   - chunghwa
   - taiwan_mobile
   - fareastone
+  fetch_mode: http
 - id: ceragon
   name: Ceragon Networks
   aliases:
@@ -71,6 +72,7 @@ companies:
   - att
   - verizon
   - tmobile
+  fetch_mode: http
 - id: commscope
   name: CommScope Holding
   aliases:
@@ -88,6 +90,7 @@ companies:
   - tmobile
   - american_tower
   - crown_castle
+  fetch_mode: http
 - id: ciena
   name: Ciena Corporation
   aliases:
@@ -103,6 +106,7 @@ companies:
   - att
   - verizon
   - tmobile
+  fetch_mode: http
 - id: calix
   name: Calix Inc
   aliases:
@@ -117,6 +121,7 @@ companies:
   downstream:
   - att
   - verizon
+  fetch_mode: http
 - id: att
   name: AT&T
   aliases:
@@ -137,6 +142,7 @@ companies:
   - american_tower
   - crown_castle
   - sba_comm
+  fetch_mode: http
 - id: verizon
   name: Verizon Communications
   aliases:
@@ -158,6 +164,7 @@ companies:
   - american_tower
   - crown_castle
   - sba_comm
+  fetch_mode: http
 - id: tmobile
   name: T-Mobile US
   aliases:
@@ -178,6 +185,7 @@ companies:
   - american_tower
   - crown_castle
   - sba_comm
+  fetch_mode: http
 - id: chunghwa
   name: 中華電信
   aliases:
@@ -194,6 +202,7 @@ companies:
   - ericsson
   - nokia
   - zte
+  fetch_mode: http
 - id: taiwan_mobile
   name: 台灣大哥大
   aliases:
@@ -210,6 +219,7 @@ companies:
   - ericsson
   - nokia
   - zte
+  fetch_mode: http
 - id: fareastone
   name: 遠傳電信
   aliases:
@@ -226,6 +236,7 @@ companies:
   - ericsson
   - nokia
   - zte
+  fetch_mode: http
 - id: deutsche_telekom
   name: Deutsche Telekom
   aliases:
@@ -243,6 +254,7 @@ companies:
   - nokia
   downstream:
   - american_tower
+  fetch_mode: http
 - id: softbank
   name: SoftBank Corp
   aliases:
@@ -258,6 +270,7 @@ companies:
   upstream:
   - ericsson
   - nokia
+  fetch_mode: http
 - id: american_tower
   name: American Tower
   aliases:
@@ -275,6 +288,7 @@ companies:
   - verizon
   - tmobile
   - commscope
+  fetch_mode: http
 - id: crown_castle
   name: Crown Castle
   aliases:
@@ -292,6 +306,7 @@ companies:
   - verizon
   - tmobile
   - commscope
+  fetch_mode: http
 - id: sba_comm
   name: SBA Communications
   aliases:
@@ -308,6 +323,7 @@ companies:
   - att
   - verizon
   - tmobile
+  fetch_mode: http
 - id: equinix
   name: Equinix
   aliases:
@@ -323,6 +339,7 @@ companies:
   upstream:
   - att
   - verizon
+  fetch_mode: http
 etfs:
 - id: iyz
   name: iShares U.S. Telecommunications ETF
