@@ -1,10 +1,16 @@
 {
-  "total_raw": 0,
-  "dup_title": 0,
+  "total_raw": 316,
+  "dup_title": 103,
   "no_date": 0,
-  "too_old": 0,
-  "gate1_fail": 0,
-  "gate2_fail": 0,
+  "too_old": 129,
+  "gate1_fail": 38,
+  "gate2_fail": 46,
   "passed": 0,
-  "gate2_samples": []
+  "gate2_samples": [
+    "Nokia: Sleeping Giant Boosted By AI (NYSE:NOK) - Seeking Alpha",
+    "Nokia Corporation Interim Report for Q1 2026 - Nokia",
+    "Nokia (NYSE:NOK) Stock Price Down 4.7% - What's Next? - MarketBeat",
+    "Is Nokia Oyj (HLSE:NOKIA) Pricing Look Stretched After Strong Multi‑Year Share Gains? - Yahoo Financ",
+    "Waterfront Wealth Inc. Sells 380,113 Shares of Nokia Corporation $NOK - MarketBeat"
+  ]
 }
