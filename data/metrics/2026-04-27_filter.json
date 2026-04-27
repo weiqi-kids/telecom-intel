@@ -1,0 +1,16 @@
+{
+  "total_raw": 307,
+  "dup_title": 147,
+  "no_date": 0,
+  "too_old": 133,
+  "gate1_fail": 1,
+  "gate2_fail": 7,
+  "passed": 19,
+  "gate2_samples": [
+    "West Michigan Advisors LLC Invests $729,000 in Ciena Corporation $CIEN - MarketBeat",
+    "3. Q&A – Adel Al-Saleh On Systems Solutions – Deutsche Telekom Capital Markets Day 2018 (oY4SiV3fHw)",
+    "Insights into SBA Communications (SBAC) Q4: Wall Street projections for key metrics - MSN",
+    "SBAC Communications gains on report it's exploring a possible sale - MSN",
+    "SBA Communications shows improved relative price performance; still shy of benchmark - MSN"
+  ]
+}

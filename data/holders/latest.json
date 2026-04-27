@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-26T14:12:42.333411+00:00",
+  "updated_at": "2026-04-27T01:42:08.966518+00:00",
   "companies": {
     "ericsson": {
       "name": "Ericsson",
@@ -778,61 +778,61 @@
           "holder": "Vanguard Group Inc",
           "shares": 13398906,
           "pct_held": 13.59,
-          "value": 14856171147
+          "value": 14857913070
         },
         {
           "holder": "Blackrock Inc.",
           "shares": 10797392,
           "pct_held": 10.95,
-          "value": 11971716459
+          "value": 11973120173
         },
         {
           "holder": "State Street Corporation",
           "shares": 6212192,
           "pct_held": 6.3,
-          "value": 6887830062
+          "value": 6888637677
         },
         {
           "holder": "FMR, LLC",
           "shares": 2814005,
           "pct_held": 2.85,
-          "value": 3120056211
+          "value": 3120422045
         },
         {
           "holder": "Cohen & Steers Inc.",
           "shares": 2609011,
           "pct_held": 2.65,
-          "value": 2892767061
+          "value": 2893106246
         },
         {
           "holder": "Geode Capital Management, LLC",
           "shares": 2567830,
           "pct_held": 2.6,
-          "value": 2847107215
+          "value": 2847441046
         },
         {
           "holder": "JPMORGAN CHASE & CO",
           "shares": 2193256,
           "pct_held": 2.22,
-          "value": 2431794543
+          "value": 2432079677
         },
         {
           "holder": "Principal Financial Group, Inc.",
           "shares": 1952854,
           "pct_held": 1.98,
-          "value": 2165246420
+          "value": 2165500300
         },
         {
           "holder": "Northern Trust Corporation",
           "shares": 1500506,
           "pct_held": 1.52,
-          "value": 1663701047
+          "value": 1663896120
         },
         {
           "holder": "Price (T.Rowe) Associates Inc",
           "shares": 1477273,
           "pct_held": 1.5,
-          "value": 1637941225
+          "value": 1638133278
         }
       ]
     }

@@ -1,0 +1,50 @@
+{
+  "date": "2026-04-27",
+  "generated_at": "2026-04-27T01:42:09.320478Z",
+  "top_events": [],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 0,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 0,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 307,
+    "dup_title": 147,
+    "too_old": 133,
+    "gate1_blocked": 1,
+    "gate2_blocked": 7,
+    "passed": 19,
+    "pass_rate": "11.9%",
+    "gate2_block_rate": "4.4%",
+    "gate2_samples": [
+      "West Michigan Advisors LLC Invests $729,000 in Ciena Corporation $CIEN - MarketBeat",
+      "3. Q&A – Adel Al-Saleh On Systems Solutions – Deutsche Telekom Capital Markets Day 2018 (oY4SiV3fHw)",
+      "Insights into SBA Communications (SBAC) Q4: Wall Street projections for key metrics - MSN",
+      "SBAC Communications gains on report it's exploring a possible sale - MSN",
+      "SBA Communications shows improved relative price performance; still shy of benchmark - MSN"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "2026-04-27 無電信產業相關事件。市場處於平靜狀態，無重大訊號。",
+    "signals": [
+      {
+        "text": "今日無重大異常訊號，產業動態平穩。",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
