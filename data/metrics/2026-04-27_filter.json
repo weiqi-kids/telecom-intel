@@ -1,11 +1,11 @@
 {
-  "total_raw": 307,
-  "dup_title": 147,
+  "total_raw": 620,
+  "dup_title": 305,
   "no_date": 0,
-  "too_old": 133,
+  "too_old": 277,
   "gate1_fail": 1,
-  "gate2_fail": 7,
-  "passed": 19,
+  "gate2_fail": 13,
+  "passed": 24,
   "gate2_samples": [
     "West Michigan Advisors LLC Invests $729,000 in Ciena Corporation $CIEN - MarketBeat",
     "3. Q&A – Adel Al-Saleh On Systems Solutions – Deutsche Telekom Capital Markets Day 2018 (oY4SiV3fHw)",

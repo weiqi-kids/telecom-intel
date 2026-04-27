@@ -1258,6 +1258,27 @@
     ]
   },
   {
+    "id": "deutsche_telekom-2026-04-24-030",
+    "date": "2026-04-24",
+    "companies": [
+      "deutsche_telekom",
+      "tmobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "T-Mobile said to be in talks to combine with Deutsche Telekom - The Business Journals",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPYXFMNHJoSkpsS2g5eHMzNktJNzhJbHhBSGloaTZTMGI2RE5rV0k2WldKblhia0hCbEpJcU1lMHF6UjNMaUdMdWFoa0taRDl3LVFOSmxZVFB2M1luVzNlb24zcXRDdXlicU13aVV3Ri",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYXFMNHJoSkpsS2g5eHMzNktJNzhJbHhBSGloaTZTMGI2RE5rV0k2WldKblhia0hCbEpJcU1lMHF6UjNMaUdMdWFoa0taRDl3LVFOSmxZVFB2M1luVzNlb24zcXRDdXlicU13aVV3Ri1ScGV6dk5xQ3o4bjZXcU41Y1FlbDQwYWtYWGhVVXFCSjZhWkFQOXprT3Axcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nokia-2026-04-23-001",
     "date": "2026-04-23",
     "companies": [
@@ -2630,6 +2651,27 @@
     ]
   },
   {
+    "id": "deutsche_telekom-2026-04-22-025",
+    "date": "2026-04-22",
+    "companies": [
+      "deutsche_telekom",
+      "tmobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Watch Deutsche Telekom Said to Weigh T-Mobile Combination in Giant M&A Deal - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSkJzQjVWc21FcFFRbGtEVDNkRTMzYW1kc05ldHNjMTFYNndxV1R3M2RLUnIzRjhPNWt0dVZpcEx4NThqZ3FESWN1YjRESVkwcElQNUlhZnUya2F5S1dGUGIwQ2ZIdGJJRzJfS25YcU",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSkJzQjVWc21FcFFRbGtEVDNkRTMzYW1kc05ldHNjMTFYNndxV1R3M2RLUnIzRjhPNWt0dVZpcEx4NThqZ3FESWN1YjRESVkwcElQNUlhZnUya2F5S1dGUGIwQ2ZIdGJJRzJfS25YcUtHWUstanF0emc3UFo4YkxhR2xHdkF6bUFIWWFPMlY5QnpldkdRdWJlZjBnNlNVSjdIX0ZMZ000TnJHUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-04-21-005",
     "date": "2026-04-21",
     "companies": [],
@@ -3092,6 +3134,46 @@
     ]
   },
   {
+    "id": "nokia-2026-04-21-027",
+    "date": "2026-04-21",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Changes in Nokia Corporation's own shares - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOamJQX0RlV2JwaWhiY01KQ0ZNWWtuNndXUFlCekM2eDZHZGN4OUJkY0VJM3FfYi10bmRKblFxTGFCaE10OUFIOU14LUN4M2szTDFZdXEwUGExd19zd3gxM0xJQkdCc0dSdzdseUhYST",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOamJQX0RlV2JwaWhiY01KQ0ZNWWtuNndXUFlCekM2eDZHZGN4OUJkY0VJM3FfYi10bmRKblFxTGFCaE10OUFIOU14LUN4M2szTDFZdXEwUGExd19zd3gxM0xJQkdCc0dSdzdseUhYSTBxQ0lsX0ItcmJVckdNT1RZNnh6VVQyb2xsTEFIS25DdEVyeUJxaGM3RDBn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-04-21-028",
+    "date": "2026-04-21",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Nokia to Report Q1 Earnings: Can Strong Revenues Drive Growth? - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPZlkzRDBWS0VMT3E0dTJJU0htMkRzeTJKNDdxMVlZMjk2cUxGNlhvNHZJTVBUbnlIeW5BX2pBTnZYSU9mYnpuNGRRNnJPZVN6S3Z6QjN4YUczWlFpZUdMUEJ5ZEcyZ0hUTXBpWVZMMF",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZlkzRDBWS0VMT3E0dTJJU0htMkRzeTJKNDdxMVlZMjk2cUxGNlhvNHZJTVBUbnlIeW5BX2pBTnZYSU9mYnpuNGRRNnJPZVN6S3Z6QjN4YUczWlFpZUdMUEJ5ZEcyZ0hUTXBpWVZMMFNaYVlQQ3NhUWtIcVhMUDZsb3VaVGktSmVNS2Z0QTlNSkFuX0dyWE1MLTVUVERCT0l2azdUSWY3bXJIb1hIbWY4dTlOcWNVdm8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-04-20-003",
     "date": "2026-04-20",
     "companies": [],
@@ -3293,6 +3375,26 @@
       {
         "name": "total_telecom",
         "url": "https://totaltele.com/ast-spacemobile-satellite-placed-into-wrong-orbit/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-04-20-015",
+    "date": "2026-04-20",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nokia Stock Jumps As Wall Street Backs AI And Optical Pivot - timothysykes.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNY0FjbjJjemhib1Ftem9jRFptT1pOZVBjWnFxdVJsSDJxTGs1cXJHWlRpSjdHbGRrLVRERnhXMXlhdFV3Z0FvWVNkc0ZLUkw3UUpicmJpVmhmUF94V0RJbXItWWk0bzZnSm9TOU9oRm",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY0FjbjJjemhib1Ftem9jRFptT1pOZVBjWnFxdVJsSDJxTGs1cXJHWlRpSjdHbGRrLVRERnhXMXlhdFV3Z0FvWVNkc0ZLUkw3UUpicmJpVmhmUF94V0RJbXItWWk0bzZnSm9TOU9oRmtuS0dod3BQM0VjUS1hQVhhN1BNZEhtVExWS0E?oc=5",
         "type": "rss"
       }
     ]
