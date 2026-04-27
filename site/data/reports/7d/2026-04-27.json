@@ -4,7 +4,7 @@
     "start": "2026-04-21",
     "end": "2026-04-27"
   },
-  "generated_at": "2026-04-27T03:37:57.560931Z",
+  "generated_at": "2026-04-27T10:10:23.172009Z",
   "highlights": [
     {
       "rank": 1,
@@ -30,8 +30,14 @@
       "sentiment_this_week": 0.0
     },
     "industry_general": {
-      "this_week": 10,
+      "this_week": 20,
       "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.1
+    },
+    "spectrum_auction": {
+      "this_week": 1,
+      "last_week": 1,
       "week_over_week_change": "N/A",
       "sentiment_this_week": 0.0
     }
@@ -50,35 +56,50 @@
     "ceragon": {
       "event_count": 1,
       "sentiment_avg": 0.0,
-      "rank": 5
+      "rank": 8
     },
     "ciena": {
-      "event_count": 5,
-      "sentiment_avg": 0.1,
+      "event_count": 6,
+      "sentiment_avg": 0.08,
       "rank": 1
     },
     "deutsche_telekom": {
-      "event_count": 1,
-      "sentiment_avg": 0.0,
-      "rank": 6
-    },
-    "american_tower": {
-      "event_count": 2,
+      "event_count": 3,
       "sentiment_avg": 0.0,
       "rank": 4
     },
+    "american_tower": {
+      "event_count": 3,
+      "sentiment_avg": 0.33,
+      "rank": 5
+    },
     "equinix": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "commscope": {
       "event_count": 1,
       "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "softbank": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
       "rank": 7
+    },
+    "tmobile": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
     }
   },
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 177,
+        "this": 191,
         "last": 44,
-        "change_pct": 302.3
+        "change_pct": 334.1
       }
     }
   },
@@ -100,7 +121,7 @@
     },
     {
       "date": "2026-04-24",
-      "event_count": 30,
+      "event_count": 31,
       "sentiment_avg": 0
     },
     {
@@ -110,17 +131,17 @@
     },
     {
       "date": "2026-04-26",
-      "event_count": 19,
+      "event_count": 20,
       "sentiment_avg": 0
     },
     {
       "date": "2026-04-27",
-      "event_count": 0,
+      "event_count": 12,
       "sentiment_avg": 0
     }
   ],
   "llm_analysis": {
-    "summary": "本週（2026-04-21 ~ 2026-04-27）共 177 則事件，重點為「AT&T revenue rises YOY in Q1'26; T-Mobile, Deut...」。事件量較上週增加 302%，產業動態明顯升溫，需密切關注。",
+    "summary": "本週（2026-04-21 ~ 2026-04-27）共 191 則事件，重點為「AT&T revenue rises YOY in Q1'26; T-Mobile, Deut...」。事件量較上週增加 334%，產業動態明顯升溫，需密切關注。",
     "watchlist": [
       {
         "company": "SBA",
@@ -132,7 +153,7 @@
       },
       {
         "company": "Ciena",
-        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
       }
     ]
   },

@@ -1,8 +1,46 @@
 {
   "date": "2026-04-27",
-  "total_events": 0,
-  "by_company": {},
-  "by_topic": {},
+  "total_events": 12,
+  "by_company": {
+    "commscope": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ciena": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "deutsche_telekom": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "softbank": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "american_tower": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "equinix": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "tmobile": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 10,
+      "sentiment_avg": 0.2
+    },
+    "spectrum_auction": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
   "baselines_used": {
     "companies": {},
     "topics": {}
