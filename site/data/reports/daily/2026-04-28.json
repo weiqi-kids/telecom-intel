@@ -1,0 +1,226 @@
+{
+  "date": "2026-04-28",
+  "generated_at": "2026-04-28T10:09:43.370234Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-28-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AI boosts costs as pricing power lags, say Indian telcos",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.lightreading.com/5g/ai-boosts-costs-as-pricing-power-lags-say-indian-telcos"
+    },
+    {
+      "rank": 2,
+      "event_id": "nokia-2026-04-28-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "VodafoneThree reveals why it chose Ericsson and Nokia for 5G",
+      "companies": [
+        "nokia",
+        "ericsson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "5g_deployment"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/5g/vodafonethree-reveals-why-it-chose-ericsson-and-nokia-for-5g"
+    },
+    {
+      "rank": 3,
+      "event_id": "nokia-2026-04-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ARGA Investment Management LP Invests $49.52 Million in Nokia Corporation $NOK - MarketBeat",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMU1yWXZCQ1NhSzBqZVdpYjBRcUt6dEg1V0MyR3cyazN6VHliZEM3WTdiOUxuNnE5V1REbktaVDhQcnZHZ0UxZUlYTVdwNTQxYUpzWUZPUUFDa1dXY0UzT1lEdjFQNFA5R2psRndfcU85TjFIYlJSbE45MXBSdnF1TmFFWFNoSUhmalV6M1RIR0VhWmxLSVlXdm51bm1JUkxWZF9HazNnX1l1VHRiSXdhZElNWDdJYjBwaFRVNEtoWGx3SUdLZnNQbjdTUkNLX1NFc1E?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "deutsche_telekom-2026-04-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "DEUTSCHE TELEKOM - TMTM 2014 - INTRO - 16:9 VERSION (wim8DtChRS) - Fathom Journal",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2bWt3ZENaejBkUGpCYlo2M3FwZl81RGR2dkJCS2dxRE0wQmRnb21RQVR2Z3EzMkQwYkFVcE9hZ3ppdURXVVR0UnFTM05jdXVSTUd6bnlNZ2Rub2todS1JVmlkaHFjQUM4YXNfX0RzSl8?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "sba_comm-2026-04-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SBA Communications stock jumps on report of sale talks - MSN",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxPdjYtOEdYbGk1TVgzQmJ2MTdWRFdpQlFHWldHdGZ0T0VtZzRReG04U1NMZFNEeDZNbm01S3RGSUhFMWlEMFBLem45S2RHY2xPS3lyTzhrdlNZZTctLWlHNkRmaUQ5a1NxS0VOczhUbzdUZFcyMUVkTWluLXNXMDRkMnQ3emN3SDFmXzlwM1RxMlAwaXFsWWE5SmdGUGhySk5aLWc3WGdZMUhkamdlN1VMcFd6b29wM1lMa0JrVUF5TnIyclNxaGNMT2VQZlBLTXZDNmg0RFEyZXU3Y04tRlZxYTd3ZV9FZlY4UFZaQTVpajd3WTYxakNHMDFUZEJXWldUazBvMTJFTlFmT1FCMFduVXpPSDhRLWlWN1lCMGlJUVVUeDljVHVnYTVYS1U3RjQtWnlMcm9QRVRoZnhuX1lKX3pSTS0wZWd2NjZybFZHU05WaVp6d2EtUy1Hbl8yU2tM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    },
+    "5g_deployment": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nokia",
+        "count": 2
+      },
+      {
+        "id": "sba_comm",
+        "count": 2
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      },
+      {
+        "id": "equinix",
+        "count": 1
+      },
+      {
+        "id": "ericsson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "5g_deployment",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 314,
+    "dup_title": 121,
+    "too_old": 140,
+    "gate1_blocked": 2,
+    "gate2_blocked": 7,
+    "passed": 44,
+    "pass_rate": "22.8%",
+    "gate2_block_rate": "3.6%",
+    "gate2_samples": [
+      "West Michigan Advisors LLC Invests $729,000 in Ciena Corporation $CIEN - MarketBeat",
+      "Deutsche Telekom Partners With Starlink To Tackle Cellular Dead Zones (rYjhY7dtEB) - Fathom Journal",
+      "Deutsche Telekom AG: Release of a capital market information - marketscreener.com",
+      "Axel Petri, Senior Vice President Group Security Governance, Deutsche Telekom On Cybersecurity (VE6W",
+      "SBA Communications shows improved relative price performance; still shy of benchmark - MSN"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為諾基亞、SBA、德國電信相關動態：「AI boosts costs as pricing power lags, say Indian telcos」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "AI boosts costs as pricing power lags, say Indian telcos（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "VodafoneThree reveals why it chose Ericsson and Nokia for 5G（5G 部署）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

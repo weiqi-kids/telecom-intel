@@ -1,0 +1,16 @@
+{
+  "total_raw": 314,
+  "dup_title": 121,
+  "no_date": 0,
+  "too_old": 140,
+  "gate1_fail": 2,
+  "gate2_fail": 7,
+  "passed": 44,
+  "gate2_samples": [
+    "West Michigan Advisors LLC Invests $729,000 in Ciena Corporation $CIEN - MarketBeat",
+    "Deutsche Telekom Partners With Starlink To Tackle Cellular Dead Zones (rYjhY7dtEB) - Fathom Journal",
+    "Deutsche Telekom AG: Release of a capital market information - marketscreener.com",
+    "Axel Petri, Senior Vice President Group Security Governance, Deutsche Telekom On Cybersecurity (VE6W",
+    "SBA Communications shows improved relative price performance; still shy of benchmark - MSN"
+  ]
+}
