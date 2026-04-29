@@ -1,0 +1,16 @@
+{
+  "total_raw": 312,
+  "dup_title": 110,
+  "no_date": 0,
+  "too_old": 120,
+  "gate1_fail": 5,
+  "gate2_fail": 5,
+  "passed": 72,
+  "gate2_samples": [
+    "Deutsche Telekom Says $156M India Award Should Be OK'd - Law360",
+    "Deutsche Telekom AG: Back on an important level - marketscreener.com",
+    "SBA Communications shows improved relative price performance; still shy of benchmark - MSN",
+    "Insights into SBA Communications (SBAC) Q4: Wall Street projections for key metrics - MSN",
+    "Sustainable by design: The importance of building things to last"
+  ]
+}
