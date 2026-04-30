@@ -1,0 +1,224 @@
+{
+  "date": "2026-04-30",
+  "generated_at": "2026-04-30T10:02:07.515672Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "equinix-2026-04-30-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Equinix lifts FY outlook after record bookings in Q1 - Telecompaper",
+      "companies": [
+        "equinix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObFJlSHJqN0Q3VWphSFAyYk1wSlJNUTYyMERPWl9NWjgtMWlTaDBXX3UtVDdKd2NYNW9vVnNNaFZaMG9Qb182Z1hWemxSVXNKUzVHZi0yZ1RBaEpBOHBBX21QT3RRdVA2dHJqOTFGLUcxSXFRb25EWTZnRTJIR3hqY0ZLenFVMnd3ZWItRDYxRHFGSEFtc09iUFQ5dw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sba_comm-2026-04-30-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SBA Communications Corp (SBAC) Q1 2026 Earnings Call Highlights: Strong Performance Boosts Full-Year Outlook - GuruFocus",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcTk0RGY4QzBwWE5YSG5hRTcyUmctOGRpRGgtNkJxWG1DZGhpVFlpdnAyVmttb3lMd01lTnlWYnVjM1h6VmVvWjRfeEhrbjdFc0RoaHJGSDVzS1FpQzZUVFU5c1EzbEc4UWI2Y0g0aEtDenY5V1JyQzhUSDhoRXlKRlZ2OE56WjI1QnF3eGM5ZjFVUm5aMnFDaVNpcjluMEpvRUh4Mk9mZ1VieExjaGphSURqaGRJTjR2cy1RbXpsRWpJYW1VSmdydHU4aVFvQWMzb05sMF9PNG82ekE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sba_comm-2026-04-30-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SBA Communications Q1 Earnings Call Highlights - MarketBeat",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSTVZNk1SUEhqTE9TRTRZdnlvSWtqcU5MczR0aV9ncENrTEc4NlZPUkRsM0Nwd2hSRlZiOFdwWDNzSlN1ZF95SWlxUy1pS3FkTlJXYlVVVkJHNHROanE0QzlkbWhaVDhkT2hxeXBHbTUyZXhzaVFBc2RVc2doVmNFcm51OUpTcEhQcUNjYXZUcDJkVURPOGtuOGp5WnNMWmt6bEE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sba_comm-2026-04-30-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SBA Communications (SBAC) Raises Full-Year Outlook Following Str - GuruFocus",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTFRmcWJ6anVGdjVZWnoxZlJSekpmMWdUamxWcEI5OVZOX3BWMnpyeTVHTUFmU3h6YzVsRXhYVmxnMm50V0Juel9NNDJXXzhJRjVtdWlYdU4wQS1tOFVDMmVFanc2YlpEVV9nSFo0a2JzdnM5R2o0bzJZdGt4NFJ2MC1SYmFPaE5lMjdKSFpfd2c3RDl4MkkzcnpZTENLZDJJRm82bS14VUQ3YjFpRlhpYWhWbGlrTWxjcUE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "equinix-2026-04-30-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Equinix Posts $2.44 Billion in Q1 Revenue and Lifts Full-Year Outlook on AI Demand - Finance Magnates",
+      "companies": [
+        "equinix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSjZnelRJZ0dOdzI5czQwb0hNQ2Y5N256dm1ZcGF5WkhMYmN5bFpGTkRUNGJIMk9GX182QUFwdzFzdGhEWnBrcDBUbmtnZGlHRFVOZDFwcU1rbV91NUF2UnpkNC1VS29CSEpvUVJpMENYRzFDMFlzMi12VjlRc2pudmVtS2R1NDlPYnRPM214MmdzTm1Ic2puSXNyUC05eXUzbjJySGpYLUdBRDFaN3BZUWJwM2h0WU1kYmxYcnRfSHJsU21hZUZlQktxVk1kZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.19,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 13,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "sba_comm",
+        "count": 5
+      },
+      {
+        "id": "equinix",
+        "count": 3
+      },
+      {
+        "id": "ciena",
+        "count": 1
+      },
+      {
+        "id": "softbank",
+        "count": 1
+      },
+      {
+        "id": "american_tower",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 313,
+    "dup_title": 121,
+    "too_old": 115,
+    "gate1_blocked": 6,
+    "gate2_blocked": 5,
+    "passed": 66,
+    "pass_rate": "34.4%",
+    "gate2_block_rate": "2.6%",
+    "gate2_samples": [
+      "Deutsche Telekom Says $156M India Award Should Be OK'd - Law360",
+      "Warning strike ahead of next round of negotiations with Deutsche Telekom - marketscreener.com",
+      "Is SBA Communications (SBAC) 7.6% Undervalued After Q1 2026 Earn - GuruFocus",
+      "Equinix's Interconnection-Centric Approach Offers Benefits for AI Tenants - Morningstar",
+      "Sustainable by design: The importance of building things to last"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為SBA、Equinix、Ciena相關動態：「Equinix lifts FY outlook after record bookings in Q1 - Te...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Equinix lifts FY outlook after record bookings in Q1 - Telecompaper（法說會、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "SBA Communications Corp (SBAC) Q1 2026 Earnings Call Highlights: Strong Perfo...（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,45 @@
+{
+  "date": "2026-04-30",
+  "total_events": 16,
+  "by_company": {
+    "ciena": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "softbank": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "american_tower": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "sba_comm": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "equinix": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "verizon": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 8,
+      "sentiment_avg": 0.19
+    },
+    "earnings": {
+      "count": 6,
+      "sentiment_avg": 0.17
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 313,
+  "dup_title": 121,
+  "no_date": 0,
+  "too_old": 115,
+  "gate1_fail": 6,
+  "gate2_fail": 5,
+  "passed": 66,
+  "gate2_samples": [
+    "Deutsche Telekom Says $156M India Award Should Be OK'd - Law360",
+    "Warning strike ahead of next round of negotiations with Deutsche Telekom - marketscreener.com",
+    "Is SBA Communications (SBAC) 7.6% Undervalued After Q1 2026 Earn - GuruFocus",
+    "Equinix's Interconnection-Centric Approach Offers Benefits for AI Tenants - Morningstar",
+    "Sustainable by design: The importance of building things to last"
+  ]
+}

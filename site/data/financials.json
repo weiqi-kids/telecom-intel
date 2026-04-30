@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-29T10:01:05.818312Z",
+  "updated_at": "2026-04-30T10:02:03.744176Z",
   "quarter": "2025-09-30, 2025-12-31, 2026-01-31",
   "companies": [
     {
@@ -7,14 +7,14 @@
       "name": "美國電塔",
       "ticker": "AMT",
       "currency": "USD",
-      "ar": 650300000,
-      "ar_prev": 737000000,
-      "ar_qoq": "-12%",
+      "ar": 718900000,
+      "ar_prev": 650300000,
+      "ar_qoq": "+11%",
       "inventory": null,
       "inv_prev": null,
       "inv_qoq": "N/A",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "att",
@@ -217,14 +217,14 @@
       "name": "T-Mobile US",
       "ticker": "TMUS",
       "currency": "USD",
-      "ar": 2683000000,
-      "ar_prev": 2316000000,
-      "ar_qoq": "+16%",
-      "inventory": 2405000000,
-      "inv_prev": 2370000000,
-      "inv_qoq": "+1%",
+      "ar": 2553000000,
+      "ar_prev": 2683000000,
+      "ar_qoq": "-5%",
+      "inventory": 2327000000,
+      "inv_prev": 2405000000,
+      "inv_qoq": "-3%",
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "verizon",
