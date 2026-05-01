@@ -1,0 +1,222 @@
+{
+  "date": "2026-05-01",
+  "generated_at": "2026-05-01T09:29:17.733884Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sba_comm-2026-05-01-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SBA Communications Lifts Outlook Amid Strong Tower Margins - TipRanks",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQazVlcm1FckJaQUQ0WlIwRU10Qk9ja3lNajhCeVZKN0VYS2toLWlSblRNaE93bDF0S2lPdXdKQkdoMDExbmlnc01fM1ZiOGhMODllVmZzMFVNQm5Ya0VhLWlQRXNHc3hyUV9hT3B6WjY2bTM0dUxvbnNRTnU5d2xPTFZHSVVnQ3J0LW9jdVVIZWRVVGd0cTBIelF5SDIwSjZDTjIwa2VsLUNLeFhjTXFz?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sba_comm-2026-05-01-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Investors May Respond To SBA Communications (SBAC) Dividend Hike And Upgraded 2026 Outlook - Yahoo Finance",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSjZzVTFiSzFFZXRaNkcyWjZPRmZlbGtKMmU2Y3BhM0RuZGw3aTNxenFJUzFKNEd3ek1qcUs2NTliUmE0LTN3eUxOWE1oM3JsaUlrakJQRXZ5QVFCUWVQdkUyd0tKU0themNNbWlKRDNxWUZ5VDFSRHdHWWt4Z0o2RnEtTU5NMUNMVkl0XzEzRXRqbkJDSERmRzhEX3doRENTNXFIUGtScFA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-05-01-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Samsung Networks has one of its worst quarters since 5G was born",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/5g/samsung-networks-has-one-of-its-worst-quarters-since-5g-was-born"
+    },
+    {
+      "rank": 4,
+      "event_id": "tmobile-2026-05-01-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "T-Mobile, Deutsche Telekom pick Stanford University, Cubig and Daisytuner for T Challenge prize - Telecompaper",
+      "companies": [
+        "tmobile",
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUjl5bmxuMkFUVG5IZmlYMkhBRlZIdzRPa3NYV0dmTzllVTBoWVlrdTRkN2s2UTA2UTZkMk5yNUVJWjVvY0NrREVkZXA4VzduNUlHWTQxeG9XaHdiQ1Z1aV9SVHNSQkZhZWd1TUduNDUwMWtGM0ZJczFTOGFENXg2Q1dYaWxLWHpUSXByLU15SW5STGtpeG54TVFHaVRLZFJ1b3ZlRTE5VjNEakVncHl3ZWtqUlFOekZrVnNBYXFqWTJ2U3FiR3BrNHJyZThERWVhZlE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ciena-2026-05-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena : Spotlights AI-Ready Networking Innovations at ABRINT 2026 - marketscreener.com",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS0dFblkzRU44V2FHcDNBMmpBcUt0Sk9uN2Q3NDJIdERJcXZ6ZFZYVzU2SkVCTUo4bEw0dzBubUdET0h0bkZjeGpDdktxX24zT0tndDJZRkttOWRScDRpZ1VJamZkUkNtMXFKOVNWYkQ4OXBwV3dXZVZSTTRKZ1A3WjVSS2hkUVphWVAzTGJidlR2al92T3FKd1VTdTVUYnVfYnQ1V0lHcGFVTWVWZ2tWUTNBSktPUlE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 14,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "sba_comm",
+        "count": 3
+      },
+      {
+        "id": "american_tower",
+        "count": 2
+      },
+      {
+        "id": "ciena",
+        "count": 1
+      },
+      {
+        "id": "tmobile",
+        "count": 1
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 312,
+    "dup_title": 125,
+    "too_old": 114,
+    "gate1_blocked": 4,
+    "gate2_blocked": 8,
+    "passed": 61,
+    "pass_rate": "32.6%",
+    "gate2_block_rate": "4.3%",
+    "gate2_samples": [
+      "Ciena Corporation (NYSE:CIEN) Sees Large Decrease in Short Interest - MarketBeat",
+      "Ciena Hits Record High In NYSE Composite Momentum Shift - Kalkine Media",
+      "$1000 Invested In Ciena 15 Years Ago Would Be Worth This Much Today - Sahm",
+      "Deutsche Telekom Says $156M India Award Should Be OK'd - Law360",
+      "SBA Communications Looks Less Attractive Than Peers Following Buyout Rumors - Morningstar"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為SBA、AMT、Ciena相關動態：「SBA Communications Lifts Outlook Amid Strong Tower Margin...」。主要關注主題為產業通用、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "SBA Communications Lifts Outlook Amid Strong Tower Margins - TipRanks（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "How Investors May Respond To SBA Communications (SBAC) Dividend Hike And Upgr...（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

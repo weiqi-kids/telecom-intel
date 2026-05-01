@@ -1,0 +1,16 @@
+{
+  "total_raw": 312,
+  "dup_title": 125,
+  "no_date": 0,
+  "too_old": 114,
+  "gate1_fail": 4,
+  "gate2_fail": 8,
+  "passed": 61,
+  "gate2_samples": [
+    "Ciena Corporation (NYSE:CIEN) Sees Large Decrease in Short Interest - MarketBeat",
+    "Ciena Hits Record High In NYSE Composite Momentum Shift - Kalkine Media",
+    "$1000 Invested In Ciena 15 Years Ago Would Be Worth This Much Today - Sahm",
+    "Deutsche Telekom Says $156M India Award Should Be OK'd - Law360",
+    "SBA Communications Looks Less Attractive Than Peers Following Buyout Rumors - Morningstar"
+  ]
+}
