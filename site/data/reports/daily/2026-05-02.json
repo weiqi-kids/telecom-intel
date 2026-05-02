@@ -1,0 +1,207 @@
+{
+  "date": "2026-05-02",
+  "generated_at": "2026-05-02T09:01:38.232532Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sba_comm-2026-05-02-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SBA Communications Lifts Outlook Amid Strong Tower Margins - The Globe and Mail",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUjQtN3RISGJqS0pWU0V1Wk9NUWk1d0JIa2VhSHdMUFpSODdzUjZqU1ZuZU5VQzhSN3h6cWs0ZHZYcWEySl9lcnJyaXVfazZienN5dDE4bGpwZE5aWndVU1VsaFNKajFPNGNuaGxQbERYcjZDQ21mNE1kT1NaNGJ5cmx5cWlJdGhSandNa2ZzclcwSzNMSEpsY3ZPSHFhRDZqdEZYOXpGVW0zZk5nMHhBNGhjcnNMZWxXVzVocTRaSG9od0ZyektOdEV1TnhPcFJTUW45VkZySTdZR2c?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "deutsche_telekom-2026-05-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is It Time To Reconsider Deutsche Telekom (XTRA:DTE) After The Recent Share Price Slide - simplywall.st",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVUx0eWdxVS05Ul9WUENoT01tNGZpVWFUdmJfSm96TXpuNDNDX3k0NTM5QWl0NVp0QWFCcVM0eUl2OGZ0eFpKOHhRdDBvLU1zNG55QjFlV2tRRnpoQVZCcGgyNmdLX0xoVV9rT0dMRnVjWnpPS1lHcEFEVGU2OGZTZU9zcVNmNTdEbjZGU3R5MGs0Skk3NW1NQ3J4YVZzcGlEMFl5OGVtaUY2dFZGUGhZQmxGY29wTWhnTENEWGZFcHAwX2UzVFZzeHY0c0wtcURIejVTQtIB2gFBVV95cUxNX29tandYMHZwN2ZxejJRbnh2eEpFWHA4T09FWUdtX3VwNFFVLWEyUDhpbW1nbmNqUWNUeW55eEppdUF1MEpBV1J4WHF3aFlZRlpzOUtzRFF5V3BMRjNSRy1ZcF9KS0x1THV1bDJkb01vdXh5ZjlzZ0ZtOFBSZUJYZzVtRGtwQTB0Q1FsbC1ReVZtWFRISXpRaGNfNzNpY0NvUmJrd2hCM3U3LTRwZFgzZXZYOTJBdVJzSURhUnEwaF84SXZxMUZOMmpON0pQV2lLbFBtWGJtSi1rUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "american_tower-2026-05-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "American Tower Corporation $AMT Position Lessened by Caisse Des Depots ET Consignations - MarketBeat",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNSDFPN0MtWFU0U2FNUWlhTGNTaGZBckRPdFJqbUtreDhmYTNDT1gtb3lfZ3dQVjdRZlFFM0NKQ08wQnVWUUtHWDZZM3Vwb2U3RTR0Y3AwYU1RQXctVkpuajRFZTlfQXpXRXl1TWFXZVQ3MEt0Znh4NHZFQUZNUm02cE5VdVJrcXBVNWkyUGR0d0dFUHpuREpwYkVFd3JGb28yVU40d3JVS3VyUDdxM0ZIaG1jVEtWWE9WanRzQ09BSk1mbzBHbTZ4aTNXMnRGSkZqV2pwdFlKSnNmMTBmUlFRaQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "american_tower-2026-05-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Fifth Third Bancorp Sells 50,024 Shares of American Tower Corporation $AMT - MarketBeat",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbWxrYVk0aElWWmd1SlpTUndwNTBEd0VaYWZGM002ai1DTy1FajlRMWxSdTE0VzBtZ2RqSXFySUZmQl9BalUxd2E2YUdGY2xWaFo0czRRZUR2STNZb0tIWVVLWXM2b2N1MHNTOTZSeHpZQTNjMVlHQ21OaTJuZ0dCcnp4OFN2Sjl0ZmRNX0ZLQmVmM01YLWVjelVEczVwZGFjZkVmTW1XcmN0WGFfMkkxOEFmZzNKdE5taF9YaFp1WGRXMnFHX1BlYVFEU0hIQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "american_tower-2026-05-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "American Tower Corporation $AMT Holdings Raised by Danske Bank A S - MarketBeat",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVFV6OHFiS0VHMVJQeE8tWlFxUFktbnRESGVsLWlBcmZJem9ZNmJ4Smc3OThLMDk0X2Q1Ni1pN3RtRHVtZ2ttVVpZMlpCZ3ZTV25fYzkwZ2dsWURrdUR4TlhJNHNOSkp4WGlXR2dEOFEycHpWN1dkVmVxbjk2TFZ0RjhyRlcyOWh5N1R1Z3RXc3pkMVExRmRmYnN0dHdCME9kMUdWdzVJcmkwTmhUTU92SDN3SUtPbGxwV2VFbmsxM0ZuOW9Z?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_tower",
+        "count": 3
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      },
+      {
+        "id": "sba_comm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 306,
+    "dup_title": 145,
+    "too_old": 123,
+    "gate1_blocked": 4,
+    "gate2_blocked": 7,
+    "passed": 27,
+    "pass_rate": "16.8%",
+    "gate2_block_rate": "4.3%",
+    "gate2_samples": [
+      "Short Interest in Nokia Corporation (NYSE:NOK) Expands By 24.2% - MarketBeat",
+      "Jim Cramer on Ciena: “I’m Going to Have to Hold Off” - Yahoo Finance",
+      "$1000 Invested In Ciena 15 Years Ago Would Be Worth This Much Today - Sahm",
+      "Ciena Corporation (NYSE:CIEN) Sees Large Decrease in Short Interest - MarketBeat",
+      "Ciena Hits Record High In NYSE Composite Momentum Shift - Kalkine Media"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為AMT、德國電信、SBA相關動態：「SBA Communications Lifts Outlook Amid Strong Tower Margin...」。主要關注主題為產業通用、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "SBA Communications Lifts Outlook Amid Strong Tower Margins - The Globe and Mail（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Is It Time To Reconsider Deutsche Telekom (XTRA:DTE) After The Recent Share P...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

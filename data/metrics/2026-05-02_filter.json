@@ -1,0 +1,16 @@
+{
+  "total_raw": 306,
+  "dup_title": 145,
+  "no_date": 0,
+  "too_old": 123,
+  "gate1_fail": 4,
+  "gate2_fail": 7,
+  "passed": 27,
+  "gate2_samples": [
+    "Short Interest in Nokia Corporation (NYSE:NOK) Expands By 24.2% - MarketBeat",
+    "Jim Cramer on Ciena: “I’m Going to Have to Hold Off” - Yahoo Finance",
+    "$1000 Invested In Ciena 15 Years Ago Would Be Worth This Much Today - Sahm",
+    "Ciena Corporation (NYSE:CIEN) Sees Large Decrease in Short Interest - MarketBeat",
+    "Ciena Hits Record High In NYSE Composite Momentum Shift - Kalkine Media"
+  ]
+}
