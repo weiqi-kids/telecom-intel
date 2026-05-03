@@ -1,0 +1,136 @@
+{
+  "date": "2026-05-03",
+  "generated_at": "2026-05-03T09:18:37.303780Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "commscope-2026-05-03-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vistance (Commscope) Earnings Call Highlights Growth, Sale - The Globe and Mail",
+      "companies": [
+        "commscope"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWHFHUTY0YnJCVDZ1TjhPRkEteXhVZ2NjQ3RRZE5rX3d6LWJ5VFBZaFhfWExRdHhnODRPQktHMUZGN3MwYkE5eS1oSEh1aXpmQkc2Ti1aYmdEU3JPVTFqcTJUUVpQUnBjcmR4VWM2YU4wcDFLMVZQTWZ4eXdYcnd0MWY0d1VVNWx0TXFKX2NaTnlzMjhFSHpGMFlvRGd5SS1KQU1Eck1JVWpaYnFNVGlweXJtVjNnVmxXYm5qTjRwZEJfYnVYRV9xbXU0SW1GZzZKRkE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "american_tower-2026-05-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is It Time To Reassess American Tower (AMT) After A Five Year Share Price Slump - simplywall.st",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSmthN3dnUkNTT2dJQW5oQmlFSGllMm42aDRfQ0VpUFRlQldONF9pdVJxUWJZaHVwWnp4R0xVcEM5T2p6R29iZl9Mb0E3d3RDUFZVVW1wTERKX0gxb3lwaWJ2a0pmRk9hTkl1bGtjeVNib2h1RzItamJMSnMtUUdwZUZGbmpJVms0S0xKV1A4UmtvdXBEd0hiMDdJbXRfX3E5T2VyM1RUdk4ydDVJMW4tcVVuamR2blY2ZTI2SWZQWTRHSUJKS2E1Q252TWHSAdIBQVVfeXFMUDJWY0pDbWJiWFJQVlNtT01waVZqUURqTlJ5MGZNV3g3Ym9WV0dUN3YwZVJtSU5wdXRCNkZGT1lDcUlFVVNGQmd1U0drUUZGRkx5QmhtS2dzbmxlY25CdlZtRmQ2Y0stbVdNYWxZZlp4TTJIdm9YdXpmUzloQml3T1VXQW05Vkw0TGVjQ0FMdm4zcThiemxPQ0xCTEh1YjVDUFRTcDB2TDFYVVlBd1ExWjYyYnJSY3ZVTWZ0NzZoaVhtZFR5QWYwd3M2RFdEQU9uT2hB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "commscope",
+        "count": 1
+      },
+      {
+        "id": "american_tower",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 313,
+    "dup_title": 151,
+    "too_old": 137,
+    "gate1_blocked": 4,
+    "gate2_blocked": 5,
+    "passed": 16,
+    "pass_rate": "9.9%",
+    "gate2_block_rate": "3.1%",
+    "gate2_samples": [
+      "Short Interest in Nokia Corporation (NYSE:NOK) Expands By 24.2% - MarketBeat",
+      "Ciena Hits Record High In NYSE Composite Momentum Shift - Kalkine Media",
+      "$1000 Invested In Ciena 15 Years Ago Would Be Worth This Much Today - Sahm",
+      "Equinix's Interconnection-Centric Approach Offers Benefits for AI Tenants - Morningstar",
+      "Sustainable by design: The importance of building things to last"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為CommScope、AMT相關動態：「Vistance (Commscope) Earnings Call Highlights Growth, Sal...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Vistance (Commscope) Earnings Call Highlights Growth, Sale - The Globe and Mail（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Is It Time To Reassess American Tower (AMT) After A Five Year Share Price Slu...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
