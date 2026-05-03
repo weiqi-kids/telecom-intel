@@ -1,0 +1,20 @@
+{
+  "date": "2021-03-17",
+  "total_events": 1,
+  "by_company": {},
+  "by_topic": {
+    "5g_deployment": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "arpu": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

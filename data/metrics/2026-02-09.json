@@ -1,0 +1,21 @@
+{
+  "date": "2026-02-09",
+  "total_events": 2,
+  "by_company": {
+    "softbank": {
+      "count": 2,
+      "sentiment_avg": 0.38
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.38
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

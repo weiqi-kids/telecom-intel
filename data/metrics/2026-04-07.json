@@ -1,0 +1,25 @@
+{
+  "date": "2026-04-07",
+  "total_events": 3,
+  "by_company": {
+    "sba_comm": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "fiber_buildout": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "spectrum_auction": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

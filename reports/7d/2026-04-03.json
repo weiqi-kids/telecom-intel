@@ -1,0 +1,80 @@
+{
+  "date": "2026-04-03",
+  "date_range": {
+    "start": "2026-03-28",
+    "end": "2026-04-03"
+  },
+  "generated_at": "2026-05-03T02:45:42.136380Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "american_tower-2026-03-31-012",
+      "date": "2026-03-31",
+      "title": "American Tower Plans First Quarter 2026 Earnings Release and Conference Call - Yahoo Finance",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 3,
+      "last_week": 4,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.17
+    }
+  },
+  "company_7d_summary": {
+    "american_tower": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 3,
+        "last": 6,
+        "change_pct": -50.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-03-28",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-29",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-30",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-03-31",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-01",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-02",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-03",
+      "event_count": 2,
+      "sentiment_avg": 0
+    }
+  ]
+}

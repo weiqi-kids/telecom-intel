@@ -1,0 +1,91 @@
+{
+  "date": "2026-02-24",
+  "date_range": {
+    "start": "2026-02-18",
+    "end": "2026-02-24"
+  },
+  "generated_at": "2026-05-03T02:45:40.036809Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ceragon-2026-02-24-009",
+      "date": "2026-02-24",
+      "title": "Ceragon Networks (CRNT) Reports 2025 Revenue of $338.7M Amid 14.1% Annual Decline - Yahoo Finance",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 4,
+      "last_week": 4,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": -0.25
+    },
+    "fiber_buildout": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "ceragon": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 1
+    },
+    "calix": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 5,
+        "last": 5,
+        "change_pct": 0.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-02-18",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-19",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-21",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-22",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-23",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-24",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

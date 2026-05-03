@@ -1,0 +1,21 @@
+{
+  "date": "2019-09-03",
+  "total_events": 1,
+  "by_company": {
+    "zte": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "fiber_buildout": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

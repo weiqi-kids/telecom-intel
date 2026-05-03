@@ -1,0 +1,90 @@
+{
+  "date": "2026-02-17",
+  "date_range": {
+    "start": "2026-02-11",
+    "end": "2026-02-17"
+  },
+  "generated_at": "2026-05-03T02:45:39.329463Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tmobile-2026-02-11-006",
+      "date": "2026-02-11",
+      "title": "Deutsche Telekom welcomes T-Mobile’s growth outlook and plans no sale of T-Mobile shares in 2026 - Deutsche Telekom",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 4,
+      "last_week": 3,
+      "week_over_week_change": "+33%",
+      "sentiment_this_week": -0.12
+    }
+  },
+  "company_7d_summary": {
+    "ceragon": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "tmobile": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 2
+    },
+    "deutsche_telekom": {
+      "event_count": 1,
+      "sentiment_avg": -0.5,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 5,
+        "last": 3,
+        "change_pct": 66.7
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-02-11",
+      "event_count": 2,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-12",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-13",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-17",
+      "event_count": 3,
+      "sentiment_avg": 0
+    }
+  ]
+}

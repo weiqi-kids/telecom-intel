@@ -1,0 +1,21 @@
+{
+  "date": "2022-11-16",
+  "total_events": 1,
+  "by_company": {
+    "calix": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

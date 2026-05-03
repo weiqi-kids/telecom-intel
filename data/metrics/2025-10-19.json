@@ -1,0 +1,25 @@
+{
+  "date": "2025-10-19",
+  "total_events": 1,
+  "by_company": {
+    "nokia": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "commscope": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "fiber_buildout": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,80 @@
+{
+  "date": "2023-09-22",
+  "date_range": {
+    "start": "2023-09-16",
+    "end": "2023-09-22"
+  },
+  "generated_at": "2026-05-03T02:45:34.216836Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "calix-2023-09-22-004",
+      "date": "2023-09-22",
+      "title": "Calix taps Jabil as part of $42B+ broadband manufacturing plan - St Pete Catalyst",
+      "importance_score": 0.5
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "fiber_buildout": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "calix": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 1,
+        "last": 0,
+        "change_pct": 0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2023-09-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-09-17",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-09-18",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-09-19",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-09-20",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-09-21",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2023-09-22",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

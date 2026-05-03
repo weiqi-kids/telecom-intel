@@ -1,0 +1,96 @@
+{
+  "date": "2025-11-18",
+  "date_range": {
+    "start": "2025-11-12",
+    "end": "2025-11-18"
+  },
+  "generated_at": "2026-05-03T02:45:37.994282Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "deutsche_telekom-2025-11-13-026",
+      "date": "2025-11-13",
+      "title": "Deutsche Telekom raises guidance again and plans record-high dividend for the 2025 financial year - Deutsche Telekom",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.5
+    },
+    "spectrum_auction": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "deutsche_telekom": {
+      "event_count": 1,
+      "sentiment_avg": 1.0,
+      "rank": 1
+    },
+    "ceragon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "softbank": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 3,
+        "last": 2,
+        "change_pct": 50.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2025-11-12",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-13",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-14",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-17",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2025-11-18",
+      "event_count": 1,
+      "sentiment_avg": 0
+    }
+  ]
+}

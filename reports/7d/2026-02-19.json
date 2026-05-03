@@ -1,0 +1,91 @@
+{
+  "date": "2026-02-19",
+  "date_range": {
+    "start": "2026-02-13",
+    "end": "2026-02-19"
+  },
+  "generated_at": "2026-05-03T02:45:39.774895Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ceragon-2026-02-17-008",
+      "date": "2026-02-17",
+      "title": "Ceragon Networks (CRNT) Misses Q4 Earnings Estimates - Yahoo Finance",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 5,
+      "last_week": 5,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "fiber_buildout": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "ceragon": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 1
+    },
+    "calix": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 2
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 7,
+        "last": 5,
+        "change_pct": 40.0
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-02-13",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-14",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-15",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-16",
+      "event_count": 0,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-17",
+      "event_count": 3,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-18",
+      "event_count": 1,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-02-19",
+      "event_count": 3,
+      "sentiment_avg": 0
+    }
+  ]
+}

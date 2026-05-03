@@ -1,0 +1,118 @@
+{
+  "date": "2026-04-07",
+  "generated_at": "2026-05-03T02:45:42.315724Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-04-07-007",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tarana says Starlink’s BEAD antics “pulled the rug out” from NTIA",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fiber_buildout"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 2,
+      "event_id": "sba_comm-2026-04-07-030",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Tower Company SBA Mulling Sale: Report - Broadband Breakfast",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fiber_buildout"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    },
+    {
+      "rank": 3,
+      "event_id": "sba_comm-2026-04-07-032",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SBA Communications is on the block – report - Light Reading",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "spectrum_auction"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": null
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "fiber_buildout": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "spectrum_auction": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "sba_comm",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "fiber_buildout",
+        "count": 2
+      },
+      {
+        "id": "spectrum_auction",
+        "count": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "date": "2026-04-13",
+  "total_events": 4,
+  "by_company": {
+    "ericsson": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nokia": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "american_tower": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "sba_comm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "5g_deployment": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
