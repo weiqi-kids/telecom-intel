@@ -1,0 +1,16 @@
+{
+  "total_raw": 309,
+  "dup_title": 146,
+  "no_date": 0,
+  "too_old": 143,
+  "gate1_fail": 5,
+  "gate2_fail": 5,
+  "passed": 10,
+  "gate2_samples": [
+    "Nokia, Intel, And Sandisk Are Among Top 10 Large-Cap Gainers Last Week (April 27-May 1): Are the Oth",
+    "Ciena Hits Record High In NYSE Composite Momentum Shift - Kalkine Media",
+    "Ciena Corporation (NYSE:CIEN) Sees Large Decrease in Short Interest - MarketBeat",
+    "Equinix's Interconnection-Centric Approach Offers Benefits for AI Tenants - Morningstar",
+    "Sustainable by design: The importance of building things to last"
+  ]
+}

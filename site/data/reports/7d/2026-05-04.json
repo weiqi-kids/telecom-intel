@@ -1,0 +1,160 @@
+{
+  "date": "2026-05-04",
+  "date_range": {
+    "start": "2026-04-28",
+    "end": "2026-05-04"
+  },
+  "generated_at": "2026-05-04T10:10:11.904155Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "tmobile-2026-05-01-019",
+      "date": "2026-05-01",
+      "title": "T-Mobile coy on Deutsche Telekom merger reports, as revenue grows 10% during Q1 - Data Center Dynamics",
+      "importance_score": 0.95
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 50,
+      "last_week": 20,
+      "week_over_week_change": "+150%",
+      "sentiment_this_week": 0.03
+    },
+    "5g_deployment": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 19,
+      "last_week": 5,
+      "week_over_week_change": "+280%",
+      "sentiment_this_week": 0.05
+    }
+  },
+  "company_7d_summary": {
+    "nokia": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "deutsche_telekom": {
+      "event_count": 6,
+      "sentiment_avg": 0.08,
+      "rank": 3
+    },
+    "sba_comm": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "equinix": {
+      "event_count": 5,
+      "sentiment_avg": 0.2,
+      "rank": 4
+    },
+    "ericsson": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "softbank": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "american_tower": {
+      "event_count": 13,
+      "sentiment_avg": 0.04,
+      "rank": 1
+    },
+    "ciena": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "verizon": {
+      "event_count": 1,
+      "sentiment_avg": -1.0,
+      "rank": 9
+    },
+    "tmobile": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "commscope": {
+      "event_count": 1,
+      "sentiment_avg": 0.5,
+      "rank": 11
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 246,
+        "last": 241,
+        "change_pct": 2.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-04-28",
+      "event_count": 63,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-29",
+      "event_count": 64,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-04-30",
+      "event_count": 60,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-01",
+      "event_count": 34,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-02",
+      "event_count": 15,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-03",
+      "event_count": 7,
+      "sentiment_avg": 0
+    },
+    {
+      "date": "2026-05-04",
+      "event_count": 3,
+      "sentiment_avg": 0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-04-28 ~ 2026-05-04）共 246 則事件，重點為「T-Mobile coy on Deutsche Telekom merger reports...」。Verizon情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "Verizon",
+        "reason": "本週情緒偏負面（-1.0），共 1 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "諾基亞",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "德國電信",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
