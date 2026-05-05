@@ -1,0 +1,16 @@
+{
+  "total_raw": 312,
+  "dup_title": 131,
+  "no_date": 0,
+  "too_old": 139,
+  "gate1_fail": 5,
+  "gate2_fail": 6,
+  "passed": 31,
+  "gate2_samples": [
+    "Short Interest in Nokia Corporation (NYSE:NOK) Expands By 24.2% - MarketBeat",
+    "Nokia, Intel, And Sandisk Are Among Top 10 Large-Cap Gainers Last Week (April 27-May 1): Are the Oth",
+    "Ciena Corporation (NYSE:CIEN) Sees Large Decrease in Short Interest - MarketBeat",
+    "Deutsche Telekom AG: Release of a capital market information - marketscreener.com",
+    "SBA Communications (SBAC) Leads Real Estate Rally with 27.4% Gai - GuruFocus"
+  ]
+}
