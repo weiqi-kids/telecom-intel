@@ -1,0 +1,37 @@
+{
+  "date": "2026-05-06",
+  "total_events": 9,
+  "by_company": {
+    "ceragon": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "deutsche_telekom": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "american_tower": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "equinix": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "zte": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 8,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
