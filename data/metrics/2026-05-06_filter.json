@@ -1,11 +1,11 @@
 {
-  "total_raw": 313,
-  "dup_title": 117,
+  "total_raw": 625,
+  "dup_title": 274,
   "no_date": 0,
-  "too_old": 135,
-  "gate1_fail": 7,
-  "gate2_fail": 6,
-  "passed": 48,
+  "too_old": 265,
+  "gate1_fail": 14,
+  "gate2_fail": 13,
+  "passed": 59,
   "gate2_samples": [
     "Short Interest in Nokia Corporation (NYSE:NOK) Expands By 24.2% - MarketBeat",
     "Nokia, Intel, And Sandisk Are Among Top 10 Large-Cap Gainers Last Week (April 27-May 1): Are the Oth",

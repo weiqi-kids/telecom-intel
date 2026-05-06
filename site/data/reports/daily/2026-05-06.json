@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "generated_at": "2026-05-06T08:12:17.561077Z",
+  "generated_at": "2026-05-06T10:12:21.099428Z",
   "top_events": [
     {
       "rank": 1,
@@ -114,7 +114,17 @@
   "anomalies": [],
   "topic_trends": {
     "industry_general": {
-      "today": 8,
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
       "7d_avg": 0,
       "30d_avg": 0,
       "yoy_same_week": null,
@@ -126,15 +136,23 @@
   },
   "supply_chain_activity": [],
   "stats": {
-    "total_events": 9,
+    "total_events": 13,
     "sentiment_distribution": {
       "positive": 0,
-      "neutral": 8,
+      "neutral": 12,
       "negative": 1
     },
     "top_companies": [
       {
+        "id": "american_tower",
+        "count": 2
+      },
+      {
         "id": "equinix",
+        "count": 2
+      },
+      {
+        "id": "zte",
         "count": 2
       },
       {
@@ -144,32 +162,28 @@
       {
         "id": "deutsche_telekom",
         "count": 1
-      },
-      {
-        "id": "american_tower",
-        "count": 1
-      },
-      {
-        "id": "zte",
-        "count": 1
       }
     ],
     "top_topics": [
       {
         "id": "industry_general",
-        "count": 8
+        "count": 12
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
       }
     ]
   },
   "filter_audit": {
-    "total_raw": 313,
-    "dup_title": 117,
-    "too_old": 135,
-    "gate1_blocked": 7,
-    "gate2_blocked": 6,
-    "passed": 48,
-    "pass_rate": "24.5%",
-    "gate2_block_rate": "3.1%",
+    "total_raw": 625,
+    "dup_title": 274,
+    "too_old": 265,
+    "gate1_blocked": 14,
+    "gate2_blocked": 13,
+    "passed": 59,
+    "pass_rate": "16.8%",
+    "gate2_block_rate": "3.7%",
     "gate2_samples": [
       "Short Interest in Nokia Corporation (NYSE:NOK) Expands By 24.2% - MarketBeat",
       "Nokia, Intel, And Sandisk Are Among Top 10 Large-Cap Gainers Last Week (April 27-May 1): Are the Oth",
@@ -180,7 +194,7 @@
     "alert": false
   },
   "llm_analysis": {
-    "summary": "今日共 9 則事件，焦點為Equinix、Ceragon、德國電信相關動態：「Ceragon Books $86 Million in Orders in India, Strengtheni...」。整體情緒偏負面，需留意潛在風險。",
+    "summary": "今日共 13 則事件，焦點為AMT、Equinix、ZTE Corporation相關動態：「Ceragon Books $86 Million in Orders in India, Strengtheni...」。整體情緒偏負面，需留意潛在風險。",
     "signals": [
       {
         "text": "Ceragon Books $86 Million in Orders in India, Strengthening Market Position -...（產業通用）",

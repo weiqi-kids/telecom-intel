@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T08:12:17.164512+00:00",
+  "updated_at": "2026-05-06T10:12:20.717680+00:00",
   "companies": {
     "ericsson": {
       "name": "Ericsson",
@@ -546,25 +546,25 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 2504618,
           "pct_held": 0.05,
-          "value": 68701672
+          "value": 69077364
         },
         {
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 464430,
           "pct_held": 0.01,
-          "value": 12739315
+          "value": 12808979
         },
         {
           "holder": "Paradigm Asset Management Company, LLC",
           "shares": 83058,
           "pct_held": 0.0,
-          "value": 2278280
+          "value": 2290739
         },
         {
           "holder": "Gamma Investing LLC",
           "shares": 8457,
           "pct_held": 0.0,
-          "value": 231975
+          "value": 233244
         }
       ]
     },

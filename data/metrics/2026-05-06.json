@@ -1,6 +1,6 @@
 {
   "date": "2026-05-06",
-  "total_events": 9,
+  "total_events": 13,
   "by_company": {
     "ceragon": {
       "count": 1,
@@ -11,7 +11,7 @@
       "sentiment_avg": 0.0
     },
     "american_tower": {
-      "count": 1,
+      "count": 2,
       "sentiment_avg": 0.0
     },
     "equinix": {
@@ -19,13 +19,17 @@
       "sentiment_avg": -0.25
     },
     "zte": {
-      "count": 1,
+      "count": 2,
       "sentiment_avg": 0.0
     }
   },
   "by_topic": {
     "industry_general": {
-      "count": 8,
+      "count": 12,
+      "sentiment_avg": 0.0
+    },
+    "fiber_buildout": {
+      "count": 1,
       "sentiment_avg": 0.0
     }
   },
