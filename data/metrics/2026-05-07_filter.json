@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 138,
+  "no_date": 0,
+  "too_old": 133,
+  "gate1_fail": 6,
+  "gate2_fail": 8,
+  "passed": 30,
+  "gate2_samples": [
+    "Short Interest in Nokia Corporation (NYSE:NOK) Expands By 24.2% - MarketBeat",
+    "Nokia, Intel, And Sandisk Are Among Top 10 Large-Cap Gainers Last Week (April 27-May 1): Are the Oth",
+    "Navellier & Associates Inc. Invests $3.57 Million in Ciena Corporation $CIEN - MarketBeat",
+    "Ciena Corporation (NYSE:CIEN) Sees Large Decrease in Short Interest - MarketBeat",
+    "Deutsche Telekom made cloud jump from Ericsson to Mavenir in 5G - Light Reading"
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "date": "2026-05-07",
+  "generated_at": "2026-05-07T10:17:21.782911Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "deutsche_telekom-2026-05-07-007",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Deutsche Telekom made cloud jump from Ericsson to Mavenir in 5G",
+      "companies": [
+        "deutsche_telekom",
+        "ericsson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "ericsson"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/mobile-core/deutsche-telekom-made-cloud-jump-from-ericsson-to-mavenir-in-5g"
+    },
+    {
+      "rank": 2,
+      "event_id": "nokia-2026-05-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "QRG Capital Management Inc. Buys 138,935 Shares of Nokia Corporation $NOK - MarketBeat",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObVRfZlU5R283OFBwRTZGYjVxY3dKTVlyd3Fpa3ZndWUxQmZscjRLZEk1cXJPMXVYZGxCU1FQd1d0azh6MTIxUWZEWm5ucG1rM1NUR1lKRzlEdW5lQ1p0QUZCb2dwaXdkandhLUVsZDkwYlJJeWwzenZIUlNnOEVOQTJfakxKWEJuaUp5WmFzV0ZaYmV1QnFkQkhWMlBwbGRDOElhMll2UmlSdnBBVnFtekU3R1NtNjkyVW5LeDc4R0xOd0JGc25XdVFkYw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ceragon-2026-05-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ceragon Networks (NASDAQ:CRNT) Stock Crosses Above 200 Day Moving Average - Here's Why - MarketBeat",
+      "companies": [
+        "ceragon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX3BUUHNOamVkb0l2WHlMRkxIQWdhWGFCel9kbDA0ZUQ0a1oydHZpWGMxQXFjQ0lKR2dxOXpPMFQ4YU5tWlpRU0NTM1J5OEh5c01aWjBWbTVzN2ZtQ1VIVkhYNFdCSDNSOHpvVkwwRnZHRnhLdVM1MEhHVUZQdzRQOWV1d2wtb0pxWXpERjB0eWM5UWhFQ1hrY0ZtMGhQVk8ySUVtc2Z6azJEbm9IcGd3eDJEN2VYZ0x3QUlydHBpd3ZtWVdZXzJIWjU0UVRGRXM?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ciena-2026-05-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Benjamin Edwards Inc. Sells 6,526 Shares of Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRTd0MDY0czJvSmEtMnlCOUV0UmZmakNlcVZSQ3oyR2FqbDlMVHdSOGU4LUZvNUs0YUJOWjRhMXhQeW1TVjZKd1VydVhSbmE2YU1CMHl4cXlnSGU5eEFZa1BKdjBuRHdfb1hrX3NYbUVwbEhLVVluV2FsUzM3WjhGdFR0UU9qajgxYWR1d1loRU1HOFRlYmczM1JqblNZU2Y5N3pQZmFESTN4ckg1dVMzSGlrZzlBN3FNS2tuaXVOWnJTSGs?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ciena-2026-05-07-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is Ciena (CIEN) One Of The Mid-Cap Stocks That Are On Fire Right Now? - Yahoo Finance",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZmtnWEF5ZURxVXh4Um5ZLXdHdEFTZXExRGx2NExSRkh6akhkT2NhNFZldjZLUUlDWGhuYU9laWdiellTbDZnSi1uTXR2bkIxamxpVVlBVmJ2b185NGdHcnItRWd2bUJCWnNpRVNsd2xKd3dEcDM0T2xJcTFwcEZ3cE5VVVZjLU5HcURZTFdlNTg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "spectrum_auction": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 3
+      },
+      {
+        "id": "nokia",
+        "count": 1
+      },
+      {
+        "id": "ceragon",
+        "count": 1
+      },
+      {
+        "id": "equinix",
+        "count": 1
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "spectrum_auction",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 315,
+    "dup_title": 138,
+    "too_old": 133,
+    "gate1_blocked": 6,
+    "gate2_blocked": 8,
+    "passed": 30,
+    "pass_rate": "16.9%",
+    "gate2_block_rate": "4.5%",
+    "gate2_samples": [
+      "Short Interest in Nokia Corporation (NYSE:NOK) Expands By 24.2% - MarketBeat",
+      "Nokia, Intel, And Sandisk Are Among Top 10 Large-Cap Gainers Last Week (April 27-May 1): Are the Oth",
+      "Navellier & Associates Inc. Invests $3.57 Million in Ciena Corporation $CIEN - MarketBeat",
+      "Ciena Corporation (NYSE:CIEN) Sees Large Decrease in Short Interest - MarketBeat",
+      "Deutsche Telekom made cloud jump from Ericsson to Mavenir in 5G - Light Reading"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為Ciena、諾基亞、Ceragon相關動態：「Deutsche Telekom made cloud jump from Ericsson to Mavenir...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Deutsche Telekom made cloud jump from Ericsson to Mavenir in 5G（產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "QRG Capital Management Inc. Buys 138,935 Shares of Nokia Corporation $NOK - M...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
