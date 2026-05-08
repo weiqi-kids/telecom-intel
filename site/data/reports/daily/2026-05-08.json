@@ -1,0 +1,207 @@
+{
+  "date": "2026-05-08",
+  "generated_at": "2026-05-08T09:10:03.352541Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_tower-2026-05-08-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Investors Are Reacting To American Tower (AMT) Upgraded 2026 Outlook And Completed Buyback - Yahoo Finance",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR0RoNFpZQW5lNnhLRHNzTklXVlBWUGF6N2ttYWNSSXpjMkV3OXBtblNTaDBqczBVUzJxbkxYenRfUzhvdDVnRkFIZXBZcUNHOFgzVmFWUm1DbmF5eklNYWw2Smk4bUtyalpVLXpVbXlpMEdWQ1JlVDl5S2NZQkV1TUJfYmo3NnJhNV9KVmZ1MV9IaVhzVTJycFRNNUFKczFrZ25iMA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ciena-2026-05-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Geneva Partners LLC Purchases Shares of 10,328 Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYTF0TmlBeG9HbGsxTlNzTjl3ZkJfX0dwU1F5UkhIRDRQLV9qXzBmQmNBUGYwTzZoWVhDS1RNdW90aF8xcm9OZC0xTUxjczVyc0F3bWNWdGRvS0E0UU95cEJCdjRFNHkxOFY1U2ZFNWwwWmZPR3FqZi1sSlVFTzU5YlZSTGtWdWYyUV9HTmNKMWZwMUQzT2tWUllqckwzRDVDTjZ5Nk9CZDZQMjlUTlFLRXI4TG5kZUZVc0VwTG5vY0RqN0FGbG8xTA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ciena-2026-05-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Gateway Investment Advisers LLC Decreases Stock Holdings in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPYUtHeW8wZ0FsbDBDY2R5Y0JDdENQemRDOTVGd1BldmhjdEdTMGtNWWUweHlOYnFhdGJmY2taNGtUM203RC1qemJJN1puR0dvTVY0Z0oyeUVnRjdnb1NKckp2WERQT05zYlNlaHc2em0wX3I5TXZuaXNVQllkUUppRUVfYlVLVzJRcnR2OVVGcGRJWXMxVWxCZW1wR1pyMllwZGM5amp3T1J6b19nNlRqRWtHQmZVVENEXzhBU2NodWIxUm9aY1k0SnlBcTh6TDMzMlBURE9uMWFhNUk?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "deutsche_telekom-2026-05-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom’s Share Price Slump Masks a Strong Operating Story - AD HOC NEWS",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR05YLXlyYkNVS2t4Uk1YOEE1VHo3dWFnUXRtOWRXamNWVlliUzV6UVd1eDFiMXNFV3c3MGotYWQwRFRWaXpkTlhGY1NRYU94c0VZZDRYQ2xFZ0JVOWczZ1FuY2pHWXlmRW9BWGJKbG9XTmdCblBSaXlXXzVzX0lfUzQxa3pObDdIcE1MWXlBbFlqUUJwZWpxYzljWHBjb251R3o0RnlDWkpIWjRTME9WR3hXZHo5SndwdmhNajhObEdJREYx?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "american_tower-2026-05-08-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Generali Asset Management SPA SGR Raises Stock Holdings in American Tower Corporation $AMT - MarketBeat",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZDVCOGFNYW03eTRyVjUya0taRFpfYXdHMTlHUWJIWlgxZEs2dW5zQlFqem1XdnNEMi1UVG1rdFVpNm5YS0lqek16S2Jwc2xsVFFna0o4enZ5c3UwUmZEMmgzQU03VUpWcmV1SlBIckZvWDVpVmtrOVBjaE1kVmxwTzFjdjdKXzlfQ01MQ2o1NmRKTDNxWUhZbEZfQ1FkeGV0QVB5Nlk2M0xMNng1X1dSZGw1a2ZBLUgzTWJNNVNpcEVpNjBkMElYb3NvY0pnNTlYZlF2dllKSXlIanZsOUFWN1QyUDI?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_tower",
+        "count": 4
+      },
+      {
+        "id": "ciena",
+        "count": 2
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 316,
+    "dup_title": 126,
+    "too_old": 125,
+    "gate1_blocked": 6,
+    "gate2_blocked": 8,
+    "passed": 51,
+    "pass_rate": "26.8%",
+    "gate2_block_rate": "4.2%",
+    "gate2_samples": [
+      "Short Interest in Nokia Corporation (NYSE:NOK) Expands By 24.2% - MarketBeat",
+      "Nokia, Intel, And Sandisk Are Among Top 10 Large-Cap Gainers Last Week (April 27-May 1): Are the Oth",
+      "Rothschild & Co Redburn Initiates Coverage of Ciena Corporation (CIEN) - Yahoo Finance",
+      "Navellier & Associates Inc. Invests $3.57 Million in Ciena Corporation $CIEN - MarketBeat",
+      "Deutsche Telekom made cloud jump from Ericsson to Mavenir in 5G - Light Reading"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為AMT、Ciena、德國電信相關動態：「How Investors Are Reacting To American Tower (AMT) Upgrad...」。主要關注主題為產業通用、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "How Investors Are Reacting To American Tower (AMT) Upgraded 2026 Outlook And ...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Geneva Partners LLC Purchases Shares of 10,328 Ciena Corporation $CIEN - Mark...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
