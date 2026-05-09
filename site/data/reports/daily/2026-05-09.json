@@ -1,0 +1,142 @@
+{
+  "date": "2026-05-09",
+  "generated_at": "2026-05-09T09:12:25.432293Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nokia-2026-05-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia Corporation (NYSE:NOK) Receives Consensus Rating of \"Moderate Buy\" from Brokerages - MarketBeat",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLTFQMlhyc2c4bVBXSWc3cGxyWThIWXNFY0Z3VjVuUE53ajFCOHo5LVk4TDRMMDNHa0FTRnJ1T0FlVmhlWUlPcnhBLXhTQ1M1cHBpU2NXU1phczFEX29sTEpsVHBERGp3ZGcyZl9tRzN4UlQwMmt3Sm1qcHdnTzZHbkZoY3FJcmlKdkVaNnpVN0FQSEdqSDc4enVYdV81QVhHMGtaa19ZbHBGUUM1YnloSE1ubExYZVNVWGJwX1lISUdPSDVUNzBLOUFSVnhGdlJNUGtN?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "deutsche_telekom-2026-05-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom AG stock (DE0005557508): Telecom giant eyes growth amid 5G and fiber push - AD HOC NEWS",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcFVjOC1uYXU3LWxmTWtjSDZsUS1FcW9OX1JzV2F1XzFzZ2VuZnhaaDlKSmw2NzlobXYwUGloeWFqS2pLQ216VDdya3FLVnFNbE43UVUycTk2T3JzbFBYMkQ1QnlKYkFhUlhhMk9ud1JaSHFHUDh3MV9tZjdpWXE4ZkNuYjlSSHNMZFBVSk1KWjl4bXl0bldxdVdjOWZaQXN4RXcxS2VqTS11N3U1R1JyeW1FcTUwanF3RVBUSWtScU8wVWtoQVYw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nokia-2026-05-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia Oyj stock (FI0009000681): Telecom gear maker eyes AI-driven network upgrades - AD HOC NEWS",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMXpjY2tUUmF1djUxWk5teDJnVDNFMzlmY3M1SjBmcU1VN19ROGNSNURib0ZLZldESXM3SkI5bWhTa2NWS21EQ21SOWhXN0xZenJwVTJyZmhTS1lEWkthMXVqdkZpSVJKZHc4VVBHMG1GRWdyUG5PSWRoWmdTZ2pmaE9sSm9VRE1hZ19maFB2cTJXWmFzWWV5RDhyVjI0SFk5NXJaQ01lTGdpM2RWWTdwdWllNDhDcXVGYkh6OVRFZUJRT0czdlpGSQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nokia",
+        "count": 2
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 314,
+    "dup_title": 154,
+    "too_old": 124,
+    "gate1_blocked": 5,
+    "gate2_blocked": 5,
+    "passed": 26,
+    "pass_rate": "16.2%",
+    "gate2_block_rate": "3.1%",
+    "gate2_samples": [
+      "Rothschild & Co Redburn Initiates Coverage of Ciena Corporation (CIEN) - Yahoo Finance",
+      "Navellier & Associates Inc. Invests $3.57 Million in Ciena Corporation $CIEN - MarketBeat",
+      "Deutsche Telekom made cloud jump from Ericsson to Mavenir in 5G - Light Reading",
+      "T-Systems brings Ford’s suppliers in Catena-X - Deutsche Telekom",
+      "Deutsche Telekom AG: Good timing to go long again - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為諾基亞、德國電信相關動態：「Nokia Corporation (NYSE:NOK) Receives Consensus Rating of...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nokia Corporation (NYSE:NOK) Receives Consensus Rating of \"Moderate Buy\" from...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Deutsche Telekom AG stock (DE0005557508): Telecom giant eyes growth amid 5G a...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 314,
+  "dup_title": 154,
+  "no_date": 0,
+  "too_old": 124,
+  "gate1_fail": 5,
+  "gate2_fail": 5,
+  "passed": 26,
+  "gate2_samples": [
+    "Rothschild & Co Redburn Initiates Coverage of Ciena Corporation (CIEN) - Yahoo Finance",
+    "Navellier & Associates Inc. Invests $3.57 Million in Ciena Corporation $CIEN - MarketBeat",
+    "Deutsche Telekom made cloud jump from Ericsson to Mavenir in 5G - Light Reading",
+    "T-Systems brings Ford’s suppliers in Catena-X - Deutsche Telekom",
+    "Deutsche Telekom AG: Good timing to go long again - marketscreener.com"
+  ]
+}
