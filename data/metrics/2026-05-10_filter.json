@@ -1,0 +1,16 @@
+{
+  "total_raw": 314,
+  "dup_title": 156,
+  "no_date": 0,
+  "too_old": 131,
+  "gate1_fail": 5,
+  "gate2_fail": 5,
+  "passed": 17,
+  "gate2_samples": [
+    "Rothschild & Co Redburn Initiates Coverage of Ciena Corporation (CIEN) - Yahoo Finance",
+    "Rothschild & Co Redburn Initiates Coverage of Ciena Corporation (CIEN) - Insider Monkey",
+    "Navellier & Associates Inc. Invests $3.57 Million in Ciena Corporation $CIEN - MarketBeat",
+    "Deutsche Telekom made cloud jump from Ericsson to Mavenir in 5G - Light Reading",
+    "Verizon cuts several hundred jobs months after 13,000-worker reduction - People Matters - HR News"
+  ]
+}

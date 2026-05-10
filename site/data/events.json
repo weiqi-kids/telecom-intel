@@ -1,5 +1,43 @@
 [
   {
+    "id": "ciena-2026-05-10-001",
+    "date": "2026-05-10",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ASR Vermogensbeheer N.V. Acquires Shares of 12,388 Ciena Corporation $CIEN - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPV1g2R3FNYXVITHlyYjFSeHcwZzMtaFVBRVJueGFta3hsQXFaZnpJV1RVclhPVExqcldKY0pJTXZRWkY1QXF1QkZnT3RPM3lqYU5XT3QwQmZzOFlEb2VUYzhBcmJIMUVDQ0lFNTdJcX",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV1g2R3FNYXVITHlyYjFSeHcwZzMtaFVBRVJueGFta3hsQXFaZnpJV1RVclhPVExqcldKY0pJTXZRWkY1QXF1QkZnT3RPM3lqYU5XT3QwQmZzOFlEb2VUYzhBcmJIMUVDQ0lFNTdJcXdVQkJhOS1Zd0U1MlBXSWRMRERUTUtEU2sxZWl6d0JxZXVGTmliS3BoZG1vdEM0QVV5SjdCNGRFdkVyTk1LcUhBek5WeHJkaktJN1dLc09JWW1faDlvX0VZR0NzZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-10-002",
+    "date": "2026-05-10",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Maroc Telecom stock (MA0000012320): Market cap down as telecom giant faces headwinds - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNMWhSTjdlQk1LckVlVU9GOVNQVkVJS1p1M09DbERKeWlNaVl6TTAybXBCWWFNa1ZZQXpxeFkyZ1JNTThsR1F3QlIyRUdfaG13b2hXWFhkMmZMOW04SWtCUkZXLU5QSERLUTUwdmRQZD",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMWhSTjdlQk1LckVlVU9GOVNQVkVJS1p1M09DbERKeWlNaVl6TTAybXBCWWFNa1ZZQXpxeFkyZ1JNTThsR1F3QlIyRUdfaG13b2hXWFhkMmZMOW04SWtCUkZXLU5QSERLUTUwdmRQZDVHRmFZZDFnUXk4Ukt2SFRDdEVvZlg3elU0VDdFYnVVTU9ubV9pa3QxQm1hZTlpeGJ3WlVFdzMyLWdxUmtoeGE2bUtQeVBYSkdCTjlrQkwwa1V4MFN4N0dBWDVR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nokia-2026-05-09-001",
     "date": "2026-05-09",
     "companies": [
@@ -55,6 +93,146 @@
       {
         "name": "google_news_5g",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMXpjY2tUUmF1djUxWk5teDJnVDNFMzlmY3M1SjBmcU1VN19ROGNSNURib0ZLZldESXM3SkI5bWhTa2NWS21EQ21SOWhXN0xZenJwVTJyZmhTS1lEWkthMXVqdkZpSVJKZHc4VVBHMG1GRWdyUG5PSWRoWmdTZ2pmaE9sSm9VRE1hZ19maFB2cTJXWmFzWWV5RDhyVjI0SFk5NXJaQ01lTGdpM2RWWTdwdWllNDhDcXVGYkh6OVRFZUJRT0czdlpGSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-05-09-004",
+    "date": "2026-05-09",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nokia Stock Snaps Back After Selloff, But Its AI Bet Faces a Hard Test - TechStock²",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxORmJ1U1hpRTN5d0pLOG5ROUZaOXNwdDBPWmk3c2hZZWNxcFdTcXY1X3N4YVpGdDBEemt5Ym56aTlqaUx6VlBvaWFiSHF1Y1hleGU0UkNkZmdSSVFzY3kzaXhHSXdvd3lTekxjeEZBNV",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORmJ1U1hpRTN5d0pLOG5ROUZaOXNwdDBPWmk3c2hZZWNxcFdTcXY1X3N4YVpGdDBEemt5Ym56aTlqaUx6VlBvaWFiSHF1Y1hleGU0UkNkZmdSSVFzY3kzaXhHSXdvd3lTekxjeEZBNVhDeEFnX3lRanBRZWNWWlE5a3hjZ0hMcXBMTWh1Y1dUYnF1LUlH?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-05-09-005",
+    "date": "2026-05-09",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CIEN Price Today: Ciena Corporation Stock Price, Quote & Chart | MEXC - MEXC Exchange",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wdkNKYUFlODFJcno3MG5zUVJaZ0FJN25QUUlIdGxUeERXZWFOdXhNendxUjhUZ2c0T251RFJ2QjZyaDZhVWJPdk4wYjRLdw?oc=5\" target=\"_blank\">CIEN Price Today: Cie",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wdkNKYUFlODFJcno3MG5zUVJaZ0FJN25QUUlIdGxUeERXZWFOdXhNendxUjhUZ2c0T251RFJ2QjZyaDZhVWJPdk4wYjRLdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-05-09-006",
+    "date": "2026-05-09",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Swedbank AB Acquires Shares of 100,654 Ciena Corporation $CIEN - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOUUhjMWZnUkpkSll0a2x5MTVEN2l5YXU3a0R2bE9Gd29tVHphOXB4eE9JRFBHWlRNWmJvRFFZYm9pc28xSjFieVFsYmdFNVA3UXFEOE9pbTNaaVVMZFg2NkxZMDc2NVFFLTlieGdYRG",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUUhjMWZnUkpkSll0a2x5MTVEN2l5YXU3a0R2bE9Gd29tVHphOXB4eE9JRFBHWlRNWmJvRFFZYm9pc28xSjFieVFsYmdFNVA3UXFEOE9pbTNaaVVMZFg2NkxZMDc2NVFFLTlieGdYRGxUalA4ZDUweUZaUFFhdVM4MlhFVlV5SW9TdFllaThEMmVSdEpiZ0FSMEF0MnNDQTMwMDNhY3lBSXR1ZC0zRWlsd3pfZ1pTNW5UR0pYcmxR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-05-09-007",
+    "date": "2026-05-09",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sumitomo Mitsui DS Asset Management Company Ltd Takes Position in Ciena Corporation $CIEN - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZWpFZVo4anNVTEJPZjVrUUJfUTNrd25FTE5MN0V5VHZTYTZ3WHpibmw0VVhNdzNBclQ5N3BKUGhiT21NeVI3c2F6UGNocVVUMmhYVVRsQVdVdnR4a3M1X0tHZWlXaENzdTNEM0tlUk",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPZWpFZVo4anNVTEJPZjVrUUJfUTNrd25FTE5MN0V5VHZTYTZ3WHpibmw0VVhNdzNBclQ5N3BKUGhiT21NeVI3c2F6UGNocVVUMmhYVVRsQVdVdnR4a3M1X0tHZWlXaENzdTNEM0tlUk81ajhaQ2xXb0t6VGs2Qmtoai05aS1GWHQxb3BtcnY4QlpkU1lmbnBsS3ljczhOOC1BQmJfbmgxeUNqU3h3cFJ4MGtiTy1zTGhEcTcyM0VRaV9GR0p4U1lZVkhmcUgzWEZWbFRWWFNFTlVPY2Rfb1hGdzJfdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-05-09-008",
+    "date": "2026-05-09",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank Corp stock (JP3732000009): Loan cut to OpenAI sparks investor scrutiny - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPY003aTRYZXIzT0VXMmpuY0lpWlBrV1JTc2gwV0w1WWpnbWV4NjRsVTdVSGR1SDRzOS0ybjNjdVdwWmlfRUlCdlpmd3BQMDNBeHctZ0E1UFJMdkcybXNId2lDMnBBWmVFMVZMb1YwYl",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY003aTRYZXIzT0VXMmpuY0lpWlBrV1JTc2gwV0w1WWpnbWV4NjRsVTdVSGR1SDRzOS0ybjNjdVdwWmlfRUlCdlpmd3BQMDNBeHctZ0E1UFJMdkcybXNId2lDMnBBWmVFMVZMb1YwYlpiejQxSFRiN2YweGVPcXpGRWQ4ZnZha2lkTlBHOUI1amN1S2N2N0M0QkdVQy1GLXBudHFqUkFfRHZ4SHNQXzlHTE56S2JRRjJRU25LX2V1QXVFMzhD?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-05-09-009",
+    "date": "2026-05-09",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Tower Corporation (NYSE:AMT) Receives Average Recommendation of \"Moderate Buy\" from Brokerages - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZmJ6V213Q05tbWxpNkhRNk1fR3l6Tm14SFVGaFIxWnlEUUJpVzhLWlRrT2VnTWRRS3d6RHYxMGxiM0UxYzh3bnRwNDVnRGFkRWNSMHZRclNDTkR2VUdqOWdaNm9YNWMzcXowTFo4VU",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZmJ6V213Q05tbWxpNkhRNk1fR3l6Tm14SFVGaFIxWnlEUUJpVzhLWlRrT2VnTWRRS3d6RHYxMGxiM0UxYzh3bnRwNDVnRGFkRWNSMHZRclNDTkR2VUdqOWdaNm9YNWMzcXowTFo4VUhWUVZKalhmRGRWY0t3QzkyejRBWUE5a3Nmak5aSGREczFldlp1ckZwQ0JqWnZJbkR6NkxlLUhVaVptNnFIdGtuTzI1OC1zUG93Y0d5MEt0NHIxaG4wRDBDMTczNmRuWGpBcnF1VVNlWU8yWXZXeUttWGhRX2FZNEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-05-09-010",
+    "date": "2026-05-09",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mitsubishi UFJ Asset Management Co. Ltd. Boosts Stock Holdings in SBA Communications Corporation $SBAC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVzJ4UFJMQ1V4WW9tU1lCTkFoZWVTSzEtUVBZX1ItcFdhaFFEZ1Z3WGQ5Qk40T0hUSWFiWS1UM0p3bVRQUjdQNnpQTDhuU0xfNzlzOV9GMzk4bm9QcHhFVmRJRzRZTG8xcEFwaXVvTW",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNVzJ4UFJMQ1V4WW9tU1lCTkFoZWVTSzEtUVBZX1ItcFdhaFFEZ1Z3WGQ5Qk40T0hUSWFiWS1UM0p3bVRQUjdQNnpQTDhuU0xfNzlzOV9GMzk4bm9QcHhFVmRJRzRZTG8xcEFwaXVvTWNuM0o1V3hZWTFkR09BeF9MbVlwQzJvQ2Z4UzRNWk8tcXluVzRsV1lsWl9WWFp6Y3BjakRYRFNMM1hWVGdlbi1KUW1KenpuNHJiMHpyMlpkYTB6Zmd2cW93Nk9HeVE5V0hqM3piUk1DbDRmbDdkeGJ3U2N5WmFoMWtiY1Njd0xGWkhqUQ?oc=5",
         "type": "rss"
       }
     ]
@@ -592,6 +770,46 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNS3ppdUQwc3B2Zkp0MzlPa3JJVkdCZ3JiMGd3R3NSTHZIMWhVMVRvUXhkVkJydC00T1dVS2FhY2M0UUJQUmJSTVBnb1Zha1NiMGtpMExVUVdqTWQwV1VtNEZ4TGRpNTI4eF9UZHY5SVRXZnlYTHNsekNSVDRTak9wcjA2X2pRb1lYMmgyME5yZG9pR3kxLXlQb0txa3lpSmhJNlpaUzExVTUtclBuR1h2WUdWQWJ0UUVFaHl2a0Ywdy1veHF3ckpSRmJiMS05dExCQ3NDRnh2eElSWjBkeVlKSWR30gHnAUFVX3lxTFBMS0d5UGhvYlYwUnBJS0dLNkRLYkVUamJMSGRCSEpub2h4VTM1S1hIRF9XQWhvUWwyVDdNSklSWHNKTmVFX25NaFVrSHZkdksyVHZ1OHE3bTllMjFjbVNSREk4Z196bC1pY29aNFdxcHNTbHBvRHFTQ2o3X2JEeTQxQUxYN3dhZl9ud2hVN2xjS0t4aXNTQ19qTmdQZWhZRUQtSEJnR2RzY0xlRlNSNzlFdTVvdjJCcVMtTzNLaFVENGJWRzdhQlZTdVhLYldpVTkzN0ZCcGZsZEpXZkxrb285eGxHXzhocw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-05-08-029",
+    "date": "2026-05-08",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Making Stratospheric Flight Possible: How SoftBank Corp. and TOPPAN Holdings Developed Advanced Film Materials for Solar HAPS - ソフトバンク",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmSDlnc19hT0QwWDFISXZzcVFNMTFib205Z0VNOW9ncFF0Y0taNmlmLXY4c2hKejJvQ0ZOd21leUpHUnJoT2FOS0EtVXVrbFlnSVM3Z3p6dDZnQ0NBZjFlVA?oc=5\" target=\"_blan",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmSDlnc19hT0QwWDFISXZzcVFNMTFib205Z0VNOW9ncFF0Y0taNmlmLXY4c2hKejJvQ0ZOd21leUpHUnJoT2FOS0EtVXVrbFlnSVM3Z3p6dDZnQ0NBZjFlVA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-05-08-030",
+    "date": "2026-05-08",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank,Nvidia and Foxconn to Build Japan's AI Server - Asia Business Outlook",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkxEa1hBOHdDcy1KRXVibnFzTkFyYkpRd29aN1VQaDVYX2RSZlB4aWxvaURrQng3VEp6NTN2UUFDMGdfSVJrUHZSOE9lcGFCTEYxelU2eTZ1TVBDTVBJS0VPUGFtWFZ5NUlUV2FmVj",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYkxEa1hBOHdDcy1KRXVibnFzTkFyYkpRd29aN1VQaDVYX2RSZlB4aWxvaURrQng3VEp6NTN2UUFDMGdfSVJrUHZSOE9lcGFCTEYxelU2eTZ1TVBDTVBJS0VPUGFtWFZ5NUlUV2FmVjdxbTdOSmNscWdPMk8yRnYxcWRiOEVjS1hKSlktbnhHblJWU3VEWDE5TWdEVk1wRFZEa0ZkampkY2RNMkQ3NWhV?oc=5",
         "type": "rss"
       }
     ]
@@ -1566,6 +1784,80 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObnB2MF9iMFBrXzl6dGtXM3FPV0JLdzU2T0RLV3VEVktITW5ydklkVmY1YVB3TlhabWtOd1ltXzJld2pKaS1MODhpRkpLQm9pZTJhZ0FSWG1odktNbnlqRVZJM29yc05QZTc1Y09ySmpTckRnczJMVDI0T1hON3pOQzBwUnVoTEh6dWhyZDJR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-05-07-052",
+    "date": "2026-05-07",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nokia Surges 162.2% in the Past Year: Reason to Bet on the Stock? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNZjN0ODFEU1Y4OW9iUHRFUzRRUUdZWWt2bmM4bXJUR0U3NEVxcXNhSnMxdkF2cldjV0czUGJrd1QtYzlMSnNlVG9Wd21hQ0dUTUFhNXhxcGlWT29ad1hNUHJlOTVvMWRFWUxFaTN0N1",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZjN0ODFEU1Y4OW9iUHRFUzRRUUdZWWt2bmM4bXJUR0U3NEVxcXNhSnMxdkF2cldjV0czUGJrd1QtYzlMSnNlVG9Wd21hQ0dUTUFhNXhxcGlWT29ad1hNUHJlOTVvMWRFWUxFaTN0N1FqaTJnMFY2NmhzSmFnTzNhRl9kWXlYdFVNWGJ0eC00cld3UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-05-07-053",
+    "date": "2026-05-07",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Ciena Announces Reporting Date and Web Broadcast for Fiscal Second Quarter 2026 Results - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWDI2aVlwNzZoZzJySGVsdmVSSVZQWTV3T1daTnZZaVZWWjNqcW9NSDBnSC03X29OTEdOeGM3MlM1NkxWZVpnSm1CcmZHRFJSakV0bldfaFV4VXZDdXQycFIxWnctTWpZb0dxSVRhcm",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWDI2aVlwNzZoZzJySGVsdmVSSVZQWTV3T1daTnZZaVZWWjNqcW9NSDBnSC03X29OTEdOeGM3MlM1NkxWZVpnSm1CcmZHRFJSakV0bldfaFV4VXZDdXQycFIxWnctTWpZb0dxSVRhcmdqTUxuYklxajhQSUZ1cFBlc2thN0otTXFzRUtpVHRiRk9ZT1d6OGc4WktFTElzWTMzVjRVWUxlNGo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-054",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tower companies bullish on spectrum, AI and the edge - Light Reading",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZmxlcFRSdUw1VE4wdC1Ub25FbnRYNzIzNVNYMFp4eVJXTjFVaDF3SXFIUWxYSDJqNXVOZGswMmMtX1VyRWZjNTR6MXd0bzhLMFNlbl9BWEY5N0VwY3AwMDNlZENKdGdRZ0hoQmdIeG",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZmxlcFRSdUw1VE4wdC1Ub25FbnRYNzIzNVNYMFp4eVJXTjFVaDF3SXFIUWxYSDJqNXVOZGswMmMtX1VyRWZjNTR6MXd0bzhLMFNlbl9BWEY5N0VwY3AwMDNlZENKdGdRZ0hoQmdIeGkyYUxwa1FMX1U4amE4ZGpudHg5aWRjVW1EVDFv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-07-055",
+    "date": "2026-05-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Trai proposes penalties for telecom firms over complaint redressal lapses - Business Standard",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa2ZpUk1ueW5KNzVNRUpSWFZrQnZBMDVneThUdWZLUE5za3dlSWk1eXI0OXh1Z1h4UmQ3TnNFZHpNTjdpU3F3a2VXYm8zRzFDZ1B1WjRvNThaUTczLS1EZjRUc0MyTDI4Z0VvV21EVU",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa2ZpUk1ueW5KNzVNRUpSWFZrQnZBMDVneThUdWZLUE5za3dlSWk1eXI0OXh1Z1h4UmQ3TnNFZHpNTjdpU3F3a2VXYm8zRzFDZ1B1WjRvNThaUTczLS1EZjRUc0MyTDI4Z0VvV21EVU1hQzVURU5lcHhScm1IOWRJQXRBSVBFZnJ6SWZIdHdlLVB6V1VCc1VpRk5JVmoyR1M2M3dXdXZSOEVMSkdKLTkwX0tRaUczYm9VTkpyZXZqRkNxTk42aDBUU01nVFU3TmpWblpKMFh6N2rSAd4BQVVfeXFMTmtROFFQMU9oTkg0V092Y1JrUEJNcndwVWV1M2xSYU12cFJCbFQ3dC1QenpfaDRmSHVyT21MeTlyOWFZcUpPNHFwZHBTVkRLS19xcm9GREJXUTFlUGxQdUpIeGxQY2dZUkFDSThKNFY3Y0drUzhrdF9LRGo2bmF1akRxdlBsQ3NwRWZyOU90aGkxQk5jdGFUNHJtSzFTQnpBZnhtY0NTZkRqbWg2Rms2RXBOenZtZjUzbW13OENQMVN4LWNsbXVxTldKbkZZUkE0b2lNSXJZV0RubnhyQ1dn?oc=5",
         "type": "rss"
       }
     ]
@@ -3093,6 +3385,27 @@
     ]
   },
   {
+    "id": "ceragon-2026-05-05-050",
+    "date": "2026-05-05",
+    "companies": [
+      "ceragon"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ceragon Books $86 Million in India Orders, Bolstering 2026 Outlook - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOTGJnMS1ZUkJJOTNjcWFQTzRmeEdZYlZzOERGVzBTZTkwRE42eVpsRkFrQzRjVXNpa3Rrd2FnTTNCdndlbkNhMENHV05TdE9SbE1xSkZqOXVDa2JMUWZIbFhJZFhWNnZEU190MzJLSF",
+    "sources": [
+      {
+        "name": "ceragon",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTGJnMS1ZUkJJOTNjcWFQTzRmeEdZYlZzOERGVzBTZTkwRE42eVpsRkFrQzRjVXNpa3Rrd2FnTTNCdndlbkNhMENHV05TdE9SbE1xSkZqOXVDa2JMUWZIbFhJZFhWNnZEU190MzJLSFZZMzB2Q1NlOXV6MmJLeTA3a1NWcXNkdUJlV0hjeE9GNllfa1ZBX05rSXNhV1RLeThVUDlOVV9NZnQyNUdlTzdGZUZkSC1QcEk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "ciena-2026-05-04-001",
     "date": "2026-05-04",
     "companies": [
@@ -3680,6 +3993,26 @@
       {
         "name": "ciena",
         "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdy1icGZfTHBZc3EwMFl1dURnOElsa01BWGxNZ3dwWGpzVTJpY1JNelhSSjJRU1NEb2VOUHB6cG1IVFlrSkpaXzNnb2ZSTjdSbGFXeTd6aXpfNnhpUnVGRUcxbHlsMU5FQl9kUDFFVmRzbloxS3J3LTl5U1piRllOeFppNW9xWGtuZXJHQ1ZYNUhDVzZUQUphRXlpRHJld3J5dFpYTjhVY2hQNlNKZkhSOFQyQkwwTm83OVR3S29ZaDF2NDFnNnE4czFrSG9DWmdtRVdtUHNPLV9KUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-05-04-031",
+    "date": "2026-05-04",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nokia Corporation - Managers' transactions (Saueressig) - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPOXVuN3ctZ0tGWWlFZ3ZEVS1GdFJMeVA0VGx2NG5MQWh4aTdKZnFsSHM4bVZkS25NUVZMdXFlODd3M0ZjU2pqcUF6enNHeXROclctU3RUYlRvRzlJX1p2SDNQZWhza015bklabVNHUC",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOXVuN3ctZ0tGWWlFZ3ZEVS1GdFJMeVA0VGx2NG5MQWh4aTdKZnFsSHM4bVZkS25NUVZMdXFlODd3M0ZjU2pqcUF6enNHeXROclctU3RUYlRvRzlJX1p2SDNQZWhza015bklabVNHUC1RNmtTT0s3Q3dMUmltdkVacTV2TUdIMlZSNlZGZVpZU1YxOVlxaGc2cHpGM2RDaWJaWURYNUt5Yw?oc=5",
         "type": "rss"
       }
     ]

@@ -1,0 +1,114 @@
+{
+  "date": "2026-05-10",
+  "generated_at": "2026-05-10T09:25:38.143869Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ciena-2026-05-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ASR Vermogensbeheer N.V. Acquires Shares of 12,388 Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPV1g2R3FNYXVITHlyYjFSeHcwZzMtaFVBRVJueGFta3hsQXFaZnpJV1RVclhPVExqcldKY0pJTXZRWkY1QXF1QkZnT3RPM3lqYU5XT3QwQmZzOFlEb2VUYzhBcmJIMUVDQ0lFNTdJcXdVQkJhOS1Zd0U1MlBXSWRMRERUTUtEU2sxZWl6d0JxZXVGTmliS3BoZG1vdEM0QVV5SjdCNGRFdkVyTk1LcUhBek5WeHJkaktJN1dLc09JWW1faDlvX0VZR0NzZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-05-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Maroc Telecom stock (MA0000012320): Market cap down as telecom giant faces headwinds - AD HOC NEWS",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMWhSTjdlQk1LckVlVU9GOVNQVkVJS1p1M09DbERKeWlNaVl6TTAybXBCWWFNa1ZZQXpxeFkyZ1JNTThsR1F3QlIyRUdfaG13b2hXWFhkMmZMOW04SWtCUkZXLU5QSERLUTUwdmRQZDVHRmFZZDFnUXk4Ukt2SFRDdEVvZlg3elU0VDdFYnVVTU9ubV9pa3QxQm1hZTlpeGJ3WlVFdzMyLWdxUmtoeGE2bUtQeVBYSkdCTjlrQkwwa1V4MFN4N0dBWDVR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 314,
+    "dup_title": 156,
+    "too_old": 131,
+    "gate1_blocked": 5,
+    "gate2_blocked": 5,
+    "passed": 17,
+    "pass_rate": "10.8%",
+    "gate2_block_rate": "3.2%",
+    "gate2_samples": [
+      "Rothschild & Co Redburn Initiates Coverage of Ciena Corporation (CIEN) - Yahoo Finance",
+      "Rothschild & Co Redburn Initiates Coverage of Ciena Corporation (CIEN) - Insider Monkey",
+      "Navellier & Associates Inc. Invests $3.57 Million in Ciena Corporation $CIEN - MarketBeat",
+      "Deutsche Telekom made cloud jump from Ericsson to Mavenir in 5G - Light Reading",
+      "Verizon cuts several hundred jobs months after 13,000-worker reduction - People Matters - HR News"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為Ciena相關動態：「ASR Vermogensbeheer N.V. Acquires Shares of 12,388 Ciena ...」。主要關注主題為產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "ASR Vermogensbeheer N.V. Acquires Shares of 12,388 Ciena Corporation $CIEN - ...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Maroc Telecom stock (MA0000012320): Market cap down as telecom giant faces he...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
