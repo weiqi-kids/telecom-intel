@@ -1,0 +1,210 @@
+{
+  "date": "2026-05-11",
+  "generated_at": "2026-05-11T10:56:47.464793Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "softbank-2026-05-11-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Earnings call transcript: SoftBank reports record high revenue in Q4 2025 - Investing.com Australia",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN0FXREZ4bzRvX3cwY1JITFY0cHYtYUlPdmRvckQtelJSN0tzTEgtcmhSRFFUcHg3REtreTBHTThIWlR3ajEyNnVvZ0dkcmxqRzVjdmtzMGlRZFFQZHhJTzFhNXRiaG1fUXRkcF9IWTc5TXJaY3VrY3ZNd1V3eUp4TmF5R2pGN09URzV2QnhTZVFXbjlBV0NGMVdhN1h6ajFPdTZTT0FYanozMHdHSjM3WFJOd3hPdFdXWWk3S0Z1TmozUlhzMnJ0ZDZ0LVU5UQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "att-2026-05-11-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AT&T Earnings Signals and Telecom Market Sentiment - Kalkine Media",
+      "companies": [
+        "att"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT3RHR1puMlkwZ1ZZcmkzV0x1clBBN2FEc0J1SnFEbnNtTG1XY3RVa0UyRFBnTURWVzd6OTdDSnBQQ0ZFd0Q2ZThWcUR1MnNKd0IwWng2bUpzSXMwV2JaaFFjRERJVnBub21fQ0VNZDlaYXl5NlVTVHVWc1Z6cVJPd05iSHFfMGZzRnlLenM2aDhTaUFyN3dpOFpjQ2pUblU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "deutsche_telekom-2026-05-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rheinmetall and Deutsche Telekom Partner on German Drone Shield - Bloomberg.com",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWVlYNGtzWEwxLXdyZUlBRUI3MXRUbUx4Z2ozejROM0VmMmdjZmNvbDF5Z3Z2RjljQVdNQzk2akhYdzBwTE5NQ0pwV01pcDVaelI0WDZZUk5QR3lPdTZCaExjVk45UXBXMlBRb3FIU1gtcGwxM0RXclVrRjRYWU5YNkx1eVRiQ1VodDAwanpzbHQtZmFmaUNuOWROYURTUnJYSmFfVmw4dFVNbU8wMEF0U2FCX0VyZzdVUEIzYkFWN1ZqTnJ0Zk9Ra0piSGhsZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "deutsche_telekom-2026-05-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom AG: Release of a capital market information - marketscreener.com",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN0tHTTg4QjBNZFR2RDlYX3VUMnVfZU1HTWw1MzNpUU1mbEFjVGpNV0Rsdmwta1FBaVgxSk1FaGhYNzRTbF9RVF9nUUdTQ21zU2c0c0ZRQXIwakQ0RlIxUkowUm1GNG80UHFtZm03RFgya19hNzk4djF2M09YZ1otaHRaNWdJWXF3RUJkVXRKd1lOMVhJTFNRcFgwbW44Vmg3Nm1qV1lWMVJ4MDd2NG1ESzZB?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "softbank-2026-05-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SoftBank Launches Japan Battery Venture Amid AI Hardware Push - WSJ",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR2E0dFcwOUpXYkxxWm1NbWl6cUFGOHluTzlkY0d4Vkl2dVRfUlNnOTJRdWkwMnYwQTVrR3RLVHU4YjFZTk1xNEZRMGVBTkFDaGFUZmdycG9WeTBxOFZHbUJINUZBS2p1b1VZbkJ2c1BvYVZOV0RoYXBQd0lyUTdxSTBleFEwV2JyWTZsd1kxOXZUYzVkQnc1ZG1GNA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.15,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "softbank",
+        "count": 7
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 3
+      },
+      {
+        "id": "equinix",
+        "count": 1
+      },
+      {
+        "id": "att",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 304,
+    "dup_title": 146,
+    "too_old": 127,
+    "gate1_blocked": 4,
+    "gate2_blocked": 4,
+    "passed": 23,
+    "pass_rate": "14.6%",
+    "gate2_block_rate": "2.5%",
+    "gate2_samples": [
+      "Rothschild & Co Redburn Initiates Coverage of Ciena Corporation (CIEN) - Yahoo Finance",
+      "Deutsche Telekom made cloud jump from Ericsson to Mavenir in 5G - Light Reading",
+      "T-Systems brings Ford’s suppliers in Catena-X - Deutsche Telekom",
+      "Rheinmetall and Deutsche Telekom to develop drone defense shield for civilian infrastructure - marke"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為軟銀、德國電信、Equinix相關動態：「Earnings call transcript: SoftBank reports record high re...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Earnings call transcript: SoftBank reports record high revenue in Q4 2025 - I...（法說會、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "AT&T Earnings Signals and Telecom Market Sentiment - Kalkine Media（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

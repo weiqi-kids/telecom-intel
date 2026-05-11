@@ -1,0 +1,15 @@
+{
+  "total_raw": 304,
+  "dup_title": 146,
+  "no_date": 0,
+  "too_old": 127,
+  "gate1_fail": 4,
+  "gate2_fail": 4,
+  "passed": 23,
+  "gate2_samples": [
+    "Rothschild & Co Redburn Initiates Coverage of Ciena Corporation (CIEN) - Yahoo Finance",
+    "Deutsche Telekom made cloud jump from Ericsson to Mavenir in 5G - Light Reading",
+    "T-Systems brings Ford’s suppliers in Catena-X - Deutsche Telekom",
+    "Rheinmetall and Deutsche Telekom to develop drone defense shield for civilian infrastructure - marke"
+  ]
+}
