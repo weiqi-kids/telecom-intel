@@ -1,0 +1,16 @@
+{
+  "total_raw": 312,
+  "dup_title": 133,
+  "no_date": 0,
+  "too_old": 112,
+  "gate1_fail": 8,
+  "gate2_fail": 7,
+  "passed": 52,
+  "gate2_samples": [
+    "Ciena Jumps 7.5% Amid Sector-Wide Rally - AlphaStreet",
+    "Rothschild & Co Redburn Initiates Coverage of Ciena Corporation (CIEN) - Yahoo Finance",
+    "Germany’s Rheinmetall and Deutsche Telekom to Develop Drone Defense Shield - WSJ",
+    "Rheinmetall, Deutsche Telekom plan to jointly develop drone defense shield (RNMBF:OTCMKTS) - Seeking",
+    "Rheinmetall, Deutsche Telekom Partner on Drone Defense ‘Shield’ - The Defense Post"
+  ]
+}
