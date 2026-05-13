@@ -1,0 +1,257 @@
+{
+  "date": "2026-05-13",
+  "generated_at": "2026-05-13T10:17:07.593613Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "deutsche_telekom-2026-05-13-002",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Deutsche Telekom Nudges Up 2026 Guidance After T-Mobile Growth - Bloomberg.com",
+      "companies": [
+        "deutsche_telekom",
+        "tmobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZkFBNUhHSG1KNkR5S3hITkJBWndIVVVQQ0tvTngtM04tWXVwX2hEV1lQTGQwS0ZhZDVKVFg4TnNSQVpmWm95ZkFRS3BjRzhHVFVQOXpSQ2ZfQVFIc1BiTHhwWGh5VXI1Z2VKOW1yY00wd3VKYW5rWm4xMW1sUTB4V1FXcG5qbFBLbHI0ZUFPblJKaVgyUEFTU2NzTTFYUmZYdzNiTDVBa1NsNGQ4ZExvQTdLTQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "deutsche_telekom-2026-05-13-005",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Deutsche Telekom Q1 earnings rise on T-Mobile US growth - Investing.com",
+      "companies": [
+        "deutsche_telekom",
+        "tmobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGZHaG1NSXh6YUJ3eHQxQW9fV25mcjl1SWs4MVlNTi1MVEpFa3huQVc4RHFKaW01YU9uQkZ0OFVFcEhvOXVCaDdFc0hncnlDTnhYcW9xRW9iN05uc2d6RVZnbGFFNkM5WlNySGM0ZVlGMTBfbThqdFo1VnhwY2UzLW5LVTJkUkhHMmZvbElwUGZvZ2wwZGk0RzQ0YU94ZE1XM0tKWA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "deutsche_telekom-2026-05-13-011",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Deutsche Telekom Raises 2026 Guidance on T-Mobile Gains - Global Banking & Finance Review",
+      "companies": [
+        "deutsche_telekom",
+        "tmobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOW0xdXZNMm1tRXgxTjNjNXdBam9CYXlIR0w0aEp5TG1OV2RpR3lKSVJUYzBJb3NyT3NpWXkwSXktcFRKd2w5czZVQ1lkbTdocjJlTXhQc3huOXQxV0swY0tVTXVHZWJpcGVzUDFhZm9mcWVGUzJua2d0bUNQSW83S0paSkZnWE5rcFBZaElEZm5Sc3pNTEZrSQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "softbank-2026-05-13-016",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "SoftBank records US$12 billion fourth-quarter profit - The Standard (HK)",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQUNLZEwtTXFWRkw2LWotNTBvaV9BeWc2V24xOGVIQkplZUw3aUI2Wm1hb19uOW5wLXdhLV95SDIyVmhvQnJ6Nmc1NnY1S0g4emEwVUFtNlJjcnI0Mnd3clZwN3d1OTdsS2ZvcnZlSE5hSEY3UV9oSFNlYnZZM19FUHBPWDAtM2g4NkhQQUkxcElsdzB2TGRzaUxJNzZrQnRnSjRXNE1UZEY?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "deutsche_telekom-2026-05-13-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Deutsche Telekom Lifts Full-Year Guidance - WSJ",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUw5YnJLeXBSaEl0amJzRFpfS0plTkFmVlBjcUxicXRFZDFZR1lZQ0F3TUl2czN4NTZGRXFxYnNBVk5kWEp0MTJVd3hYVkg4VHh0LU1lS0ZjMWstczI3LWQxVllZWE4zcHl6OEU0MGlmell0b3dHY29fb055VXFqR3hVdkdtMzhRZFNQRUNmd2dsQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.15,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "deutsche_telekom",
+      "to": "tmobile",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 28,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 22,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "deutsche_telekom",
+        "count": 11
+      },
+      {
+        "id": "softbank",
+        "count": 4
+      },
+      {
+        "id": "tmobile",
+        "count": 3
+      },
+      {
+        "id": "equinix",
+        "count": 3
+      },
+      {
+        "id": "nokia",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "earnings",
+        "count": 14
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 311,
+    "dup_title": 130,
+    "too_old": 102,
+    "gate1_blocked": 9,
+    "gate2_blocked": 10,
+    "passed": 60,
+    "pass_rate": "33.1%",
+    "gate2_block_rate": "5.5%",
+    "gate2_samples": [
+      "CommScope Sued by Lenders for at Least $150 Million Over Alleged Breach - Bloomberg.com",
+      "Rothschild & Co Redburn Initiates Coverage of Ciena Corporation (CIEN) - Yahoo Finance",
+      "Ciena Jumps 7.5% Amid Sector-Wide Rally - AlphaStreet",
+      "Germany’s Rheinmetall and Deutsche Telekom to Develop Drone Defense Shield - WSJ",
+      "Rheinmetall, Deutsche Telekom plan to jointly develop drone defense shield (RNMBF:OTCMKTS) - Seeking"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 28 則事件，焦點為德國電信、軟銀、T-Mobile相關動態：「Deutsche Telekom Nudges Up 2026 Guidance After T-Mobile G...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Deutsche Telekom Nudges Up 2026 Guidance After T-Mobile Growth - Bloomberg.com（法說會、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Deutsche Telekom Q1 earnings rise on T-Mobile US growth - Investing.com（法說會、產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,64 @@
+{
+  "date": "2026-05-13",
+  "total_events": 28,
+  "by_company": {
+    "nokia": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "deutsche_telekom": {
+      "count": 11,
+      "sentiment_avg": 0.11
+    },
+    "tmobile": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "softbank": {
+      "count": 4,
+      "sentiment_avg": 0.25
+    },
+    "american_tower": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "equinix": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "ericsson": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 19,
+      "sentiment_avg": 0.09
+    },
+    "earnings": {
+      "count": 14,
+      "sentiment_avg": 0.15
+    },
+    "fiber_buildout": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "deutsche_telekom",
+      "to": "tmobile",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "earnings",
+        "industry_general"
+      ]
+    }
+  ]
+}

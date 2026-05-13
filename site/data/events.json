@@ -1,5 +1,561 @@
 [
   {
+    "id": "nokia-2026-05-13-001",
+    "date": "2026-05-13",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nokia appoints Emma Falck as President of Mobile Infrastructure and member of the Group Leadership Team - Nokia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQThQSTJJNWFkTXhMNUZ3ZHVGVUhwRXh1SnNvNGZoMTNBWk1RbnBDa2lkT19PRWQ4b01jeGNFNGsxY19WQjRnME1RV3NJVGdfM3ZueENvNTZ5U0lXNW5mNE9mOV9TZ3UtOWxCQ3A0c0",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQThQSTJJNWFkTXhMNUZ3ZHVGVUhwRXh1SnNvNGZoMTNBWk1RbnBDa2lkT19PRWQ4b01jeGNFNGsxY19WQjRnME1RV3NJVGdfM3ZueENvNTZ5U0lXNW5mNE9mOV9TZ3UtOWxCQ3A0c0VlUXNlS3piQVBPYjJTTVR5S1R0bk5rZ2NLZVM3M3BuemZ0aVE5Z0VIUTBuWHViRG1jem1CUmV2RUluSXlLY0dHWHVXRWgwYTJROTUwby1MYlBqVUhBVTNwNEdGenNsNXBf?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-05-13-002",
+    "date": "2026-05-13",
+    "companies": [
+      "deutsche_telekom",
+      "tmobile"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Deutsche Telekom Nudges Up 2026 Guidance After T-Mobile Growth - Bloomberg.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNZkFBNUhHSG1KNkR5S3hITkJBWndIVVVQQ0tvTngtM04tWXVwX2hEV1lQTGQwS0ZhZDVKVFg4TnNSQVpmWm95ZkFRS3BjRzhHVFVQOXpSQ2ZfQVFIc1BiTHhwWGh5VXI1Z2VKOW1yY0",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZkFBNUhHSG1KNkR5S3hITkJBWndIVVVQQ0tvTngtM04tWXVwX2hEV1lQTGQwS0ZhZDVKVFg4TnNSQVpmWm95ZkFRS3BjRzhHVFVQOXpSQ2ZfQVFIc1BiTHhwWGh5VXI1Z2VKOW1yY00wd3VKYW5rWm4xMW1sUTB4V1FXcG5qbFBLbHI0ZUFPblJKaVgyUEFTU2NzTTFYUmZYdzNiTDVBa1NsNGQ4ZExvQTdLTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-05-13-003",
+    "date": "2026-05-13",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Telekom Lifts Full-Year Guidance - WSJ",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUw5YnJLeXBSaEl0amJzRFpfS0plTkFmVlBjcUxicXRFZDFZR1lZQ0F3TUl2czN4NTZGRXFxYnNBVk5kWEp0MTJVd3hYVkg4VHh0LU1lS0ZjMWstczI3LWQxVllZWE4zcHl6OEU0MG",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLUw5YnJLeXBSaEl0amJzRFpfS0plTkFmVlBjcUxicXRFZDFZR1lZQ0F3TUl2czN4NTZGRXFxYnNBVk5kWEp0MTJVd3hYVkg4VHh0LU1lS0ZjMWstczI3LWQxVllZWE4zcHl6OEU0MGlmell0b3dHY29fb055VXFqR3hVdkdtMzhRZFNQRUNmd2dsQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-05-13-004",
+    "date": "2026-05-13",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Telekom grows steadily in turbulent times and raises guidance for 2026 - Deutsche Telekom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOcklWV0VrNFFKMm1hNzJsZElhNWdPNUo4UGxTcXV2NVR5UDV2MTZRU2xGN1dpQjdIbUJsQnVoSDAzTGNIMUotcVVRTmVrcHNPd1piczlJN2NIY3JWWkw3ZHdvUjZ5bzZCRXF2YzA5ZX",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcklWV0VrNFFKMm1hNzJsZElhNWdPNUo4UGxTcXV2NVR5UDV2MTZRU2xGN1dpQjdIbUJsQnVoSDAzTGNIMUotcVVRTmVrcHNPd1piczlJN2NIY3JWWkw3ZHdvUjZ5bzZCRXF2YzA5ZXlHR05ORkhWV0lHOEFaaU1UYkNFQS1lUnRieVpYWHhmUmxlN1kxTS13?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-05-13-005",
+    "date": "2026-05-13",
+    "companies": [
+      "deutsche_telekom",
+      "tmobile"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Deutsche Telekom Q1 earnings rise on T-Mobile US growth - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGZHaG1NSXh6YUJ3eHQxQW9fV25mcjl1SWs4MVlNTi1MVEpFa3huQVc4RHFKaW01YU9uQkZ0OFVFcEhvOXVCaDdFc0hncnlDTnhYcW9xRW9iN05uc2d6RVZnbGFFNkM5WlNySGM0ZV",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZGZHaG1NSXh6YUJ3eHQxQW9fV25mcjl1SWs4MVlNTi1MVEpFa3huQVc4RHFKaW01YU9uQkZ0OFVFcEhvOXVCaDdFc0hncnlDTnhYcW9xRW9iN05uc2d6RVZnbGFFNkM5WlNySGM0ZVlGMTBfbThqdFo1VnhwY2UzLW5LVTJkUkhHMmZvbElwUGZvZ2wwZGk0RzQ0YU94ZE1XM0tKWA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-05-13-006",
+    "date": "2026-05-13",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Telekom Posts Lower Q1 Profit; Revenue Up - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNUWVyMlpvcUdNMHJkdlRtOERDckdLUk9sWWlxVjVIYlBOUFFsTnFFNmEtVGp3b09UMjd5T0s3QUFlQmM4S1hZMXNmT0dJdmYxeVRPRHVza3BaV3ZydWlnN04tdUlqc00xeVpvN3diTl",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUWVyMlpvcUdNMHJkdlRtOERDckdLUk9sWWlxVjVIYlBOUFFsTnFFNmEtVGp3b09UMjd5T0s3QUFlQmM4S1hZMXNmT0dJdmYxeVRPRHVza3BaV3ZydWlnN04tdUlqc00xeVpvN3diTlljeVVwYWQxVVI5cGt2OGdQYVRMeHI4b0lCeHk5bnJwS1Z3c25TUXdzdzdLZEtCODdMaUJLZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-05-13-007",
+    "date": "2026-05-13",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Telekom's net revenue at €29.9B in Q1 - Breakingthenews.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQdlFISmpJOFhkdlhVOUZNMTFNcWpEUUVDaU02bGN4aFZIN3JsNzY5clFPX2ZiNmE5ckY5Si11MWIzS3J6ZmpyNllqRTFZTjBQdHowM1J2TDl3UGJOejNmSDEzRXZIdUY4RGlkWGFxam",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdlFISmpJOFhkdlhVOUZNMTFNcWpEUUVDaU02bGN4aFZIN3JsNzY5clFPX2ZiNmE5ckY5Si11MWIzS3J6ZmpyNllqRTFZTjBQdHowM1J2TDl3UGJOejNmSDEzRXZIdUY4RGlkWGFxamU1QURrVmF6NHZET0J0SnZxdS13NV9iVWUzSHpJaXBnOU5ER3hObjVDQ2NB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-05-13-008",
+    "date": "2026-05-13",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Telekom AG (DTEGY) Reports Q1 Earnings with Strong Reve - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPUmZzYUpQQ2dQMU51Mi1icm1XUEp6Q3hsSzQ2ZTg2UHRQaWlFWW00T3BDdGRCeXkzTEh6Q3NCd01EX3k5OU9uY3JuQ1RBMDNvUXJfaTE0RDJWYWRLeDczbmd3YkpINEZxUkVqRW5BZV",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUmZzYUpQQ2dQMU51Mi1icm1XUEp6Q3hsSzQ2ZTg2UHRQaWlFWW00T3BDdGRCeXkzTEh6Q3NCd01EX3k5OU9uY3JuQ1RBMDNvUXJfaTE0RDJWYWRLeDczbmd3YkpINEZxUkVqRW5BZVp0VjJGT1J4OWgyTzB5VmhDOUU2WUdXTWV3U3g4SzZTWjlqSnBrY3VHUjA5ME52Qmw2R0VFanMxRjVsS3BRSzFqUA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-05-13-009",
+    "date": "2026-05-13",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Telekom 1Q Adjusted EBITDAAL Margin 38.6% - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPSFZFY2FRWjM0N3lneHZEZ1U0eDVUUUJJTC1tQWd6X1dFVmxSak0yajBvQnctamxQbDBoc0c4SWg2YUNPQm1iYmN1bHdoSy15TEFkOU9zNks0MkdOY2Njc0ZQSnM3aTBPNjdQdUFPZz",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSFZFY2FRWjM0N3lneHZEZ1U0eDVUUUJJTC1tQWd6X1dFVmxSak0yajBvQnctamxQbDBoc0c4SWg2YUNPQm1iYmN1bHdoSy15TEFkOU9zNks0MkdOY2Njc0ZQSnM3aTBPNjdQdUFPZzhtRDdNWjE4ekRiazRpQkdPQXVMcEdpZ0pESHU0czJIdDA0U3FYSWxvc3UyUWQyTmVCZ0FfelU3bzFsNXBjVlFGMDl3T0NyM25zdVU1SXJhbDRRU2dD?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-05-13-010",
+    "date": "2026-05-13",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Telekom adds 28,000 TV customers in Germany in Q1 2026 - Broadband TV News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUDFVcWdhV1FyaC05dFk0ck5JaE5SY0xOY1ZqOFZITjh5NDZlYkxLaTRJYzc5OEJYNm0yWXg3MUVuN0dSWnZ6ZTFuR0lXcUQ4UWJ2OFMydTgxZGFXc3RqY2xQUUdHaUUzM1hoOVctZU",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUDFVcWdhV1FyaC05dFk0ck5JaE5SY0xOY1ZqOFZITjh5NDZlYkxLaTRJYzc5OEJYNm0yWXg3MUVuN0dSWnZ6ZTFuR0lXcUQ4UWJ2OFMydTgxZGFXc3RqY2xQUUdHaUUzM1hoOVctZUNZdzByZUFLOE5ScE10Z3NhSmlqLUNubXE5dUl3TzZlUnFqTTF6QWswdS1obEtWVmhNRDNneVBJOUF4QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-05-13-011",
+    "date": "2026-05-13",
+    "companies": [
+      "deutsche_telekom",
+      "tmobile"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Telekom Raises 2026 Guidance on T-Mobile Gains - Global Banking & Finance Review",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPOW0xdXZNMm1tRXgxTjNjNXdBam9CYXlIR0w0aEp5TG1OV2RpR3lKSVJUYzBJb3NyT3NpWXkwSXktcFRKd2w5czZVQ1lkbTdocjJlTXhQc3huOXQxV0swY0tVTXVHZWJpcGVzUDFhZm",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOW0xdXZNMm1tRXgxTjNjNXdBam9CYXlIR0w0aEp5TG1OV2RpR3lKSVJUYzBJb3NyT3NpWXkwSXktcFRKd2w5czZVQ1lkbTdocjJlTXhQc3huOXQxV0swY0tVTXVHZWJpcGVzUDFhZm9mcWVGUzJua2d0bUNQSW83S0paSkZnWE5rcFBZaElEZm5Sc3pNTEZrSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-05-13-012",
+    "date": "2026-05-13",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Telekom revenue growth slows in Q1 on forex effects, margins improve - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGk2bXlDaDV4NlVnMkdzOHFZenhnR2RIUHM3LU1pN05aNXFnN3k4VTNCTkptOXRmWjc2TzVtbThtczM4eUFGY2Jmdmk4eS01ZHdVWVRjUENfVVFVOTVtVUFtaXpPMTB1b1ZxSW9nLV",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcGk2bXlDaDV4NlVnMkdzOHFZenhnR2RIUHM3LU1pN05aNXFnN3k4VTNCTkptOXRmWjc2TzVtbThtczM4eUFGY2Jmdmk4eS01ZHdVWVRjUENfVVFVOTVtVUFtaXpPMTB1b1ZxSW9nLVd6TGt4Y3BWbUZaOW5sUVNSaUl0ZTFsLUJERzlUZkJURk5mQUNvT2V2QzZxbTZlMEIzUldiZFhvR01JNWtOc0RObW5USmFPUlpaemNZ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-05-13-013",
+    "date": "2026-05-13",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank logs surprise profit jump in boon for Son’s AI bets - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV253anJkTHdYQkJKa0pYV1BaNzVTSnlRcVFneUFEWnV6OTZvVzhablo3U3JGUnNGSmJwSVFvVDRaNjhIUVNjLWdqZi0xRjhwRkFhc3JhWUI5a0dqbXhKbkZVeER4UWFBSXVCTVpxTm",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPV253anJkTHdYQkJKa0pYV1BaNzVTSnlRcVFneUFEWnV6OTZvVzhablo3U3JGUnNGSmJwSVFvVDRaNjhIUVNjLWdqZi0xRjhwRkFhc3JhWUI5a0dqbXhKbkZVeER4UWFBSXVCTVpxTmprSFRHMFZMSXk4dVo5dXF3S3RyaHB2WDJza05rSmFwOTlBYXhMWFNLY3QxMFAyREg0WnNmYWl1SWJiU0l5R1JvM285VDMySXhQRFFQUzhEWXZBWnExd3dRMGltRjJiYXBwN2dMS0tuVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-05-13-014",
+    "date": "2026-05-13",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank’s OpenAI bet sparks $46 billion Vision Fund profit surge - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPUXE5UG0wblgwTFZCU1c1WUhlZ3o3cGtpcXdJTnZ6R3NudWNmVFJLTGtGS2lfLXFWN3BOcXVrdHV4dzZPN3prS1BKc2NpS3FhSExHUzJjWVNGZjg5a3JaYXdySFI3bUhzeVVpc3RrZT",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUXE5UG0wblgwTFZCU1c1WUhlZ3o3cGtpcXdJTnZ6R3NudWNmVFJLTGtGS2lfLXFWN3BOcXVrdHV4dzZPN3prS1BKc2NpS3FhSExHUzJjWVNGZjg5a3JaYXdySFI3bUhzeVVpc3RrZTBydUI1bVdqenV5c2g2aGFKNGY1NUVMRlNvaHZpalp6YWduUDdBdXFYNWRjVXpIaDZoOWx0aTdaNVlheHlra0F5WHRDZXFGMkR1cU10NXhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-05-13-015",
+    "date": "2026-05-13",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank posts $12 billion profit on OpenAI gains - Latest news from Azerbaijan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1LUUJmR1YtZ29RMEhON2hWWmFiMVM0TmVWaWw4M0ozWVBHZ2V3WFVidlJ0blpyTmpRZ291bTBiREpQWU9qSGFLaVh4bmZhWGVtc05yUnJ0Q3hjQ3E3QjRra3ZIdVhRTlVLdWZNOER6S2",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1LUUJmR1YtZ29RMEhON2hWWmFiMVM0TmVWaWw4M0ozWVBHZ2V3WFVidlJ0blpyTmpRZ291bTBiREpQWU9qSGFLaVh4bmZhWGVtc05yUnJ0Q3hjQ3E3QjRra3ZIdVhRTlVLdWZNOER6S25wTWlqZl9DZQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-05-13-016",
+    "date": "2026-05-13",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "SoftBank records US$12 billion fourth-quarter profit - The Standard (HK)",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQUNLZEwtTXFWRkw2LWotNTBvaV9BeWc2V24xOGVIQkplZUw3aUI2Wm1hb19uOW5wLXdhLV95SDIyVmhvQnJ6Nmc1NnY1S0g4emEwVUFtNlJjcnI0Mnd3clZwN3d1OTdsS2ZvcnZlSE",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQUNLZEwtTXFWRkw2LWotNTBvaV9BeWc2V24xOGVIQkplZUw3aUI2Wm1hb19uOW5wLXdhLV95SDIyVmhvQnJ6Nmc1NnY1S0g4emEwVUFtNlJjcnI0Mnd3clZwN3d1OTdsS2ZvcnZlSE5hSEY3UV9oSFNlYnZZM19FUHBPWDAtM2g4NkhQQUkxcElsdzB2TGRzaUxJNzZrQnRnSjRXNE1UZEY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-05-13-017",
+    "date": "2026-05-13",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Northeast Investment Management Reduces Position in American Tower Corporation $AMT - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNnRUMFF6dGZrbGFiWGpDUDBCLU5mZkhxZURwSVA3cE9fWWlOajFEZElIdDRja1NOUXRXcVRIVTVIUlpuTGVrQ0JjenhSYWd4UXVLVGdSMlVvckVpUFQ5ZUZTckZ1cHpnbVFfNkZPcl",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNnRUMFF6dGZrbGFiWGpDUDBCLU5mZkhxZURwSVA3cE9fWWlOajFEZElIdDRja1NOUXRXcVRIVTVIUlpuTGVrQ0JjenhSYWd4UXVLVGdSMlVvckVpUFQ5ZUZTckZ1cHpnbVFfNkZPclFHR004S1pGWjJDd0JUN3hETXd6MDhVcDZhc0duNXpHRWxhNnJhaG5ieDBiQ0drVENtY2lrN0psc2hrazFyakRJS2lWX3c0cGV1aGxfUm5zODdZQmJPc1JBdWw0TFIzQkY0S0xsaUdwbHBtN1E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-05-13-018",
+    "date": "2026-05-13",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Equinix to build US$190 million KL2 data center in Kuala Lumpur - CRN Asia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV2dSSkdRd1U2RUhZcm9ETnIyZk9qSzJhZkdZRzQweUZvdFJLWGl6VUVHalk5LWZyWWRGY2t5bGVhMEtZYW1kYXpFR2p2bms5b04yNzJ3blRXWXlzU2NFekI2SEh1MGwtVDdPYVJyaz",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV2dSSkdRd1U2RUhZcm9ETnIyZk9qSzJhZkdZRzQweUZvdFJLWGl6VUVHalk5LWZyWWRGY2t5bGVhMEtZYW1kYXpFR2p2bms5b04yNzJ3blRXWXlzU2NFekI2SEh1MGwtVDdPYVJyazZTWl82dkU4OTg5akVXdmZNdWlzb0dvLWFqMkRObWVMek51RFBlcmt0N2lJYkhXX2NfUHNvLThPT2x5Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-05-13-019",
+    "date": "2026-05-13",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Equinix to invest US$ 190 million to build new data center in Cyberjaya, Malaysia - W.Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPbUU5Y0tuUFBvT1M2OXQ2TDFsRVFqekVkTXpHc0pRcEFZZjUzWnloUlVwM2dqeUU3ZXdEM2lVeWRoZWoyaGVhTDlfOXMyeW1KcmxiaTRua1NWN1lKZGlwaFI5UXUyd1VRX1hfcVlxNG",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbUU5Y0tuUFBvT1M2OXQ2TDFsRVFqekVkTXpHc0pRcEFZZjUzWnloUlVwM2dqeUU3ZXdEM2lVeWRoZWoyaGVhTDlfOXMyeW1KcmxiaTRua1NWN1lKZGlwaFI5UXUyd1VRX1hfcVlxNG1aOVUxbzlMUkVqZGQ4cWpoOTFSNUpSQXNTY0JqdERjd2tyUUEzT3JHVUxMUm0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-05-13-020",
+    "date": "2026-05-13",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Gammon pilots AI construction platform with Equinix in Hong Kong and Singapore - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPaF9JQk9lQjJvOXBMN1dGdVFDX09CdVpJT0ZMYWZfNzBZZ2tjUE94MXkweHBTT2NBclUyaTJnUzUwdFB2TXlqV2lzVVR3RnVCR2RRc055dzV3WkE1SGUwZ25EbFlrTUFSSzFhclVNcl",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaF9JQk9lQjJvOXBMN1dGdVFDX09CdVpJT0ZMYWZfNzBZZ2tjUE94MXkweHBTT2NBclUyaTJnUzUwdFB2TXlqV2lzVVR3RnVCR2RRc055dzV3WkE1SGUwZ25EbFlrTUFSSzFhclVNclhSNVBrUDBmaGQwVmJSWmJaWVFSS01uT0hQZE0zTjJJbHFwdnJIUXd1TC1scVdueF9IYm5BQ2FJQVdEUG9wR2pfMWpQSFNVemZFaEJlaWpB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-021",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Greenwatch: Big Tech's carbon moves matter for telecom",
+    "summary": "In a roundup of telecom sustainability news, we look at Big Tech's power moves, efforts to improve energy efficiency and BT's appetite for old plastics.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/sustainability/greenwatch-big-tech-s-carbon-moves-matter-for-telecom",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ericsson-2026-05-13-022",
+    "date": "2026-05-13",
+    "companies": [
+      "ericsson",
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "AT&amp;T phaseout of old Nokia RAN boosted performance, says Ookla",
+    "summary": "Data shared by Ookla shows AT&amp;T's switch from Nokia to a 'single vendor' deal with Ericsson has delivered network improvements.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/5g/att-phaseout-of-old-nokia-ran-boosted-performance-says-ookla",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-023",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Telecom buildout is slowing; demand for coverage isn’t (Reader Forum) - RCR Wireless News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUzFnelYxX0NZcnpwUmYxWG4zck9OLWhFclFPNUVfUHNVNEE1STlESnlnazVoOTBMcjF3WWc5WGlKUEhEN3d0dHRXR3lscjB6ZGNEZm44dlpMX24ybURScEhvSGczNnNJQUlIMjdRdU",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUzFnelYxX0NZcnpwUmYxWG4zck9OLWhFclFPNUVfUHNVNEE1STlESnlnazVoOTBMcjF3WWc5WGlKUEhEN3d0dHRXR3lscjB6ZGNEZm44dlpMX24ybURScEhvSGczNnNJQUlIMjdRdUt1WWZ3czBpYzV4cy1tSWFTZTJuRnpsckVNTHN6WUZIZnpWNzQ0WmdqbGRPUVVvTk1Pbm0tamUxYUphdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-024",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI's role in telecom sector growing, but customer satisfaction lagging - Yahoo! Finance Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPQnRBYWFaVUR2MW9PQ3VlOGhQNXFfZktzTGI5LXp3U1lROU1ha2dkYWRadzBJZjJrejlvUWFsOE1ueVlrd1Q2X0l3QlZyYWNGckFrTm10cnRreEhraHN3TkhqUjM1aHY1bkNsZWRGYW",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQnRBYWFaVUR2MW9PQ3VlOGhQNXFfZktzTGI5LXp3U1lROU1ha2dkYWRadzBJZjJrejlvUWFsOE1ueVlrd1Q2X0l3QlZyYWNGckFrTm10cnRreEhraHN3TkhqUjM1aHY1bkNsZWRGYWY2bUJmTzVQOWdiNnFRblpYaXBjdlZUdTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-025",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Australia'a telecom sector backs budget plan to streamline infrastructure approvals - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUUlONExuWER6ZmxNWGhEUm1RRU5VWDJYTndOQkdWSXhvSlV2dnB4blVGdElWNFpMSUNfT3dyWWs3Y2VwaHdUQnFiZUJRWjRVMFZZamFJd3hRVktjendCZmE1WHJZSlFYYWhRbHJNcj",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUUlONExuWER6ZmxNWGhEUm1RRU5VWDJYTndOQkdWSXhvSlV2dnB4blVGdElWNFpMSUNfT3dyWWs3Y2VwaHdUQnFiZUJRWjRVMFZZamFJd3hRVktjendCZmE1WHJZSlFYYWhRbHJNcjZ1MXhhRElyV1MxbG1zZUhqangyTHNMeXlpMmJxREllRTlUTVo4a3o5bW81aWJBbnBYV3drcVZvdU9naENaZ0VYeFJ4VmZXd3lZaXI3M1VTNklWV28?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-026",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mobile Money Boom Redefines African Telecom Industry - LEADERSHIP Newspapers",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ1FoaDRsT1Z1TmFrYVdhTFlMTWtWNFJpcnhiS29tSTJxUm9UQW9jWWJaVTQ3ZUNjck1vUEFWUUVTTjhKNDdld053dEtCMW94NjExZzNrbXh6TDQ1TTR5cFp1VTU4bWtzYmcwMnhhVk",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ1FoaDRsT1Z1TmFrYVdhTFlMTWtWNFJpcnhiS29tSTJxUm9UQW9jWWJaVTQ3ZUNjck1vUEFWUUVTTjhKNDdld053dEtCMW94NjExZzNrbXh6TDQ1TTR5cFp1VTU4bWtzYmcwMnhhVkthTVAxNmYyS1hCbVpOYmNKdA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-027",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Korea moves to tighten telecom fraud controls and ownership oversight - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPYkJwTVd3SDFHX2h5RUZVMGx6NVZWWTBMTnNhdlpzSjdPalI0WHdnX0c4UER3RGdEYk84VVhhcXctbWlGSjhvS0tBenA3UXBwSkJiR0hTcW9SMWg3bFJwWXhqc3R0SVV0ZDVoS2FzS1",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYkJwTVd3SDFHX2h5RUZVMGx6NVZWWTBMTnNhdlpzSjdPalI0WHdnX0c4UER3RGdEYk84VVhhcXctbWlGSjhvS0tBenA3UXBwSkJiR0hTcW9SMWg3bFJwWXhqc3R0SVV0ZDVoS2FzS1RRdTJ1OU9KMTdtRjY3dWkySk4zNGt2dklOck1iWDdEYUFmamxNYTdmY3JDZ0tuelpZQzloZ2ZuM1hpOE9ONk9zdzBR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-13-028",
+    "date": "2026-05-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Telekom Slovenije stock (SITKS0000008): Slovenian telecom faces legal challenge from A1 Slovenija - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcThPUWl1bHlYRHdjSGVYRmd1RDhXYms1Q0pTbFpOUEI1TWpvVGtlTlA2RDNTcGJfUlhXNXFnS3FqX0wwQ05LWVMxUVBwUnpMVTUyd0NzS3RWUnBTbWRZcGJaSzBZTTh1Y1E4d09zVz",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcThPUWl1bHlYRHdjSGVYRmd1RDhXYms1Q0pTbFpOUEI1TWpvVGtlTlA2RDNTcGJfUlhXNXFnS3FqX0wwQ05LWVMxUVBwUnpMVTUyd0NzS3RWUnBTbWRZcGJaSzBZTTh1Y1E4d09zVzFGNXNjTUhTcXhkWlBEZTNmSF9EeGY1eUx3eEJPN2d3cVBJcmJWdXM0LUJXZkNlUDg1MmZxY29KcUNsT1ltbXZwUDdCd0dmWXo1QVp6V3UyM2xNaGM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "deutsche_telekom-2026-05-12-001",
     "date": "2026-05-12",
     "companies": [
@@ -438,6 +994,555 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOVduOVR4aUpOaGNua210b0NpTzVCd1FJQjI2dGNTV1gzZDl1Q3puNUMySzZjMGI2Qm52ZFpoMHRud21qZXI1bnV2X0dkLVplS09ST2I4V1VRQUxhTDZZWlJfYS1fSkwtWHJzMkRsbm5MTE1TdmtmdEt2UGNCT0xRWl80Y196R3AwNzEtN1RyMGdtWVM2bkNJTHRFSV9XRV92c0psbTdkdXQ1Y3NMMWZIdTA4RGF5Z2RkdUNYVUtWMHNUSWlI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-05-12-024",
+    "date": "2026-05-12",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What's Going On With Nokia Stock Tuesday? - Nokia (NYSE:NOK) - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTE43VVVQeS1yT01sLWluZXhQNnU1b290QnNjM3FOTXZyZkxIX09qclNvY0VYQks3TkFtSWNEa0ZxTlJJRVJHUllsVWExdmNnZmNIbzQ4aS1IdzdObkdYR1pwZld5eGRzQUVQalF2Zm",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTE43VVVQeS1yT01sLWluZXhQNnU1b290QnNjM3FOTXZyZkxIX09qclNvY0VYQks3TkFtSWNEa0ZxTlJJRVJHUllsVWExdmNnZmNIbzQ4aS1IdzdObkdYR1pwZld5eGRzQUVQalF2ZmRPWVBiS0Y4RklONnR6VzNDUVJOY1B0d0FvV2swRlpmbWp1NHpMWktjZkJVUTNmSjlvMmRUMU10dTNDNF9DclVvM2FPRzZCZHAyeTNxclk4S1FlRGs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-025",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "NOK Stock Slides Again As ADR Selling Pressure Builds - StocksToTrade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOM05QUTZfWVJock5XUjdYWHFmN2Fva2JwTXh4ZWZ5eUZXRk96VE14OURPd2dWblJnLVYzb1JhbUpsOGdGRjJxVUh4Y3JfYThxMHpyTG9CTGo3a3M5dGJvZE9FY2t4QkI3a1NvcGR3R0",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOM05QUTZfWVJock5XUjdYWHFmN2Fva2JwTXh4ZWZ5eUZXRk96VE14OURPd2dWblJnLVYzb1JhbUpsOGdGRjJxVUh4Y3JfYThxMHpyTG9CTGo3a3M5dGJvZE9FY2t4QkI3a1NvcGR3R05nQmdFRDFlNExYMlFPWHp3NWZ4R01fZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-026",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Corning Surges 137.4% Year to Date: How to Play the Stock - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQUUp1d3hmRVZZY1hLTHBVTmtBUm5vQUZEdnNCQkJyeGNURHQ4RVc3UVF1WVpxX1lPTTNzaTFLYTRlSHZlT1pPYS0wRURJQ25mX2JXdTZDczRVMlR0UGFrNE9hTTRycHFhcGc3ai1KbE",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUUp1d3hmRVZZY1hLTHBVTmtBUm5vQUZEdnNCQkJyeGNURHQ4RVc3UVF1WVpxX1lPTTNzaTFLYTRlSHZlT1pPYS0wRURJQ25mX2JXdTZDczRVMlR0UGFrNE9hTTRycHFhcGc3ai1KbEUtZjcyeHRQZl9fRkZLUXVaXy1pTXdHajA2NlVfbEV1U3dFRVBnYWd0LXVpYTR1SnlOX3BxbjZIZzE0TUtBcy1TYg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "calix-2026-05-12-027",
+    "date": "2026-05-12",
+    "companies": [
+      "calix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Calix 50G-PON Extends Platform Advantage To Scale Services Without Rebuilding Networks - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbnh1eDFJX1hTUVZycVlHa25vcjJLWlNKWFZZQTBaVVJHQTJ3QlRwS2lUS2xiaHc5NHJ6VF9CM2hSX01obUJfMjdrbEVXZkJabTktOXFQeXZKUGZqVFpYcWNYN0NqbG5pT2QzRE9weV",
+    "sources": [
+      {
+        "name": "calix",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbnh1eDFJX1hTUVZycVlHa25vcjJLWlNKWFZZQTBaVVJHQTJ3QlRwS2lUS2xiaHc5NHJ6VF9CM2hSX01obUJfMjdrbEVXZkJabTktOXFQeXZKUGZqVFpYcWNYN0NqbG5pT2QzRE9weVljTTkxYm1NTGtzQV9sZk8yQ3MxcldZVV9VLTRrYWJldWpRX3NSUEd3Y0pZQXdNekU3Z2dvRVd0Zk9CRzRWTlNnMERfYkpWb1d3Rkg2SUk0dzlKMk1ZZ0NCaG5OVk15R0ZIaTZBaXRES0h5ekU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-05-12-028",
+    "date": "2026-05-12",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Telekom employees go on strike in Germany amid pay dispute - Data Center Dynamics",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNN1R2VVBVV0p0RGdJM3B2M01GakNOenRZSEhjamJHaTdRZVRvRGotWm5LV0VTZGc4U1hfVndsUFhKOVRWbmx2NlpnWmhqMjRwbzB6WTJ2MXdNNU5xaTZWWVNQWHRVaUlCX2E2TU95ZV",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN1R2VVBVV0p0RGdJM3B2M01GakNOenRZSEhjamJHaTdRZVRvRGotWm5LV0VTZGc4U1hfVndsUFhKOVRWbmx2NlpnWmhqMjRwbzB6WTJ2MXdNNU5xaTZWWVNQWHRVaUlCX2E2TU95ZVBqT2Y3V21CakJxcEZYX3dCaV9CTzZjaC16RWdoMDJOUkE4RlNsMFA2X3dWVDBkYUJCcDdXcnkxRE42SU1IZ1Y0Uw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-05-12-029",
+    "date": "2026-05-12",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "SoftBank Looking to Enterprise, AI and Finance/Payments for Growth - Morningstar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOOFBSYmI1clFPX3VRa3NKSU1BSUlWamRtZHBfSkM1Um9sdmd3Y0tVYlpwdFJfeEVhYnptVGJ6OFJNWnUxODhubTNpU0lQNUc3MFlZdEhfcF9xQ0k4SHozcjBhLVdWNlFWYWVhSHNqOG",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOFBSYmI1clFPX3VRa3NKSU1BSUlWamRtZHBfSkM1Um9sdmd3Y0tVYlpwdFJfeEVhYnptVGJ6OFJNWnUxODhubTNpU0lQNUc3MFlZdEhfcF9xQ0k4SHozcjBhLVdWNlFWYWVhSHNqOGlrSWtZdEpfM2VzNGh0cmxpRHp2NkZiMFplSHBkSm84QXVhVVdObWotUC1oLXpFaHlzTXNEMnMtM045cFN2MW4zVVRZSFZscDQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-05-12-030",
+    "date": "2026-05-12",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank plans battery business to power AI data centers - PRESS Insider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNR3kxU0VuNGxuT0Jmam42MW9OTURNTF8wb251SGV0R2htQ1NaWkJaNmJtS2I5WkJyZDR0WThFMXFFcFFVMjEzRTdJYWcweVZadlJhY0xrZnVWbmFrNjJTdHZuTFoyTjRMYmxxTmg2dn",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR3kxU0VuNGxuT0Jmam42MW9OTURNTF8wb251SGV0R2htQ1NaWkJaNmJtS2I5WkJyZDR0WThFMXFFcFFVMjEzRTdJYWcweVZadlJhY0xrZnVWbmFrNjJTdHZuTFoyTjRMYmxxTmg2dnJrbkh2UGdadF9zZGRNRVFwZkNabXhuMnI0LXRmOXRKcjI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-05-12-031",
+    "date": "2026-05-12",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "Activating AI for Society: SoftBank Corp.’s New Growth Strategy to Continuously Achieve Record-High Profits - ソフトバンク",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iOHlqTXluTTAwS016emJnaFotZFJBVzdDcVNFUHo1VFFXczNJMW1UWm4zbkNfYXppanBQbFFNVDItMi1iQzRpUjJnTWlCM2pfZ2pUVVIwUmtVdktVbHpXQg?oc=5\" target=\"_blan",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iOHlqTXluTTAwS016emJnaFotZFJBVzdDcVNFUHo1VFFXczNJMW1UWm4zbkNfYXppanBQbFFNVDItMi1iQzRpUjJnTWlCM2pfZ2pUVVIwUmtVdktVbHpXQg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-05-12-032",
+    "date": "2026-05-12",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Why SBA Communications (SBAC) Has Entered the M&A Conversation - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNlJvWnhVVVZfYlpJcmpENEZRUDBJeHlXc2gyUVZybFU4czdMbmpGUEo1cjJqaVdPMnQ2cldfajdwNkhjTFZzUjVwQjdETGJYRWRGSkFkVE5UZ1N0dllkQ2c3OHF4SnRkNEhYWUpYOW",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNlJvWnhVVVZfYlpJcmpENEZRUDBJeHlXc2gyUVZybFU4czdMbmpGUEo1cjJqaVdPMnQ2cldfajdwNkhjTFZzUjVwQjdETGJYRWRGSkFkVE5UZ1N0dllkQ2c3OHF4SnRkNEhYWUpYOWp5VUFkcnUzZWIwcjRZRnItY29mYUJFVF9o?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-05-12-033",
+    "date": "2026-05-12",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SBA Communications (SBAC) Faces Setback in Take Private Negotiat - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOamlyNjJjZjgtcjVORExsX3U5RU9BbmdYWHE4U2MtVjZSMUpWb2ktTlRKM3NyaWV3QXdGUFBhRjN3bl9mbnQ5QkVDTDByRnlGNVRkSmdCQmEwcDJvb3NvbElkZ0FPOV9QVVF4MGp0Vn",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOamlyNjJjZjgtcjVORExsX3U5RU9BbmdYWHE4U2MtVjZSMUpWb2ktTlRKM3NyaWV3QXdGUFBhRjN3bl9mbnQ5QkVDTDByRnlGNVRkSmdCQmEwcDJvb3NvbElkZ0FPOV9QVVF4MGp0VnBOaGdGMkVIWTA2VHNKSVBHUS1lQlZhSnhacnlOTHVmcXRMNVNKSldfU2tEaXBOMjJIaGJjbC1OYWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-05-12-034",
+    "date": "2026-05-12",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "SBA Communications weakness attributed to report of ‘snag’ in talks - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPcC16RThFLTFNTlNIMV9ZeTJOcGJ1Y0N6aFliMXJsT1AtdWpuSDQ3alBTYkh0V1FHSjlTOUdZZzdlQlFQcmNqaU1pTExWNV9OSjVRY3JTR24zWWtFSEFqWkVGMWJlMVAxazhGT29SRV",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcC16RThFLTFNTlNIMV9ZeTJOcGJ1Y0N6aFliMXJsT1AtdWpuSDQ3alBTYkh0V1FHSjlTOUdZZzdlQlFQcmNqaU1pTExWNV9OSjVRY3JTR24zWWtFSEFqWkVGMWJlMVAxazhGT29SRVRDTTRkajVPTF9GNEszLUNwLUM4SGxlbEhXN0JPQy1pZFpSQVJmOElMWjdEdUdTSFp5T253dzJlQ3pNTHRmNV9oMzBlYkgxQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-05-12-035",
+    "date": "2026-05-12",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Equinix to build its fourth Malaysian data center - Data Center Dynamics",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQbVhOb3BxbVFtd0dlUDNacVdFcTJrd19FS2x3Z3ZXMDdDdDl5VHFRWkJtRkRIVDJ0V1pZdFJoQWNNa0dMQW1ZNld0V252bmQzUWhqT19rZEhROFN4aUJGb2Z2aVVfOFVRZmtES0FmUU",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbVhOb3BxbVFtd0dlUDNacVdFcTJrd19FS2x3Z3ZXMDdDdDl5VHFRWkJtRkRIVDJ0V1pZdFJoQWNNa0dMQW1ZNld0V252bmQzUWhqT19rZEhROFN4aUJGb2Z2aVVfOFVRZmtES0FmUURYYVIxRHJMZE80dGtLakhEWkpJNUYtZENMYnhIbC1ZSGZSWFYwSEtodw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-05-12-036",
+    "date": "2026-05-12",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Equinix to build new data center in Malaysia with $190M investment - TNGlobal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQTU5ycGoxWHhNMnJOS0k4Q2stY2owRUlFVWlZdGZlS2hYSHdWVzlaZEZYWnNUeE5CYXpXbHNGY05TY0t5NjFSWTFGRkd2RkVlZXlGcEpaNHA4bjU4WDM2bkg4T25qMVlyMDZOaHppQm",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTU5ycGoxWHhNMnJOS0k4Q2stY2owRUlFVWlZdGZlS2hYSHdWVzlaZEZYWnNUeE5CYXpXbHNGY05TY0t5NjFSWTFGRkd2RkVlZXlGcEpaNHA4bjU4WDM2bkg4T25qMVlyMDZOaHppQmVtOHQ2SXU2Y1JrampLZ1lZejh5Y3pvSVJVOGRIZ1NHS1AyN3hTYlZ0d0Z4SXpxLXhHWHZj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-05-12-037",
+    "date": "2026-05-12",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nokia rolls out agentic AI for home and broadband networks",
+    "summary": "Nokia has introduced new agentic AI capabilities for its fixed network product lines that aim to boost operational efficiencies and accelerate fiber rollouts. #pressrelease",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/ai-machine-learning/nokia-rolls-out-agentic-ai-for-home-and-broadband-networks",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-038",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Harmonic still reliant on Comcast and Charter, but customer base is diversifying",
+    "summary": "Comcast and Charter represented more than half of Harmonic's broadband revenues in Q1 2026, but the vendor is seeing some growth in its 'rest of market' segment.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/cable-technology/harmonic-still-reliant-on-comcast-and-charter-but-customer-base-is-diversifying",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-039",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Lumen expands its US network with NorthLine, new northern fiber route",
+    "summary": "Seattle to Minneapolis route will deliver 100G and 400G wavelength services to support large-scale traffic flows across a growing US corridor. #pressrelease",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/broadband/lumen-expands-its-u-s-network-with-northline-new-northern-fiber-route",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-040",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GTT EnvisionDX accelerates quoting for secure networking with real-time pricing available for 11M global locations",
+    "summary": "Enterprises can now get global pricing in minutes as GTT continues to simplify and automate complex network and security services. #pressrelease",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/security/gtt-envisiondx-accelerates-quoting-for-secure-networking-with-real-time-pricing-available-for-11m-global-locations",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-041",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NTT updates medium-term plan with AI, data center focus",
+    "summary": "NTT seeks to achieve a consolidated EBITA of $25.38 billion by 2030 with a revised medium-term plan focusing on AI and data centers.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/finance/ntt-updates-medium-term-plan-with-ai-data-center-focus",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-042",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Gaiia raises $40M",
+    "summary": "Gaiia has raised $40 million in a Series B round led by JMI Equity, with participation from Inovia Capital, to further modernize its AI-native operating system for communications service providers. #p",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/broadband/gaiia-raises-40m",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-043",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Teleste and Vecima tout 'open' DAA platform for European ops",
+    "summary": "Vecima and Teleste have introduced an open and interoperable distributed access architecture for European cable operators that matches Vecima's virtual CMTS with Teleste's remote PHY node portfolio, p",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/cable-technology/teleste-and-vecima-tout-open-daa-platform-for-european-ops",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-044",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Scandal-hit Asian telcos seek to regain trust",
+    "summary": "KT's earnings dive as it admits it needs to win back customer confidence, while other Asian telcos face similar challenges.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/finance/scandal-hit-asian-telcos-seek-to-regain-trust",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-045",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AOI nets role in Mediacom's DOCSIS 4.0 upgrade",
+    "summary": "AOI said Mediacom is tapping into the vendor's 1.8GHz amps, line extenders and monitoring software to support the operator's DOCSIS 4.0 network upgrade. #pressrelease",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/cable-technology/aoi-nets-role-in-mediacom-s-docsis-4-0-upgrade",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-046",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Comcast claims utility company is violating FCC pole replacement order",
+    "summary": "Comcast is urging the FCC to step in amid claims that Appalachian Power Company is violating a first-of-its-kind order related to how much cost the operator must bear for certain pole replacements.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/cable-technology/comcast-claims-utility-company-is-violating-fcc-pole-replacement-order",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-047",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Broadband advocates pick apart FCC's proposed Lifeline reforms",
+    "summary": "In comments filed to the FCC, groups including Public Knowledge and the National Digital Inclusion Alliance (NDIA) said the Commission's proposed Lifeline reforms 'risk further lowering the program's ",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/broadband/broadband-advocates-pick-apart-fcc-s-proposed-lifeline-reforms",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ericsson-2026-05-12-048",
+    "date": "2026-05-12",
+    "companies": [
+      "ericsson",
+      "nokia"
+    ],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Eurobites: Nokia gets agentic with fixed broadband",
+    "summary": "Also in today's EMEA regional roundup: Telenor spins off Connexion unit into JV; Telekom Slovenije turns on 5G SA with Ericsson; TIM gets upgraded by Moody's.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/ai-machine-learning/eurobites-nokia-gets-agentic-with-fixed-broadband",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-049",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Tuesday Roundup: Archtop, Brightspeed, APFN, DE-CIX",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/J0XhfXR6v3VdHGiYqmHMRuGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Tuesday Roundup: Archtop, Brightspeed, APFN, DE-CIX\" title=\"Tuesday Round",
+    "sources": [
+      {
+        "name": "telecom_ramblings",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaV-a5q09e2Itdyhd9rcm1dF?utm_source=follow.it",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-050",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Telecoms wrestle with spending decisions, regulations as annual conference kicks off - TownAndCountryToday.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMGZMVUFyOWd1Q3NBb3JjdGFkMDMzNlltVnJCRktXQmt3NGp3X0ZKaXBzU2gxWFJqZmJBbzVHUUxJSVZaV0tubTl0YWlLVkl5d0k4OHY0Y2puWVBSRHBVSnhkRjc5cE1BU0dDdUdPWX",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMGZMVUFyOWd1Q3NBb3JjdGFkMDMzNlltVnJCRktXQmt3NGp3X0ZKaXBzU2gxWFJqZmJBbzVHUUxJSVZaV0tubTl0YWlLVkl5d0k4OHY0Y2puWVBSRHBVSnhkRjc5cE1BU0dDdUdPWXRRU2RiNDFkTU1UY0RKNEJDOGRkc2xXVGpzM3MwZ0toUTA0UW5kd29fcUZYRklwRnEzN0VGaXppYkRvZjB5UldJNHVKb29QOERTdWEtOWx3cE9pRGRVTUNCd2ZUTl83ZHRyMmM2VnJUWFI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-051",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Telecoms wrestle with spending decisions, regulations as annual conference kicks off - CityNews Halifax",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTHlmVXlXM0U5Q3Vwc3B4TWlrSDd0VzRTcTZQLVFqeFdRX3NGaXh2aEhObDJHX3hleERra1RXWlNyYmhKc1R5V0I4RFl4M0RqcGY4dER0YzFNN1RZd1lnejFPRGdWc0UwcF9ndkdOcT",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTHlmVXlXM0U5Q3Vwc3B4TWlrSDd0VzRTcTZQLVFqeFdRX3NGaXh2aEhObDJHX3hleERra1RXWlNyYmhKc1R5V0I4RFl4M0RqcGY4dER0YzFNN1RZd1lnejFPRGdWc0UwcF9ndkdOcTRhclA2bzRoOG1KcU9XTDN5ZmY5TGlRRGhYdDc1a0NGVU15Tm1xUG9SaGdlSmZad1JPclJEMzd4LVFzNXFFS1hpcllBU3h0bnN6WXpWWDB3SzU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-12-052",
+    "date": "2026-05-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Communications Services stock (HK0552002165): Stable operations amid China telecom sector dyna - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQLTh0VmhnSE54S3YxSVI2M1dVRFlvSEE5MEp0U19CY3k2RklBRE9MZEdkb3hVRHlmNXBnRjZDdWRIb1ZONU9PdkQ3eDdhcl9nTkdNS25seHVHb25UNmp1QjY4UnlBRUZ6bmJDR1d4an",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLTh0VmhnSE54S3YxSVI2M1dVRFlvSEE5MEp0U19CY3k2RklBRE9MZEdkb3hVRHlmNXBnRjZDdWRIb1ZONU9PdkQ3eDdhcl9nTkdNS25seHVHb25UNmp1QjY4UnlBRUZ6bmJDR1d4anpjdGc5UzFOb3BvU1Jtdlk3bUZWUURhZ3puNF9SM0t0alFuLXNnbVpGa0hrYnYtbkVOUHM4NVF0bkJMY3ZRdVkxQV9VajNZQks5aW5yUU43bTBYbEdtQVB3NnRn?oc=5",
         "type": "rss"
       }
     ]
@@ -1275,6 +2380,45 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOWRoRkswOHZMVk1YdElXbDM1dVFBTGhVM2I2VmxCWG16ZFd6X2o5SDBpT0pWRU1odFp3Q0N1UjdJR3M0cEoydVZiZnNaZlNPQ2ktQjlidzVOWlpNVk81dDVmZEtMZU1QdGZ3Nk10T2RKWWMxU0MzNXhHWkxpNHNZU3ljVlpiWXJneGJTRlhjQ3NHZllMQm0yWW11ZElEaTF0R0djM1RMblVaejJKbzlZOGR3NDY0SE5UWUZxN2dyS2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-05-11-045",
+    "date": "2026-05-11",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SoftBank Corp. Launches Gigawatt-Hour-Scale Battery Business in Japan to Build Next-Generation Infrastructure that Supports the AI Era | About Us | SoftBank - ソフトバンク",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1xZG12RzNKOWpTUGZHYWtDYTE4Ylk5aWtTMWFFOTIzUzlvRy1JU0dJNmJQeV9XN3dfbUdFMldQYmRfNWQ4U2gzVGZrOGplb013QU5SaDRhNmZhcDFSdTlwV2QxdnZpNGItTFhjaGhkZk",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1xZG12RzNKOWpTUGZHYWtDYTE4Ylk5aWtTMWFFOTIzUzlvRy1JU0dJNmJQeV9XN3dfbUdFMldQYmRfNWQ4U2gzVGZrOGplb013QU5SaDRhNmZhcDFSdTlwV2QxdnZpNGItTFhjaGhkZk9iRDg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-05-11-046",
+    "date": "2026-05-11",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "SoftBank Corp. Earns Buy Rating on Record FY2025 Profits and Defensive Yield Appeal - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQSFBwbjFteGNHQnlublpKRG5MYlpVTk5Eb2p6ZnpXekR2NnJETzlqNDlCZGpiSlBsYW1kY2JVaENSaUtodHk4OG9fRlhSeUtfcFBKYVpnYXJNYU9vcXBIUzhvSGlvbndCMVA2X2NlTz",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSFBwbjFteGNHQnlublpKRG5MYlpVTk5Eb2p6ZnpXekR2NnJETzlqNDlCZGpiSlBsYW1kY2JVaENSaUtodHk4OG9fRlhSeUtfcFBKYVpnYXJNYU9vcXBIUzhvSGlvbndCMVA2X2NlTzdUcDh0U1QxZXhJbGJuTlBxLXJBaE1nVEJkWHRkdWpPZVlVLVFTUThnaHBjZ3lUM0FHc0RCdXFobGMwZkVSalFYMkhlZnFFTllGT1Jwa3E0OEM0LUQ0dFFNUW1lLWVFZw?oc=5",
         "type": "rss"
       }
     ]
@@ -3292,6 +4436,26 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPa2ZpUk1ueW5KNzVNRUpSWFZrQnZBMDVneThUdWZLUE5za3dlSWk1eXI0OXh1Z1h4UmQ3TnNFZHpNTjdpU3F3a2VXYm8zRzFDZ1B1WjRvNThaUTczLS1EZjRUc0MyTDI4Z0VvV21EVU1hQzVURU5lcHhScm1IOWRJQXRBSVBFZnJ6SWZIdHdlLVB6V1VCc1VpRk5JVmoyR1M2M3dXdXZSOEVMSkdKLTkwX0tRaUczYm9VTkpyZXZqRkNxTk42aDBUU01nVFU3TmpWblpKMFh6N2rSAd4BQVVfeXFMTmtROFFQMU9oTkg0V092Y1JrUEJNcndwVWV1M2xSYU12cFJCbFQ3dC1QenpfaDRmSHVyT21MeTlyOWFZcUpPNHFwZHBTVkRLS19xcm9GREJXUTFlUGxQdUpIeGxQY2dZUkFDSThKNFY3Y0drUzhrdF9LRGo2bmF1akRxdlBsQ3NwRWZyOU90aGkxQk5jdGFUNHJtSzFTQnpBZnhtY0NTZkRqbWg2Rms2RXBOenZtZjUzbW13OENQMVN4LWNsbXVxTldKbkZZUkE0b2lNSXJZV0RubnhyQ1dn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ceragon-2026-05-07-056",
+    "date": "2026-05-07",
+    "companies": [
+      "ceragon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ceragon Networks (NASDAQ: CRNT) files $250M shelf to sell shares, debt - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPR3Zqa0hmb1pnaDRTNW1HcXhvaTAxcGRtT19PSmFBczhVSS12MVdPWURoNlJUSlZuVnlRQWIxMUMwczAwNEJCam9vcUpIVThVdC1iOXNwZ3FmUms0d0paaVJ3NEFENWlSdl9GR2lRbW",
+    "sources": [
+      {
+        "name": "ceragon",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR3Zqa0hmb1pnaDRTNW1HcXhvaTAxcGRtT19PSmFBczhVSS12MVdPWURoNlJUSlZuVnlRQWIxMUMwczAwNEJCam9vcUpIVThVdC1iOXNwZ3FmUms0d0paaVJ3NEFENWlSdl9GR2lRbWszbnpTUUpqVEk3MTk1U2QtMFU1c3REWEZlM3Q4WDViSkdwc2Jzb0RHQUhPOW02eWN5cE9sMmpCQjFuT0hlSlBZVHNRMVp4TnI0eVhVWA?oc=5",
         "type": "rss"
       }
     ]

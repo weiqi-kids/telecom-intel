@@ -1,0 +1,16 @@
+{
+  "total_raw": 311,
+  "dup_title": 130,
+  "no_date": 0,
+  "too_old": 102,
+  "gate1_fail": 9,
+  "gate2_fail": 10,
+  "passed": 60,
+  "gate2_samples": [
+    "CommScope Sued by Lenders for at Least $150 Million Over Alleged Breach - Bloomberg.com",
+    "Rothschild & Co Redburn Initiates Coverage of Ciena Corporation (CIEN) - Yahoo Finance",
+    "Ciena Jumps 7.5% Amid Sector-Wide Rally - AlphaStreet",
+    "Germany’s Rheinmetall and Deutsche Telekom to Develop Drone Defense Shield - WSJ",
+    "Rheinmetall, Deutsche Telekom plan to jointly develop drone defense shield (RNMBF:OTCMKTS) - Seeking"
+  ]
+}
