@@ -1,0 +1,214 @@
+{
+  "date": "2026-05-14",
+  "generated_at": "2026-05-14T10:09:53.049251Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "softbank-2026-05-14-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "SoftBank: Aiming for record profits by 2030 through AI, digital transformation, and sustainability - TradingView",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOTmxnOGdXSmhZR0lOdkRBN2ZwZF9TMzNuNDY3aHhmZnZIYnFteTY4UVZxanM3UTNBZUxnWllPMWwyTjZmNC13YnBySHZQeU90ei15di1yMlRPeDVGM1FNY1M1ZXJpc1lJTE1NQzlYNHNYa2lxeWxUWms0QkItWmZuQmZDVXFBN0ZYbTVZTlliVVdXUUVWNzlxazRZclZSNUgxV0VZTC1aMWpSWmJ4Y1puTm5JNWhtVHVhYUtpY1J6Z0FoMHJpMEFScjJNTjNlSGpQdkdqTGFyQzZmalp0cm1FTy04d0JjWGJ0UU9ISDN1clBuNFJIZDJ6a3EyT2cyODF4SXc1empIV3Jxdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nokia-2026-05-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia Stock Surges Again as Cisco’s AI Orders Put New Heat Under the Network Trade - TechStock²",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVFJTzQtSURlcnp1TFFpYi1nbUswZzl2ZEstNVRVNGczYjFNekJ3TERvM00tUkZabzRJWGdudjZQbnZxY2Iyc2lwbGtoczNDQnExWThRRl9Yd1hHb3hjMm5obVdzVHl3SUdJWENyVGk3SGFPUUFTTFFQbnFsYmQyNlAxWEVONllhQ0NhaWRyczY4X3dTQXlweTRMbENSSFVkNHZWcw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ciena-2026-05-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Truist Financial Corp Has $2.24 Million Stake in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWlpkb0FlZzcyYlY5TDAwd2FnLUpFX0txaEMzZHZCaWhpWGhHRGNOdlJGRFFUOWQ3MHA0QzNFSThRNjkxeTlKeTU4TGhEdjd3dDNHMUdjVXB4V3NTTFk4VjBLSFFMamdmTDlsVUp0anBhMFVhSnNaWDZhOFJ6cF9pVU90NzJ0Z2VOQVpMWF9yNlBUV3NoWnpUazlHdTVNWm5abDViYmEwRll3YnhsZHp6RzVrTjA4MUdhVTJySlAtZnduN2hjM042TTN3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ciena-2026-05-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Swiss Life Asset Management Ltd Buys 22,822 Shares of Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQN0Y4NWV4NUh5NC1RUzFXVVRTeGh1V1Q4NnhoT0t4TnpWRzhGc3dIdnp5YW1BaEtNMzMwdHAtcU42U3VPYUIta01TWC14cEVnSXB2VXpSZGZhck85TVZGbkJWRVQ1NlU4TXc1bHpqV3l5bmo4TVJIdHZvaURHQWlucFJ3VWJZQ21FTDdDYm0yYi1uNE1udzlVVElsblo2a2MtRXdwN3NOYXRXY183X2dBY250WWpOR3hXYkp5ODJoYlBXRXlteU5YeDVyS0J2NGhmZ3c?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ciena-2026-05-14-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Independent Advisor Alliance Purchases Shares of 14,605 Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbG96cWJLY0FQTDZhUTY4QWkxLVY3SDh4MlNydnBqeUxRd21xdGFaODJrMUsxVmx1Yk1idkF2emszZ09HbXNaMnNNWUxvNlZiY2NvQWMyaElpSm5fNTdJN2trWkZIWXVBRTlQSTRUanlrenN4RTJtWkhuRmdsQXdfMmNPclNPS0VfTk8yV3VPQUJCWEhJTkJFeUVkMEtvUXR3cmw4QjdScHhtWnNRNTdObEZaOFItZjhRRC1NLWNreWk2Qk9HVnYwdER6MzBONDJ2ajRqdg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 11,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 5
+      },
+      {
+        "id": "sba_comm",
+        "count": 2
+      },
+      {
+        "id": "nokia",
+        "count": 1
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      },
+      {
+        "id": "softbank",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 308,
+    "dup_title": 134,
+    "too_old": 90,
+    "gate1_blocked": 6,
+    "gate2_blocked": 10,
+    "passed": 68,
+    "pass_rate": "39.1%",
+    "gate2_block_rate": "5.7%",
+    "gate2_samples": [
+      "CommScope Sued by Lenders for at Least $150 Million Over Alleged Breach - Claims Journal",
+      "CommScope Sued by Lenders for at Least $150 Million Over Alleged Breach - Bloomberg.com",
+      "Ciena Jumps 7.5% Amid Sector-Wide Rally - AlphaStreet",
+      "AG2R LA Mondiale Gestion D Actifs Invests $1.38 Million in Ciena Corporation $CIEN - MarketBeat",
+      "Rheinmetall, Deutsche Telekom plan to jointly develop drone defense shield (RNMBF:OTCMKTS) - Seeking"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為Ciena、SBA、諾基亞相關動態：「SoftBank: Aiming for record profits by 2030 through AI, d...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "SoftBank: Aiming for record profits by 2030 through AI, digital transformatio...（法說會、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Nokia Stock Surges Again as Cisco’s AI Orders Put New Heat Under the Network ...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
