@@ -1,0 +1,235 @@
+{
+  "date": "2026-05-15",
+  "generated_at": "2026-05-15T10:16:23.726613Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "deutsche_telekom-2026-05-15-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Deutsche Telekom AG (DTEGF) Q1 2026 Earnings Call Highlights: St - GuruFocus",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxPdDlVQjBVcjBSQldadjdTQ1MtTGhKMlp0Q0xob0l3aTJOQW8yS25NQ0o5TGpWZHg1UHhJVzNsR25WbGVZVWM2ZGM1RDJvYi1zcnNjaGlKUDRvRmZxcWt3YUJ3UC1wOV9BbW05UTUwOVMzSUdLdHBsRUVvRTh2cUlLTGE3bUJLd2J1Y2JYQlZHVXlEaUJoX1JjdDVBMHl0akJuSU9OYm53M0hiNzlNclZjWDJJWUNTVTNrVnB4LVRPYTRXN1doUTRFMVBfRDFsa0V0RzlVSVp5MmdYS1Y0Y2dvVnZHUExPVnNWalp4WFZUblZ1YWt5RW5sSUhwNEFtNFJhVVYxYzNfaVUwcUkxQ1lvNW1USVh5dTctblJqZ182SUZYRG5Mbk5iNTEtaW5VVWpOMVZVM0t0d3htc2gzMGVpeVhocFd3V1B6VlN0Sml2d3hlYmN4SENOeklOc2diYTlkNVhvQ1psYjJ4NFk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "softbank-2026-05-15-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Earnings call transcript: SoftBank Corp Q4 2025 misses EPS, revenue beats - Investing.com",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNllXcHFPM3hiUjFWcVBWYzRPWkIybW4zSkhZQm9IZlRobEJGWWZWU0gySmY3Y3hQUzd3cVVZbFVUaDJMbDR5V0I5RS15NmZyYjhWcGluQXR4eDdOd3U0VUdpTUhoMHRkWnhIQk5tZTlYLVM5azNTS0JxOGYyU1g4cUlYSnVyOFdHWk9uMmtjWkI0MW9BcktobHlZU1pqS1ozaUFrYnU0TVR4VmNpR29YRUpTa2VNRW80VzdQbnlGX3lSLTVRVlE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "equinix-2026-05-15-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How The Investment Narrative For Equinix (EQIX) Is Shifting After New Guidance And Valuation Debates - Yahoo Finance",
+      "companies": [
+        "equinix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOEpiazY1S19zZ25ldkhyR20xTmpYcWV4MVVhc0lCa1A0bURxWjRIWFAwN291ME1NbDgwaFU3LTlpMFk2Y1ZSeHhHTXdvZGVSM1gtQ0lLTENHWE94dHlSWHU5d1hLcjZzNUxDNUFRTUQyN0l0dG1FZkZWVU9FSDV3ZHFsT1d1N2NfRzZQRDI4VEFOaUY5NWw3Y3FpV0J6dUl1ckNkc2xiMnRYNms?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-05-15-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "CityFibre CTO has five-star broadband plan to beat Openreach",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fiber_buildout",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.lightreading.com/fttx/cityfibre-cto-has-five-star-broadband-plan-to-beat-openreach"
+    },
+    {
+      "rank": 5,
+      "event_id": "ciena-2026-05-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Donoghue Forlines LLC Invests $2.42 Million in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTHFMMzNOSW03UGYzX25paEdXQ2J1aDBTT1hoelM1QmNyX0JJNXZIYXIxWnh6WVR5TnA5SC1kZUxST0o0N2RkcGlKaC1ranNUNVlxR2VTVVI0T2hkNURHU19PSTRrWG1xcEF2Q09QRmctNDFldGNndjZXN3lheTVvaUlveW4zdHFMSjNxV2JEa0xPOEhFcjhyZTNDUHZtSUtnYVpjQWRGNG94Q3BZNnhDQXowcVJOcmZYTzFKUXJQYnFNOVVQTUlF?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 9,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "deutsche_telekom",
+        "count": 4
+      },
+      {
+        "id": "ciena",
+        "count": 2
+      },
+      {
+        "id": "softbank",
+        "count": 1
+      },
+      {
+        "id": "equinix",
+        "count": 1
+      },
+      {
+        "id": "verizon",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 307,
+    "dup_title": 147,
+    "too_old": 82,
+    "gate1_blocked": 11,
+    "gate2_blocked": 12,
+    "passed": 55,
+    "pass_rate": "34.4%",
+    "gate2_block_rate": "7.5%",
+    "gate2_samples": [
+      "CommScope Sued by Lenders for at Least $150 Million Over Alleged Breach - Bloomberg.com",
+      "CommScope Sued by Lenders for at Least $150 Million Over Alleged Breach - Claims Journal",
+      "Ciena Jumps 7.5% Amid Sector-Wide Rally - AlphaStreet",
+      "AG2R LA Mondiale Gestion D Actifs Invests $1.38 Million in Ciena Corporation $CIEN - MarketBeat",
+      "Rheinmetall, Deutsche Telekom Team On Drone Defense Of Infrastructure - Aviation Week"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為德國電信、Ciena、軟銀相關動態：「Deutsche Telekom AG (DTEGF) Q1 2026 Earnings Call Highlig...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Deutsche Telekom AG (DTEGF) Q1 2026 Earnings Call Highlights: St - GuruFocus（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Earnings call transcript: SoftBank Corp Q4 2025 misses EPS, revenue beats - I...（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
