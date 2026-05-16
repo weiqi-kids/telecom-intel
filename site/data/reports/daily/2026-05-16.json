@@ -1,0 +1,217 @@
+{
+  "date": "2026-05-16",
+  "generated_at": "2026-05-16T09:25:44.476571Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_tower-2026-05-16-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Tower (AMT) Valuation Check After Q1 2026 Earnings Beat And Raised Full Year Guidance - simplywall.st",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT3pFM2dmbzZvRU8yLXNMb09pTHZuY19ZeVhsT3lFQ1VnbXZsbFpTNmxqTWVnUGJTU1NVOVQ3cUFMMkZNNGx2dENMbldGblZ0dzZFdlQ3bF9UaGNwMXFYVHBYcDlHeGJJWURaVmFaOHRlRm8ydDViajVhV1A5LWRuVDFERHROTkhBdmVLZmdMSjlnQzZMeGwyOGgwaE1fV0ZBN1l1YUFTcTBFdzI0ZE1vSERJc08zd1VFX1I5M1JfSlNKdzNkM3ZpRlhab1BQUdIB0wFBVV95cUxNbzk4WDhBcDNaZk02cDVNRXZRS09hZ1dQNlBCLTQ3b0tCN0QxOWRUeHIxNjgtLUh3aElENE9FcVBhUTk0NWVvaW1qdnVxV3Q4LXdZQ2UxUVhySFMwSHNKcWptSTdNVmJheVRpamhyRDlrOEg2eDdOZ245ZWZDQms1TlVJNnNVTGFwMWJ6WmlVSEJzY1d3WGJnbUxoRnpKRW5Ldnh2U05OaFloZml3dk90VzhqYVd4OEM2THpadnYwTE9HcGYxOUdEMVZDR1JhY2xtN3NR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ciena-2026-05-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Convergence Investment Partners LLC Acquires 10,677 Shares of Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ19XRHBISDRCNDZ5b1Q4eXQ0TTYtYXhhMjJUeE1BbkVJMFg1N1lWcjQ1aWY0MlJhX2M5eW9EalVtNkJhWmwzaHZOeEZGUGRNRWtqZEYwYUpCckZPQ1N6Y0x4a0ZHS0tLOVQ2emc3Z2kwbnpvREpGdG9QaFgzNHdpU2VWT1BFZld1Mi15X3VvakNwd0tTWWcwdE5xMDVxekZHNkotTFNNM0M5NVRwRDdQRnR0NEp0LVVjTnI3d0ZOdFBFaWJjcC1ieHRaNC1DdVloZlJ1UHpvQ09LTHlf?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ciena-2026-05-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Atria Investments Inc Has $6.99 Million Stake in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNjZpY0NzOTZBLWM2OF9OamRBQXRkMVZHZXpBdUlSTkxTN215YW1KenJfUWtQZWFOdEtsZWEtalB3SC1BNEhJWXBWWGFhYWU2ekhaUGdzQWVjcGl2TEZlWGRXNGRicW95NGpxQ2FrN3o2cHBIaldBbVg4WXFTRmNnVEtWTDE2OXRIMEluU3EzQi1ZSFhLY25aODVabGxHYXBPZ3pXSU0zWTJLVHUwalJmSVk4QUVUei12cmNjX2RkZlJ1MkdtUGk0YXVB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "equinix-2026-05-16-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Equinix Expands Fabric Geo Zones As Compliance Risks Meet Valuation Gap - simplywall.st",
+      "companies": [
+        "equinix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcWVPT3JHMURYYTVOX1hUSWhrUmZoYWFJalZlS0daUUd4N1N6YUtzM1l4RUw3Y29rUUJpMFRTbm05ajlmN2xTOWV1ZUJRaUhHYngtV2ZfWWlRcFVQTUpxUnZzMHY4R0tETU53T0lwOE8xNTUwd2hfblNPZ0xMVTlpSU95WUNqVmtfOG5YQVZ4WXFOUWxRam0wS2pWX1JTVGhIeGhscVRweHpCTElTUUpmZ0luY3pVWlRtYm0wOWhxdmd3NG16WGx6RtIBzgFBVV95cUxORkdwdXVYaFRMVGtQNklQSzFIQkNHcmFXM2M1Skh1MjYzZUwtYnVKaWt5OVoxNFJ0VGtvcHFIQzBOeDdPY3BLWmcyOENMVDVhNHBZTjdnb0hHLTFGMzJjTGlSNWFQSDRwOEhFRUF3YkhJTmIzRVpZbGFhQkFST2xMd09PektCUUFfcVZWZXdWRlF3eFBfQ0tFbG1ZcHZpZG11Wm9CTG85YUpKYUx6V0pJOWdMNU5oQ254enFaQTdVTFcyOW4zSDUzQnZmbmF3UQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-05-16-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Telecoms industry specialist joins SimplyAI as chairman - Insider Media Ltd",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV3FEU2RUdzlNN0ViRV9LSTBTbWdHUFZmT3Y5UEtmT0NBX2J3clVlbnY3WDl6aDlqelZEc3lGWmNJZ21YV3dYSE5zNkpDQ29ZRnpkNnJ0aDUtcW5JdDR1RE5veFlsNnFzcjRWYzE2VWJ0UDNIRlBkNHRVcy01dGpBZFQxTnl4U2N1ampvbUowcFpYQnRvUXVNRVk0U0R4cnZ2?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "spectrum_auction": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 7,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 2
+      },
+      {
+        "id": "american_tower",
+        "count": 1
+      },
+      {
+        "id": "equinix",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "spectrum_auction",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 311,
+    "dup_title": 163,
+    "too_old": 90,
+    "gate1_blocked": 11,
+    "gate2_blocked": 9,
+    "passed": 38,
+    "pass_rate": "25.7%",
+    "gate2_block_rate": "6.1%",
+    "gate2_samples": [
+      "CommScope Sued by Lenders for at Least $150 Million Over Alleged Breach - Bloomberg.com",
+      "CommScope Sued by Lenders for at Least $150 Million Over Alleged Breach - Claims Journal",
+      "Here's How Much $1000 Invested In Ciena 5 Years Ago Would Be Worth Today - Sahm",
+      "AG2R LA Mondiale Gestion D Actifs Invests $1.38 Million in Ciena Corporation $CIEN - MarketBeat",
+      "Rheinmetall, Deutsche Telekom Team On Drone Defense Of Infrastructure - Aviation Week"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 7 則事件，焦點為Ciena、AMT、Equinix相關動態：「American Tower (AMT) Valuation Check After Q1 2026 Earnin...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "American Tower (AMT) Valuation Check After Q1 2026 Earnings Beat And Raised F...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Convergence Investment Partners LLC Acquires 10,677 Shares of Ciena Corporati...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

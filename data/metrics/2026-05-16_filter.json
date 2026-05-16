@@ -1,0 +1,16 @@
+{
+  "total_raw": 311,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 90,
+  "gate1_fail": 11,
+  "gate2_fail": 9,
+  "passed": 38,
+  "gate2_samples": [
+    "CommScope Sued by Lenders for at Least $150 Million Over Alleged Breach - Bloomberg.com",
+    "CommScope Sued by Lenders for at Least $150 Million Over Alleged Breach - Claims Journal",
+    "Here's How Much $1000 Invested In Ciena 5 Years Ago Would Be Worth Today - Sahm",
+    "AG2R LA Mondiale Gestion D Actifs Invests $1.38 Million in Ciena Corporation $CIEN - MarketBeat",
+    "Rheinmetall, Deutsche Telekom Team On Drone Defense Of Infrastructure - Aviation Week"
+  ]
+}
