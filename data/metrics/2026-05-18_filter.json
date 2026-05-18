@@ -1,0 +1,16 @@
+{
+  "total_raw": 311,
+  "dup_title": 152,
+  "no_date": 0,
+  "too_old": 96,
+  "gate1_fail": 9,
+  "gate2_fail": 8,
+  "passed": 46,
+  "gate2_samples": [
+    "Nokia (NOK) Short Interest & Short Float | Updated May 2026 $NOK - MarketBeat",
+    "CommScope Sued by Lenders for at Least $150 Million Over Alleged Breach - Bloomberg.com",
+    "CommScope Sued by Lenders for at Least $150 Million Over Alleged Breach - Claims Journal",
+    "Elyxium Wealth LLC Invests $2.75 Billion in Ciena Corporation $CIEN - MarketBeat",
+    "AG2R LA Mondiale Gestion D Actifs Invests $1.38 Million in Ciena Corporation $CIEN - MarketBeat"
+  ]
+}
