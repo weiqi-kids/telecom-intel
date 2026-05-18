@@ -4,51 +4,82 @@
     "start": "2026-04-09",
     "end": "2026-04-15"
   },
-  "generated_at": "2026-04-15T12:03:56.913840Z",
+  "generated_at": "2026-05-18T13:32:57.726576Z",
   "highlights": [
     {
       "rank": 1,
       "type": "top_event",
-      "event_id": "unknown-2026-04-10-008",
-      "date": "2026-04-10",
-      "title": "Has telecom network capex peaked? - SDxCentral",
-      "importance_score": 0.75
+      "event_id": "american_tower-2026-04-15-008",
+      "date": "2026-04-15",
+      "title": "Mizuho Upgrades American Tower (AMT) to Outperform Amid Positive Outlook - GuruFocus",
+      "importance_score": 0.9
     }
   ],
   "anomalies_7d": [],
   "topic_7d_summary": {
-    "spectrum_auction": {
+    "earnings": {
+      "this_week": 10,
+      "last_week": 2,
+      "week_over_week_change": "+400%",
+      "sentiment_this_week": 0.0
+    },
+    "5g_deployment": {
       "this_week": 1,
       "last_week": 0,
       "week_over_week_change": "N/A",
       "sentiment_this_week": 0.0
     },
-    "earnings": {
+    "spectrum_auction": {
       "this_week": 1,
-      "last_week": 0,
+      "last_week": 1,
       "week_over_week_change": "N/A",
       "sentiment_this_week": 0.0
     },
     "fiber_buildout": {
       "this_week": 1,
-      "last_week": 0,
-      "week_over_week_change": "N/A",
+      "last_week": 3,
+      "week_over_week_change": "-67%",
       "sentiment_this_week": 0.0
     }
   },
   "company_7d_summary": {
+    "softbank": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "sba_comm": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "ericsson": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "nokia": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "american_tower": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
     "ceragon": {
       "event_count": 1,
       "sentiment_avg": 0.0,
-      "rank": 1
+      "rank": 6
     }
   },
   "comparisons": {
     "vs_last_week": {
       "event_count": {
-        "this": 3,
-        "last": 0,
-        "change_pct": 0
+        "this": 30,
+        "last": 6,
+        "change_pct": 400.0
       }
     }
   },
@@ -56,37 +87,37 @@
     {
       "date": "2026-04-09",
       "event_count": 0,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-04-10",
-      "event_count": 0,
-      "sentiment_avg": 0
+      "event_count": 2,
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-04-11",
       "event_count": 0,
-      "sentiment_avg": 0
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-04-12",
-      "event_count": 0,
-      "sentiment_avg": 0
+      "event_count": 4,
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-04-13",
-      "event_count": 0,
-      "sentiment_avg": 0
+      "event_count": 4,
+      "sentiment_avg": 0.0
     },
     {
       "date": "2026-04-14",
-      "event_count": 0,
-      "sentiment_avg": 0
+      "event_count": 5,
+      "sentiment_avg": 0.1
     },
     {
       "date": "2026-04-15",
-      "event_count": 3,
-      "sentiment_avg": 0
+      "event_count": 15,
+      "sentiment_avg": 0.17
     }
   ]
 }
