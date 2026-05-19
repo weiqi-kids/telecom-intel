@@ -1,0 +1,224 @@
+{
+  "date": "2026-05-19",
+  "generated_at": "2026-05-19T10:57:05.442983Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sba_comm-2026-05-19-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SBA Communications Corp stock (US78467J1007): earnings outlook after latest results - AD HOC NEWS",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUUtGUmxmdFFJcl8xeW1vOGdXSi1UdFY2b3ZzZkgtVnZVeWREVkp0N3RPMXhQRzF3bUZCZ1J6OVlVWjNTdGp6NWJNZUdGQXZXNUphTnd6cnhlcU94UGJMWmNLdEVtQnhTd1BKTXJrckU2UzhiMENIa1lFQS1mOE1PUXVKOUZFanFrWk1oUG9JbGJXcllNOHZFZW0xUFl2TmJ4WHdsQkQ0Yl9MYVhkLU8yRjVESWljSXozYWJfVDlVdWNLZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "fareastone-2026-05-19-022",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Far EasTone Telecommunications stock (TW0004904008): focus on 5G growth and recent earnings - AD HOC NEWS",
+      "companies": [
+        "fareastone"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ0RMd092aUN3NzBhWjhEZU9TeG1fTHVkMTN4QWN6ZkdZT3NfeWdNTWc0MElWVjFsQ3d4ejE3R0F1WS1GVmp3Z21NaC1FS2V5T2dtWWpFaHV6ZDJuczRFWjNsZ2FoX2Nrck5ydGJfR0hUOGhwQXRIR0hqNmQwOEx0akhtdTFrRzJOUUNaVjJiZUNJWXlzOS1RbEtWWjRWUEZuLTQzZWlFZWM2bDYxWlBfMHJabkhqelhZZGRDQnkxSUk1Zm8tWUE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "verizon-2026-05-19-015",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Eight big US telcos join forces on network cybersecurity",
+      "companies": [
+        "verizon",
+        "tmobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/security/eight-big-us-telcos-join-forces-on-network-cybersecurity"
+    },
+    {
+      "rank": 4,
+      "event_id": "ericsson-2026-05-19-016",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Bell Canada looks to Cohere to boost its Ericsson and Nokia RAN",
+      "companies": [
+        "ericsson",
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/5g/bell-canada-looks-to-cohere-to-boost-its-ericsson-and-nokia-ran"
+    },
+    {
+      "rank": 5,
+      "event_id": "ciena-2026-05-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Corporation $CIEN Shares Bought by DNB Asset Management AS - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRDJTYUJuYjJTUFNSVF9XTUtrRGxBLUs0WG9POXQ1bWg4SmtXdHUzVlhld0tseU5nQy1vNlJJejNOb0tKWTUyQWs5REJyb0FBaHlocEdLS1M2NG05TXVRWjdHM1lOVU9RTW9NdC1LUGJuMi1oTGJqRjNLN29TaVdPaUFRVVdIaGJicFVNQi15a1hZRkZ0WVJXM2k3cl95SG5YeFRpeE9qcHY5WHJZNkJLUUUxeXlacjZwOXBFS1NGV2pPQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 19,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "softbank",
+        "count": 4
+      },
+      {
+        "id": "american_tower",
+        "count": 4
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 3
+      },
+      {
+        "id": "ciena",
+        "count": 1
+      },
+      {
+        "id": "sba_comm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 312,
+    "dup_title": 140,
+    "too_old": 102,
+    "gate1_blocked": 7,
+    "gate2_blocked": 8,
+    "passed": 55,
+    "pass_rate": "32.0%",
+    "gate2_block_rate": "4.7%",
+    "gate2_samples": [
+      "CommScope Sued by Lenders for at Least $150 Million Over Alleged Breach - Bloomberg.com",
+      "CommScope Sued by Lenders for at Least $150 Million Over Alleged Breach - Claims Journal",
+      "Elyxium Wealth LLC Invests $2.75 Billion in Ciena Corporation $CIEN - MarketBeat",
+      "Telekom CR-Report: Sustainability Strengthens Business and Resilience - Deutsche Telekom",
+      "Deutsche Telekom : 6 Times More Impact for the Climate - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為軟銀、AMT、德國電信相關動態：「SBA Communications Corp stock (US78467J1007): earnings ou...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "SBA Communications Corp stock (US78467J1007): earnings outlook after latest r...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Far EasTone Telecommunications stock (TW0004904008): focus on 5G growth and r...（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

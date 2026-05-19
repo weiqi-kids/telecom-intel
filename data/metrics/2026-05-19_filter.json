@@ -1,0 +1,16 @@
+{
+  "total_raw": 312,
+  "dup_title": 140,
+  "no_date": 0,
+  "too_old": 102,
+  "gate1_fail": 7,
+  "gate2_fail": 8,
+  "passed": 55,
+  "gate2_samples": [
+    "CommScope Sued by Lenders for at Least $150 Million Over Alleged Breach - Bloomberg.com",
+    "CommScope Sued by Lenders for at Least $150 Million Over Alleged Breach - Claims Journal",
+    "Elyxium Wealth LLC Invests $2.75 Billion in Ciena Corporation $CIEN - MarketBeat",
+    "Telekom CR-Report: Sustainability Strengthens Business and Resilience - Deutsche Telekom",
+    "Deutsche Telekom : 6 Times More Impact for the Climate - marketscreener.com"
+  ]
+}
