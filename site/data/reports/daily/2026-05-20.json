@@ -1,0 +1,252 @@
+{
+  "date": "2026-05-20",
+  "generated_at": "2026-05-20T10:45:40.963541Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ceragon-2026-05-20-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Key facts: Ceragon Q1 EPS $0.01; loss $1.34M; India boosts revenue - TradingView",
+      "companies": [
+        "ceragon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX3g0Nk5JcUhJd0VRTWEtSTJKWVZzSVpxYTNVM1B0aUJkSngxLWRZcXFEenNwREQ5cTlDQVFBOHl1RUJkTlVQYW9KMVlCNUZtVHBpNllOU2ZPN3NaWHpPME1RUjRBa2ZLM0pCZ0d4QmUwc1VZRFpyS1RYRS13alJPNXJsUjJRRmJyckx6cHh6M1piMVV3TlJ5c0ZMUWl5MXM5VFVBdGxTS2NJU29CdnEzSktoMWRKZ211dkVGOEFaVXI?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ceragon-2026-05-20-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ceragon Networks Earnings Call Balances Growth And Risk - TipRanks",
+      "companies": [
+        "ceragon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTFZRd3dlTHRpTTg0ZXNNVWFCT1FJekxTRFc5OW5oWDhCUk03ckRYeDNuS1RGV1BYYnpmQTdVSDFaZm5mUm9Dcmh1akF1N0M0NHgtcjZVSkVQR0N2QlRxNC1rNWlxcGJGeElYeVE4cFdnb3FPanFUSTJKcVlDSGdwUElfempMdkZkN0lQc3l4TWhpcmRVRnVXdG9IcFk0X3ZYYWpjZVRsaUNrMUE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "softbank-2026-05-20-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SoftBank Corp. Earnings Call: AI Bets Drive Rebound - TipRanks",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYTNHQzB4bXBLMzRUVDUxUHI0VXV0SHhtaVM5VVBHcm1WOXNzb0JXQTk5d3dmTEZOd3Y4RW9waGtMc2FXd2YxVlVDaUpVT0hLQXlKZ3M0UnBpQ1p2U1RfMnowM1B0SmV5aF9JUEVjM2tWY2VEMkNSOWVCc01nSElYRVd2RmlJQ3o0UnJVVWtOSFoyejhOUFJwbXppN0Z1SFF1bTRN?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sba_comm-2026-05-20-015",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SBA Communications stock (US78410G1040): takeover talks and earnings keep tower operator in focus - AD HOC NEWS",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLW0zeWlXU1B3Q1p1VGs5MlF3Z25mVnF0QVZfUThCYWQwYTlwY05EZG42aFdOYkN6ZWNWekhhWXFJWnJyblV1V0gza1RXTXVrNzM0STlQWHdObzdNSHRFY091T1dJT0h3MWlpTUVPdXpvT1dXbmNhNzVNZmgyeWEzSmhmTE9Vdk5VZ3lUYmwyc3hEajhRWGdhSEV5QmVObnA3Y3JmQXg1WnoyLXdKcE11OFFDUmdCdG9XS3hLWG12RXVqV1VSMi1pbw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ciena-2026-05-20-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "North Dakota State Investment Board Buys Shares of 5,628 Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYThGYjRsdjI5Y19zQXdtUkVBMElXelhlVEdSWFkzYlhtTmVTay04Ul9VYzdXUGdOU0dCZDRaSV9NekRpU1JVb0tSX2QxVFdMZ1dUeFY4RmRYV1JGWnR2U3gzOTl2d25LQUEzZlgzYy1fZUhQZjA1ZklXdUpDYVVoUFpYVTRaWGV6SVhWWUxWWGd4UDVIcEFURTkwRF9YRk5RZnNoSDJmVGc1UXhrLXdIczFaRVVvRFpYbFIzVEpzZzhfZ29PaXlMX1BFZGVyQS03Vi1HMmF3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "arpu": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 21,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "american_tower",
+        "count": 6
+      },
+      {
+        "id": "ciena",
+        "count": 3
+      },
+      {
+        "id": "ceragon",
+        "count": 2
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 2
+      },
+      {
+        "id": "sba_comm",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "earnings",
+        "count": 4
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      },
+      {
+        "id": "arpu",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 312,
+    "dup_title": 118,
+    "too_old": 96,
+    "gate1_blocked": 6,
+    "gate2_blocked": 7,
+    "passed": 85,
+    "pass_rate": "43.8%",
+    "gate2_block_rate": "3.6%",
+    "gate2_samples": [
+      "CommScope Sued by Lenders for at Least $150 Million Over Alleged Breach - Bloomberg.com",
+      "CommScope Sued by Lenders for at Least $150 Million Over Alleged Breach - Claims Journal",
+      "Elyxium Wealth LLC Invests $2.75 Billion in Ciena Corporation $CIEN - MarketBeat",
+      "Telekom brings sovereign cloud infrastructure to German public administration - Deutsche Telekom",
+      "Millions of Deutsche Telekom customers may be at risk, hackers claim - Cybernews"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為AMT、Ciena、Ceragon相關動態：「Key facts: Ceragon Q1 EPS $0.01; loss $1.34M; India boost...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Key facts: Ceragon Q1 EPS $0.01; loss $1.34M; India boosts revenue - TradingView（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "Ceragon Networks Earnings Call Balances Growth And Risk - TipRanks（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
