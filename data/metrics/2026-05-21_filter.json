@@ -1,0 +1,16 @@
+{
+  "total_raw": 313,
+  "dup_title": 144,
+  "no_date": 0,
+  "too_old": 95,
+  "gate1_fail": 8,
+  "gate2_fail": 5,
+  "passed": 61,
+  "gate2_samples": [
+    "Elyxium Wealth LLC Invests $2.75 Billion in Ciena Corporation $CIEN - MarketBeat",
+    "Telekom brings sovereign cloud infrastructure to German public administration - Deutsche Telekom",
+    "Deutsche Telekom : Buy Feri Abolhassan Pur-Moghaddam, May 20, 2026 - marketscreener.com",
+    "Woodline Partners LP's SBA Communications Corp(SBAC) Holding History - GuruFocus",
+    "FCC greenlights EchoStar’s $40bn spectrum sale to SpaceX, AT&T"
+  ]
+}
