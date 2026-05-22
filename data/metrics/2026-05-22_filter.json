@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 145,
+  "no_date": 0,
+  "too_old": 101,
+  "gate1_fail": 10,
+  "gate2_fail": 7,
+  "passed": 52,
+  "gate2_samples": [
+    "Resona Asset Management Co. Ltd. Invests $9.54 Million in Ciena Corporation $CIEN - MarketBeat",
+    "Elyxium Wealth LLC Invests $2.75 Billion in Ciena Corporation $CIEN - MarketBeat",
+    "Deutsche Telekom To Build Sovereign Ai Platform For The German Federal Government - TradingView",
+    "Telekom brings sovereign cloud infrastructure to German public administration - Deutsche Telekom",
+    "Woodline Partners LP's SBA Communications Corp(SBAC) Holding History - GuruFocus"
+  ]
+}

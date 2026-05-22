@@ -356,7 +356,8 @@
         "tmobile",
         "commscope"
       ],
-      "fetch_mode": "http"
+      "fetch_mode": "http",
+      "inventory_applicable": false
     },
     {
       "id": "crown_castle",
@@ -378,7 +379,8 @@
         "tmobile",
         "commscope"
       ],
-      "fetch_mode": "http"
+      "fetch_mode": "http",
+      "inventory_applicable": false
     },
     {
       "id": "sba_comm",
@@ -399,7 +401,8 @@
         "verizon",
         "tmobile"
       ],
-      "fetch_mode": "http"
+      "fetch_mode": "http",
+      "inventory_applicable": false
     },
     {
       "id": "equinix",
@@ -419,7 +422,8 @@
         "att",
         "verizon"
       ],
-      "fetch_mode": "http"
+      "fetch_mode": "http",
+      "inventory_applicable": false
     }
   ],
   "etfs": [
