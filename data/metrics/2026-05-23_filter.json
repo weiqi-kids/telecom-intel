@@ -1,0 +1,16 @@
+{
+  "total_raw": 315,
+  "dup_title": 165,
+  "no_date": 0,
+  "too_old": 100,
+  "gate1_fail": 8,
+  "gate2_fail": 9,
+  "passed": 33,
+  "gate2_samples": [
+    "Resona Asset Management Co. Ltd. Invests $9.54 Million in Ciena Corporation $CIEN - MarketBeat",
+    "Elyxium Wealth LLC Invests $2.75 Billion in Ciena Corporation $CIEN - MarketBeat",
+    "Eurobites: Deutsche Telekom, SAP land government's sovereign AI gig - Light Reading",
+    "Telekom CR-Report: Sustainability Strengthens Business and Resilience - Deutsche Telekom",
+    "Deutsche Telekom To Build Sovereign Ai Platform For The German Federal Government - TradingView"
+  ]
+}
