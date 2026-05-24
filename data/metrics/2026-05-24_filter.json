@@ -1,0 +1,16 @@
+{
+  "total_raw": 306,
+  "dup_title": 173,
+  "no_date": 0,
+  "too_old": 103,
+  "gate1_fail": 7,
+  "gate2_fail": 6,
+  "passed": 17,
+  "gate2_samples": [
+    "NOK News | NOKIA CORP-SPON ADR (NYSE:NOK) - ChartMill",
+    "Resona Asset Management Co. Ltd. Invests $9.54 Million in Ciena Corporation $CIEN - MarketBeat",
+    "Eurobites: Deutsche Telekom, SAP land government's sovereign AI gig - Light Reading",
+    "Telekom brings sovereign cloud infrastructure to German public administration - Deutsche Telekom",
+    "6 Times More Impact for the Climate - Deutsche Telekom"
+  ]
+}

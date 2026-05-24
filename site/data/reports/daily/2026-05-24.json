@@ -1,0 +1,185 @@
+{
+  "date": "2026-05-24",
+  "generated_at": "2026-05-24T09:52:07.070991Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sba_comm-2026-05-24-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SBA Communications' Q3 AFFO Beats Estimates, Revenues Grow Y/Y - MSN",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNc0JXM1c2bHFZVG9WUjI1ZWpxWkl5MWktekFGU3JnaEZ5UFQ3WDVpc2FlaWNYTzM0MjF1d1NCMUM0RkFUMVNxTjB3dEtLa280OEMyS1RQWkh5WDhnWXdOLWVROEJMcnppV2ZYR0g5VU1KNnFNS3Z5NEZzYUdoYmtWaFd3aDlOeVF3VkxSXzNFWV9HWFVYN0Z3R3NBeHZtalQ2c1dkWFF4eG16OWxsRG9TRzU1V2czSFdQZnBZSDhNQjNQOEprQUZvVl9ENGJ6Zm1SbFVmMjNKOFVMQWJjS1VETzdKYkh4Uml2aGlWaGhTMWROT0wyUnpwbGtONHZKVGgyd0tFRl9jRzgtMXp1VXNuRktJMU5wVUpFZGZYRXg0WWZsYUw5WTBZZDZRanI4dFdBbnVyRjUwbGpZeG0yejY5c1NtQ2dXZmNES2pXSUxBZm5KSzRKenRkZFY3Tk0tU1Q1Z0d0Z0l3SjZpbHZ3RlE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ciena-2026-05-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Northwestern Mutual Wealth Management Co. Grows Position in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb0RpUVBPUkRqZE1TWnFJYUpyX05TZWJubDRLT3N3SWhWdUdjZjJZTEVGTkZRUzU1YTEyRFk2NWRGcDFkQlBLUk1vc2U0MXVuZ21jLUxORlVoLVF5enVldGM1YmExUW8ydFdCN3loYmV3TWhqZmZqUUE5N0NJZTR5VzJmaEFHUTBsZXI0ZnpOckIyNkEydTVJYmZxb2tNU1g1d0tFeWdJaXpIckRwOFd2NVZ1NGxBZjB1WUw4MlBzbHJlaWlQc05LVEhnOUYtV3plWkhnUEU4NFl2QQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ciena-2026-05-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Fideuram Intesa Sanpaolo Private Banking S.P.A. Acquires New Position in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPT2k0ME4zSVprWDNVNXoxRkZ1NDFMVjBwNDg0MXN2TW9WbHNiYnpQaXNVeUczLVBEWkJwaTVqQlBsaVFsNFJtTXo0TDZuOUYxZWpWaDA4LTNCQ1I5U1ZscFRsYzZ3cmxENUUyRkVGQktNM1V3R0N4VUZXOHVtRXZObGd0XzVfSkJ2VF9LejFnSGJRcmN5VHNqTUFtc3FGWHliQUlJUk5fOEdkLUFZSXF3SGxZcmlDSGpYUlVob3VmQnFpTWI1NnZvUzlxZkJSeU4wbHFXY1BiQ1ltekxUQlVfVUlpWDJkaW5K?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "equinix-2026-05-24-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Equinix: Managed Colocation for Scale, Reach and Control - Data Centre Magazine",
+      "companies": [
+        "equinix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVGkwR0ZTa1hLa2g2THgzR3BjWXppWlBaZGxwOHZFazF3cS1yb051ZHV3Sk8wYkhsc0dpSE14WlNCY0tfbW9uT3oxYnhfbE5HYWd4UXUzX0VUTnYtMjlCdmhaSzFiMW5ZdTZ5WUpfZFNSeVh6eWlxSGtkOGdsQ0h0VllJdkZvLUU5WkNaeHhweW9HNnpW?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 2
+      },
+      {
+        "id": "sba_comm",
+        "count": 1
+      },
+      {
+        "id": "equinix",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 306,
+    "dup_title": 173,
+    "too_old": 103,
+    "gate1_blocked": 7,
+    "gate2_blocked": 6,
+    "passed": 17,
+    "pass_rate": "12.8%",
+    "gate2_block_rate": "4.5%",
+    "gate2_samples": [
+      "NOK News | NOKIA CORP-SPON ADR (NYSE:NOK) - ChartMill",
+      "Resona Asset Management Co. Ltd. Invests $9.54 Million in Ciena Corporation $CIEN - MarketBeat",
+      "Eurobites: Deutsche Telekom, SAP land government's sovereign AI gig - Light Reading",
+      "Telekom brings sovereign cloud infrastructure to German public administration - Deutsche Telekom",
+      "6 Times More Impact for the Climate - Deutsche Telekom"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Ciena、SBA、Equinix相關動態：「SBA Communications' Q3 AFFO Beats Estimates, Revenues Gro...」。主要關注主題為產業通用、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "SBA Communications' Q3 AFFO Beats Estimates, Revenues Grow Y/Y - MSN（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Northwestern Mutual Wealth Management Co. Grows Position in Ciena Corporation...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
