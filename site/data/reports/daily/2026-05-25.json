@@ -1,0 +1,214 @@
+{
+  "date": "2026-05-25",
+  "generated_at": "2026-05-25T11:48:28.859206Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "softbank-2026-05-25-003",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "SoftBank Shares Hit Record With Lift From OpenAI IPO Hopes - Bloomberg.com",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSUI2a1Z2dTlYdFlTcWwxNC1DV3ZhXzl1MnV3YVU1N0lxMXFBMUlCWmxZYWFVWFRNU3dFY3hJSWpLR1NXUHNRUUJrS0dWX3MxNERXY1JHVWZCZzdNUVZIWkRENldEVDJYT2poRG5JbDI3NTZHekZTR2xYcEduejF6cUh5N1I2Y2V6SFkyUzVZLTFYTUFiLVgxbFdsZVZSYVFUZkJhbzlkMUpMY2JWczg3UWdlcFc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "softbank-2026-05-25-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "SoftBank shares soar to record high as market banks on OpenAI IPO - CNBC TV18",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZE8zOWxDWW1XWGN3Qk9RcV9fdjNBN0I0cE1BZkJjUklYUmtSNExYa0M4RXRSRDRjZ2lNX1g5aDZtS2VCcE5TNlJSWTFiZ3VXZjRIak0tYVBPaV9hWFVnMUlSTVBOOWVmV0hCd0xKSkQzdkJXeF9EdF9NVzE0NzJLdU9Rc09Wd2NUbnhLQjhhbk1QODN5aDB1REVvcU1mcFlpamR3VlZxTmdieHJDNkNOZXNEMkYyUdIBuwFBVV95cUxQUTN2QTdNSndLSWJwSURzUFJ4S3B5MTBENGVOZF9NVDdTeW5Lb0hPVXI4TzY2alVHSFNZdDZEdmNpUXhUNlNtSDN5cUtHLUtHaFprUVhQeDZKaENPcHlJY0FsLUdhdC1NS2h6MGJjcVJwRk5xRzJJMlF6WnhXNHRLVTBXQ1Zsa0dRemRYWWhBRm0zMml2NU5sQnFGY1FtM3lYUlczSDA5U096ZHBWajNIdWN3bUw0VFBtOFlj?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ciena-2026-05-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dilation Capital Management LP Increases Position in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWnlLRWpBQ0xGY3Y0cEFxWFdDVjI5OExxU0t2VTVYQ1VQb0dWZkQtMXJXMFQxRTJ6NE5OSVo5SjVsdjdrbGh3dTExR3dVNHdVSVlZYzgyYTBSMjZrMURzVGZXRHZVUVdiWEZTVjRGRkEteC1Iam1RQW5LTDZ3V1RGR0RwZzlEeXpEWXZqV18wU01qWmhGWloxMFJvaDNSalNBYjRDdFBNcnpibG5mQ2xQV09FWEVFWFVHTzNJSm9ST0Z2R0dmTGlLQUxScTVFeEVUTUE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "deutsche_telekom-2026-05-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom introduces Magenta Silent Hour customer service - Telecompaper",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcUZkU21RVFNVMEM0RUxlbXJPZE9QdktnbDhCYUxYZ2d2M3pnV1N2UmFFWHUyNDFVTndPNmpaQkNjMkUySENWclB2MnU5akdxcjFJUTJNNGRjckhUblg3emczSEk2WU9BbWZUTlJzTV9semRMTE11RGc2NTB2ZTA1VFpHcUxYNm05aXRIcDRVUmtmNDdWZXc5QWZvbXF6SjJjUFhwVldFbmNNbEE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "softbank-2026-05-25-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Behind the Scenes: How SoftBank Corp. Kept “Pokémon GO Wild Area: Nagasaki” Trainers Connected Citywide - ソフトバンク",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KTlVjY3BGY3pkcU1aVHBDM29UZUlvWFplSkZ6V2tpa2JVa182Z0tFVFJHWi1CLWU3NXpTT3AwMnlHcW1MNVBpSGVWNXdjY2hYNmJJN3BWRDRMWEIxNktuMg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.32,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "softbank",
+        "count": 4
+      },
+      {
+        "id": "american_tower",
+        "count": 3
+      },
+      {
+        "id": "ciena",
+        "count": 1
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      },
+      {
+        "id": "sba_comm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 302,
+    "dup_title": 165,
+    "too_old": 105,
+    "gate1_blocked": 7,
+    "gate2_blocked": 6,
+    "passed": 19,
+    "pass_rate": "13.9%",
+    "gate2_block_rate": "4.4%",
+    "gate2_samples": [
+      "Resona Asset Management Co. Ltd. Invests $9.54 Million in Ciena Corporation $CIEN - MarketBeat",
+      "Eurobites: Deutsche Telekom, SAP land government's sovereign AI gig - Light Reading",
+      "Telekom CR-Report: Sustainability Strengthens Business and Resilience - Deutsche Telekom",
+      "Telekom brings sovereign cloud infrastructure to German public administration - Deutsche Telekom",
+      "Equinix Weighs in on Quantum Computing and Data Sovereignty - Cyber Magazine"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為軟銀、AMT、Ciena相關動態：「SoftBank Shares Hit Record With Lift From OpenAI IPO Hope...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "SoftBank Shares Hit Record With Lift From OpenAI IPO Hopes - Bloomberg.com（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "SoftBank shares soar to record high as market banks on OpenAI IPO - CNBC TV18（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 302,
+  "dup_title": 165,
+  "no_date": 0,
+  "too_old": 105,
+  "gate1_fail": 7,
+  "gate2_fail": 6,
+  "passed": 19,
+  "gate2_samples": [
+    "Resona Asset Management Co. Ltd. Invests $9.54 Million in Ciena Corporation $CIEN - MarketBeat",
+    "Eurobites: Deutsche Telekom, SAP land government's sovereign AI gig - Light Reading",
+    "Telekom CR-Report: Sustainability Strengthens Business and Resilience - Deutsche Telekom",
+    "Telekom brings sovereign cloud infrastructure to German public administration - Deutsche Telekom",
+    "Equinix Weighs in on Quantum Computing and Data Sovereignty - Cyber Magazine"
+  ]
+}

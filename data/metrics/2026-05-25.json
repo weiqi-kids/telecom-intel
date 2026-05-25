@@ -1,0 +1,45 @@
+{
+  "date": "2026-05-25",
+  "total_events": 14,
+  "by_company": {
+    "ciena": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "deutsche_telekom": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "softbank": {
+      "count": 4,
+      "sentiment_avg": 0.5
+    },
+    "american_tower": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "sba_comm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ericsson": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 11,
+      "sentiment_avg": 0.32
+    },
+    "fiber_buildout": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
