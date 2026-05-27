@@ -1,0 +1,53 @@
+{
+  "date": "2026-05-27",
+  "total_events": 21,
+  "by_company": {
+    "ciena": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "softbank": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "american_tower": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "sba_comm": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "equinix": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 21,
+      "sentiment_avg": 0.02
+    },
+    "tower_consolidation": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "arpu": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "fiber_buildout": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "spectrum_auction": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

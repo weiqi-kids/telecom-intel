@@ -1,0 +1,250 @@
+{
+  "date": "2026-05-27",
+  "generated_at": "2026-05-27T11:33:34.104285Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ciena-2026-05-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Citi Raises TP on Cisco Systems, Inc. (CSCO.US) to USD135 and Ciena Corporation (CIEN.US) to USD660; Optical Networking Growth Resilient - AASTOCKS.com",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZHczbnFSV3F1SHR5RGVldDdhWmhsLWxXNFcxQTJXcnE1V213U3J5ZjE0Y3JpU2dGakpRZnM0YV9BaElTbGhYLXhEb3NQYnRQb2ljZDQ1SXZPdUhpamJ4dmVLU051LWwtalhzZTBfaWsyQ1hKZmhCdHVoXzhuczkzRjh2NTU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "softbank-2026-05-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SoftBank to launch AI data center GPU cloud in Japan - W.Media",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nRm96cGFFV29SY0hoZ2tydmIyeXJ0bXNEMlFFcXFNa01ja0VFUWpoNVNJbmJCRWoxQnhBcnBBUV9RTkUwVHJkYVE5X3NyRVVQSjMxOW1YNy14UFFWZC1HRFV4UzZLdnlPdW1vQzk2akpoVUJCMjhlQw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "american_tower-2026-05-27-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Knights of Columbus Asset Advisors LLC Sells 16,330 Shares of American Tower Corporation $AMT - MarketBeat",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNelpPX2RXOFlnZzQxelV2VTA0XzBjb1Ezbmh1bU16YmtoVnlnRFFpazEtNjY2R0pqbGpjRWpSOEUzZFBteUh1Y3hsQUVpMnE5ZzNRd0stbTBaZm1JakFMUlpyYjlJWUY1MjV4bHRVSnNpRGZXcWo2YlhWdlJfdkFydEFxRkNoSE9NVTNQQmQydkE5azFNRnVneHE1dXZqR29UVnRfWkVObkh2SDFYdVIyY3ZWcmRsZDY2YV9zS3YzenI4R0IwMVhQaXlIYjVXSVZ5X2tLdVBfMVZkOFo1aUt6c2RaMEljQ2M?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "american_tower-2026-05-27-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "King Luther Capital Management Corp Sells 9,044 Shares of American Tower Corporation $AMT - MarketBeat",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUkprQWd1SG85ak1jS09qcjNHc25PT2JBS3ozbW0wR2VaX0xGVEt3TTlMaUhlN3ZqV3hZY3p2SGV3YUVtM0hPMURpWlJTS3ZRZ2o5eGFZZ1lBZUdkMDBZOUpMRHdXYkdVZjBfSGtncUNUakJUazhXeGdHcEJMSEU3RHNDTzFhZEswdW14aHAydmtGQUdWY3NXVFFSejNUUG9MUzRuaDNEQTV0UUpVQ29Vc0xldVI5U09QRjd5aEpQX2V1S0dFejE0WHVlZG5ReDZya2hvT01OdUhlczVtVUFUY0JR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "american_tower-2026-05-27-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Allstate Corp Purchases 28,130 Shares of American Tower Corporation $AMT - MarketBeat",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb3M4SFo0UUtOczdlejMtLXN3enRxbWFXZ3pSSGpWYXlWc0V1Y010bG5DaDlaM1pRSTVuQWZmMkhIdy1NR3Y2TXBXTkVsODhrSE9KbTExdnBSY1hwNmtXRkhJbkQzNzNaSnlrY2JHaU9lREVwWE5fTS1NM0M5dDlGZ0ljNnBiVVBJUkxzLWJNdVBTZWpueWFaSDBlVXFYVGo4QlhteUMxaWlveWJERjIyb04wQlNidWVUT3A2SnA0d08wODU2R1lYclQ0NA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "tower_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "arpu": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "spectrum_auction": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 21,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 20,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_tower",
+        "count": 4
+      },
+      {
+        "id": "sba_comm",
+        "count": 2
+      },
+      {
+        "id": "equinix",
+        "count": 2
+      },
+      {
+        "id": "ciena",
+        "count": 1
+      },
+      {
+        "id": "softbank",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "arpu",
+        "count": 2
+      },
+      {
+        "id": "tower_consolidation",
+        "count": 1
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      },
+      {
+        "id": "spectrum_auction",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 308,
+    "dup_title": 128,
+    "too_old": 94,
+    "gate1_blocked": 7,
+    "gate2_blocked": 1,
+    "passed": 78,
+    "pass_rate": "43.3%",
+    "gate2_block_rate": "0.6%",
+    "gate2_samples": [
+      "NOK News | NOKIA CORP-SPON ADR (NYSE:NOK) - ChartMill"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 21 則事件，焦點為AMT、SBA、Equinix相關動態：「Citi Raises TP on Cisco Systems, Inc. (CSCO.US) to USD135...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Citi Raises TP on Cisco Systems, Inc. (CSCO.US) to USD135 and Ciena Corporati...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "SoftBank to launch AI data center GPU cloud in Japan - W.Media（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

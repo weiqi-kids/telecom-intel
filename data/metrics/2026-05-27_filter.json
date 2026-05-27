@@ -1,0 +1,12 @@
+{
+  "total_raw": 308,
+  "dup_title": 128,
+  "no_date": 0,
+  "too_old": 94,
+  "gate1_fail": 7,
+  "gate2_fail": 1,
+  "passed": 78,
+  "gate2_samples": [
+    "NOK News | NOKIA CORP-SPON ADR (NYSE:NOK) - ChartMill"
+  ]
+}
