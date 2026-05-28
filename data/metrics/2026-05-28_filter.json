@@ -1,0 +1,14 @@
+{
+  "total_raw": 312,
+  "dup_title": 150,
+  "no_date": 0,
+  "too_old": 100,
+  "gate1_fail": 5,
+  "gate2_fail": 3,
+  "passed": 54,
+  "gate2_samples": [
+    "Markus Küemmerle, Deutsche Telekom | KubeCon+CloudNativeCon EU 2025 Lamine Yamal (GtWKh4qhXu) - Msha",
+    "Eurobites: Deutsche Telekom, SAP land government's sovereign AI gig - Light Reading",
+    "ONF Connect 18 Keynote: Deutsche Telekom Nba Youngboy (3j7fDj3HOX) - Mshale"
+  ]
+}

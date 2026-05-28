@@ -1,0 +1,228 @@
+{
+  "date": "2026-05-28",
+  "generated_at": "2026-05-28T11:33:13.899047Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "equinix-2026-05-28-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Equinix stock (US29444U7033): data center giant updates investors after latest quarterly results - AD HOC NEWS",
+      "companies": [
+        "equinix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMEV3enNNSWtDOUd5QUVIVjdlY0VnOGZjU0c0NXU4bFVoc20ySXhLTUZHNlpHZzdaYmdnM09tVjRNX0xiX1M5VTk5Sk93LVBROWpSdW5udnoyYndJTVZZb2lmaFZ5Tk51emVYdFhCYmIxekdnZHFXVlFrTGUxQzBweHZfMThFQ0VVNGVNeTgtazhfa1VBV29KZF9rMnVGOVVfVGN0X05zQVdEMDlRTzRxeVpiTnpoT1dZUFg0Vk15TTM5NGpxYVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ericsson-2026-05-28-008",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "VodafoneThree shrank workforce as it leaned into Ericsson and Nokia",
+      "companies": [
+        "ericsson",
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/5g/vodafonethree-shrank-workforce-as-it-leaned-into-ericsson-and-nokia"
+    },
+    {
+      "rank": 3,
+      "event_id": "ciena-2026-05-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hantz Financial Services Inc. Boosts Stake in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSFIzdkRMUC1jSWE5M2hOd1FhOWtTMFdyc3N3eDJrbDVWUmdCMDdqSkpYa3FCbnAwUkNjYUMyZFJBQWVGSVIzeWhEQ3BHeXIyWXZvbGI5dElfS3JIN0JBamd1andYRkR4WHVYWFdaeUhzc25Ya01GeVNVYWhKRG9tQXFzRTRhWEMyejhUejItQ24wdFlVeVlaOGFkRnNzM2s2Z0pha2U4bVYyYW5Da08wVmdzcmRRakE4SERlZEdLaVRLVl9lWklZ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ciena-2026-05-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Stock Is Up Over 600% in One Year: What the Numbers Say About 2026 - TIKR.com",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNT1JCaDBsc2JVZnRHOWxCZTEzUFpvR212a3dBZE5yZG40SzRpaVktaXdWNGVrbXJzYzhPRTFYeXNQZ1Bpa09DV3NGcGZkRDY0NGk5SURhcVFJdWpBSmt4dnVKS0ZHcVI2M3dpb2ZpQ05vY01jVGlrWjZTLWZfaTlXNnQ1VjhCTF8xdnRIcVBScHJ2VHczQVMteHFaOE0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ciena-2026-05-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Flputnam Investment Management Co. Sells 20,863 Shares of Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM1BUa1JEQmkzanQtU181UkRQaGpySGtGaE9neEZHQTBFa0k2T2d6b3pVNEdNMkVoRzhjc1FBT1g4X3doV2dQWDRnRzVBc2lYcFBPR2E5RURaZHBuMXhxSy1sc2o2UEhVbVI2ZHVVQnR1X0dIRFFCOERkR3NkcEMwQmpDNGYxTkRNRWxsTnlHYS1xNHpFTkVDSmhBZGZlMnVHN0FrVUZJZXZGOFFMNEZIWkZxenYyZTFPRUw3Q1YyUWh6UU54ekVRUTZzd1hjSWZadFpzR21B?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 16,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 4
+      },
+      {
+        "id": "ericsson",
+        "count": 2
+      },
+      {
+        "id": "softbank",
+        "count": 1
+      },
+      {
+        "id": "equinix",
+        "count": 1
+      },
+      {
+        "id": "nokia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 312,
+    "dup_title": 150,
+    "too_old": 100,
+    "gate1_blocked": 5,
+    "gate2_blocked": 3,
+    "passed": 54,
+    "pass_rate": "33.3%",
+    "gate2_block_rate": "1.9%",
+    "gate2_samples": [
+      "Markus Küemmerle, Deutsche Telekom | KubeCon+CloudNativeCon EU 2025 Lamine Yamal (GtWKh4qhXu) - Msha",
+      "Eurobites: Deutsche Telekom, SAP land government's sovereign AI gig - Light Reading",
+      "ONF Connect 18 Keynote: Deutsche Telekom Nba Youngboy (3j7fDj3HOX) - Mshale"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為Ciena、愛立信、軟銀相關動態：「Equinix stock (US29444U7033): data center giant updates i...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Equinix stock (US29444U7033): data center giant updates investors after lates...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "VodafoneThree shrank workforce as it leaned into Ericsson and Nokia（產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
