@@ -1,0 +1,202 @@
+{
+  "date": "2026-05-29",
+  "generated_at": "2026-05-29T11:23:25.901055Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ciena-2026-05-29-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Can The AI Boom Keep Broadcom, Ciena And CrowdStrike Rallying After Earnings? - Investor's Business Daily",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYzNHbmpXWDFQbU9VWW80akRCdTU3UGZMUkFwNjlHQVJkWmdpVWQzZ0o2NjR6djVIV0Y3aklLTVY2WVdPME80ai16TGVNekF0NzI3SEhUYlkwSldOZzFTWjZER1RxXzRzMEpCNHQ0OUktbWVXVkxaenRLOEU4MHFvWjlsZFpsall3aEE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ciena-2026-05-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Legal & General Group Plc Boosts Holdings in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdHdTbnlsODB1eWFuOG1hdnA4ZkFfaWNlYlJSN0FBMlJZZDBrQWhJUEs4Q2lHd3VVRG9fenEyT21zZFhKNnkzQUI0M2RMaDU2eWduVjJSX09oUUZvS2l4bXNqMkJMdG1HOG1XVUIybE05NEM1UDhXQzBLaDJNbEx4WnZWbDJJTFZxZWQ0aTdqcHpxU1dkMGE5NzVYQWU3YkI3d24yZ3FHXzBLRjctMnNmYzM3SFMwN2FTcGhPM3pWelNrNWNX?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ciena-2026-05-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Intech Investment Management LLC Has $32.17 Million Position in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNeWRmM0ZheVlVTkprSlEya0E2TU9CNkQ1d1VtZ0ExeDViVkx3UXFraFpPT2dlOTlRTkd1V3JobGljV1VFM1dTaWxISUQzdFAzQ0xiQ3NqSUE4TUpVS2kyY0ZtUGEyckVYRm15MHRhSnh1aGYwUkRSNGtnS2lHS3NyaDlOR3JvQk0yNlRkaE5LejhuTDc3TUpSanp5VnAydWlBeUxYOWN6RWdlVXhTWVF1YkI0OEFsTi11Zm10ckdJRGZEYkhILWRsVF8yLXBmUTdSOUt6eHZvOUxZZ2FhRUE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ciena-2026-05-29-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Allstate Corp Makes New $2.48 Million Investment in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcHFoV1VhU0JxMDNvWkpVRnppS3pUWnhlcmRoWC1CeWlSV0NkYklYanpDUnZDUGxidmljLW4wRjI0MHZ0c2t4QzhUTXdSRU5BRWJJRk9IdkhIbGNUamM4dWFaZUx6Z2FVNlltc1NZVlc2a0hKeFdiZXA0X1VCMGxmc2hRYzU3WEdYUjdoU3ptVk0zalVZN2dIODdIUVpNZ0NoTXNRcFBOOVhWa1FaMkhUclUzcmlVSUtUU0NrQmdqU3VGY3ZxZHc0YXNPcXVxQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "deutsche_telekom-2026-05-29-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SAP and Deutsche Telekom Put Sovereign AI at the Center of German Public Administration - ERP Today",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON29RT3ZFNmZxV0FCcm41TjdoT0pubkxnY3lqOHRSTU5qOUdFa0RTTUp0NTYwekZSUURHZTA0bXZkTHZHM3dHdE9iMkNSZGJFYnhvNjVFbTRZc3dBekRkQ3B6Y0hoOWwzeGtPbmFhOG1xdjNJRGV1N3pidTM3TVJzaFplaTZMaTdk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 14,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 4
+      },
+      {
+        "id": "american_tower",
+        "count": 4
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 2
+      },
+      {
+        "id": "tmobile",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 310,
+    "dup_title": 162,
+    "too_old": 107,
+    "gate1_blocked": 5,
+    "gate2_blocked": 1,
+    "passed": 35,
+    "pass_rate": "23.6%",
+    "gate2_block_rate": "0.7%",
+    "gate2_samples": [
+      "NOK - Nokia Corporation NOK Buy Or Sell Buffett Read Basic Sj Earthquakes (GVXM8G1Haa) - Mshale"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為Ciena、AMT、德國電信相關動態：「Can The AI Boom Keep Broadcom, Ciena And CrowdStrike Rall...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Can The AI Boom Keep Broadcom, Ciena And CrowdStrike Rallying After Earnings?...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Legal & General Group Plc Boosts Holdings in Ciena Corporation $CIEN - Market...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
