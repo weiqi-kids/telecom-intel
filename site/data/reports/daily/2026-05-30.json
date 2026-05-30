@@ -1,0 +1,161 @@
+{
+  "date": "2026-05-30",
+  "generated_at": "2026-05-30T09:54:14.219049Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ciena-2026-05-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "HighTower Advisors LLC Decreases Stake in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbHlUeFlHdmpGRWdRYUJReENIZ2ctVUVzWlZGMFpBN2hfOEJXMGZXR3ZjbW9hTDhKZjlvWHRFLWxJamdiR1ZQeVNGUzNfRjdJekd4WjkyQzhpcjh5NnBGbVZxVUhNU1BHQVhMS0hoM0xJWHNkOHBEelFDZUdPTXNvVHdFbkdMZ09RUjI3OVA1TGtKMXVaN0laZnhuY25SUERPZGh3eEZOcm1KX1l3OTBPYlVkeHRHZDVnaU5lNDRYZ2ZORUE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ciena-2026-05-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "7,110 Shares in Ciena Corporation $CIEN Purchased by Fideuram Asset Management Ireland dac - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPci01dFVQSFctNXRUbHBtc1J4X24tUTZhVnZpTl9sVlhHb3M2RmdlZy14YW4zS1JUTXZTVmJkTjVqd1dmX2ozNDMzZUllQXIySWRieGRZWGVoUmtPalB4VmFOMVlka2FLTTRLVGxMV1ZLVkl2cktLZWxDZ2Ywcm5BcWNSUVNBenh2WWhobUVNamNLNmVDVHNPa29pa0M5MDIzNTAxRGdILUVzRFhRR2t6SFJZYmhvVDFBbjZ1b25XSE8zT09XWVBJUkk4eWxQc2pMekdZQTVyMTJPdWZwTmZWeUVCZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "american_tower-2026-05-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Fideuram Asset Management Ireland dac Buys New Shares in American Tower Corporation $AMT - MarketBeat",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZFQxT09jQWZoWlZTbFh0c2ZfdEhoRWJQdE85OEhfOUpwWkREQm5DclJ0V1dtT1BsNlZJelltTjBibXh3NDIzUjlSdnpISnJFVkVYeG1FSElCS29LUjRuWXpXU0xUMFk5a1RNQ28zSlo4WHNOcnJrdjV1c0ljdWdLdVRtcmRMZUJha2lOM01hVDlJOXNSUk5CVmVpMkZkWDQwaGhDTTItZnRQM2doclQybTdEVF9MRWp0WG9UZy1DZlpwRzVIdGRmYllITmxhYzNaYzA1dHBSb0dlbjF0UzVyR0pR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "american_tower-2026-05-30-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Forsta AP Fonden Has $31.73 Million Stock Position in American Tower Corporation $AMT - MarketBeat",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcnZ0TzVVSDYtcnN1dG5Fa3RWYXJUWGwyNkQ2d1FNWml5Q1F0ZXVfSGN5YThGc3hoRm9YWE8zdEZhX3BpdHVTNnUxQmZTMmQ4dkFaTVBRQ0J2SkJYU1RWNmNvcjIySW9Zd0lyUTgyTmVRZFBpNUlfa2RfVkQ0LXFaYkc2LS1vYUgxQ1FFRjFnbFBsQnhsdkRpbDFKSm1ac0Q2Y3FIdU04V3I2T2UyRUtQT21uaDBjVVBFdWx1aG5penQ2b0syZk1FeUFPMnI2M21UNHVVZlZVUE9WNFU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 2
+      },
+      {
+        "id": "american_tower",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 312,
+    "dup_title": 177,
+    "too_old": 104,
+    "gate1_blocked": 5,
+    "gate2_blocked": 2,
+    "passed": 24,
+    "pass_rate": "17.8%",
+    "gate2_block_rate": "1.5%",
+    "gate2_samples": [
+      "NOK - Nokia Corporation NOK Buy Or Sell Buffett Read Basic Sj Earthquakes (GVXM8G1Haa) - Mshale",
+      "Is SBA Communications Undervalued Amidst the 5G Buildout - Kavout"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Ciena、AMT相關動態：「HighTower Advisors LLC Decreases Stake in Ciena Corporati...」。主要關注主題為產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "HighTower Advisors LLC Decreases Stake in Ciena Corporation $CIEN - MarketBeat（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "7,110 Shares in Ciena Corporation $CIEN Purchased by Fideuram Asset Managemen...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

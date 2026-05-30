@@ -1,0 +1,13 @@
+{
+  "total_raw": 312,
+  "dup_title": 177,
+  "no_date": 0,
+  "too_old": 104,
+  "gate1_fail": 5,
+  "gate2_fail": 2,
+  "passed": 24,
+  "gate2_samples": [
+    "NOK - Nokia Corporation NOK Buy Or Sell Buffett Read Basic Sj Earthquakes (GVXM8G1Haa) - Mshale",
+    "Is SBA Communications Undervalued Amidst the 5G Buildout - Kavout"
+  ]
+}
