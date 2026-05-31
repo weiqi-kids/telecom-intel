@@ -1,0 +1,200 @@
+{
+  "date": "2026-05-31",
+  "generated_at": "2026-05-31T10:10:54.880509Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nokia-2026-05-31-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia Corporation - Managers' transactions (Hanrahan) - marketscreener.com",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVFhycTYySzVVT1ZxdjBsdi1NRFpGTU9xeG5pV1IzR0cxQlU2YXByRXN5aEotRDdzQkhrZ05iLW5aMkhlSGJBZDBiZGxoZlQtYjZsMlE2VGdvY3dhdnZ3RmlkcG9hVWpwSE1MdzlVMTltcG50eVpqRVlXa3BQaWdEdUwxTlBqUU15dE5Jcmk0eGt1N1RhbUczUnpNNVFqSnY1b21V?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ciena-2026-05-31-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "IFG Advisory LLC Makes New $597,000 Investment in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeVVzQmdfR3llQTZFZVVqeGdleS00VWE5TWwtazdtTjNQdW52SlUxaFJLOU9DYTJ4VnpLYWxQc2FQTFpoZFI4SWg2ZURpdHk3VUJNZ2REYjJvOGZQdjhQdGxBbmZUeS1LNnhVV3VBOGZjbVB0WlVfUk03MXBRVkhaZFlxWERQblFYaGs5WmplUnZZUDN6UmFFdVZjYTg5ck5VRnV4Y0VhT3lBSTNSOExjcGUxLUZ5VW91X2cxd1RTcVZTWEFTcHRSV0UwWQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ciena-2026-05-31-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rothschild Investment LLC Reduces Stock Position in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOck1oa0M2X2VtZWxMTHg0ZmlMcm01N0NHUDVxa2VuM205Q1QwNVVPcm1DTnJhMm5DODlacFV0MndSWGRTRUVsdEFqRURDVmJZVno4OFV3TmF3cWh0SDJsTTJ2MzZQTFlwczI1dzNaRDZqczRNcl9BYzZiT2Y4c1RGRUJpcTRBRkY0b0lVcEhKU2JKODlMd3l4N0FOcWdEelhSZmt3MmxHV05fbTB0NEV0UlVOT2FUdVlMbHE3ckNhNElNaGhpOU1yUVltZ0V6V1NI?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ciena-2026-05-31-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Corporation $CIEN Stake Raised by Jupiter Asset Management Ltd. - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdFA5S3paTFhpSHBoTmRLU01qY0ZxX1BGOERwRVJwYUxIbU5VZDlrd2lPSlVoZ0x4SjloSy1qZDBSWWdMRUFPdU1vRUV3dTluUVpzbTh5cmdPbmkyRzFjd29UYy1seEFwMU1yS041WGpGWFlyVkxMVXRaN3NHSDczQ1o5TW8yUlhyTTZRY2xaTU5qSjNGWTNhUlZHTWczNmpUNEF4ZFFzeDhocWhWZElzV2RPQWtLbFdXT3BLZ1dXMVp4NzhWeDhv?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ciena-2026-05-31-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Corporation $CIEN Shares Bought by Geode Capital Management LLC - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTW9Zb2MtbTZ1WGV6dXlXNEpTZHJtVHVxOThoZVhpLUlsNjBpY2lrS1pWbnUxa3pNUFBvMHFyQ2g2d1pNMkl1NFB3LXhONGRsNGp5TUJOU2lsZjk1a2xydTNUYzFGMmY5Q3JKOXdzaHB1RHJ6YjJDQU1JQ3VxYm54Y2lyMk9IODhwNGVKN3pYa0R4V0JUVTY0WE41T0tIZFZJVWJvVk8taHdmN3ZvSVg0OEJZWXZjY3p0eDBDYi1pZVlKcUdoRlB0Yw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "spectrum_auction": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 4
+      },
+      {
+        "id": "american_tower",
+        "count": 3
+      },
+      {
+        "id": "nokia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "spectrum_auction",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 312,
+    "dup_title": 177,
+    "too_old": 111,
+    "gate1_blocked": 5,
+    "gate2_blocked": 3,
+    "passed": 16,
+    "pass_rate": "11.9%",
+    "gate2_block_rate": "2.2%",
+    "gate2_samples": [
+      "NOK - Nokia Corporation NOK Buy Or Sell Buffett Read Basic Sj Earthquakes (GVXM8G1Haa) - Mshale",
+      "Deutsche Telekom Targets Growth At Heart Of EMEA Tech Sponsorship Boom - simplywall.st",
+      "Is SBA Communications Undervalued Amidst the 5G Buildout - Kavout"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為Ciena、AMT、諾基亞相關動態：「Nokia Corporation - Managers' transactions (Hanrahan) - m...」。主要關注主題為產業通用、頻譜拍賣，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Nokia Corporation - Managers' transactions (Hanrahan) - marketscreener.com（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "IFG Advisory LLC Makes New $597,000 Investment in Ciena Corporation $CIEN - M...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

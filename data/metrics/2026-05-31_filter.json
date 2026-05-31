@@ -1,0 +1,14 @@
+{
+  "total_raw": 312,
+  "dup_title": 177,
+  "no_date": 0,
+  "too_old": 111,
+  "gate1_fail": 5,
+  "gate2_fail": 3,
+  "passed": 16,
+  "gate2_samples": [
+    "NOK - Nokia Corporation NOK Buy Or Sell Buffett Read Basic Sj Earthquakes (GVXM8G1Haa) - Mshale",
+    "Deutsche Telekom Targets Growth At Heart Of EMEA Tech Sponsorship Boom - simplywall.st",
+    "Is SBA Communications Undervalued Amidst the 5G Buildout - Kavout"
+  ]
+}
