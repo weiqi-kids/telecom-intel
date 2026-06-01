@@ -1,0 +1,14 @@
+{
+  "total_raw": 310,
+  "dup_title": 152,
+  "no_date": 0,
+  "too_old": 113,
+  "gate1_fail": 5,
+  "gate2_fail": 3,
+  "passed": 37,
+  "gate2_samples": [
+    "NOK - Nokia Corporation NOK Buy Or Sell Buffett Read Basic Sj Earthquakes (GVXM8G1Haa) - Mshale",
+    "Undercovered Dozen: Aeluma, Agnico Eagle, Ciena, Rayonier And More - Seeking Alpha",
+    "Is SBA Communications Undervalued Amidst the 5G Buildout - Kavout"
+  ]
+}

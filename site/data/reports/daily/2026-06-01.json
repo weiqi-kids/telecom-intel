@@ -1,0 +1,243 @@
+{
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T13:31:41.905464Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ciena-2026-06-01-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ciena Q2 2026 Earnings Preview — June 4, Street Expects $1.45 EPS - AlphaStreet",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRVFnMnZxVWxJM2VPWHluYWxuN19RWEtxczBLRHRzbW1pbmY0TGpZTndsU1ZfNk5NQWFtWUNfNVloZmJfcEJjSi1rZzVhdUhDSHBLSHJkVDQ5cjR2anJhenZuNG4yR09hQlpOYVhnWHpaWjU2REZxT3oteUVLanF3bUR0Nng4emZjXzVkeDBWT1V2OWh4UVHSAZYBQVVfeXFMTUVRZzJ2cVVsSTNlT1h5bmFsbjdfUVhLcXMwS0R0c21taW5mNExqWU53bFNWXzZOTUFhbVlDXzVZaGZiX3BCY0ota2c1YXVIQ0hwS0hyZFQ0OXI0dmpyYXp2bjRuMkdPYUJaTmFYZ1h6Wlo1NkRGcU96LXlFS2pxd21EdDZ4OHpmY181ZHgwVk9VdjloeFFR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "softbank-2026-06-01-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Eurobites: Connect Europe suggests EU is overreaching on copper shutdown",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.lightreading.com/fttx/eurobites-connect-europe-suggests-eu-is-overreaching-on-copper-shutdown"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-01-025",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Macau telecom subscribers decline in April - Telecompaper",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "arpu",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWDNKa3hOX3QwYXlKQWpYNldZbURpM0RuUjdMU3dIMEZUS1gzLTRZejRsYU55akpBOFI2QXhqMlQ3YV9GZmhSN0tYcE8yUWlRaFkyMmtrR29jaGVPT0R1MGx6aWlHbFoxcS1nSkhXb1d1aEtyLVdwNzFTNFhkaFBDeE83SHI1VEtKRk9GN213?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nokia-2026-06-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia (NYSE: NOK) senior manager acquires 44,682 US shares on XNYS - Stock Titan",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTTdUOXpScldIanZWa2E3ODNNTGczYUFrNWdXZzFUV1dqOURSN1RreGYzZW5uRktpUEVDTG5xeHJSNUJMbU94SnBsYWtVekIzWkJCVDFxSkd6YkJtbWowVnc1LUNWTDhybE1fT2tidVhKYkV3NTV6WmYzbEJ4SDlndGowRXRVbkFXX3VDeUJrRW8wWGh3Z2NKSjVleE1vbmlUNmNFMV8wUnE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ciena-2026-06-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Florida Financial Advisors LLC Takes Position in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUmQ4LWVxWVI0YS1Ndy1mT0pJYlE2aDRGR3VKWVB4Nnh4RUxwODdrYVRpbmRhM0J3NkRRWEktYjE1Um13NW83a0ZuMVZJLUJ6eXp1b3gza2h4cndDVHVoTW1Ob2psMElqTGxBdTFjVlpFYmxRU3ppaDg1WnZtSnFzQVNVeC12R3huTjBoWmp6YmtDYVQwNHNQaGgzQ0hZX1UyWDVlVlUtUC1YQ2RqM2RBOXdHVXRCNjhwX0ZNRGg2cl9IWVVjZ3NtemxzOU8?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "arpu": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 25,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 22,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 4
+      },
+      {
+        "id": "softbank",
+        "count": 3
+      },
+      {
+        "id": "american_tower",
+        "count": 3
+      },
+      {
+        "id": "nokia",
+        "count": 1
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      },
+      {
+        "id": "arpu",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 310,
+    "dup_title": 152,
+    "too_old": 113,
+    "gate1_blocked": 5,
+    "gate2_blocked": 3,
+    "passed": 37,
+    "pass_rate": "23.4%",
+    "gate2_block_rate": "1.9%",
+    "gate2_samples": [
+      "NOK - Nokia Corporation NOK Buy Or Sell Buffett Read Basic Sj Earthquakes (GVXM8G1Haa) - Mshale",
+      "Undercovered Dozen: Aeluma, Agnico Eagle, Ciena, Rayonier And More - Seeking Alpha",
+      "Is SBA Communications Undervalued Amidst the 5G Buildout - Kavout"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 25 則事件，焦點為Ciena、軟銀、AMT相關動態：「Ciena Q2 2026 Earnings Preview — June 4, Street Expects $...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Ciena Q2 2026 Earnings Preview — June 4, Street Expects $1.45 EPS - AlphaStreet（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Eurobites: Connect Europe suggests EU is overreaching on copper shutdown（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
