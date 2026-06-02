@@ -1,0 +1,209 @@
+{
+  "date": "2026-06-02",
+  "generated_at": "2026-06-02T12:00:33.378588Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-02-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Philippines Fixed Communications Revenue to Reach USD 4.3B by 2030 - Telecom Review Asia",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU0lHLTBZaGxMaS1vd2lGM3hkaUQ1MzU0WUpwdGpEYnpvU3BYelJlalY0MEpTbHZibjhVRFozak50Rm16NDZ4WlhFRW0yd3cxVnJHdnVjejBQN0ZJMmFidU96Z0hOeHFBRzFnakw1ZFRsdzZ5UDRQOVVOdHZ1VVBMVWQtNFBVaExqaHRkcXlKR3F1dzhEN19zaGV5R21XT3VjRG5hMTIwZWdHT2RQTU1fdFFXTFVWbExJd3d2MlA1Q2taTWdF?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ciena-2026-06-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Eurizon Capital SGR S.p.A. Acquires New Holdings in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWTNONDV2c2daTlNPRmVsQi1HTllnWFNQTzZaTWt4SGVqVnV1bWZVYnFYazNDY28teVFaeDQySTJFalBzUWdERGh2aGRDVk5vM29fSl9pblkxRnNDYUs4WFR2TEhMaG1lN2hEMkkzZ0twNF9fcWx4Mkc5bzZqY05fcVlKUG14Ujd1Y1lRNHhOQVZmNUFienZMZWVFS3ZIZ0JTQTloR3BHNXhrVmxzR0lleVpaU29uTzdWMzVVTzRqRkxsYnhjZXB5Q0xJaEs?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "deutsche_telekom-2026-06-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "DEUTSCHE TELEKOM AG : Gets a Buy rating from UBS - marketscreener.com",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM2ktdTFadVBxRW5aRjV0LVpDa25xdy1QMmJhMTBTMmROVDJCSDlyX3RCZm1UOEYwQzk5ZWFXOU50NDJHS2dyQ2VpTVdWRzl0N1FENVUtODZaS0RJTWw3Vkp5S0Z3b01MUTdkQm5adHFoVmItR1ZBVTA2YTQ1V1JXSWM4Ym5KSG4xSW8xQl9vRXNTYUYzNkNkdDFJa0I0NFBV?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Electric co-ops 'not happy' with BEAD",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fiber_buildout",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/broadband/electric-co-ops-not-happy-with-bead"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Closing the gap: Europe takes slow but strategic approach to 5G SA",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.lightreading.com/5g/closing-the-gap-europe-takes-slow-but-strategic-approach-to-5g-sa"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 7,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 1
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 311,
+    "dup_title": 166,
+    "too_old": 111,
+    "gate1_blocked": 7,
+    "gate2_blocked": 2,
+    "passed": 25,
+    "pass_rate": "17.2%",
+    "gate2_block_rate": "1.4%",
+    "gate2_samples": [
+      "NOK - Nokia Corporation NOK Buy Or Sell Buffett Read Basic Sj Earthquakes (GVXM8G1Haa) - Mshale",
+      "Is SBA Communications Undervalued Amidst the 5G Buildout - Kavout"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Ciena、德國電信相關動態：「Philippines Fixed Communications Revenue to Reach USD 4.3...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Philippines Fixed Communications Revenue to Reach USD 4.3B by 2030 - Telecom ...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Eurizon Capital SGR S.p.A. Acquires New Holdings in Ciena Corporation $CIEN -...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

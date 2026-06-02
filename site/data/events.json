@@ -1,5 +1,191 @@
 [
   {
+    "id": "ciena-2026-06-02-001",
+    "date": "2026-06-02",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Eurizon Capital SGR S.p.A. Acquires New Holdings in Ciena Corporation $CIEN - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQWTNONDV2c2daTlNPRmVsQi1HTllnWFNQTzZaTWt4SGVqVnV1bWZVYnFYazNDY28teVFaeDQySTJFalBzUWdERGh2aGRDVk5vM29fSl9pblkxRnNDYUs4WFR2TEhMaG1lN2hEMkkzZ0",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWTNONDV2c2daTlNPRmVsQi1HTllnWFNQTzZaTWt4SGVqVnV1bWZVYnFYazNDY28teVFaeDQySTJFalBzUWdERGh2aGRDVk5vM29fSl9pblkxRnNDYUs4WFR2TEhMaG1lN2hEMkkzZ0twNF9fcWx4Mkc5bzZqY05fcVlKUG14Ujd1Y1lRNHhOQVZmNUFienZMZWVFS3ZIZ0JTQTloR3BHNXhrVmxzR0lleVpaU29uTzdWMzVVTzRqRkxsYnhjZXB5Q0xJaEs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-06-02-002",
+    "date": "2026-06-02",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DEUTSCHE TELEKOM AG : Gets a Buy rating from UBS - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOM2ktdTFadVBxRW5aRjV0LVpDa25xdy1QMmJhMTBTMmROVDJCSDlyX3RCZm1UOEYwQzk5ZWFXOU50NDJHS2dyQ2VpTVdWRzl0N1FENVUtODZaS0RJTWw3Vkp5S0Z3b01MUTdkQm5adH",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM2ktdTFadVBxRW5aRjV0LVpDa25xdy1QMmJhMTBTMmROVDJCSDlyX3RCZm1UOEYwQzk5ZWFXOU50NDJHS2dyQ2VpTVdWRzl0N1FENVUtODZaS0RJTWw3Vkp5S0Z3b01MUTdkQm5adHFoVmItR1ZBVTA2YTQ1V1JXSWM4Ym5KSG4xSW8xQl9vRXNTYUYzNkNkdDFJa0I0NFBV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-003",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Electric co-ops 'not happy' with BEAD",
+    "summary": "Electric cooperatives are disappointed with a number of policy changes to the BEAD program, from its dropped fiber preference to the NTIA's move to impose FCC pole attachment regs on co-ops. Some are ",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/broadband/electric-co-ops-not-happy-with-bead",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-004",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Closing the gap: Europe takes slow but strategic approach to 5G SA",
+    "summary": "Europe trails on headline 5G standalone metrics, but operators argue the slower rollout reflects a pragmatic and value-driven deployment strategy rather than a failure to keep up.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/5g/closing-the-gap-europe-takes-slow-but-strategic-approach-to-5g-sa",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-005",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Australia connectivity surge: Google-Telstra deal and SMAP's Tasmanian extension",
+    "summary": "Google and Telstra plan to integrate their subsea and terrestrial cable networks in Australia. Meanwhile, Subco is partnering with Firmus to extend the SMAP subsea cable to Tasmania.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/cable-technology/australia-connectivity-surge-google-telstra-deal-and-smap-s-tasmanian-extension",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-006",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Telecom has a capacity glut – so stop moaning about AI traffic",
+    "summary": "The industry is constantly being warned about traffic growth, and yet research and telco behavior shows networks have all the capacity they need.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/ai-machine-learning/telecom-has-a-capacity-glut-so-stop-moaning-about-ai-traffic",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-007",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Philippines Fixed Communications Revenue to Reach USD 4.3B by 2030 - Telecom Review Asia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOU0lHLTBZaGxMaS1vd2lGM3hkaUQ1MzU0WUpwdGpEYnpvU3BYelJlalY0MEpTbHZibjhVRFozak50Rm16NDZ4WlhFRW0yd3cxVnJHdnVjejBQN0ZJMmFidU96Z0hOeHFBRzFnakw1ZF",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU0lHLTBZaGxMaS1vd2lGM3hkaUQ1MzU0WUpwdGpEYnpvU3BYelJlalY0MEpTbHZibjhVRFozak50Rm16NDZ4WlhFRW0yd3cxVnJHdnVjejBQN0ZJMmFidU96Z0hOeHFBRzFnakw1ZFRsdzZ5UDRQOVVOdHZ1VVBMVWQtNFBVaExqaHRkcXlKR3F1dzhEN19zaGV5R21XT3VjRG5hMTIwZWdHT2RQTU1fdFFXTFVWbExJd3d2MlA1Q2taTWdF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-008",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kenya’s Telecom Sector Faces Stricter Regulations Over Network Quality - Broadcast Media Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOXNLRGg5amZlbmhyaGhXak9QZTQwejB4RVhyMmtQMG9ZdWVtMEx0Nk0tNERZQlQ2clpYbzFocDc2eGxwQ2JaRjBxTVA4VzAtdWZ6VlZrYnc2TFRaU2owTWFLR1d4V0k3NXJETjMzZm",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOXNLRGg5amZlbmhyaGhXak9QZTQwejB4RVhyMmtQMG9ZdWVtMEx0Nk0tNERZQlQ2clpYbzFocDc2eGxwQ2JaRjBxTVA4VzAtdWZ6VlZrYnc2TFRaU2owTWFLR1d4V0k3NXJETjMzZmVBOV9oOEJPZ3BRdm1ZTVhpWlVCTkNPTXFRY3lrS1pOeGdPX3B0Z2xZTmtFT2tla0xfUGJESU52TEZiLVplZl80dkQ2SDQ4c2d2ZU1r?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-009",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "GSMA Urges Action to Protect Telecom Networks Amid Fuel Supply Pressures - IT News Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNbTlkamtXck1WZ0Z0ZFdzM2pQOGNyaVJ4WFlzX3JaZ09lZFV2R3NVUXRHWENGcEdldFRhU0g5NlpydWY1aG5jMGw1czFTbnJwWTFuWXc2Y080TFNkMlNsb21hV3NYLVBwdXVxazljbT",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbTlkamtXck1WZ0Z0ZFdzM2pQOGNyaVJ4WFlzX3JaZ09lZFV2R3NVUXRHWENGcEdldFRhU0g5NlpydWY1aG5jMGw1czFTbnJwWTFuWXc2Y080TFNkMlNsb21hV3NYLVBwdXVxazljbTlWc2xiNl8tT3VqcmJ3YjVLSTE2Y1J6ekVQaVhBbE1Qc3Bhdkk3VVhjNzdjNkhXdHh6LWJNcUZXNmhaVTk0a0NJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-02-010",
+    "date": "2026-06-02",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Australian operator associations seek member approval to merge - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRjdoRzJrek1sU3FYck1iMTBHWjNfaURwTTNyTHNleDRUTHM3eURzYk9FMFIzdFotWlZwd3pBWUt4VWxfN0FRUzl2UmxLOURBTS1naU9BVkJlNkt2ZlcxWUFTUDU3cWxDMXNlQ0lKUm",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRjdoRzJrek1sU3FYck1iMTBHWjNfaURwTTNyTHNleDRUTHM3eURzYk9FMFIzdFotWlZwd3pBWUt4VWxfN0FRUzl2UmxLOURBTS1naU9BVkJlNkt2ZlcxWUFTUDU3cWxDMXNlQ0lKUmtpai1BTGc1VFNiYldJb1VRODJxNHlUMzNiZUYyNkdBUktkZkVNMXBleWlYVUozZ2l2RzF5ZGxBYi0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nokia-2026-06-01-001",
     "date": "2026-06-01",
     "companies": [
@@ -472,6 +658,216 @@
     ]
   },
   {
+    "id": "nokia-2026-06-01-026",
+    "date": "2026-06-01",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nokia Stock Jumps As AI And Analyst Upgrades Ignite Momentum - StocksToTrade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNMXl3MndDQVhFdVJyQ0RUQXVwa2U3ZGFwYUpkLXpubFdnUWN2b3FPYnNyc1o3b0phSUFzQ3pWS1BkNXpsMU5OS2J2S1loNVFZcDRhQ2VRVGxxbmFGRFhjbmpIRUFfZzRBMnE0Mk91OD",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMXl3MndDQVhFdVJyQ0RUQXVwa2U3ZGFwYUpkLXpubFdnUWN2b3FPYnNyc1o3b0phSUFzQ3pWS1BkNXpsMU5OS2J2S1loNVFZcDRhQ2VRVGxxbmFGRFhjbmpIRUFfZzRBMnE0Mk91ODV2dFlnaF95NmY0NWNBTk5CRjYxTEFjQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-06-01-027",
+    "date": "2026-06-01",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Jim Cramer on Ciena: “There’s More Than Enough Room for It to Grow for This One” - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOWXdWVHBUZjBKLUlhbzNraHFneEZXQVpVWGVhVURWRThwbDlLTlVpdlhRc0E5R2VHNTlRZVBmSVV6c0NuZkpvVmIxZE53aFljVklBQ01BT0FNSUZscUVPaFlhMmxXOWNxNnoxZDQ3dj",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWXdWVHBUZjBKLUlhbzNraHFneEZXQVpVWGVhVURWRThwbDlLTlVpdlhRc0E5R2VHNTlRZVBmSVV6c0NuZkpvVmIxZE53aFljVklBQ01BT0FNSUZscUVPaFlhMmxXOWNxNnoxZDQ3djZsNFJPczVZYW1VZmZJSG9lWDdiQkpGZFYyRnhzUXAxcnRPZUpZNTlJSw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-06-01-028",
+    "date": "2026-06-01",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What should investors do with Ciena stock ahead of Q2 earnings? - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0ozVTN0eC1MVk9NRUJnUnhnUEFGcFpLQjVDTll4THpyb1B4UlVhbzdSdHYyaTFURk0xQUU5NndIamF2dUJtaEVhU0pZVmNqX292OEFPZ2w0OHZBcTIzcEtTcHBoajFyaFZoeHdzVE",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0ozVTN0eC1MVk9NRUJnUnhnUEFGcFpLQjVDTll4THpyb1B4UlVhbzdSdHYyaTFURk0xQUU5NndIamF2dUJtaEVhU0pZVmNqX292OEFPZ2w0OHZBcTIzcEtTcHBoajFyaFZoeHdzVEJqT2dpeUV0T3d2aEpOMENJTkhIOGFtckxzZGctb19DVEx0RC1NdkxRblBGRUVpRW9Ec3Z5TnN5WVBtYUpHQWYwZV9kbXVhZWM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-06-01-029",
+    "date": "2026-06-01",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank commits €75 billion to French AI data centers in Europe's largest AI infrastructure deal - Cybernews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPY3NtS3pocG9tc29rMThiQWFIQUllZFZvZGxZRUpMWllWbUlSNUJpeDBJcE9aVGsyXzJMRFUwWFJMQWNRTzI3SzF1bHQzY3JWYy1wN2FxaUpPc0ZuM2lDMjZNd2hwRHJsNDFMajl4bG",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY3NtS3pocG9tc29rMThiQWFIQUllZFZvZGxZRUpMWllWbUlSNUJpeDBJcE9aVGsyXzJMRFUwWFJMQWNRTzI3SzF1bHQzY3JWYy1wN2FxaUpPc0ZuM2lDMjZNd2hwRHJsNDFMajl4bGNwOTdnT0JVMl9za1ZieWhIUDN3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-06-01-030",
+    "date": "2026-06-01",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Tower (NYSE: AMT) director gifts 810 shares to charity in Form 4 - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxONGFLdngxVGFNdFgyUG1Oc2JxcC1QSGZRZ1JidEVpVkxnMDd0UlFmQjQ0WHpCdmNuYVhXdHRGTnN3REtfNVlyVXhYa3FMWnJxcVYtb3lXUi1ZbVRVdjV6Yy11MU9DVzNRcnF2X0o3c2",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONGFLdngxVGFNdFgyUG1Oc2JxcC1QSGZRZ1JidEVpVkxnMDd0UlFmQjQ0WHpCdmNuYVhXdHRGTnN3REtfNVlyVXhYa3FMWnJxcVYtb3lXUi1ZbVRVdjV6Yy11MU9DVzNRcnF2X0o3c2UwOFdmSDFmbUdELUd5LXFka3Vlb3V0aUNfTXlMcDNSY3ZNenZ4Ty1IY0t2QncweUtmdWkwelFPZ2E1NEs0WFZ5TGdjTGdIZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-031",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "ICN boosts Iowa broadband with 100G Chicago route",
+    "summary": "The Iowa Communications Network (ICN) has established a brand new, dedicated 100-Gigabit (100G) route to Chicago. #pressrelease",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/broadband/icn-boosts-iowa-broadband-with-100g-chicago-route",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-032",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Omni Fiber acquires Citizens Fiber",
+    "summary": "The acquisition of Citizen Fiber expands Omni Fiber's growing network in western Pennsylvania. #pressrelease",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/fttx/omni-fiber-acquires-citizens-fiber",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-033",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "negative",
+    "title": "Online video subscription reached 2.24B in 2025 ahead of projected slowdown in 2026 – Omdia",
+    "summary": "Online video overtook pay-TV for the first time in 2025. Online video revenue increased 13.5% to $176 billion while pay TV revenue declined 4% to $170 billion. #pressrelease",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/video-streaming/online-video-subscription-reached-2-24b-in-2025-ahead-of-projected-slowdown-in-2026-omdia",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-034",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Optimum attempts to scale its big debt wall",
+    "summary": "Tied to a plan to manage a pile of debt, Optimum is pursuing a series of transactions, including moving its East footprint and Lightpath unit into a new, operationally independent subsidiary.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/cable-technology/optimum-attempts-to-scale-its-big-debt-wall",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-06-01-035",
+    "date": "2026-06-01",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank lines up €75bn data centre investment in France",
+    "summary": "<a href=\"https://totaltele.com/softbank-lines-up-e75bn-data-centre-investment-in-france/\" title=\"SoftBank lines up €75bn data centre investment in France\" rel=\"nofollow\"><img width=\"768\" height=\"356\" ",
+    "sources": [
+      {
+        "name": "total_telecom",
+        "url": "https://totaltele.com/softbank-lines-up-e75bn-data-centre-investment-in-france/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-01-036",
+    "date": "2026-06-01",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cogeco to take $1.7B non-cash charge related to U.S. telecom business - BNN Bloomberg",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQUHN5LVVaSXY0WUp1eHRZOVc3MWUxOUxLeTJ2WlRUMnh6WFFDUGpGZVV2dkNHckdfWnNkWFZUTWpHZW81OGlTZVBlR0VES3NZMDIyNzcwZXFueHVGbmJDUXRlZmtwbHphNVRHb0psaW",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUHN5LVVaSXY0WUp1eHRZOVc3MWUxOUxLeTJ2WlRUMnh6WFFDUGpGZVV2dkNHckdfWnNkWFZUTWpHZW81OGlTZVBlR0VES3NZMDIyNzcwZXFueHVGbmJDUXRlZmtwbHphNVRHb0psaW5SU0MtTy0xWmNvVUExMUExMG9LVlpiN0huSVhaemJoZWFUc1JVSFd2ZUVDa3RtYjlMa2VpQ09scFlFS0VKbVloRzBUaV8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nokia-2026-05-31-001",
     "date": "2026-05-31",
     "companies": [
@@ -789,6 +1185,24 @@
     ]
   },
   {
+    "id": "unknown-2026-05-31-017",
+    "date": "2026-05-31",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "3 Ways to Play the Data Center Land Grab - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSm0waDNVUGRyWXgtdzJHT0xra3JCeGcwRnZfbHhXQXFpejlpRnZjak5lNnV3amJrSGlmOVp0RjZ0RXRPTW42SXdvQ1FWRmsxdVhMV29ENVZGY2k0aEFxOUpzRlRNSmh3RHhHclJyMT",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSm0waDNVUGRyWXgtdzJHT0xra3JCeGcwRnZfbHhXQXFpejlpRnZjak5lNnV3amJrSGlmOVp0RjZ0RXRPTW42SXdvQ1FWRmsxdVhMV29ENVZGY2k0aEFxOUpzRlRNSmh3RHhHclJyMTRid09FSm55dERXZmdNMUZJRU9Od2ZzMjVZczVFeVlhY281SE9Td0pISk5kZEpTQWkyeVBCcjVscUs4TDlQT3AxNGhvX1ZESlM2SHpERkpaZVBKQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "ciena-2026-05-30-001",
     "date": "2026-05-30",
     "companies": [
@@ -960,6 +1374,24 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaFNxY1laOUw5ai1WN3BCWFhiNG4zaFU1V0RnOGxLRnJYZVVBVnlHQzhIMzUtb3BCVlo3OFFZbl9TWHh1TGhTd2E3RU1haFRnM1Y4YkRqODU4OW5DMFY1cWQwTU1fRGVPLUFJN0t6T1pBYlN6cHdJV3dFQ1oyNlowanFYM2JfdFBTYlJFSXU0UzIzeXItNE9WQ2F3Q2dWZEhtcDNyVjhjWjhUNHpsSW14UlMtMWI4d0huSHc3QWxTWUF1TzM3Y0dTalB0cHE0SmxiNkpoNdIB2gFBVV95cUxPQ29lX0t4QUFOY0xpU3QyOEV1R0NRUm5QeGRjVWxPQU9Pc2RzS090cHhDYTNzMWpvYnZfbFV5NVJVMDVwMDVlV1FhOUpYQnlXeWhlNnpFS0VlM09xWDhwTVZrUHVGX0JDQzRjeUN6V1FjdVNXZlo2YTJWZnJXY2p5TG1IcVNPQ0dCbnVBWnpfVjlBeGVKVVRuUmRXZFgwd1cwLXlvSDh5UE9iRWhQeG9aMHAtREtLUWNpcHU5VV8zcGdRRDQ5aUlLTEpuOEVYSURhM2ZTSDR4TWIxQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-05-30-010",
+    "date": "2026-05-30",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "‘You sold us out’: Illinois data center boom ignites local backlash - Shaw Local",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN2FhdHZEVjRyS1hxWTNwT2g1blFFMlZwTEk4dU5fMGtkMTNvS0xiNVY4UkhQMDBpekQ1UDJtYzg3Z1RPZ0g1cERFVUtnQ19BRTlxTGNHelhyV1BHNVhITkhpQjgtNUgzN3UtTmFjTl",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN2FhdHZEVjRyS1hxWTNwT2g1blFFMlZwTEk4dU5fMGtkMTNvS0xiNVY4UkhQMDBpekQ1UDJtYzg3Z1RPZ0g1cERFVUtnQ19BRTlxTGNHelhyV1BHNVhITkhpQjgtNUgzN3UtTmFjTlBNLWRoRXJGTldOcWhWbU5YTG1fRDVXZW9PYjdHRnU0TEppUmRyaVZZOVY0dWFIdzY2dno5QmdYSDMtdTg?oc=5",
         "type": "rss"
       }
     ]
@@ -4404,6 +4836,46 @@
       {
         "name": "equinix",
         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUjhudXdCckRDS01MTXNDZ25iLWIwR2Q4OWtDMUwzOTdMbTYycXhjQTctLXlHamdaVkJEOGZwNTdWVjJ5Yjlaek9ZY291d2xucDg5NUM5ZlhnMmlOQjJEOS1DQUlYQTBoVlpMTERzM2xkbFgycmtXRkw4WWlONFFLdg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ceragon-2026-05-26-053",
+    "date": "2026-05-26",
+    "companies": [
+      "ceragon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ceragon Networks (CRNT) grants director Ilan Rosen RSUs and options - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQOS1aNFpLTEJnSlhlWmV0Ymx3LTZSTk8yWmphcDYtUVJjVEwyZ1VUUG1TMzNkLXdNdmFjbS1rQklFOGIzTGFVYk44aVpILTJpYklsQTVFTFNwbUdkSUI2ZGQ2SUdzNjVNeWFCVFUyZG",
+    "sources": [
+      {
+        "name": "ceragon",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQOS1aNFpLTEJnSlhlWmV0Ymx3LTZSTk8yWmphcDYtUVJjVEwyZ1VUUG1TMzNkLXdNdmFjbS1rQklFOGIzTGFVYk44aVpILTJpYklsQTVFTFNwbUdkSUI2ZGQ2SUdzNjVNeWFCVFUyZGVyVkMxZ0JYcVdULTJRbUlzZ19Pdm9rdDBBVzZzRFgwTFVRdzg4NmtDNFZzZlVxWEJmZEZCek5ianNjSy1xdnJ1NGJwa3U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ceragon-2026-05-26-054",
+    "date": "2026-05-26",
+    "companies": [
+      "ceragon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "[144] CERAGON NETWORKS LTD SEC Filing - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPZEFfTXY1bjAtaXhNSjFfSnRadFFsSTRES0lfSGJJTkFRSF9BT3Zab1hQQktvMkdCcFNvay1CUzRyRHRJS3JRNlo4Yy1nWkg4ODI1YXZwX0VBOWc3cndHZzNsbjYzNzdHaDVnemFMRj",
+    "sources": [
+      {
+        "name": "ceragon",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZEFfTXY1bjAtaXhNSjFfSnRadFFsSTRES0lfSGJJTkFRSF9BT3Zab1hQQktvMkdCcFNvay1CUzRyRHRJS3JRNlo4Yy1nWkg4ODI1YXZwX0VBOWc3cndHZzNsbjYzNzdHaDVnemFMRjFWVEh4UkkwdW9nekVVN1ZLRHZtTlJnUUUzbmk0aGVQTXdGSWt5cEFJYW9FYngzQQ?oc=5",
         "type": "rss"
       }
     ]
