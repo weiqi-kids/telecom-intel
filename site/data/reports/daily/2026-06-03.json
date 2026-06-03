@@ -1,0 +1,221 @@
+{
+  "date": "2026-06-03",
+  "generated_at": "2026-06-03T12:34:20.099007Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "equinix-2026-06-03-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "A Look At Equinix (EQIX) Valuation After Raised Guidance On AI Data Center Demand - simplywall.st",
+      "companies": [
+        "equinix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdmJFM1FUNXFpNE9hNFhRTmVzNTFuMmRNQUFQUTY2Um0yMTNMMmVxaGFkOVhlWlR1VXZ6RXJxVXdmbDZmdTZEbGhlRUVMQmp2QkZUNFctOUVWTHRQZlVfNUVVY19Lb1l5STZ6bEtqdGNlVjFYRlBodGp6RUFaejFGeFdHejR3T19qU0FfdWxYeDhkNWFOTXhjTm1wNE9PdTBNVnlZQURnd1M3ZVp5WExWVGRuSktXRS1xZUZUWkVGUnNOR3JESFRXUNIBzgFBVV95cUxQXzA4Wk1NTTZHM3ptNnJOOHIwOTJKalZSZjdxZEZwSDJsY1QzRDFaV2ctSHA3MTNLQ21ZX3ZCOTFmdG1ocjZ1bXFhRlBSNUNWSUcyWjZ3dkZMVjQ2OEQxRnNBdEcwXzNPSlptcEdaVzF0cC1qYjF4cW00VkxhaF9JQmdSeXhXTWRubGt1TGlhc1BXa1hSYUh3eHRGMHlsbnVhWS0yNHpjYS1yQnk0b1RMMEI5UV8tMzBZZE1peHJybDNWazZFbFhMLXFlSm02UQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-03-011",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Telecom is the cheapest way to distribute AI – VEON",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/ai-machine-learning/telecom-is-the-cheapest-way-to-distribute-ai-veon"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-03-017",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Telecom Sector Revenue Falls to Shs 1.6 Trillion, UCC Report Shows - ChimpReports",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZFBVT1lvekQ3T01pR1oyV0ZFeDFKc0ctUTNpbGdjd3c2YWFTS05WU2tzOVpYai1jS09tdXJ2OHQ4VC1VT2dEZ3pMdFFHZDg5Q3Z1eUxQUmwwQ3ZWMjlPZkIwa09VcU5UcGg1eGNKUm93U3U1cjF4bWNOamVKLUJwR3FiU19hb28td3N0aHN1anJ6Y1BlZ1E?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "deutsche_telekom-2026-06-03-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Former Deutsche Telekom executive to head Verizon network and technology division - report - Telecompaper",
+      "companies": [
+        "deutsche_telekom",
+        "verizon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT3ZBeTBkZFJOQ2djM3FFYURLY2lOc0ZFZFBtMmUyMU56MWg2aE1wZF91c01fV1ZrUGdtdHBraHY5Q002ZndDSG44TGxiU0NKNktBd1NTN1dTQXhWMGtDQkM4TGxCWUR3eUNIVXJyZ1UyMkJ6clVfWlNBbnJXNjJtSHdST281dDRyRldUT1VNVzU2SlVnQlR3QUNJOWd3eVlJalNfWkxQRnBQc1ZEQ191MHF1Yk8tSkt6NDM1SEVoM3FHTEZfRlpnb09mWQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nokia-2026-06-03-012",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "AI is making telecom more expensive, warn Ericsson and Nokia",
+      "companies": [
+        "nokia",
+        "ericsson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/5g/ai-is-making-telecom-more-expensive-warn-ericsson-and-nokia"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.12,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 17,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "equinix",
+        "count": 3
+      },
+      {
+        "id": "verizon",
+        "count": 2
+      },
+      {
+        "id": "softbank",
+        "count": 2
+      },
+      {
+        "id": "ciena",
+        "count": 1
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 311,
+    "dup_title": 158,
+    "too_old": 101,
+    "gate1_blocked": 6,
+    "gate2_blocked": 3,
+    "passed": 43,
+    "pass_rate": "28.1%",
+    "gate2_block_rate": "2.0%",
+    "gate2_samples": [
+      "Nokia Rises 159.6% in the Past Six Months: Is There More Upside Ahead? - TradingView",
+      "Ciena Jumps 7.5% Amid Sector-Wide Rally - AlphaStreet",
+      "Essex Financial Services Inc. Invests $372,000 in Ciena Corporation $CIEN - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為Equinix、Verizon、軟銀相關動態：「A Look At Equinix (EQIX) Valuation After Raised Guidance ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "A Look At Equinix (EQIX) Valuation After Raised Guidance On AI Data Center De...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Telecom is the cheapest way to distribute AI – VEON（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

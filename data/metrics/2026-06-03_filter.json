@@ -1,0 +1,14 @@
+{
+  "total_raw": 311,
+  "dup_title": 158,
+  "no_date": 0,
+  "too_old": 101,
+  "gate1_fail": 6,
+  "gate2_fail": 3,
+  "passed": 43,
+  "gate2_samples": [
+    "Nokia Rises 159.6% in the Past Six Months: Is There More Upside Ahead? - TradingView",
+    "Ciena Jumps 7.5% Amid Sector-Wide Rally - AlphaStreet",
+    "Essex Financial Services Inc. Invests $372,000 in Ciena Corporation $CIEN - MarketBeat"
+  ]
+}
