@@ -1,0 +1,194 @@
+{
+  "date": "2026-06-04",
+  "generated_at": "2026-06-04T10:58:26.021050Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ciena-2026-06-04-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Anticipated Earnings Reports from Ciena Corporation (CIEN) and O - GuruFocus",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcDVZUDBTWGNDQmVMcGtmSVUxMWV2cUhBeERIZTZBWEtEN1BsZHNpV2ZoRkNxWGhSNkt3N254LWVpWmpqMmJxRVd4a0J0YkZ2Zk1NM2lNLXVYb21CN3lib2VIbmdjbTRVR1NWWWFmYno3SkhJY1ZMMFN6Ti0xejRtRjJtWWlxXzhHQ21qem5tSEN1Z2xPaURnU3VNVks1UTM3bEFVZV9zOEpIelNsXzBCTVo5dlZXamNZaG11ZnJhX2JyTVU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-04-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Openreach fiber monopoly is a growing threat, says Nexfibre CEO",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.lightreading.com/fttx/openreach-fiber-monopoly-is-a-growing-threat-says-nexfibre-ceo"
+    },
+    {
+      "rank": 3,
+      "event_id": "softbank-2026-06-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SoftBank Corp. Emerges as Key Bidder for Blackstone's Payment Firm SP.LINKS - marketscreener.com",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORVVENFYyWmF4N2NrS3hjbVd2UUJ5RU5DakVaeWphTFhGVUF0alkzTjdodVFxbDdUSnFuVVREVDVNUzhyc3FBbWZiVXpPMXR3eVI1bm1CTEdycXBSdEc3dmtiVzN5dmM4QUVudTNHZkNRYzdqajNsZDRodlNhWXBnYktISDhJaDlNVXNCaEVBam5KXzhTcERCWGtGRGFPaVAxc2UyQklPMzBKQWdLb0VKc21XZGVpcVdINEFjNzFPbEtrcDFucUE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "softbank-2026-06-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Market Chatter: SoftBank Corp. Emerges as Key Bidder for Blackstone's Payment Firm SP.LINKS - Moomoo",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWnZmU1JrYXd1LXBKd254bktQekg0eEFVSmV0dTg3UWpFWlVCQ2xGeWpnWXJMSHRpWExpYU9LcUtDbHlsSG4yd0tqT1ZkeGxrTFB0VHBqdkRlSm4zaVpoemdEVFMyZmo1c0EzM1ctU1M1bTQ1RmR4ODk3M1RxQkd6TDhMNHlMV1ZKU2JVclR2X2ZDUjhKY2hjeE9mZGgtZW5lZkRqNksyZlFuRUE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-04-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Eurobites: European Commission unwraps tech sovereignty package",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/ai-machine-learning/eurobites-european-commission-unwraps-tech-sovereignty-package"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.3,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "softbank",
+        "count": 2
+      },
+      {
+        "id": "ciena",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 310,
+    "dup_title": 164,
+    "too_old": 107,
+    "gate1_blocked": 4,
+    "gate2_blocked": 3,
+    "passed": 32,
+    "pass_rate": "21.9%",
+    "gate2_block_rate": "2.1%",
+    "gate2_samples": [
+      "Nokia Rises 159.6% in the Past Six Months: Is There More Upside Ahead? - TradingView",
+      "Essex Financial Services Inc. Invests $372,000 in Ciena Corporation $CIEN - MarketBeat",
+      "Ciena Jumps 7.5% Amid Sector-Wide Rally - AlphaStreet"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為軟銀、Ciena相關動態：「Anticipated Earnings Reports from Ciena Corporation (CIEN...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Anticipated Earnings Reports from Ciena Corporation (CIEN) and O - GuruFocus（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Openreach fiber monopoly is a growing threat, says Nexfibre CEO（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
