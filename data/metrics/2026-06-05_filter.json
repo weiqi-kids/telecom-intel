@@ -1,0 +1,15 @@
+{
+  "total_raw": 311,
+  "dup_title": 150,
+  "no_date": 0,
+  "too_old": 96,
+  "gate1_fail": 7,
+  "gate2_fail": 4,
+  "passed": 54,
+  "gate2_samples": [
+    "Nokia Rises 159.6% in the Past Six Months: Is There More Upside Ahead? - TradingView",
+    "Essex Financial Services Inc. Invests $372,000 in Ciena Corporation $CIEN - MarketBeat",
+    "Ciena slumps despite record quarter, weighed on by lofty expectations - marketscreener.com",
+    "Verizon finds work for DT's former CTO among all the AI agents"
+  ]
+}

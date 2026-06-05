@@ -1,0 +1,193 @@
+{
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T11:21:27.978598Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nokia-2026-06-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia (NYSE: NOK) sells EUR 500m senior notes to refinance 2028 debt - Stock Titan",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOGtyVEdkOU5GT1FaNXZ4T05reUpKelBxQS1DcGdOb2s4cEtZZVc5MVY5ajBWN3kwYUNEa3BxVmo1Ny1HYzJxcG53dmg2dGZxYUVjOUwwT2hYOGd1ajRpVkdpSjgxWFl5TDZyQWNFbXkxQXpuZE5ETmdEWm1JNW1sSWxsSjFSaWxhblFLbEU3MXh4S1E4M1R1SlAzY2l1dGNhNHd6aHB1X0E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ciena-2026-06-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Corporation Stock 12‑Month Price Target Raised to $538.23 - TradingView",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ2hGU0FDdEJYRUJlMzA4S1dNT3dGMHRYLUEtRHdhT1ZCVXNzWUpRb2RnZzZxUUhZQktDeWVfRXhaRzVuNWJSckNlS1lYQk5YQ2I3ZmtxQTJEbEV6UnhKUXQwT3lRZzMtRkd1NUFoaVA4VkkzOHFHZDB6Y2hXc01hTlFWWWl1SUVpUTEzZkY5TVA5TWVKd1BsXzFObFBkZDQwM1RPcTlXR0xVVVJLRV9GUzNTQ2ZvMU0zTXRqZmhJdGprQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "american_tower-2026-06-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "American Tower Sees Growth Ahead - Inside Towers",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9YUlFIZE00Uko2b1pCeTdiZE8xOUpLc2tyZjdoczR3UGZJWHhSY3gxOHJXQXMybExfOFU5TGJVZHR3cDQ1TWs2alBnT2hESnFDd3JuMFNKcjlIbzlkT0p2YnJSWERsV0xMZkdvdQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "american_tower-2026-06-05-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "American Tower (AMT) Updates Termination of Agreement with DISH Wireless - GuruFocus",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNenhUSE1MRE1ab09qSHFWVEp3QmtGb1d5aUFnc0tia3lVOWp5Nl9ZTzdCbGJhZEJWcnlsMEp0Z0d3eEhvc29QVnNxejR1WlhGSTB3NUFyYWZkOEhacV85OE5BbXowN2h5UXBiTlBXdE1ycjRCMUZRUVdFTlY4VjhsYVdxNWhaSUVtNDd4WThhMGw2WU9PTThmSWZ5TjNsSlFWWm1TcTRPeGJnTWdGb0h1QnljMmh0eThwY1Y5Qm93?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "equinix-2026-06-05-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Urso met with Equinix executives, and presented a data center investment project in Italy at Mimit. - Agenzia Nova",
+      "companies": [
+        "equinix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQkhsMmhfRi1fVHpvUzRRV2tXSlNkQjk1eTVzd3JHTVNPcHhKaGlTUmUyWU9fZWk3aXduT0pvanB0YkMxOFhldEdMVEhySE56RDRZVWR6eVczUkJuU3V0T0pTaklGY0piZG5zM3ZLcHVEZGZqcGFuaW9rZkVMVVRwRDAxX0VtZkk5eklHNWRuOURLWU9pWTRZZ3dzMlhPOVF4SVBDSHlwaG04VDRmR3dvLXFqUk9hTGtQeHFnVGo0WFRBbjFFVkNRTnJlazZPSGZ5OFdiZGhVM3JGZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_tower",
+        "count": 2
+      },
+      {
+        "id": "nokia",
+        "count": 1
+      },
+      {
+        "id": "ciena",
+        "count": 1
+      },
+      {
+        "id": "equinix",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 311,
+    "dup_title": 150,
+    "too_old": 96,
+    "gate1_blocked": 7,
+    "gate2_blocked": 4,
+    "passed": 54,
+    "pass_rate": "33.5%",
+    "gate2_block_rate": "2.5%",
+    "gate2_samples": [
+      "Nokia Rises 159.6% in the Past Six Months: Is There More Upside Ahead? - TradingView",
+      "Essex Financial Services Inc. Invests $372,000 in Ciena Corporation $CIEN - MarketBeat",
+      "Ciena slumps despite record quarter, weighed on by lofty expectations - marketscreener.com",
+      "Verizon finds work for DT's former CTO among all the AI agents"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為AMT、諾基亞、Ciena相關動態：「Nokia (NYSE: NOK) sells EUR 500m senior notes to refinanc...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nokia (NYSE: NOK) sells EUR 500m senior notes to refinance 2028 debt - Stock ...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Ciena Corporation Stock 12‑Month Price Target Raised to $538.23 - TradingView（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
