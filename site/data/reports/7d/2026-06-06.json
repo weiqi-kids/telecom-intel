@@ -1,0 +1,169 @@
+{
+  "date": "2026-06-06",
+  "date_range": {
+    "start": "2026-05-31",
+    "end": "2026-06-06"
+  },
+  "generated_at": "2026-06-06T09:57:26.551704Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ciena-2026-06-04-010",
+      "date": "2026-06-04",
+      "title": "Ciena Delivers Strong Quarter and Raises Outlook Despite Share Price Decline (CIEN) - Yahoo Finance",
+      "importance_score": 0.9
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "deutsche_telekom",
+      "company_b": "verizon",
+      "co_mention_count": 3,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 71,
+      "last_week": 67,
+      "week_over_week_change": "+6%",
+      "sentiment_this_week": -0.01
+    },
+    "spectrum_auction": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 7,
+      "last_week": 3,
+      "week_over_week_change": "+133%",
+      "sentiment_this_week": 0.0
+    },
+    "fiber_buildout": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "arpu": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": -1.0
+    }
+  },
+  "company_7d_summary": {
+    "nokia": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "ciena": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "american_tower": {
+      "event_count": 9,
+      "sentiment_avg": 0.06,
+      "rank": 2
+    },
+    "deutsche_telekom": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "softbank": {
+      "event_count": 7,
+      "sentiment_avg": 0.14,
+      "rank": 3
+    },
+    "sba_comm": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "verizon": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "equinix": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "ericsson": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 224,
+        "last": 225,
+        "change_pct": -0.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-05-31",
+      "event_count": 18,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-06-01",
+      "event_count": 36,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-02",
+      "event_count": 36,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-06-03",
+      "event_count": 45,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-06-04",
+      "event_count": 55,
+      "sentiment_avg": 0.1
+    },
+    {
+      "date": "2026-06-05",
+      "event_count": 32,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-06-06",
+      "event_count": 2,
+      "sentiment_avg": -0.25
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-05-31 ~ 2026-06-06）共 224 則事件，重點為「Ciena Delivers Strong Quarter and Raises Outloo...」。產業通用、法說會、光纖建設為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "諾基亞",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Ciena",
+        "reason": "本週出現 12 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "AMT",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

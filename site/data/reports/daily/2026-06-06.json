@@ -1,0 +1,124 @@
+{
+  "date": "2026-06-06",
+  "generated_at": "2026-06-06T09:57:26.414537Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-06-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Telecom Market Outlook: 7 Powerful Signals From France 2026 - Brussels Morning Newspaper",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5WbGlTOTFpdGk4UExrUWl1SUFOOEhNNGFlYlF3MjRrWDR5Z0xJZEhkNC1SZHRFSnlDazNFODdVZEpLZ1BwdHFBd2hjbmIzOVFXdU5fbFM4Wl9xVmVkVFFHTVJFTnE3YW1ES2szN2pKZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Big telecom deal delayed as companies finalize details - Minute Mirror",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWldqLVY5U0trQ0lHWUNmVS01VXo5WEl3d1NXUHdiT1FHYTF4d2xEM0hOQ2JFQWcwVXNET3VmUWpadkVxalM4ZV9HX3FMMnY0blFoazYzYnFFamZ4U3c2eEt6YUdQNHRVTEM2QWVHeERwMmozbEF6OHFDQS1YRW0zMzQ5cDRFdjJtMjcxOEtMNjR3blVz?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 1
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 307,
+    "dup_title": 163,
+    "too_old": 97,
+    "gate1_blocked": 6,
+    "gate2_blocked": 7,
+    "passed": 34,
+    "pass_rate": "23.6%",
+    "gate2_block_rate": "4.9%",
+    "gate2_samples": [
+      "Nokia Rises 159.6% in the Past Six Months: Is There More Upside Ahead? - Yahoo Finance",
+      "Nokia Corporation Issues Eur 500 Million Senior Unsecured Notes Under Emtn Programme - marketscreene",
+      "Nokia issues EUR 500 million senior unsecured notes and applies for notes to be listed on Euronext D",
+      "Essex Financial Services Inc. Invests $372,000 in Ciena Corporation $CIEN - MarketBeat",
+      "Verizon finds work for DT's former CTO among all the AI agents - Light Reading"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為產業通用、法說會相關動態：「Telecom Market Outlook: 7 Powerful Signals From France 20...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Telecom Market Outlook: 7 Powerful Signals From France 2026 - Brussels Mornin...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Big telecom deal delayed as companies finalize details - Minute Mirror（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

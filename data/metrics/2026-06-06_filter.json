@@ -1,0 +1,16 @@
+{
+  "total_raw": 307,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 97,
+  "gate1_fail": 6,
+  "gate2_fail": 7,
+  "passed": 34,
+  "gate2_samples": [
+    "Nokia Rises 159.6% in the Past Six Months: Is There More Upside Ahead? - Yahoo Finance",
+    "Nokia Corporation Issues Eur 500 Million Senior Unsecured Notes Under Emtn Programme - marketscreene",
+    "Nokia issues EUR 500 million senior unsecured notes and applies for notes to be listed on Euronext D",
+    "Essex Financial Services Inc. Invests $372,000 in Ciena Corporation $CIEN - MarketBeat",
+    "Verizon finds work for DT's former CTO among all the AI agents - Light Reading"
+  ]
+}
