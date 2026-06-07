@@ -1,0 +1,16 @@
+{
+  "total_raw": 310,
+  "dup_title": 190,
+  "no_date": 0,
+  "too_old": 95,
+  "gate1_fail": 5,
+  "gate2_fail": 7,
+  "passed": 13,
+  "gate2_samples": [
+    "Nokia Corporation Issues Eur 500 Million Senior Unsecured Notes Under Emtn Programme - marketscreene",
+    "Nokia Rises 159.6% in the Past Six Months: Is There More Upside Ahead? - TradingView",
+    "Nokia issues EUR 500 million senior unsecured notes and applies for notes to be listed on Euronext D",
+    "Essex Financial Services Inc. Invests $372,000 in Ciena Corporation $CIEN - MarketBeat",
+    "Why Ciena Fell By Nearly 20% After Posting Second Quarter Results (NYSE:CIEN) - Seeking Alpha"
+  ]
+}

@@ -1,5 +1,64 @@
 [
   {
+    "id": "nokia-2026-06-07-001",
+    "date": "2026-06-07",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "KGS/NOK: Convert Kyrgystani Som (KGS) to Nokia Corporation Sponsored (NOK) - OKX",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNUGgyeHlDYjVaaW5KbkFJMm5iNnJySk9vZWljRExvdkNTaFdfQ3Q4NUI0eklOY2h2cm55ZE9pOGVNRjFDYUlGUjRGT0t5YXMyeThmNk9JUG50bzI1VWc?oc=5\" target=\"_blank\">",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNUGgyeHlDYjVaaW5KbkFJMm5iNnJySk9vZWljRExvdkNTaFdfQ3Q4NUI0eklOY2h2cm55ZE9pOGVNRjFDYUlGUjRGT0t5YXMyeThmNk9JUG50bzI1VWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ceragon-2026-06-07-002",
+    "date": "2026-06-07",
+    "companies": [
+      "ceragon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Craig-Hallum Raises its Price Target on Ceragon Networks (CRNT) - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQejJzWVA0UzA2TWNuVUZ3S1ZhTnlUQ1ptX3JLRE1TZHhaak8xMEx6R3JHNWVLa3ZpSDdja2VMbHM1eEZ5N1UyZ1BOWlQ0bXZvVllnVDk4X3JjSm9Qc3otVnV1TkVJSmdfYmUwQm9jMW",
+    "sources": [
+      {
+        "name": "ceragon",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQejJzWVA0UzA2TWNuVUZ3S1ZhTnlUQ1ptX3JLRE1TZHhaak8xMEx6R3JHNWVLa3ZpSDdja2VMbHM1eEZ5N1UyZ1BOWlQ0bXZvVllnVDk4X3JjSm9Qc3otVnV1TkVJSmdfYmUwQm9jMWE0TkFGOEEwVHZ4alZOWjAzSWx2c01ZRnVWcm5mS1hLaUtqTmZBQTZMZG56TDFxUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-06-07-003",
+    "date": "2026-06-07",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Ciena delivers strong quarter and raises outlook despite share price decline (CIEN) - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxON2VhekQtRHp6aXdCSDF3OGFqZkc3bWlVdW1qZDhpN0taXy1zWTNZRWxNOFkwUFFiem4ydU84aUI1M25qTjlEZFJkMTBnLW1Za0hGMXI1TUFJUjFjYVVpSW4tenpZd3RXb3dCOU1URU",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxON2VhekQtRHp6aXdCSDF3OGFqZkc3bWlVdW1qZDhpN0taXy1zWTNZRWxNOFkwUFFiem4ydU84aUI1M25qTjlEZFJkMTBnLW1Za0hGMXI1TUFJUjFjYVVpSW4tenpZd3RXb3dCOU1URUVaLXBidUNabFpMS2xxVnR0MjJNVnBYMHpnN1V4UkJDTnBMTGs2YmFVak01OHdhdXVJMEVrZF93RmVHdTJyOFlzWndnZUhDcXl1ck01T3h6eXNmb0ZQRHhzcHlxSVpNNnp2ZzR3RXRBX3Z5S0ZyY1RvcTNfN2hYQjktOU1EcFpaX2FqRDA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "unknown-2026-06-06-001",
     "date": "2026-06-06",
     "companies": [],
@@ -32,6 +91,66 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWldqLVY5U0trQ0lHWUNmVS01VXo5WEl3d1NXUHdiT1FHYTF4d2xEM0hOQ2JFQWcwVXNET3VmUWpadkVxalM4ZV9HX3FMMnY0blFoazYzYnFFamZ4U3c2eEt6YUdQNHRVTEM2QWVHeERwMmozbEF6OHFDQS1YRW0zMzQ5cDRFdjJtMjcxOEtMNjR3blVz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-06-06-003",
+    "date": "2026-06-06",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "A Look At SBA Communications (SBAC) Valuation After EchoStar Default Renews Focus On Customer Risk - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOb01Cd3pMODhHSEhfcmJudDFnZUJsZFlacVAwMUF0T0NNRjl1V3ZLck5lbERpNkVPTDVTaDJ2dGJ6d3F6T3RpdFc4bFJVVW9BV21qM3lCak9pN1lIYjk2M2trVXpzekYtbWQ0SV9yWk",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOb01Cd3pMODhHSEhfcmJudDFnZUJsZFlacVAwMUF0T0NNRjl1V3ZLck5lbERpNkVPTDVTaDJ2dGJ6d3F6T3RpdFc4bFJVVW9BV21qM3lCak9pN1lIYjk2M2trVXpzekYtbWQ0SV9yWkJYNjdLM3cwSlJvMTJDOV8wS3gwUVFGN1NpYjJ3WlhlV3pzWlM4dGFGbGhrdWNybjVUb1J6YVBaNVNGWllWeWZQejNLTmgwR1E2LWZabXFNNHoxSExoNlQzcU5kRWlCZi1xWENsSkU1NG1adGlJ0gHcAUFVX3lxTE5vTUJ3ekw4OEdISF9yYm50MWdlQmxkWVpxUDAxQXRPQ01GOXVXdktyTmVsRGk2RU9MNVNoMnZ0Ynp3cXpPdGl0VzhsUlVVb0FXbWozeUJqT2k3WUhiOTYza2tVenN6Ri1tZDRJX3JaQlg2N0szdzBKUm8xMkM5XzBLeDBRUUY3U2liMndaWGVXenNaUzh0YUZsaGt1Y3JuNVRvUnphUFo1U0ZaWVZ5ZlB6M0tOaDBHUTYtZlptcU00ejFITGg2VDNxTmRFaUJmLXFYQ2xKRTU0bVp0aUk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-06-06-004",
+    "date": "2026-06-06",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Is SBAC Stock Rallying Today? - Stocktwits",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVdwbkwydjgxSnVaX2RxTjBMMzhNMDdobGp4UkE2dVdudzROYkZiNmRIOGFucldBbWllQ2dYdHMwdGs1bEVxQ2RFREJhenhTVGF1MURLUkx4enlYajVaREROV2JMaG9tNUltUjhWX1",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVdwbkwydjgxSnVaX2RxTjBMMzhNMDdobGp4UkE2dVdudzROYkZiNmRIOGFucldBbWllQ2dYdHMwdGs1bEVxQ2RFREJhenhTVGF1MURLUkx4enlYajVaREROV2JMaG9tNUltUjhWX1NHTHRzcU9XVlhhckl5UlFLUVJ0X3o0UHcydlNMT2hCR0tEVDVmcHNPRjI1Tzc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-06-06-005",
+    "date": "2026-06-06",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Avoiding Lag: Real-Time Signals in (SBAC) Movement - Stock Traders Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQTm53X1BYYzNYZ0xYVnQtM1V4UkdjTmVlX2JsdjJUcEdPQnY1cm1qM1lIajBVNjlBSDBmVGlHSGNMa2N6VkMyZmVQSE1MczVLaldVQmJlcDV1bXZhdnhveTQ5dTVUWVUxMWRNalRZOX",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTm53X1BYYzNYZ0xYVnQtM1V4UkdjTmVlX2JsdjJUcEdPQnY1cm1qM1lIajBVNjlBSDBmVGlHSGNMa2N6VkMyZmVQSE1MczVLaldVQmJlcDV1bXZhdnhveTQ5dTVUWVUxMWRNalRZOXdJMUZfZEZfajBVNlRYMEViQ0YwQzFxcjNlTnI3b2dXdzdzYTZNVjBBcEdtVUtyZnM0eFlkNUJ1WHJobDZreDVPUVdDNHVwNENfWnBzcGwtUXlFLXJtbjVF?oc=5",
         "type": "rss"
       }
     ]
@@ -643,6 +762,65 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU1dRanlRRk5UbUpUam5pNUVRcm95cFJvQXNUUF9kcm41dUJsZXJBQWM0Q3lxSlkyRXVRbjhsWUxQVFlsanpmM2lic1drRFNyTEs2QWhMeW1BdlJHa09GOFR6ZEF5YXRWdno4czBaZVRjUTFlSTMwYzhvRm9iWjVWS2ZHTS1ZTnhmbWhPUUhTTFhCWEVBRnFIYmlmenBhVlFra2NRYnl1R1RicFcyN2dNVWhfdjlWQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-06-05-033",
+    "date": "2026-06-05",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UBS raises Ciena stock price target to $508 on AI demand outlook - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ0JVbFhvY0FzVVVHQi1fWENQQUFOemZNcmZYWWpHckdKOE9mMzFRdE9fNWNxel80WjdNY09ySTdFQlZLZFpIU3B6NE8zWHAtYXlvaUY1TkhndkZscUFtY2o5YU9SUjV3eU5UUHZMQl",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZ0JVbFhvY0FzVVVHQi1fWENQQUFOemZNcmZYWWpHckdKOE9mMzFRdE9fNWNxel80WjdNY09ySTdFQlZLZFpIU3B6NE8zWHAtYXlvaUY1TkhndkZscUFtY2o5YU9SUjV3eU5UUHZMQlF1bG1sMDBrTHNRSi1mV2NveDRVSlhJV24wR1BfUEt2LWhQckpjZlVOd0x3Wml0cGwxSUF0clVDNnh1ZnNkd21pcHJsb21XWEhfdzZIdmZqUmJ1RzZZVDhFZjhTYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-06-05-034",
+    "date": "2026-06-05",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Tower ends collocation agreement with DISH Wireless - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNDgxb0g4WDg5VVRma2RhYlpNWWRXdTN2SURSMkN0VGtjRlZicVdkM1V5RV9vYjAzdFU3YlRoQ0p4YmJpN0c2SEtQUS0yN3lkUXh2LVFEQmRaTDlHMEF1dmhhdVk0SlUtNFNLUkVvaW",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNDgxb0g4WDg5VVRma2RhYlpNWWRXdTN2SURSMkN0VGtjRlZicVdkM1V5RV9vYjAzdFU3YlRoQ0p4YmJpN0c2SEtQUS0yN3lkUXh2LVFEQmRaTDlHMEF1dmhhdVk0SlUtNFNLUkVvaW0yQ0llU01udzNXU21nQ3VKUl9yLVF3MlpJX2E3eW51c2d3bkIwRWo2R1hVWndmTElyNzJSNjdORHlzMDZSOEhTbElwMmxKcTVuRlhUbFU2cjZELUMyWjZIckpiLUNzZ2E5ZGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-05-035",
+    "date": "2026-06-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Kosovo telecoms sector benefits from mobile telephony boost in Q1 - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNRG1NQjE3Vl80V2tHcmlqTlJXQmV4VFpTZThTUGVUOC1oQUhIVERWd2dWQzdiU01taXI5TzV2U0xMV3BXVGlYSXRYNkdHWVFJTGdPOEp4Q21oeE1iaDNCdDhBMVRrc0lnaFpWaTBTRE",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRG1NQjE3Vl80V2tHcmlqTlJXQmV4VFpTZThTUGVUOC1oQUhIVERWd2dWQzdiU01taXI5TzV2U0xMV3BXVGlYSXRYNkdHWVFJTGdPOEp4Q21oeE1iaDNCdDhBMVRrc0lnaFpWaTBTREJENHgwWmZRR2NHUF9JQjU2eUJtdERsUlRkLThHdGQ3V3MxMTdOamM3NHJIeGlHOHhTMzk5WFpiNzJLTTJT?oc=5",
         "type": "rss"
       }
     ]
@@ -1715,6 +1893,48 @@
     ]
   },
   {
+    "id": "ciena-2026-06-04-056",
+    "date": "2026-06-04",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ciena reports fiscal Q2 earnings beat, shares slide on guidance - Yahoo! Finance Canada",
+    "summary": "<ol><li><a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNFZrcTU3YXliMXdRYTZOREQzb29Ka0dtLWlZWnB2SHFTbjNKZkVSeEp5YWpoY1RDS2szLUVPb0hIaVM4Y21PaGlKM3NMaDc1N1o4d2Z6T0FyNkhHSDdqOHJXZEtRWXpRZz",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNFZrcTU3YXliMXdRYTZOREQzb29Ka0dtLWlZWnB2SHFTbjNKZkVSeEp5YWpoY1RDS2szLUVPb0hIaVM4Y21PaGlKM3NMaDc1N1o4d2Z6T0FyNkhHSDdqOHJXZEtRWXpRZzBlQS14TURtUFU0aEZLSDRUdnlGRld0N3NXZ3p3dkR5?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-06-04-057",
+    "date": "2026-06-04",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ciena reports fiscal Q2 earnings beat, shares slide on guidance - Proactive financial news",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOckFvNmlFM0s0TnYyU3IzakNnYUs2NTFOeGpvTmVibWZGMnZnSXpGamRwVVdKN29QTlNGZFdZSGxoZXYyNUUwSTZzTC10Yko0V1ltY2huNjRlMUlJTXVLb0VUTHcteHhLSGNhZWJKZz",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOckFvNmlFM0s0TnYyU3IzakNnYUs2NTFOeGpvTmVibWZGMnZnSXpGamRwVVdKN29QTlNGZFdZSGxoZXYyNUUwSTZzTC10Yko0V1ltY2huNjRlMUlJTXVLb0VUTHcteHhLSGNhZWJKZzRvYkl4OTExOHQ4YjdXM3MzRmI0TmRhZUVNX2VIY3FBRmY0V3BkT2I3UEFWSmJnX3lLeU1tS1lva1dVTWhzRG90Sl9aQktyRWZ2UE9QUE05MEtLb2ppVTlXVHJrbEFTQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "ciena-2026-06-03-001",
     "date": "2026-06-03",
     "companies": [
@@ -2565,6 +2785,26 @@
       {
         "name": "google_news_5g",
         "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORWh2ay16YmNwdTZITWFzQ3ktV1J5OTlzMXFaS3BxMmo4NTllSGt4ZEJYRzAzZGRFcWdXMENRLUVoVU9Uak1SYWthUDFkTHJGNEl5WjBQWWpRT1BqTzBxQnpLUHZmUEcwTUREaWhaVlBXY3ozc1UwNFluTk5LTmx5X3JOcURweWN6MHZuTERVbk10ekVvN19RU2JpQnVicURmU3QwUDU3TQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-06-03-046",
+    "date": "2026-06-03",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nokia and AWS power Tune Talk’s cloud-native 5G network - Telecoms Tech News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNbXJuSnM5OG9wR1huUzEtODNoR1N0ZzB0X0VybW9ndlAzeE95ZGFUc1pZWHNrX3RKQ1huWDVNQ1hmd1d6dTN4TEVNaUk4SUg0d1IwVFlQNTZiT29URDZGZF9hTlExY2xFNHhseUc2UD",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbXJuSnM5OG9wR1huUzEtODNoR1N0ZzB0X0VybW9ndlAzeE95ZGFUc1pZWHNrX3RKQ1huWDVNQ1hmd1d6dTN4TEVNaUk4SUg0d1IwVFlQNTZiT29URDZGZF9hTlExY2xFNHhseUc2UDhGRXVqbmpLdXI4aWtCZ2t5QjNQMk51cU5iWl8wZGw0RQ?oc=5",
         "type": "rss"
       }
     ]
@@ -3932,6 +4172,27 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUHN5LVVaSXY0WUp1eHRZOVc3MWUxOUxLeTJ2WlRUMnh6WFFDUGpGZVV2dkNHckdfWnNkWFZUTWpHZW81OGlTZVBlR0VES3NZMDIyNzcwZXFueHVGbmJDUXRlZmtwbHphNVRHb0psaW5SU0MtTy0xWmNvVUExMUExMG9LVlpiN0huSVhaemJoZWFUc1JVSFd2ZUVDa3RtYjlMa2VpQ09scFlFS0VKbVloRzBUaV8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-06-01-037",
+    "date": "2026-06-01",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What Should Investors Do With Ciena Stock Ahead of Q2 Earnings? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPRTFRdGFEV2FhbF9tVzVkQlN2eHR2eDRkUnB6QnBOZFZrVzBSZFBTSTlwbC1yWHBGY2VhcVZvVlZfSkdRNXJ3NGprYmd2X2pZYXlsWTV5ajcteVFZcnpnQ2kyYVpkemltYWROS2I4cm",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRTFRdGFEV2FhbF9tVzVkQlN2eHR2eDRkUnB6QnBOZFZrVzBSZFBTSTlwbC1yWHBGY2VhcVZvVlZfSkdRNXJ3NGprYmd2X2pZYXlsWTV5ajcteVFZcnpnQ2kyYVpkemltYWROS2I4cmNrci14NVpIazVHQ3pLX2hQaXd0MDdaZXNmaEtDZWZGSFFROGVaa2NrWDFuMA?oc=5",
         "type": "rss"
       }
     ]
