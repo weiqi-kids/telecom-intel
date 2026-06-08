@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-07T10:25:00.090253+00:00",
+  "updated_at": "2026-06-08T12:24:55.141104+00:00",
   "companies": {
     "ericsson": {
       "name": "Ericsson",
@@ -210,19 +210,19 @@
         {
           "holder": "FMR, LLC",
           "shares": 21209756,
-          "pct_held": 15.0,
+          "pct_held": 14.98,
           "value": 10354814795
         },
         {
           "holder": "Blackrock Inc.",
           "shares": 13373787,
-          "pct_held": 9.46,
+          "pct_held": 9.45,
           "value": 6529216436
         },
         {
           "holder": "JPMORGAN CHASE & CO",
           "shares": 10226649,
-          "pct_held": 7.23,
+          "pct_held": 7.22,
           "value": 4992752220
         },
         {
@@ -246,13 +246,13 @@
         {
           "holder": "Price (T.Rowe) Associates Inc",
           "shares": 5242802,
-          "pct_held": 3.71,
+          "pct_held": 3.7,
           "value": 2559588319
         },
         {
           "holder": "Geode Capital Management, LLC",
           "shares": 4065559,
-          "pct_held": 2.88,
+          "pct_held": 2.87,
           "value": 1984846524
         },
         {
@@ -546,25 +546,25 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 2944481,
           "pct_held": 0.06,
-          "value": 81444344
+          "value": 81267676
         },
         {
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 464430,
           "pct_held": 0.01,
-          "value": 12846133
+          "value": 12818268
         },
         {
           "holder": "Gamma Investing LLC",
           "shares": 8457,
           "pct_held": 0.0,
-          "value": 233920
+          "value": 233413
         },
         {
           "holder": "Paradigm Asset Management Company, LLC",
           "shares": 83058,
           "pct_held": 0.0,
-          "value": 2297384
+          "value": 2292400
         }
       ]
     },

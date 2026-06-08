@@ -1,0 +1,226 @@
+{
+  "date": "2026-06-08",
+  "generated_at": "2026-06-08T12:24:55.721213Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-08-018",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Berec launches consultation on 5G network slicing guidance - Telecompaper",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX3lTNnY3RkJOMERiekE2UVNqQ1VzN2FFbUVQVzVibm5yZG9vaUZFMDV6dlN4VFQwNEZHR1c3TkZOXzRTamFzMTFENTE4OHgtZEZrVlpTOEZDNTluNFlWMmV2MkV0ZEc4N2N5YkRCczRBNldIMHJkNDhuR2ltS2QyVDhZZ2V0Vk1tNk9fYWQ0QXcyYkgtcVd1c1A5dmJKTEJwZFNv?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tmobile-2026-06-08-020",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "T-Mobile: Industry-Leading Churn And A Growth Story Telecom Investors Rarely Find - Seeking Alpha",
+      "companies": [
+        "tmobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMG1kdmszT2VLbWZnODB6d0VFUllsenc2Y3hNbzVOVXhmY1llSHBvS2p1QVNwSlVpZWJqSzNFcEpHNEN6NFhoN0toUXM2RHJQakhpdjZ4TnVrcVNDMTA0NmpnbUNKb3B6QmNxR3hjUUVSVUV2NWs4Z25ZOTRNWThtSFhJS0R0anBJU0tiV0JwX2doQThsNERzUXBzVzVPbi1VaGxkWTFzVmhjaE9nbjI2OFBWNEdxUGlZaENBU3lTMzg4ZGRZeFE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nokia-2026-06-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia Corporation Sponsored Stock 12‑Month Price Target Raised to $12.07, Implies 16% Downside - TradingView",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVFptRDkxUWItV1hxaExYSDQwZ0lhQ3VEcmlDeXhRRHdrbXFOMnVkSmNEcElMRzR6bnRaUy1fU1Y0cFlKTEx3aW5Ob0RIZVdZRTI1Q25mVS1GWmxuTXJzSW9pRXBjRldhRWhKS3o2cHdoYWhiZm0yWU85MnJVYUtHZDNBVUlncG90MGRqbFR2MHQyYll6dmxGM3lDQW9jSlRXU0FkZV8td0xzN0t4Rk9aVzBfYWtXZzRJekVBMFVBLV9FUjBCcUkxRVY2OEpRb0dyUFZZNWpjVUNHVGRfelBuTmNlWHhON0dN?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ciena-2026-06-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Announces Proposed Offering of Convertible Senior Notes - Business Wire",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUzZHVldOYlV1dTRleW5YVXJzTWVsbXh4YXJySGQzdWZDU1BsdG9DTzBVMGgzcXlVQnNRS1MzZHFzaVVINDNiemw0QUNrX2lTWkVGRG5HZjZTTWZoc3FKdThvOE9teHR1Q204Q0NFSXdyMmVXMUpQbHNPV2hoaUFldjFnM3VWYzREanZSMWdUaEZmb1AyVjJMd1AzeWxMRG02UXYxcG5hUzc3T0xDcTFzaU9wcWp5b0U5Qnc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ciena-2026-06-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Corporation $CIEN Shares Bought by Vestcor Inc - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQXZDWFVPSkRXX1I2TXhGZmJ5aldSbDZTRmpLUkFQSVlXYzJXaWJFd1BxdUdNOHNPc29nYldOaERGRUlSelBOM1ZSSXhFZFBuZGtKSTFsY19tVjZpOEJwRFV4Y0pkQWpyOGI5UmpnY3AtRi1FU0V2SU5CUHpRVjNvS3hNQjFhbW9BTGJMSVRzQXpWLVY1YUpUd2pvLWg0QThDRnNVMm5aRnJQZG9jaFdjQU5n?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 21,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 7
+      },
+      {
+        "id": "nokia",
+        "count": 1
+      },
+      {
+        "id": "calix",
+        "count": 1
+      },
+      {
+        "id": "ericsson",
+        "count": 1
+      },
+      {
+        "id": "tmobile",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 309,
+    "dup_title": 161,
+    "too_old": 106,
+    "gate1_blocked": 5,
+    "gate2_blocked": 4,
+    "passed": 33,
+    "pass_rate": "22.3%",
+    "gate2_block_rate": "2.7%",
+    "gate2_samples": [
+      "Nokia Corporation Issues Eur 500 Million Senior Unsecured Notes Under Emtn Programme - marketscreene",
+      "Nokia Rises 159.6% in the Past Six Months: Is There More Upside Ahead? - TradingView",
+      "Ciena: When The Beat Was Not Enough (NYSE:CIEN) - Seeking Alpha",
+      "Verizon finds work for DT's former CTO among all the AI agents"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為Ciena、諾基亞、Calix相關動態：「Berec launches consultation on 5G network slicing guidanc...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Berec launches consultation on 5G network slicing guidance - Telecompaper（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "T-Mobile: Industry-Leading Churn And A Growth Story Telecom Investors Rarely ...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,15 @@
+{
+  "total_raw": 309,
+  "dup_title": 161,
+  "no_date": 0,
+  "too_old": 106,
+  "gate1_fail": 5,
+  "gate2_fail": 4,
+  "passed": 33,
+  "gate2_samples": [
+    "Nokia Corporation Issues Eur 500 Million Senior Unsecured Notes Under Emtn Programme - marketscreene",
+    "Nokia Rises 159.6% in the Past Six Months: Is There More Upside Ahead? - TradingView",
+    "Ciena: When The Beat Was Not Enough (NYSE:CIEN) - Seeking Alpha",
+    "Verizon finds work for DT's former CTO among all the AI agents"
+  ]
+}
