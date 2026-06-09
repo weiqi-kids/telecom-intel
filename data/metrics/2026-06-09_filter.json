@@ -1,0 +1,16 @@
+{
+  "total_raw": 301,
+  "dup_title": 159,
+  "no_date": 0,
+  "too_old": 88,
+  "gate1_fail": 8,
+  "gate2_fail": 6,
+  "passed": 40,
+  "gate2_samples": [
+    "Nokia Corporation Issues Eur 500 Million Senior Unsecured Notes Under Emtn Programme - marketscreene",
+    "Nokia Rises 159.6% in the Past Six Months: Is There More Upside Ahead? - Yahoo Finance",
+    "Ciena Corporation (CIEN) Upsizes Private Offering to $2.5B - GuruFocus",
+    "Ciena prices upsized $2.5B senior convertible debt offering - MSN",
+    "Ciena plans $2B debt offering in private placement - Seeking Alpha"
+  ]
+}

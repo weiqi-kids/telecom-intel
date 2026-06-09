@@ -1,0 +1,195 @@
+{
+  "date": "2026-06-09",
+  "generated_at": "2026-06-09T10:55:39.242081Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "deutsche_telekom-2026-06-09-007",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Verizon appoints former Deutsche Telekom technology chief Abdu Mudesir - report - Data Center Dynamics",
+      "companies": [
+        "deutsche_telekom",
+        "verizon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTkl4SDJ4NXJjZklSRURqNWlmYU92aVoxS0dPS3ROQnpFX2p5UmNTcW1Ka0RKcE81UGZTOGVabWlqSzYyYnNrUmlzZE9hRElwNlhXYXVGS2pJZURTb1NlSVlYVE5aemtBVTA4X3VPT1lLUEFybVJWQlRwc1cxY0hRVXlWSkVLdTEyR3dMWXhKMTdLYXVQVC10WXE0Y3VXTzE5YzdqYjdhWlM4OE1wMDhnaTJYY013Z2JOcUoxcDlB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ciena-2026-06-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Pinebridge Investments LLC Takes $1.72 Million Position in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbnhscmlDckllbmlPSWNFTUYzZXlhVS04TFFrQlhDR28ybEYxZEtENG1JUmFWbGctQ3ZuOTNmbHk4WVdMUW5UeXZWOWpHcWI3WlBzYmdQNlJkM2tSdkhMX19sdkhVN2lVQlhSVEd5a3hBRXFHcEljUTVvdElJeUY1LW1LN2FvcmIzMEwzVjd3M19TVWV4M1h2R2dQSk53R2tEeWV4SkxCUkxKbGxRVGc0aUkzUTRGWnRCcXMxV0hYMDIyRkkweW5sUjE4S0NRMWtlYkRBOW9LUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ciena-2026-06-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Corporation Announces Pricing of Upsized Convertible Senior Notes - 01net",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGM4VlJ3aVZ4cmRfQzMzal9ZUTVHaURURUFiN0ppN0VUN3k5akRTc0JacTY4OV9TcEJXSEQ5TlhTakVfM0dyMVNEdUVMRms2X1VfMHJ5MFZJajhiRWNxdUVtM0NlRmFrV21Db2FBVnNfOFdHcHBkOE1yUEVRdFl5R1VwYjFsOFFlTVU3ZWZCQmNyd1Rndktndw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ciena-2026-06-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Corporation Announces Pricing of Upsized Convertible Senior Notes - The Joplin Globe",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOYmZzX1BtRGNrX2ppb0FLSjByaDVoOUotZndSMWpqQWNQb1BxUmlNQUtPNlg2UnUwUklSXzRHMHVIdWxqNG40NUl5MXVfM0hDQXk3Nm9WNnRjSjZBVDJUSGF2c0dYcFkwUGswa0ljTURyS25TT2t1ZzVtZGViaEc4WGM3SVpZQXloNUExVFlOQVBzMDA1T1p3YjBkZ2FCWWhFa29kTGJfb1YxbVRPYURqbnpvY1RfUjFaTElrQUhUb2lXeERQdFd6VUxRYzlKbGloc056Y01iSU8wVC1vLXFXWEJISU85bWxIZHB5RDFZanRQUlY0UEtZTmFGblE0Y29jV0ZaTw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ciena-2026-06-09-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Corporation Prices $2.5 Billion 0% Convertible Senior Notes Due 2031 - TradingView",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR1A4R3gzZUdZdTNwVUxueXZ4ZGxQSXJzcmZIRzR3Ynd2TklSWjVMOWdkWHlzdXlBNlZZMTZhSEZ4OGxEWHZOQnY2cVI1YkpsX0stbjl2Ymh4aHdfUHVrYWhyWDZrQWNrOVRER2JETGVaM1dsMnBEWkJhbG5KaDBCTGgxc25qUGh6U19FM0oyMUVvc1MxbnotaVNjWkp6LVJubjM2LTlaVjlsdW4zSXZVY3FESmdFeTVTMDFuRTlLUXRvdTg0MkZ5Y05iazhWUUVNZjkyM3RsYnhtQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 19,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 5
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 4
+      },
+      {
+        "id": "verizon",
+        "count": 1
+      },
+      {
+        "id": "american_tower",
+        "count": 1
+      },
+      {
+        "id": "ericsson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 301,
+    "dup_title": 159,
+    "too_old": 88,
+    "gate1_blocked": 8,
+    "gate2_blocked": 6,
+    "passed": 40,
+    "pass_rate": "28.2%",
+    "gate2_block_rate": "4.2%",
+    "gate2_samples": [
+      "Nokia Corporation Issues Eur 500 Million Senior Unsecured Notes Under Emtn Programme - marketscreene",
+      "Nokia Rises 159.6% in the Past Six Months: Is There More Upside Ahead? - Yahoo Finance",
+      "Ciena Corporation (CIEN) Upsizes Private Offering to $2.5B - GuruFocus",
+      "Ciena prices upsized $2.5B senior convertible debt offering - MSN",
+      "Ciena plans $2B debt offering in private placement - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為Ciena、德國電信、Verizon相關動態：「Verizon appoints former Deutsche Telekom technology chief...」。主要關注主題為產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Verizon appoints former Deutsche Telekom technology chief Abdu Mudesir - repo...（產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Pinebridge Investments LLC Takes $1.72 Million Position in Ciena Corporation ...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
