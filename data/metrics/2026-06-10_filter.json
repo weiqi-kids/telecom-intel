@@ -1,0 +1,16 @@
+{
+  "total_raw": 308,
+  "dup_title": 152,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 8,
+  "gate2_fail": 7,
+  "passed": 50,
+  "gate2_samples": [
+    "Nokia Corporation Issues Eur 500 Million Senior Unsecured Notes Under Emtn Programme - marketscreene",
+    "Ciena: When The Beat Was Not Enough (NYSE:CIEN) - Seeking Alpha",
+    "Ciena plans $2B debt offering in private placement - Seeking Alpha",
+    "Why Ciena Is Dropping 7.7%: UBS Maintains Neutral - AlphaStreet",
+    "the fast track to AI agents - Deutsche Telekom"
+  ]
+}

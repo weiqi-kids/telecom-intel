@@ -1,0 +1,192 @@
+{
+  "date": "2026-06-10",
+  "generated_at": "2026-06-10T11:34:17.840798Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "equinix-2026-06-10-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Welltower, Equinix lead XLRE quant rankings as real estate outperforms the S&P 500 - MSN",
+      "companies": [
+        "equinix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZWtoZGExcnVrSW1XOEhnVFVOM294bS03Y0oxZkx0NkFwWTNwYmNKS29uOGk3VWlkLTJSNHBLRE43YlBFUjNfVWxQYVgxY3ozM0hZTGhYYURya2lLVml4bGYtbEZqV1dPOENKZENaUjlWNXNtcFpHVVZ6M25mSlIydUg4YlcwaWdnTG9uT2ttSUxNLWZJSkxNTWs3VlBCb1BNcEFza01Id2lPOWd0RVhZMEpaZE1ZU1dON2dzRTJDbEpsQS13TnloMGpIUVlwbk9SVjNHcG9tTXlsWTB1bDBfLWl5TDdfQlZrN2pnUUNyVENMbXhVOFBKQkZQV050NWM?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ciena-2026-06-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Colt and Ciena Set New Benchmark With Fastest Ever Quantum-Safe Transatlantic Data Transmission - Yahoo Finance Singapore",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPckN6UEtVcEVOU3RLZG9yM0tPNnJqQkZEQ0tzQlJhRmRYclRxZ2hoUk1MUHctelBIR3dpX2dqYXhhNWFxU05ab2ZLM2ltbGlPNlZYaW5yZ3diZUJJVzdVTjBlbGNwX1NhU1ZlVGcyVU5mcnB2Y1M5MFJ6cE9pQm5ZUkVxa3o1Y3Zs?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ciena-2026-06-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Corporation $CIEN Shares Acquired by Goldman Sachs Group Inc. - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMGJqT2JCUnROMHIwelc3WVZhNUY2a0JicE53SHZhMmZ6RWRQbk4zWGd5bVZXZ2JOeEk4MlRqUEZ6YnZIeWFGUUdiaXNCVm1paExpcHAxM0FKZTI3VFRjNllTQVpZS1lPLUZRU0ZJNE9zX3AtUGpWaWRRdTZwNXFjUU5oRjR6Q3R3NTZFaHFlMklGR21xdTFwaDFhQmZJazJTTFBjMEJTTXc5UkV6RFhWUEJqVFJkXzVWN2l2YUZIVXVjRjhm?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ciena-2026-06-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Colt and Ciena Set New Benchmark With Fastest Ever Quantum-Safe Transatlantic Data Transmission - Stock Titan",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQTFhZ1VieDVxWk05V18zWkRuWWdWLUlNLXhXcTRkb3oxYUtwLV9iOGVSWndBQnVxVzMxUDlfWDBENFR6aWc4UElYUVNkcFZMMVZvTmYtOUpodV9jNURrZzVObkQ2cGxMMi1zNHdPcm5XekdGSGFBTEc1NEljNlRsMG1Tc0RUSWxnaFFtUmM3aGNfb3NxUlFfd1dnR2Z2Ym1LNk9fNnVIdWFHMVRIVURxQ3QzbjNzV3lKSGc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ciena-2026-06-10-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Daiwa Securities Group Inc. Purchases 12,400 Shares of Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMmxfSWkyUG83MlRnZzN2SFFBOVlFNzdKSV9lRm5JZURKbUJPaFpSRXN4djIwQWxubkl0bFpjY2VuVUYxZzRSUXVhMzdaNjlfNXNhQzM0VXpIYXU5X2pxdWlySWhJN0RjOVRhS0tOcUZlWTdZT2lZRk41cU51Ry1JVkR2dUMyWTdTZmlPTVJlM05BZmRXcjZlSllaLUJkMUtPT2ZmTTZJa2JfRmZlU0hXWXBpbVNJUEFVcFg5Q1hOdlEzSXVhVzgyNzhwdkNZZVZHbHc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 14,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 11,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 5
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      },
+      {
+        "id": "equinix",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 14
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 308,
+    "dup_title": 152,
+    "too_old": 91,
+    "gate1_blocked": 8,
+    "gate2_blocked": 7,
+    "passed": 50,
+    "pass_rate": "32.1%",
+    "gate2_block_rate": "4.5%",
+    "gate2_samples": [
+      "Nokia Corporation Issues Eur 500 Million Senior Unsecured Notes Under Emtn Programme - marketscreene",
+      "Ciena: When The Beat Was Not Enough (NYSE:CIEN) - Seeking Alpha",
+      "Ciena plans $2B debt offering in private placement - Seeking Alpha",
+      "Why Ciena Is Dropping 7.7%: UBS Maintains Neutral - AlphaStreet",
+      "the fast track to AI agents - Deutsche Telekom"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為Ciena、德國電信、Equinix相關動態：「Welltower, Equinix lead XLRE quant rankings as real estat...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Welltower, Equinix lead XLRE quant rankings as real estate outperforms the S&...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Colt and Ciena Set New Benchmark With Fastest Ever Quantum-Safe Transatlantic...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
