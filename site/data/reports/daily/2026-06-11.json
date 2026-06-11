@@ -1,0 +1,215 @@
+{
+  "date": "2026-06-11",
+  "generated_at": "2026-06-11T12:06:35.585916Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "deutsche_telekom-2026-06-11-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Deutsche Telekom slides after report on T-Mobile US (TMUS:NASDAQ) - Seeking Alpha",
+      "companies": [
+        "deutsche_telekom",
+        "tmobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRUFGV2gxRmk5U1FoTHlDaFZIT0I0YjdkQXduakM3R0ZWMDRBS0NKODhwdXFDVWdjcENQbmpNYzVLLURqQTl1dFd5OTMyTUExbjhpQkh3VnU5dUlFZF9VdU1TMmJqWDdkMHliN2FOaFd0azVMenJNcm9zNUlnZFVXUGN1RmlVUEdLblNNYUo2cEJDWmc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "deutsche_telekom-2026-06-11-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Deutsche Telekom (DTEGY) Shares Drop Amid T-Mobile US Merger Spe - GuruFocus",
+      "companies": [
+        "deutsche_telekom",
+        "tmobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX1BZejA5TFpGaFJmekgtbzgwcGV4bDlOM3dGQWFTTkJ5ZWZSNkFKQ2NzUXRKODZTQWk3TUl6bVVLR2RFQXB4V2NqUFFoSzhoanV1YnZiQm0zUzBNNGNkdGFhNXJ2ZWt6aEtBbDJqQjRna1dlR3kySmUzQVpublFkMUxHSW1PTnhCS2pQdWllUHdUUkFuamtkQ1pPaDZjWkRMZmZySTg1Z0pDS1NN?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "deutsche_telekom-2026-06-11-005",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Deutsche Telekom shares slide as CEO pushes to merge with T-Mobile US - Investing.com",
+      "companies": [
+        "deutsche_telekom",
+        "tmobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdHF1MDJhSDZobTBOYVA0M282Z29yZ01UY09iTWpNUFJlTzhiYkpubWVqVWRRLTdRaXFVa0k3SDNpcUFRN2dyYnJLcWdZZ213Qkx1c091ZnN2OFdmWVh2UGcxTDFLak5CaWJ2NFBleVRRc3hjRnpqUno5UWpoX29mVExNeDl2YW1tSmZqem13Y1B5TDBIZFJLN2xteU9ZVDgtNEtzMlMwV0FlM0IyWHZ4UUpuel93SU41UEtEc01WX2Zycm8?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Debate-Loving German Telecom Exec Plotting a Blockbuster Merger - WSJ",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNFdQWFZzTlFHUFlTWTBDcG5aSC02Rmw4X0pDQ3k2S2VIRXZGNVRSSlFuWVlqb0lSUTFjV01BZU9lY3pUM0Iwb1YyZWxmbGdiY0dBWkdaaU9ld2V3LVFVYlNZNW92a0JtVDQzdmx6ZGZhc3AxeEZVYU1qd0xOamdyUFBjRUU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "deutsche_telekom-2026-06-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why is Deutsche Telekom stock sliding today? - Investing.com",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWE90VWxqemU2NXRpUGZBMUhRYWtnb0pSQ2ZOanFGR19CUnVlMmpoR2cxdFpXVHUtRzlYRkxyYUVUelEySzE5TlZXRHJTZ3Z6Ynh1c3BwRW91SGJZTGF6NHNsaHZnX3VnUnlWM2RodE9vMG91bEo0RGRQRkpraUt6WVhQS1hkYW1tUUlzamc3R0pZcHNSNU5WWHYzN09odXRnWmZ0bTJ3Qm1PYV9RdHVNRkhQVQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "deutsche_telekom",
+      "to": "tmobile",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 10,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "deutsche_telekom",
+        "count": 4
+      },
+      {
+        "id": "tmobile",
+        "count": 3
+      },
+      {
+        "id": "ericsson",
+        "count": 1
+      },
+      {
+        "id": "chunghwa",
+        "count": 1
+      },
+      {
+        "id": "zte",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 310,
+    "dup_title": 170,
+    "too_old": 87,
+    "gate1_blocked": 7,
+    "gate2_blocked": 5,
+    "passed": 41,
+    "pass_rate": "29.3%",
+    "gate2_block_rate": "3.6%",
+    "gate2_samples": [
+      "Ciena: When The Beat Was Not Enough (NYSE:CIEN) - Seeking Alpha",
+      "Ciena plans $2B debt offering in private placement - Seeking Alpha",
+      "Ciena's Strong Free Cash Flow: Can It Balance Growth and Returns? - Yahoo Finance",
+      "Ciena Corporation (CIEN) Upsizes Private Offering to $2.5B - GuruFocus",
+      "the fast track to AI agents - Deutsche Telekom"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為德國電信、T-Mobile、愛立信相關動態：「Deutsche Telekom slides after report on T-Mobile US (TMUS...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Deutsche Telekom slides after report on T-Mobile US (TMUS:NASDAQ) - Seeking A...（產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Deutsche Telekom (DTEGY) Shares Drop Amid T-Mobile US Merger Spe - GuruFocus（產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

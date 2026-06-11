@@ -1,0 +1,16 @@
+{
+  "total_raw": 310,
+  "dup_title": 170,
+  "no_date": 0,
+  "too_old": 87,
+  "gate1_fail": 7,
+  "gate2_fail": 5,
+  "passed": 41,
+  "gate2_samples": [
+    "Ciena: When The Beat Was Not Enough (NYSE:CIEN) - Seeking Alpha",
+    "Ciena plans $2B debt offering in private placement - Seeking Alpha",
+    "Ciena's Strong Free Cash Flow: Can It Balance Growth and Returns? - Yahoo Finance",
+    "Ciena Corporation (CIEN) Upsizes Private Offering to $2.5B - GuruFocus",
+    "the fast track to AI agents - Deutsche Telekom"
+  ]
+}
