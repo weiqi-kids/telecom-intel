@@ -1,0 +1,15 @@
+{
+  "total_raw": 307,
+  "dup_title": 168,
+  "no_date": 0,
+  "too_old": 88,
+  "gate1_fail": 9,
+  "gate2_fail": 4,
+  "passed": 38,
+  "gate2_samples": [
+    "Ciena Closes $2.875 Billion Offering of Convertible Notes - marketscreener.com",
+    "Ciena closes $2.875 billion convertible notes offering By Investing.com - Investing.com Australia",
+    "Ciena's Strong Free Cash Flow: Can It Balance Growth and Returns? - Yahoo Finance",
+    "the fast track to AI agents - Deutsche Telekom"
+  ]
+}

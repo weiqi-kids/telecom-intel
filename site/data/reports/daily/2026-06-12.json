@@ -1,0 +1,216 @@
+{
+  "date": "2026-06-12",
+  "generated_at": "2026-06-12T11:39:36.399775Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "deutsche_telekom-2026-06-12-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Deutsche Telekom Merger Talks Put T-Mobile US Valuation In Focus - Yahoo Finance",
+      "companies": [
+        "deutsche_telekom",
+        "tmobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVVB6T3FXUHpLdXhldmptTENuQjI0a1A3a2FmNmpwZ0dQcHg2aGdiWi1BX1NvYy1vTE1PVE1ReVpFT0FEV1NlZEY0NVliQ3JvZHJlcWE2N2ZwYUVuaHg4QWVqWXVYdDIzUnlEZGEwbTkyNHVUZnAyOXQ3TnI4T0FrUU5tZEFYRl9qcGxNX1IxRWJ6UFpfOHRDdnRlWEh4OVE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "deutsche_telekom-2026-06-12-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Deutsche Telekom Wants to Merge With T-Mobile US - Inside Towers",
+      "companies": [
+        "deutsche_telekom",
+        "tmobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Jc0lzenBfZzU1V2hPdU14aFJEUnNfSFVJUlAwWWlmeGVLQW12SmFCWkNleEVfQ0lvN3d1SDR2SW03NERjR1hWdzZCMW9GczNiSVNwREhFUEpkNm14R1ZQVW13SWExRjh4eXJfalJHMEtYUXB2SzE0OHhxRlo5Ym8?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "crown_castle-2026-06-12-005",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "American Tower vs. Crown Castle: Which Real Estate Stock Is a Better Buy in 2026? - The Motley Fool",
+      "companies": [
+        "crown_castle",
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZEpQYTQ2ZmlBLWZoSXlaYUcxdUtwM216NFdCalBBdDdfdldWZ25COUV0dTd2Z000VVpwSGtRYzR3LTBtM3pFWDhoVTRJQk41ZFdObFJRa3lGVGE0anN6SW1rX3RZS1lVNzFOd1F2LXlWRmZVSzYtb0RfX3BIM2Qwekp1WnlGbFRLTlhYbUxtTEdmaExYOWp4RHYzTTRxWHh4SFA0NXl1ME1SM1lYQTkxM1NLbU1OWGlpX2lTdE8zbzVvTDFrMTZGZThCVQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nokia-2026-06-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia shares climb 6% in Helsinki after AI network update; ADR gains too - TechStock²",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZlFDREZXYS0xYjNHZ2Q4NXBKS1lGLUJjUS1FdHN1c25hQjBOQXpCMkZBanpUdlVuZklNc2NnZ1gwcktWcXhlamNKZDUwT3JmVTNrM2cxeWgzNHUxWmxTRWRSa2JZU2Exb3AybGdMTTc4WGJFWDd3VUg0U1NQZVpYeWJYRUxOMy02OUI0NmRQNGhNeThQUFE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "deutsche_telekom-2026-06-12-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Palo Alto Networks Taps Deutsche Telekom For AI Security In Europe - Yahoo Finance",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMUlsR0prN29SVVVKeU5RVWlURXpCcXZ3N28xc2oxYkd0NWxLbTJHaWt3YTRqMWllYjlIVlFTY2tYeVpZNUdQVnJqRVYxUDJUNFRpRDgyMnBzZHJ0ZkI1UDVNM1d0QVpwVjU1ZFczTWYxM2pfQ2tGaF9qWWh6OEd6ZUY3cWhBMW1EdGdqWjZ3NndqWXJOYktsaDhkb1ZybFM5Vi1V?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "deutsche_telekom",
+      "to": "tmobile",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "deutsche_telekom",
+        "count": 3
+      },
+      {
+        "id": "tmobile",
+        "count": 2
+      },
+      {
+        "id": "nokia",
+        "count": 1
+      },
+      {
+        "id": "crown_castle",
+        "count": 1
+      },
+      {
+        "id": "american_tower",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 307,
+    "dup_title": 168,
+    "too_old": 88,
+    "gate1_blocked": 9,
+    "gate2_blocked": 4,
+    "passed": 38,
+    "pass_rate": "27.3%",
+    "gate2_block_rate": "2.9%",
+    "gate2_samples": [
+      "Ciena Closes $2.875 Billion Offering of Convertible Notes - marketscreener.com",
+      "Ciena closes $2.875 billion convertible notes offering By Investing.com - Investing.com Australia",
+      "Ciena's Strong Free Cash Flow: Can It Balance Growth and Returns? - Yahoo Finance",
+      "the fast track to AI agents - Deutsche Telekom"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為德國電信、T-Mobile、諾基亞相關動態：「Deutsche Telekom Merger Talks Put T-Mobile US Valuation I...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Deutsche Telekom Merger Talks Put T-Mobile US Valuation In Focus - Yahoo Finance（產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Deutsche Telekom Wants to Merge With T-Mobile US - Inside Towers（產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
