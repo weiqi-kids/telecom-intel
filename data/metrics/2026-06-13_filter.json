@@ -1,0 +1,15 @@
+{
+  "total_raw": 312,
+  "dup_title": 177,
+  "no_date": 0,
+  "too_old": 99,
+  "gate1_fail": 10,
+  "gate2_fail": 4,
+  "passed": 22,
+  "gate2_samples": [
+    "Will RLS Hyper-Rail Emerge as Ciena's Next Growth Catalyst? - The Globe and Mail",
+    "Ciena's Strong Free Cash Flow: Can It Balance Growth and Returns? - Yahoo Finance",
+    "the fast track to AI agents - Deutsche Telekom",
+    "Deutsche Telekom’s IT Service Provider To Set Up Volkswagen’s New Private Cloud - TradingView"
+  ]
+}

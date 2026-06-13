@@ -1,5 +1,61 @@
 [
   {
+    "id": "ciena-2026-06-13-001",
+    "date": "2026-06-13",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hel Ved Capital Management Ltd Purchases 40,145 Shares of Ciena Corporation $CIEN - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaXJOMU44TGtnejBFQUd6NkRObElxb05kRDFiU0xGOHg1TTVvN3NRN0VnUHMyeE9ib2MwNWdMSXZWeTdnSkM2X1NhX3RKWkVoX3dHODludXp2V2Y0UlFIWUo3aGk4Q3JuMzRhZGs2M3",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaXJOMU44TGtnejBFQUd6NkRObElxb05kRDFiU0xGOHg1TTVvN3NRN0VnUHMyeE9ib2MwNWdMSXZWeTdnSkM2X1NhX3RKWkVoX3dHODludXp2V2Y0UlFIWUo3aGk4Q3JuMzRhZGs2M3ZsTUg5OTV5a2U2UTBHOUVQd0YyR2tUY2xJRGZBRE5hUzExRXpqTkxHSlVDbE1KZVN1eTZlTXl6ZWoxS0dVa3VrX1lmc0ExNW1PajNCTWx6aTUzcENyRUs5V3VpR0xtclhVM1hJVDFObw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-06-13-002",
+    "date": "2026-06-13",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Special Event For Enterprises Hosted By OpenAI, SoftBank Group Corp., Arm And SoftBank Corp. Meteo Verona (np7BbAFmuv) - Mshale",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNb3BMeEVONEs1aUZ3akNSTFlxd0NvQjN2aXVjTjIycGZKSF9hWkw4alhVTWpjSG56eXdJUS14MUQ2UnlZWWU3RmI0NF9CeTlCenpRM0h2ZzNWRUk?oc=5\" target=\"_blank\">Spec",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNb3BMeEVONEs1aUZ3akNSTFlxd0NvQjN2aXVjTjIycGZKSF9hWkw4alhVTWpjSG56eXdJUS14MUQ2UnlZWWU3RmI0NF9CeTlCenpRM0h2ZzNWRUk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-13-003",
+    "date": "2026-06-13",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Which Canadian Telecom Company Is Worth the Expense? - Muslim Network TV",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMl82aXRGdGI5SEdDMjJmM29vTWtpRmJfUmdzd21IWjJveU9ldWR0Ukc1Yk1lM21xYmJZOHB1enphSFNkOU1XX2dpaXpiZEo1aTE5WmZDN2FxZmQtZ0dOVFZGWVJJVDNjMkNNU2ZaSG",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMl82aXRGdGI5SEdDMjJmM29vTWtpRmJfUmdzd21IWjJveU9ldWR0Ukc1Yk1lM21xYmJZOHB1enphSFNkOU1XX2dpaXpiZEo1aTE5WmZDN2FxZmQtZ0dOVFZGWVJJVDNjMkNNU2ZaSGZWVTNJdnQwSk5wY1dDdXpXdVBWcVlHZXBo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nokia-2026-06-12-001",
     "date": "2026-06-12",
     "companies": [
@@ -170,6 +226,295 @@
       {
         "name": "google_news_5g",
         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRHNnOU5TTnJhRm1pTHU5aW9MMFNIekZTNEllcWVOMlRWU2EyRGJGZG1EV1prWlh4WUpDWlk0OXQxNTJBTWNzc1dOR2R3d09ZSzQ5ZEZXQUg0dUdoZWV1Xzd4TmNRRm9HVU0yWkdtMl93ZmZDVUhkOUpwYy12RDVVcmc2cVJjRjEwT0NVZktCZHhpQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-06-12-010",
+    "date": "2026-06-12",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "spectrum_auction",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nokia Stock Draws Fresh Price Target Hikes On AI Hype - StocksToTrade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNMzhqNFlJNDNCc0ZXMjJNcjdLUTFVUHRZTDlRcDVPN0dUQ3dpR0E0ckQ1YjRBczd3eE5GU19QN0VyamZqQzk5WTUyYk14UWpPWnhjUkRxS0xfVm9LM0N6U2M2T1M2ekVqeTF5emgtVz",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMzhqNFlJNDNCc0ZXMjJNcjdLUTFVUHRZTDlRcDVPN0dUQ3dpR0E0ckQ1YjRBczd3eE5GU19QN0VyamZqQzk5WTUyYk14UWpPWnhjUkRxS0xfVm9LM0N6U2M2T1M2ekVqeTF5emgtVzNWM1JoVWhjcWFTMldSUWRIdWhMV3RXZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-06-12-011",
+    "date": "2026-06-12",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "From Nokia to NeOnc: The Stocks Dominating Screens as Volume Spikes - Carroll County Mirror-Democrat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOV3R5WEhsYldqRWdYS2M1VTQ4YWNjLTcwQkRhRzVvVFZHTENOcU95LU1zZkZZRWRjSmhiQVgxaHRFcDJ3Vk1HXzJMY1VNblVheHIwR3JjTGI4S0ZaRmNqZ091Z1k3bWw1N2hrVEd2an",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV3R5WEhsYldqRWdYS2M1VTQ4YWNjLTcwQkRhRzVvVFZHTENOcU95LU1zZkZZRWRjSmhiQVgxaHRFcDJ3Vk1HXzJMY1VNblVheHIwR3JjTGI4S0ZaRmNqZ091Z1k3bWw1N2hrVEd2anhwVFR5ZC1xWlJFNUpKQ2k1UjNBdmNhQ2pxVkhBWk9lS0VWV2tHTFVWMXdER3hUZDhxdTBZYlJxb1R3OEVFeVQ2YnRfVWh5dTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-06-12-012",
+    "date": "2026-06-12",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Riverwater Partners LLC Sells 13,374 Shares of Ciena Corporation $CIEN - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVEZZM0hRTjJyNFNQY0xVZGtTNUVsNEg4dG9fOS1GdjFNdnV1X2VWMVMtVXVROVZqTGtPNmdfemxtbUxwazBoNjA3Q180d0ZTNUpOWFBCNWRtZUsyVnYzR1dydDAxdU1ieFltUmNGbW",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVEZZM0hRTjJyNFNQY0xVZGtTNUVsNEg4dG9fOS1GdjFNdnV1X2VWMVMtVXVROVZqTGtPNmdfemxtbUxwazBoNjA3Q180d0ZTNUpOWFBCNWRtZUsyVnYzR1dydDAxdU1ieFltUmNGbW1VWkRxZzJNWnR3WmptSm5jcVFfVS1PNVlZZi1Md3NkS2hLb01MX3pOOFdhcm92eTZrUWJUWUFYb3k0UnZaRVRiU2VLeUJ0QlE4MzhZNzB3WlJMd21qbnVaRw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-06-12-013",
+    "date": "2026-06-12",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Mosley Wealth Management Makes New $1.76 Million Investment in Ciena Corporation $CIEN - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOVR1U0I2M2VFM3FldG5XcW9xeTItY0FkcTIyZnVMOVVtaHZFZjBuUmRMbEtpOFplbVdfdGJFaExBdXlKbGlSVWV2UGdTTjNtcElpcUR6TS1vbjBmU3QxN3BiRlpGOTRJR2FmNXkzdE",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOVR1U0I2M2VFM3FldG5XcW9xeTItY0FkcTIyZnVMOVVtaHZFZjBuUmRMbEtpOFplbVdfdGJFaExBdXlKbGlSVWV2UGdTTjNtcElpcUR6TS1vbjBmU3QxN3BiRlpGOTRJR2FmNXkzdEJnajFPVFcxazl5SjhYSVpBNGNyRGNvcjQwYl9iM1hJaEl4Tk5yRXpfM2ltR0tlSFIzMC1ITmY0WWhucmJuMnRPSFhXdlhVYzg1cFBfN2NjeEFjNzRQaV9RYXp3NGR0ZkE1X2lCTnVtcVB3c01W?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-06-12-014",
+    "date": "2026-06-12",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Amitell Capital Pte Ltd Sells 16,558 Shares of Ciena Corporation $CIEN - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxObkU0ejZyVkp6N1lNVUUyZWE0RmdaWDRXeEZERE1kV3hrWUtpbTVTOEhyZjdMenpwTndZM1N1NGtOTEFfVUY5RDlNNjJ5V2k3bGcwZWR3UkY1TTBhd1RiRDY1SDFhQU9LdjQ1SllkWl",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObkU0ejZyVkp6N1lNVUUyZWE0RmdaWDRXeEZERE1kV3hrWUtpbTVTOEhyZjdMenpwTndZM1N1NGtOTEFfVUY5RDlNNjJ5V2k3bGcwZWR3UkY1TTBhd1RiRDY1SDFhQU9LdjQ1SllkWlhuNTdXbjB3eGxLSFY4amFlZVdoYVBUcnNkUEdZU1FjSm9qb3diZ09zaTF1MGMtZlJuUXNEUms0SXdIdXlSMXVLRjZuNnJDRUJ1dUY3UzNhWFJmRTNVVEpraA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tmobile-2026-06-12-015",
+    "date": "2026-06-12",
+    "companies": [
+      "tmobile",
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "These are the real reasons why Deutsche Telekom wants to combine with T-Mobile - PhoneArena",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxObUlJMnZCN2ZVMzNoQ2ZDQ0NWckVlcXZBR2xpUVhVVXBPUHh2bENQRzJrQzJpcGMxeFhmU1lKdHp4QnVRd0dfSWw2UDVUN0FjVVRhRlZKdVRSQ25lS3duSkR0aTNxMFhENTNEbGRPY3",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObUlJMnZCN2ZVMzNoQ2ZDQ0NWckVlcXZBR2xpUVhVVXBPUHh2bENQRzJrQzJpcGMxeFhmU1lKdHp4QnVRd0dfSWw2UDVUN0FjVVRhRlZKdVRSQ25lS3duSkR0aTNxMFhENTNEbGRPY3BXWUhoTGJEMFpKM3hXYkw5WldGWVpaVjVsa2MzbnZQOGtCOFlWOXZqUGU4bi1Pdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-06-12-016",
+    "date": "2026-06-12",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Major Contract: Volkswagen Group relying on T Cloud - Deutsche Telekom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSUl2bHRFenowZ29NZDhXWXg5dndXWTJ4aUNNS3hDYXVISm1oNHlQWGV4Nnp6VXdRSXQ3ZkdCZm4yeWY0NnJKRHFqYnNFVEc1VkdQYXVqdzFlQ1MxS01LYW9Qd1VLUExIWVMzSFd2cT",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSUl2bHRFenowZ29NZDhXWXg5dndXWTJ4aUNNS3hDYXVISm1oNHlQWGV4Nnp6VXdRSXQ3ZkdCZm4yeWY0NnJKRHFqYnNFVEc1VkdQYXVqdzFlQ1MxS01LYW9Qd1VLUExIWVMzSFd2cTIySW5BLXVVSnhPVzQ5eWxlWHJSRVpFVnpCeTFraHZiVVRXVHVmRlJEaEpPRXRZcU5SR3FiU2F0bEk0czQ2cllmZWdvZWt4cEpN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-06-12-017",
+    "date": "2026-06-12",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "American Tower: Buy This Infrastructure REIT Before Growth Reaccelerates (NYSE:AMT) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQQUhzYzh3YkVzUkVJdG42STRpRlJKbG9zOHNfTUw1QWRtNHNobk1wYzU4cG82SjZ6U1VFMjFfMzg1SFFqYVhOQTZpSm1SZjNSQkUyTG96Y1BldE9IZFN3ekt4dFAwMHZIekl3THdKdU",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQUhzYzh3YkVzUkVJdG42STRpRlJKbG9zOHNfTUw1QWRtNHNobk1wYzU4cG82SjZ6U1VFMjFfMzg1SFFqYVhOQTZpSm1SZjNSQkUyTG96Y1BldE9IZFN3ekt4dFAwMHZIekl3THdKdU01SVZmYUEzU2JRSndSUXl1RnFZUjZPMXhzQVBNbjA2dUdaQkdaOW5kcTJMUkJhNXdGdUZVS0xXN3YxWG83dHl4dnlR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-018",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DAA upgrades driving up cable access network spending – Dell'Oro",
+    "summary": "With a resumption of distributed access architecture upgrades, cable access network spending rose 40% in Q1 2026, says Dell'Oro Group.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/cable-technology/daa-upgrades-driving-cable-access-network-spending-dell-oro",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-019",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Eurobites: BT offers boost to mission-critical services",
+    "summary": "Also in today's EMEA regional roundup: mobile and the EU economy; UK broadband bills come down as others soar; whatever happened to the metaverse?",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/5g/eurobites-bt-offers-boost-to-mission-critical-services",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-020",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "The Buildout: Race grows reach in California",
+    "summary": "This week in broadband builds: Race Communications starts more California construction; SpaceX signs BEAD contract in Louisiana; Ripple Fiber breaks new ground in Arizona; Fidium expands in New Hampsh",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/broadband/the-buildout-race-grows-reach-in-california",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-021",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Telecom Database Architecture Is the Hidden Bottleneck in 5G SA Deployments - The Fast Mode",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQT0RST3VjbzZfcmtXenl1Nmh6UVhWZDBaMFZoT1VSNWlBeXdKNXFyMnVzNTM4bVFXdkw2TkdVdjVuc0NveXVuNl9xREwyZHpaZmd5cDg4dTE2aWZneHpYaGxQcV9ZQ2VHWF85bkpCcT",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT0RST3VjbzZfcmtXenl1Nmh6UVhWZDBaMFZoT1VSNWlBeXdKNXFyMnVzNTM4bVFXdkw2TkdVdjVuc0NveXVuNl9xREwyZHpaZmd5cDg4dTE2aWZneHpYaGxQcV9ZQ2VHWF85bkpCcTJNVnpYdnJCc1FqUy1aS0tfN2RzQ2FOdkpsMXFrNnVpM1o3UEFMYktqblVvaFBOSXZYNWpVWDlRaG5zcmdIWUF1VXl4bE9aWWl2RkREdnB6UEt5eEp6YWE4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-06-12-022",
+    "date": "2026-06-12",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nokia Stock Forecast: Why Private Wireless Could Be More Important Than 5G; NOK To Break Above $16? - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV1FGU1plU09ic3dmdWdsUXJkbUNEZlBXMENidThDdlRYUm5UWWZocm9sZW55TmtQU1lPWm9za2VJOVRsdGJPNThIRFNDWm5aUDBLckxKdE1rMFpkd1M1ckJud3JpRmdEdG84MzJxYW",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV1FGU1plU09ic3dmdWdsUXJkbUNEZlBXMENidThDdlRYUm5UWWZocm9sZW55TmtQU1lPWm9za2VJOVRsdGJPNThIRFNDWm5aUDBLckxKdE1rMFpkd1M1ckJud3JpRmdEdG84MzJxYWd6Z2lyY0Y2LUNmbTFiYk1jT0xXb3VRUzltY1VsTEVucFh3NjRfZjZkSjB2d1lteXF1YThLZGpVTGJZbmtRdm5xR3lTUnVFWmZTUlc3NEJnZkNUekhQT3NJSDRURWc0Rk1FeHVUbFcxQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-023",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lumen (NYSE:LUMN) Put Telecom Services In Fresh Market Focus - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRnlvS25aMEdLckJwRE5xMWZjLW1hcWNfWUZwTHZ0R1F6MTJkM3p6SFJjbzFNUHU4RDJEX2piNlgwa1ExM1ZoRkNGMmY0QTBhZXpiSXVXTHM0SGl1ZHZLYl9kNmlaZk40dVpodjhMeW",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRnlvS25aMEdLckJwRE5xMWZjLW1hcWNfWUZwTHZ0R1F6MTJkM3p6SFJjbzFNUHU4RDJEX2piNlgwa1ExM1ZoRkNGMmY0QTBhZXpiSXVXTHM0SGl1ZHZLYl9kNmlaZk40dVpodjhMeWlMandiZ1Bhc2J4LUJGaTl4b0JyRmQyWHJxN0ZYX1JEY21GdzQyLTJ4bXpXNXUwMEZzeE5aTmRlX1k2UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-12-024",
+    "date": "2026-06-12",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Unitel Agreements Set to Expand Broadband and Strengthen Angola’s Digital Infrastructure - TechAfrica News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQdHFqY1JZcUdHLUFMSHRTejd3Y3pXeUNvTW9JVjIxZWlLN3BRWWF2ekxjTng3a2JxV2hJUlJhazV0M1p3aENvRXhuRTlHa2F2SVQwZXFwUGI2WkRFUG9HN2tuY3AxZ2dId0dadVRodn",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdHFqY1JZcUdHLUFMSHRTejd3Y3pXeUNvTW9JVjIxZWlLN3BRWWF2ekxjTng3a2JxV2hJUlJhazV0M1p3aENvRXhuRTlHa2F2SVQwZXFwUGI2WkRFUG9HN2tuY3AxZ2dId0dadVRodnpyVVBiSllubnBHbld6RlU1UGUzaW1PTHpjclo4azlTNzBaV2thbVNCX3MzRThWU1p5cEt0dlZPVVhwb3E3MVlfOGVMY0ktSERxcEZwQWxXUDJndnRh?oc=5",
         "type": "rss"
       }
     ]
@@ -883,6 +1228,63 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNVGd2M0pMNkI2dUdYLW56eW1GTUZhal80TFpMT3EtcC1kQWEySHk2cG5CRzhBUkdjY21Kb0NmYTlNMUswVExpZmVBRk43UGptX1R0U1ZIajBMRWtHaE1IbjVCeTRXTXByYkhNQkhPbEtvOFhZMVB1bnZicjlwZ2d4S1dRMEdlejBYNkF5XzZ3M1VMdEtUdmhGUWp3U0pxUFJqSGFKb2I1OUkyVkg4TTFCNTA3dlFnT08xMkpDRjQ2dkJ4MWI3SlF6VlRKcVhtckdRVVNaaHNBTXNCdlR4RkgyTnpQMEpTY0tXRFk1S05kcEllREhYSC1iYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tmobile-2026-06-11-038",
+    "date": "2026-06-11",
+    "companies": [
+      "tmobile",
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Telekom slides after report on T-Mobile US - MSN",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOU3MzWXptMUZzbEhQakEzVWlRXzQySUlTalRBdUZEdFpjWUgyU1h1UVdGYXk0SFRkbmxUb0d1VWVEYVZIZFY0aTJqa3NoSkExd082d19wLTN3TERZTW5ESVREdkx5T19vMnp2ZEFBWG",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU3MzWXptMUZzbEhQakEzVWlRXzQySUlTalRBdUZEdFpjWUgyU1h1UVdGYXk0SFRkbmxUb0d1VWVEYVZIZFY0aTJqa3NoSkExd082d19wLTN3TERZTW5ESVREdkx5T19vMnp2ZEFBWGROX3hrbURoTjByeFMxbG83VnV4NHlKRkZYODFIZU9HRVh0cGtsMmlUaGk4VXBRd1k4YXhv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-06-11-039",
+    "date": "2026-06-11",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Equinix Inc (EQIX) Added to Citi’s Focus List. Here’s What That Means - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxORHR4c0lsUy04ejRlQ3Mxd1NrOXpHZXJuMGM1amR4aGpscGpodXhCem9mV1hFN3lEczltZjJ0b3FkUDFGQktHa21nVVpNVzZWbFBfWW9XekstRXg0NGE2UnVDXzk0QjItZWVrajVoOV",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORHR4c0lsUy04ejRlQ3Mxd1NrOXpHZXJuMGM1amR4aGpscGpodXhCem9mV1hFN3lEczltZjJ0b3FkUDFGQktHa21nVVpNVzZWbFBfWW9XekstRXg0NGE2UnVDXzk0QjItZWVrajVoOVJyd0xBVTA0cXZmMXZxaHNKWlBmcVBEOEhCRTR5THNwaXJKOW8tRjcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-11-040",
+    "date": "2026-06-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Study highlights high levels of CBRS deployment",
+    "summary": "A report from Spectrum for the Future, 5G-OT Alliance, American-Made 5G, OnGo Alliance and WISPA found that 75% of all US private 5G networks run on CBRS. They are advocating that policymakers keep th",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/5g/study-highlights-high-levels-of-cbrs-deployment",
         "type": "rss"
       }
     ]
@@ -3782,6 +4184,26 @@
       {
         "name": "calix",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYkNYWmtwVXhaZk9NSk5XRG00QjJfWnU4V2NOWWR5MDQ4ZE1aNkVFU3dvaThhTDZWSVJuelNsWko1N1AzMWFUOU5DOFVrZTR5YV9ybEJYbmNzT3RoWmduU2FBVjJJc1VQX2dfUnhGUUNtdnZQN3lfX08tdWc4YU5sOFRNdV9DczlOUzVHV2toRkpTdHdIbThzUEFMYzlsRnFwYkRSQzNFdjFNRTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "calix-2026-06-07-015",
+    "date": "2026-06-07",
+    "companies": [
+      "calix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Calix Inc (CALX) a Good Stock to Buy - harianbasis.co",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9Wb2t6eHVMYXpFcnVjbmtOYWN3S1dndXRSMEI1RW9NT0xxb3VJakp3LTM1TzJhTTVnYkFyaGhpTWRSMTZnTjFzM1hyenB4cE1WMHRKY29OTVQtLXBQY2cyRjRUZXlPM2ZtSllF?oc=5\"",
+    "sources": [
+      {
+        "name": "calix",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Wb2t6eHVMYXpFcnVjbmtOYWN3S1dndXRSMEI1RW9NT0xxb3VJakp3LTM1TzJhTTVnYkFyaGhpTWRSMTZnTjFzM1hyenB4cE1WMHRKY29OTVQtLXBQY2cyRjRUZXlPM2ZtSllF?oc=5",
         "type": "rss"
       }
     ]

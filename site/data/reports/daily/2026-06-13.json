@@ -1,0 +1,137 @@
+{
+  "date": "2026-06-13",
+  "generated_at": "2026-06-13T10:24:38.194815Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ciena-2026-06-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hel Ved Capital Management Ltd Purchases 40,145 Shares of Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaXJOMU44TGtnejBFQUd6NkRObElxb05kRDFiU0xGOHg1TTVvN3NRN0VnUHMyeE9ib2MwNWdMSXZWeTdnSkM2X1NhX3RKWkVoX3dHODludXp2V2Y0UlFIWUo3aGk4Q3JuMzRhZGs2M3ZsTUg5OTV5a2U2UTBHOUVQd0YyR2tUY2xJRGZBRE5hUzExRXpqTkxHSlVDbE1KZVN1eTZlTXl6ZWoxS0dVa3VrX1lmc0ExNW1PajNCTWx6aTUzcENyRUs5V3VpR0xtclhVM1hJVDFObw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "softbank-2026-06-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Special Event For Enterprises Hosted By OpenAI, SoftBank Group Corp., Arm And SoftBank Corp. Meteo Verona (np7BbAFmuv) - Mshale",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNb3BMeEVONEs1aUZ3akNSTFlxd0NvQjN2aXVjTjIycGZKSF9hWkw4alhVTWpjSG56eXdJUS14MUQ2UnlZWWU3RmI0NF9CeTlCenpRM0h2ZzNWRUk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Which Canadian Telecom Company Is Worth the Expense? - Muslim Network TV",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMl82aXRGdGI5SEdDMjJmM29vTWtpRmJfUmdzd21IWjJveU9ldWR0Ukc1Yk1lM21xYmJZOHB1enphSFNkOU1XX2dpaXpiZEo1aTE5WmZDN2FxZmQtZ0dOVFZGWVJJVDNjMkNNU2ZaSGZWVTNJdnQwSk5wY1dDdXpXdVBWcVlHZXBo?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 1
+      },
+      {
+        "id": "softbank",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 312,
+    "dup_title": 177,
+    "too_old": 99,
+    "gate1_blocked": 10,
+    "gate2_blocked": 4,
+    "passed": 22,
+    "pass_rate": "16.3%",
+    "gate2_block_rate": "3.0%",
+    "gate2_samples": [
+      "Will RLS Hyper-Rail Emerge as Ciena's Next Growth Catalyst? - The Globe and Mail",
+      "Ciena's Strong Free Cash Flow: Can It Balance Growth and Returns? - Yahoo Finance",
+      "the fast track to AI agents - Deutsche Telekom",
+      "Deutsche Telekom’s IT Service Provider To Set Up Volkswagen’s New Private Cloud - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Ciena、軟銀相關動態：「Hel Ved Capital Management Ltd Purchases 40,145 Shares of...」。主要關注主題為產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Hel Ved Capital Management Ltd Purchases 40,145 Shares of Ciena Corporation $...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Special Event For Enterprises Hosted By OpenAI, SoftBank Group Corp., Arm And...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
