@@ -1,0 +1,14 @@
+{
+  "total_raw": 311,
+  "dup_title": 189,
+  "no_date": 0,
+  "too_old": 99,
+  "gate1_fail": 9,
+  "gate2_fail": 3,
+  "passed": 11,
+  "gate2_samples": [
+    "Ciena's Strong Free Cash Flow: Can It Balance Growth and Returns? - Yahoo Finance",
+    "the fast track to AI agents - Deutsche Telekom",
+    "Deutsche Telekom’s IT Service Provider To Set Up Volkswagen’s New Private Cloud - TradingView"
+  ]
+}
