@@ -1,0 +1,45 @@
+{
+  "date": "2026-06-15",
+  "total_events": 20,
+  "by_company": {
+    "nokia": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ceragon": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "american_tower": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sba_comm": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "equinix": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "zte": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "verizon": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 20,
+      "sentiment_avg": -0.03
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

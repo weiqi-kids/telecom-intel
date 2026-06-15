@@ -1,0 +1,15 @@
+{
+  "total_raw": 309,
+  "dup_title": 176,
+  "no_date": 0,
+  "too_old": 95,
+  "gate1_fail": 9,
+  "gate2_fail": 4,
+  "passed": 25,
+  "gate2_samples": [
+    "Ciena closes $2.875 billion convertible notes offering - Investing.com",
+    "Ciena's Strong Free Cash Flow: Can It Balance Growth and Returns? - Yahoo Finance",
+    "the fast track to AI agents - Deutsche Telekom",
+    "Ericsson defends chip strategy as Nvidia plan rattles investors"
+  ]
+}

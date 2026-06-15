@@ -1,0 +1,197 @@
+{
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T13:50:27.580881Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nokia-2026-06-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia rises on AI hopes, valuation worries linger - TechStock²",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXV0hNS3R4cGJmTl90eWNxQjhrdng5YjlDRXMtRFM4RGJ1dFM3SERvaFBaX2pmYmV3bnlkcXFQbGRRMnpZUmQwQnp3RGVFUmhDNHR4WU1raEVadXdveUVYbUJTMGtjWXE3VWJ4MThTaVVXcldlS3prOQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ceragon-2026-06-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ceragon Networks (CRNT) director exercises options, sells 5K shares, retains stake - Stock Titan",
+      "companies": [
+        "ceragon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNzhYR284V18zMzBUSGR5WGZBNE93RVE1a0dMM0w5WmZJdzhqRkMxaE5ncUhvMmhqMkRxeXFMUlhoSHNXbUlLemdSWmZoRm0wcldCTnIzRjRzcW55Zl9wT1R6NlJkeVNrRlZxQUNvcWZFRXhwOGZvazViWGFDUy1rU2JtdkVlcEU4Y0prVXZmUmVGSlZKb29kYmlxVmpUUk0tbTZHcnNQN1c0UUlEcUFrWTgwcVM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ceragon-2026-06-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ceragon Networks (CRNT) CEO receives new RSU and stock option grants - Stock Titan",
+      "companies": [
+        "ceragon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSG1KeUk4cG50d3E2TG9sbW12dS1Jajd3QXhKaENpU2V4dWM5TzFDQ3E2TU5kQkg0cDhTWEt0RzQwY0JOcjIyU3lqdmRMMlJyOG9ZWlNuRmhQSEVXZ1QtNFlGM3RBblQzYXdFVElhX01EMy11ckZOalVaR21nRGZpVmwyN1pKM1RlLVFqV2htVUNib29aa1JWLTE1OFVzSXZrQkx1aWw2S3NPSnR0SklpX0xheXA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ceragon-2026-06-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ceragon Networks (NASDAQ: CRNT) insider files to sell 5,000 shares on 06/12/2026 - Stock Titan",
+      "companies": [
+        "ceragon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOU2lqaU9DZEZIektJOW1ma3JWODRTbDQwVkxQdHIxSHhXemZXQWpySTItejd0VFBrd2J2OVVQbm1YWFZfVkczOUhxbk0xLUF0RjlQcElQd1Qya1JGWTR3QzYtTHVFTFF4b3MyejJWalBQNkZlTHcwaFpNUWs1RUdsZjB1c2lGek9rVjZ0RVROVVc1TWhQZnVoaUNsSXU2UQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "american_tower-2026-06-15-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bernstein Upgrades American Tower (AMT) on Long-Term 5G and Data Center Demand - Yahoo Finance",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWUtsM1NKaFFLTEZDbHhFMDVfNzFQd09fTzM0anBnb3R1Mjh1VXJiWkEwMWtSOS1vUzhUbDA3UWRRRE5ZVUpxdWstRGpITFVBa1VUdmh1OTJSVV9ueUJrckoyVVhiRTFzd01kbjloZkZzNVAyNTVqQkRSOXM1cXJPWDF3b0l0WDFqTTNmQi1INVhVcTlYSjItQWlnNXZkdS02anY5dw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 19,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ceragon",
+        "count": 3
+      },
+      {
+        "id": "sba_comm",
+        "count": 2
+      },
+      {
+        "id": "nokia",
+        "count": 1
+      },
+      {
+        "id": "american_tower",
+        "count": 1
+      },
+      {
+        "id": "equinix",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 309,
+    "dup_title": 176,
+    "too_old": 95,
+    "gate1_blocked": 9,
+    "gate2_blocked": 4,
+    "passed": 25,
+    "pass_rate": "18.8%",
+    "gate2_block_rate": "3.0%",
+    "gate2_samples": [
+      "Ciena closes $2.875 billion convertible notes offering - Investing.com",
+      "Ciena's Strong Free Cash Flow: Can It Balance Growth and Returns? - Yahoo Finance",
+      "the fast track to AI agents - Deutsche Telekom",
+      "Ericsson defends chip strategy as Nvidia plan rattles investors"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為Ceragon、SBA、諾基亞相關動態：「Nokia rises on AI hopes, valuation worries linger - TechS...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Nokia rises on AI hopes, valuation worries linger - TechStock²（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Ceragon Networks (CRNT) director exercises options, sells 5K shares, retains ...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
