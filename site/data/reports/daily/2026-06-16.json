@@ -1,0 +1,221 @@
+{
+  "date": "2026-06-16",
+  "generated_at": "2026-06-16T12:50:22.288248Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-16-018",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "BSNL's ARPU jump raises questions as revenue growth doesn't match",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "arpu",
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.lightreading.com/finance/bsnl-s-arpu-jump-raises-questions-as-revenue-growth-doesn-t-match"
+    },
+    {
+      "rank": 2,
+      "event_id": "softbank-2026-06-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The SoftBank Group Announces “Patching as a Service” Cybersecurity Solution Powered by OpenAI to Secure Critical Infrastructure in Japan - ソフトバンクグループ株式会社",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uY2VUMDhSZnVaemVTQWktbmFBMjZGQmVLMEJwR0ZwRFhMUzBPYkZ2bUxZVXRWSzZCMzJFN2Q5TTVxR19oa2ZyekRObEp2aVlralZiV2RqeGE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "softbank-2026-06-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SoftBank launches cybersecurity product based on OpenAI models - Reuters",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNi1ocVVhVVB1b2tINGl5UzAxNTRMRnVxQkcyQzA2VG9UeWVFMHUzX0prZ0V3YU1qNjE3NFZKR0d2WG5pUmdyc3VSa0E1TGRXc1d6LUkyQWM0WlVmM3c5ajRLYjVuUEFJRmpPWHZ2N2c5LU5PZC00LVJvc3o0NzVmai1wZC1IMGhMRkExbTAwYkltOFM3VUlSQ0hUemN3b05KZ25HUHBmclBLcFA0N01uZFVaVHBHdUpSQmc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "softbank-2026-06-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SoftBank Debuts 'Patching as a Service' Enterprise Cybersecurity Powered by OpenAI - The Fast Mode",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUm9iY0JwejZGSEk4enFSeENpNFpjVGxweWppV184a1ZfZ3JGbzJrT0EwZGp0UVMxcnZFTW5MV2VXQzBfWGhnNV9sc0pYbXBXT213Q2ZSNFFaVVEwLWtXUnVaV0hCYmZtUnFONmY0MXdOSzJ3UUhQbTNnNTcwUTdZVUJJXzMwaXlQcXBrSVlxZHRjN1FYcVF2TGhqdGlpamRLN3loTDEycGsyTTFWSUFKOEpFQlk3clZvMDQycXVURzRwcnlLUll4dzZpZmZQN1Ax?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "softbank-2026-06-16-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SoftBank unveils OpenAI-based cybersecurity service for critical infrastructure - Telecompaper",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUE85MzFBbEdzWGtiRGxmck0za3pnNmluWGpjRnNkTlI0dEJPQkJlbnZtdkZNZ1o5WFlUTS1vWWFQVG1mSkNGOHUxUVhhMW5vNXV1dUhOVUFRcEVlaDBLQ3FkNUhrOU1pVVNnX1JBcE9YeGNCa0NiTFgyWXB2U2RlUVJiVjQxQUlJM1dkWlJqc1E0NWt6djJVMzNJLXF6aHdXX0VpQVRtU0J1Sl8xY0dqbjlrREF6ZWJOeGNGcThxaw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "arpu": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 25,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 21,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "softbank",
+        "count": 6
+      },
+      {
+        "id": "equinix",
+        "count": 5
+      },
+      {
+        "id": "american_tower",
+        "count": 2
+      },
+      {
+        "id": "sba_comm",
+        "count": 1
+      },
+      {
+        "id": "ericsson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "arpu",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 309,
+    "dup_title": 163,
+    "too_old": 83,
+    "gate1_blocked": 10,
+    "gate2_blocked": 10,
+    "passed": 43,
+    "pass_rate": "29.5%",
+    "gate2_block_rate": "6.8%",
+    "gate2_samples": [
+      "Ciena closes $2.875 billion convertible notes offering - Investing.com",
+      "Will RLS Hyper-Rail Emerge as Ciena's Next Growth Catalyst? - The Globe and Mail",
+      "Ciena's Strong Free Cash Flow: Can It Balance Growth and Returns? - Yahoo Finance",
+      "the fast track to AI agents - Deutsche Telekom",
+      "Breaking News! OHB Follows SpaceX's Footsteps; Hensoldt and Deutsche Telekom in Focus; Volatus Aeros"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 25 則事件，焦點為軟銀、Equinix、AMT相關動態：「BSNL's ARPU jump raises questions as revenue growth doesn...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "BSNL's ARPU jump raises questions as revenue growth doesn't match（ARPU、法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "The SoftBank Group Announces “Patching as a Service” Cybersecurity Solution P...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

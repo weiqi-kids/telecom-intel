@@ -1,5 +1,474 @@
 [
   {
+    "id": "softbank-2026-06-16-001",
+    "date": "2026-06-16",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "The SoftBank Group Announces “Patching as a Service” Cybersecurity Solution Powered by OpenAI to Secure Critical Infrastructure in Japan - ソフトバンクグループ株式会社",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uY2VUMDhSZnVaemVTQWktbmFBMjZGQmVLMEJwR0ZwRFhMUzBPYkZ2bUxZVXRWSzZCMzJFN2Q5TTVxR19oa2ZyekRObEp2aVlralZiV2RqeGE?oc=5\" target=\"_blank\">The Soft",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uY2VUMDhSZnVaemVTQWktbmFBMjZGQmVLMEJwR0ZwRFhMUzBPYkZ2bUxZVXRWSzZCMzJFN2Q5TTVxR19oa2ZyekRObEp2aVlralZiV2RqeGE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-06-16-002",
+    "date": "2026-06-16",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SoftBank launches cybersecurity product based on OpenAI models - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPNi1ocVVhVVB1b2tINGl5UzAxNTRMRnVxQkcyQzA2VG9UeWVFMHUzX0prZ0V3YU1qNjE3NFZKR0d2WG5pUmdyc3VSa0E1TGRXc1d6LUkyQWM0WlVmM3c5ajRLYjVuUEFJRmpPWHZ2N2",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNi1ocVVhVVB1b2tINGl5UzAxNTRMRnVxQkcyQzA2VG9UeWVFMHUzX0prZ0V3YU1qNjE3NFZKR0d2WG5pUmdyc3VSa0E1TGRXc1d6LUkyQWM0WlVmM3c5ajRLYjVuUEFJRmpPWHZ2N2c5LU5PZC00LVJvc3o0NzVmai1wZC1IMGhMRkExbTAwYkltOFM3VUlSQ0hUemN3b05KZ25HUHBmclBLcFA0N01uZFVaVHBHdUpSQmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-06-16-003",
+    "date": "2026-06-16",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SoftBank Debuts 'Patching as a Service' Enterprise Cybersecurity Powered by OpenAI - The Fast Mode",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUm9iY0JwejZGSEk4enFSeENpNFpjVGxweWppV184a1ZfZ3JGbzJrT0EwZGp0UVMxcnZFTW5MV2VXQzBfWGhnNV9sc0pYbXBXT213Q2ZSNFFaVVEwLWtXUnVaV0hCYmZtUnFONmY0MX",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUm9iY0JwejZGSEk4enFSeENpNFpjVGxweWppV184a1ZfZ3JGbzJrT0EwZGp0UVMxcnZFTW5MV2VXQzBfWGhnNV9sc0pYbXBXT213Q2ZSNFFaVVEwLWtXUnVaV0hCYmZtUnFONmY0MXdOSzJ3UUhQbTNnNTcwUTdZVUJJXzMwaXlQcXBrSVlxZHRjN1FYcVF2TGhqdGlpamRLN3loTDEycGsyTTFWSUFKOEpFQlk3clZvMDQycXVURzRwcnlLUll4dzZpZmZQN1Ax?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-06-16-004",
+    "date": "2026-06-16",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank unveils OpenAI-based cybersecurity service for critical infrastructure - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNUE85MzFBbEdzWGtiRGxmck0za3pnNmluWGpjRnNkTlI0dEJPQkJlbnZtdkZNZ1o5WFlUTS1vWWFQVG1mSkNGOHUxUVhhMW5vNXV1dUhOVUFRcEVlaDBLQ3FkNUhrOU1pVVNnX1JBcE",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUE85MzFBbEdzWGtiRGxmck0za3pnNmluWGpjRnNkTlI0dEJPQkJlbnZtdkZNZ1o5WFlUTS1vWWFQVG1mSkNGOHUxUVhhMW5vNXV1dUhOVUFRcEVlaDBLQ3FkNUhrOU1pVVNnX1JBcE9YeGNCa0NiTFgyWXB2U2RlUVJiVjQxQUlJM1dkWlJqc1E0NWt6djJVMzNJLXF6aHdXX0VpQVRtU0J1Sl8xY0dqbjlrREF6ZWJOeGNGcThxaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-06-16-005",
+    "date": "2026-06-16",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SoftBank launches cybersecurity product based on OpenAI models - The Economic Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbWNNVm9kaXNLU0ZwYnhkY1phY3V2d19CLU0zSUFUN2hSYVRFOEdiNlIzWlMyUkZlTEZhNEUtX2oySElYM3BPNWpURzUwYWYzMkNJNkRXMUlFcG05SGUzakJhd3hZVHEtenRoLS14Vm",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbWNNVm9kaXNLU0ZwYnhkY1phY3V2d19CLU0zSUFUN2hSYVRFOEdiNlIzWlMyUkZlTEZhNEUtX2oySElYM3BPNWpURzUwYWYzMkNJNkRXMUlFcG05SGUzakJhd3hZVHEtenRoLS14Vm5rRGdYWGl6ZDZncjcyNWlBNTU2OFppQW9KU2p1emw5RkJ2WG5wS1FwOGpMdVR5ZldwZ0oyQ0hKV3dOOVRheGJkSU5YM3E5d3V4dlo2Mkp2R3JUaExYUVg2enoxR0NseXBiOVN2UWVaUjBOYlBHd3UyMjMwVdIB4wFBVV95cUxQbWNNVm9kaXNLU0ZwYnhkY1phY3V2d19CLU0zSUFUN2hSYVRFOEdiNlIzWlMyUkZlTEZhNEUtX2oySElYM3BPNWpURzUwYWYzMkNJNkRXMUlFcG05SGUzakJhd3hZVHEtenRoLS14Vm5rRGdYWGl6ZDZncjcyNWlBNTU2OFppQW9KU2p1emw5RkJ2WG5wS1FwOGpMdVR5ZldwZ0oyQ0hKV3dOOVRheGJkSU5YM3E5d3V4dlo2Mkp2R3JUaExYUVg2enoxR0NseXBiOVN2UWVaUjBOYlBHd3UyMjMwVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-06-16-006",
+    "date": "2026-06-16",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SoftBank launches new cybersecurity product based on OpenAI model - 디지털투데이",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQbEJyYlEzcDB4MGtEWlVSQmhQM0hWaW5oZ3ZLdm5MZldlTDVmZFhvSFUzbWZqdE5qdExVRTYtQW5DS1p0Nno3Z3owTGhhdUEtUzlkc3hNRWs1U09OZFhYLXE3ZVVHVndMS1ZzX0tMbG",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbEJyYlEzcDB4MGtEWlVSQmhQM0hWaW5oZ3ZLdm5MZldlTDVmZFhvSFUzbWZqdE5qdExVRTYtQW5DS1p0Nno3Z3owTGhhdUEtUzlkc3hNRWs1U09OZFhYLXE3ZVVHVndMS1ZzX0tMbGFBdGhOMXdiMGJ6SWRhWVdSQWJWLWE4TWw1cTJQU1RiLU5lVllwa3Z0bDljVlZVajZCeG15RE8xUlFob0t4Wm8w?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-06-16-007",
+    "date": "2026-06-16",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Tower (AMT) Stock After Recent Volatility Is The Current Price A Potential Opportunity - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNTld6Um12Z0FIYUFueW1JUE12VHoyUVNLNTFlNHpON1N0YXZhY1FFX0J6aFQ4NzJqZlg5YlNURGZmYnB4SkU5aGp4T3NTMTZZb0J5UjRuVnZleHNiMmJha3hPdEVfWlZQbXVyR29teT",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTld6Um12Z0FIYUFueW1JUE12VHoyUVNLNTFlNHpON1N0YXZhY1FFX0J6aFQ4NzJqZlg5YlNURGZmYnB4SkU5aGp4T3NTMTZZb0J5UjRuVnZleHNiMmJha3hPdEVfWlZQbXVyR29teTA1R0NRdkFEbW1GZFRnRC1kcGVDUnZCVmd0QmxVdk5VZHotSmthbnRHaFdBTm4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-06-16-008",
+    "date": "2026-06-16",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why American Tower Carrier Spending Boosts S&P 500 Telecom Stocks? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0hsSXpVa2hsZFh1U0k0UXFZdk9fQUxuRGlTLTB4QnBRUVdSVXNrMGU5N1pHOVZibDY3Ukxaa0lDamdKVnVPbUhnRGo5T2NFR2xtZlRjOTNzMG1QMUNTc3VSdjRJNHY5Y1phTmY0TC",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0hsSXpVa2hsZFh1U0k0UXFZdk9fQUxuRGlTLTB4QnBRUVdSVXNrMGU5N1pHOVZibDY3Ukxaa0lDamdKVnVPbUhnRGo5T2NFR2xtZlRjOTNzMG1QMUNTc3VSdjRJNHY5Y1phTmY0TC1SaWQtWWNvb1dVR0xybjRWYURwMWYzdUFVOEszdTBCUmRxSVBWZXI1SmVuQ2ZPTVlJODdvazJJZThOWUROdGFNaG9LYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-06-16-009",
+    "date": "2026-06-16",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SBA Communications (SBAC) Faces Setback in Take-Private Efforts - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPcnJRN2JVMjh6UnhuRTRmY1pOZF90RGFRX2NiTnloZ29RdlF5eEJMS2FNSW5HUUZBemd4R21rNlE1TWU0T05oVG0xNWFzSTRDbkcyTVRfSm9EaU94ZTIzYy1LdGlFVUxDTzZ2RWxWQV",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcnJRN2JVMjh6UnhuRTRmY1pOZF90RGFRX2NiTnloZ29RdlF5eEJMS2FNSW5HUUZBemd4R21rNlE1TWU0T05oVG0xNWFzSTRDbkcyTVRfSm9EaU94ZTIzYy1LdGlFVUxDTzZ2RWxWQVc3VE9nTXQzV2RqaFFFR3ZhQXBSZUk3SkU0TkpzQ01iem1hUjFRc1MyZkZFWHlzb0hS?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-06-16-010",
+    "date": "2026-06-16",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "New Equinix lab lets companies trial Cisco-NVIDIA AI setups before going all-in - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNWwteXJ0LVYxSWJhdlFzSXVhaGMtbms4bzliOU5fM0VMdnBJSC1DOFIxWFE1aVo5dXZkWXJqenlQNEl3Z0tQaTYweXNURndfZVl6dFIwNkd2OVZMOVVIUFZQZS1MSDJ4MXREeWo5MX",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNWwteXJ0LVYxSWJhdlFzSXVhaGMtbms4bzliOU5fM0VMdnBJSC1DOFIxWFE1aVo5dXZkWXJqenlQNEl3Z0tQaTYweXNURndfZVl6dFIwNkd2OVZMOVVIUFZQZS1MSDJ4MXREeWo5MXpwMlBMWWdOSV9xcnlWeDNOYjBDRHAxcU5nQmFmZmdNb2hBNVVLMWhlcVFwaWdNYlVYV05QcS1qY1U2THZNaXQ4YXJZWUk4R015?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-06-16-011",
+    "date": "2026-06-16",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Equinix Collaborates with Cisco and NVIDIA to Deploy Secure AI Factories Across Global Data Center Footprint - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRXhjNTBYRk8zaW9oRnM5YnZiREhhS1VXYldsRkRQVkZKZ0dNNjFOZlg4MlBLNzBTNG9nV2JYZzgwMmpQTGRTYzlFZURUYkxvTkJYWjlfSEhYNzBOaWJ2SXM3MU1WRkdoUE01TUJrYl",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRXhjNTBYRk8zaW9oRnM5YnZiREhhS1VXYldsRkRQVkZKZ0dNNjFOZlg4MlBLNzBTNG9nV2JYZzgwMmpQTGRTYzlFZURUYkxvTkJYWjlfSEhYNzBOaWJ2SXM3MU1WRkdoUE01TUJrYlJMTjFLMU14NGJuTV9UbEdHUHhINkxldlI3UDRjWjlPWmhWakVWUGNWSDY1WTE4LXVXMEtlZG5qdV9sNTZBMUZmZFdXc0M4WElDU3UwcUJMN1E0VE45OW9SaWRzWDY5U2dOR0J4ZUtxaGNmY0RCbGIxZjZjTGVfT0dueDBNclBTMWlITnVVUGNFQVBKZm1UUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-06-16-012",
+    "date": "2026-06-16",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Cloud Connectivity is Evolving with Equinix Geo Zones - Data Centre Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOR0FwWGhGVFVXQXVaeld0ZjlDYjlUNGlQQzZzdEd3TXNUWlJsZUhvaDBNTlhoaER6VjNSVU9UNHpMaGFueVhiR2ZvOEVRLUVKZFlad2thNF9Gdm5WUjlyRld4RFVCcmswMnVzNDZmM2",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOR0FwWGhGVFVXQXVaeld0ZjlDYjlUNGlQQzZzdEd3TXNUWlJsZUhvaDBNTlhoaER6VjNSVU9UNHpMaGFueVhiR2ZvOEVRLUVKZFlad2thNF9Gdm5WUjlyRld4RFVCcmswMnVzNDZmM2RVYmhKRXEtcEI5Qld6NnlIZnVFaFlEQ2JuNUtpb0FtMmROYnVmbXY4ZQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-06-16-013",
+    "date": "2026-06-16",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Equinix, Cisco, and NVIDIA to deploy AI factories in data centers - StreetInsider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNTDg3bmk4a3p6SmlPalJpSm5nNll6cF84ZkF2M1R5NXdUamxOUDk1R04wR0hENzhfM3NPeGpwQ0J5X0ppQVpQcmlPMGRsbzN6alU0alJVdHFWeEp4b3J6d2F5TU5CNW42MnA5NEpmc2",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTDg3bmk4a3p6SmlPalJpSm5nNll6cF84ZkF2M1R5NXdUamxOUDk1R04wR0hENzhfM3NPeGpwQ0J5X0ppQVpQcmlPMGRsbzN6alU0alJVdHFWeEp4b3J6d2F5TU5CNW42MnA5NEpmc295SUdYN1ZxaktoLVB6TmJoYTZfQzFXVi1ONXYtNFF4ME5xUm5scVVzRV9wRTdDRTROU21PcWxPMUFJR1ZTSlRLbFFNUmpyR2t4Q2ZvRm5STTY4NG5pY3Nv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-06-16-014",
+    "date": "2026-06-16",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Waypoint Trading Solutions to Expand European Exchange Connectivity with Equinix MD6 Deployment in Madrid - Fintech Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUzZ6WU10QWtJcWJZQnZ5U2RVY0xJbGNTZ3dnTFpySTJSZURscWY2STNsNjR4YlpWUzdJWEVKeVhLaDlIaG9ZaDJwSWNGNkZYd29LYlhNQjJTNFkwdlM1R3lnUURBQTZORUg0aWJxbE",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUzZ6WU10QWtJcWJZQnZ5U2RVY0xJbGNTZ3dnTFpySTJSZURscWY2STNsNjR4YlpWUzdJWEVKeVhLaDlIaG9ZaDJwSWNGNkZYd29LYlhNQjJTNFkwdlM1R3lnUURBQTZORUg0aWJxbEZ4R1RXc1NxQllZVzlOWk85MXZSRmNYY1A4TUdhY04taHpGUGt5RU1SWDJLT2JQSG0tSG5sd09QdW5fLXVjZnJYNklTTVpiZGVOd1BHVUV3Vk0tZ25hanR6TU5neTNaOVdXLUJwdnJiMFJBTE5zYkI0NQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ericsson-2026-06-16-015",
+    "date": "2026-06-16",
+    "companies": [
+      "ericsson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Eurobites: Europe set for 5G comeback, says Ericsson report",
+    "summary": "Also in today's EMEA regional roundup: mobile's contribution to Africa's economy; Telia targets IoT needs of critical sectors; Eutelsat extends LEO coverage in Angola.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/5g/eurobites-europe-set-for-5g-comeback-says-ericsson-report",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-016",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "It's official – 6G specs are set for early 2029",
+    "summary": "3GPP specifications group agrees to timeline for 6G standards to be complete in March 2029 but defers some key decisions to the September plenary meeting.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/6g/it-s-official-6g-specs-are-set-for-early-2029",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-017",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "AI is making waves of telco job cuts look irreversible",
+    "summary": "No one now believes telcos will employ more people in the future – the only uncertainty is over how much the workforce will shrink.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/ai-machine-learning/ai-is-making-waves-of-telco-job-cuts-look-irreversible",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-018",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "arpu",
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "BSNL's ARPU jump raises questions as revenue growth doesn't match",
+    "summary": "BSNL's reported ARPU growth is not in line with weak revenue growth and declining market share, suggesting that the increase is driven by rising user spending and a shrinking active subscriber base.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/finance/bsnl-s-arpu-jump-raises-questions-as-revenue-growth-doesn-t-match",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-019",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Fall protection: A safety challenge at the heart of the mobile ecosystem",
+    "summary": "<a href=\"https://totaltele.com/fall-protection-a-safety-challenge-at-the-heart-of-the-mobile-ecosystem/\" title=\"Fall protection: A safety challenge at the heart of the mobile ecosystem\" rel=\"nofollow\"",
+    "sources": [
+      {
+        "name": "total_telecom",
+        "url": "https://totaltele.com/fall-protection-a-safety-challenge-at-the-heart-of-the-mobile-ecosystem/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-020",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Network Bytes: Logix, GNM, Wyyerd, Ripple",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/p9NRDwcntF8YBUHFYReUVeGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Network Bytes: Logix, GNM, Wyyerd, Ripple\" title=\"Network Bytes: Logix, G",
+    "sources": [
+      {
+        "name": "telecom_ramblings",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaX8JyQ2yGWS44_WJTM0D8x6?utm_source=follow.it",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-021",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mavenir Achieve BSI NESAS Certification For 5G Packet Core Network Function - The Fast Mode",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOYm9EUDVqV1k5Sm9aaVBZRHAyTGl5eGhYYWd6UnBObnFLS01VaXp3akhya1N5bDhTdGpLaGp4di1INDAwVnF2aHhnZUdNTUZDUDV2WlZsQnU0N1c4LTcwY2E0cU52bVc4YVFrNTZRcX",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYm9EUDVqV1k5Sm9aaVBZRHAyTGl5eGhYYWd6UnBObnFLS01VaXp3akhya1N5bDhTdGpLaGp4di1INDAwVnF2aHhnZUdNTUZDUDV2WlZsQnU0N1c4LTcwY2E0cU52bVc4YVFrNTZRcXVRNjEtRG5xRy1mZUtZdGU3TWxkT3l0cnNhSWM1T1NObDNrQ0FmUUxYaHNJc0JQR1lTUHNJQ1A0R1FIcVNnMDYyeVZId3dna3FGZGdrYjk4UE5RckdCcDFuVm5R?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-022",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Citymesh wins contract to upgrade Infrabel network for 5G - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPR05Ycmd5dTFyNHRXYmdLZ2xmM0NSYXN6TUNZNEtVOXdGY3hkNDk4SlpNcE9ieTNQVFdMem1LQXhCdlg2dVg1X19HYnVwcnhxLVZ3WWdhU1BHcFJGYl9rd21uZzZUTF9rVkJCbUh1dF",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR05Ycmd5dTFyNHRXYmdLZ2xmM0NSYXN6TUNZNEtVOXdGY3hkNDk4SlpNcE9ieTNQVFdMem1LQXhCdlg2dVg1X19HYnVwcnhxLVZ3WWdhU1BHcFJGYl9rd21uZzZUTF9rVkJCbUh1dFkyODkzUUZoY1JmcE9TWVNSa1Myb0laSUhLX25WNG9mMGV6dkVDblRVV0VoOE42eHdVT0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-023",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Agoria calls for more supportive regulatory environment for telecom investment - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOQTVieVNFYzhDaDhfS1FpajNxMy1nR2NaeVFZZGJnZENHa2lQdFg3VVFQbGthXzFvZm9EVGpQTGpKWjlaVk5fbFMxREJsNnR4STFuVm9mVDRjbUpGRGh1Mk53TG01czNyNnNVb3JLen",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQTVieVNFYzhDaDhfS1FpajNxMy1nR2NaeVFZZGJnZENHa2lQdFg3VVFQbGthXzFvZm9EVGpQTGpKWjlaVk5fbFMxREJsNnR4STFuVm9mVDRjbUpGRGh1Mk53TG01czNyNnNVb3JLenhXV0x2N3VEb19hQ2lIamE4OV9jVFotbEhZbGF5azdzTXZvZGFWeW16Z3pCWk5CUC1admdQcW5DUlQ1cDBKR19hRFJwcmFlemhMMjhxMkRR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-024",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "India's Telecom Surge: A New Era of Growth and Data Consumption - Devdiscourse",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQdi1PcU9sQzcwWmhrdjFWdDMtdVM1TGRmbG81bWx2MXc4RzhWaVN1V3h0a0tZYVhEc0o5dnE0UjNELXNIR1JIUkE4NjQtSVhhNFpGZjhldHlnWTRJTWpqcUNhck1SOFlOLTZ1Y2x1aU",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdi1PcU9sQzcwWmhrdjFWdDMtdVM1TGRmbG81bWx2MXc4RzhWaVN1V3h0a0tZYVhEc0o5dnE0UjNELXNIR1JIUkE4NjQtSVhhNFpGZjhldHlnWTRJTWpqcUNhck1SOFlOLTZ1Y2x1aUdlUld4eHljaExhb3h0NWg2OFIyazNFaDZUbFZjNkdXcGppOTJoOWI3bzFnbHVMeWhPVFZDUGdncWxwWWVBa0RlUU5YeFJEQdIBuwFBVV95cUxQd0xyQWtZSnFld1ctOHJVRFJwWGFHazRZa2pmRXFNS2JyUDBubXNyZGJ2Vl80ckdkNjVGZ1hHUzh5V3I5WVVxME9QX2RBTnljRzBsbnFJMXpFNDg3VWM2WExPRkdaNWlHYVNOVTBaMnlTRXg0TUpvclNQYXN0TVp4b0UyT0g3MEpwQ3kzOWZxSlhBZWZDSS0tVXZUNFhwMEVJcEpFUEphaXV5ZTM3NHNGNGxnbkJ0N252c3RJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-025",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EU telecom industry, consumer groups step up lobbying on Digital Networks Act - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkZlN3dyM3JmQWJFZmJjZy1HTFkwWE9VcUtLZ0gyZmhXM2J3UFF1cFk0aDZ4NjlDSHJoakM5QmhfcHRoOTBKcUdmcDc5cmtsQTIzVFhrSmlaLTNxTVlZUEZJNG1DbVpUU1BmQ3E1Q2",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkZlN3dyM3JmQWJFZmJjZy1HTFkwWE9VcUtLZ0gyZmhXM2J3UFF1cFk0aDZ4NjlDSHJoakM5QmhfcHRoOTBKcUdmcDc5cmtsQTIzVFhrSmlaLTNxTVlZUEZJNG1DbVpUU1BmQ3E1Q25FRC1OS1h5TkxnWkNmRlV4SUQxa3l0alZWVGJCeENnd0xmV1FnSG9acXNjakxQS0dFRUVzS2ZvN2I2QVdMOXpQVk05aDJrZDRMaUJv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nokia-2026-06-15-001",
     "date": "2026-06-15",
     "companies": [
@@ -380,6 +849,274 @@
     ]
   },
   {
+    "id": "nokia-2026-06-15-021",
+    "date": "2026-06-15",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Can Nokia's Latest AI Framework Boost Its Competitive Edge? - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb3dPTmpuU3d1ZnB1OFhVd045V3JHd1hiN0NHTVVjaF9EVTFYZjhRemEyaWgzdjVVU0hwTm85VTNuZ24yUTQyVHVpbUJORmtJSVdKM3BNY2cwUDctejBJckNIb3RPbi14Zy1TXzg4d3",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNb3dPTmpuU3d1ZnB1OFhVd045V3JHd1hiN0NHTVVjaF9EVTFYZjhRemEyaWgzdjVVU0hwTm85VTNuZ24yUTQyVHVpbUJORmtJSVdKM3BNY2cwUDctejBJckNIb3RPbi14Zy1TXzg4d3ZCT0ptWldNWnFpSzR3a0FsUnNtTnJoWlVTbjJfUW1FNlJXdWUyUnV6S2RXSXdPcUpIbUlnYm9pTzhIdUVKTUUyQndqRFhUeXBHVWw2ZGRvZVE4OU1ULUhKOTItdGJHdjZldGpjMkRGN25Xdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-06-15-022",
+    "date": "2026-06-15",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nokia falls as AI trade cools, investors eye July update - TechStock²",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNZklTamRMWDhRTkdtdGtHVnFpeHp5ZGQ4QndUWll2eGVyNmh1MEJFQ1A4dFFpd0xVRHltOE1fMHU3WDlsNVV4ajZ3VVh4WTkxeG9xcjRja3c4Q25OaEhGRUczZDAwWFIzZWtuRHJZSX",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZklTamRMWDhRTkdtdGtHVnFpeHp5ZGQ4QndUWll2eGVyNmh1MEJFQ1A4dFFpd0xVRHltOE1fMHU3WDlsNVV4ajZ3VVh4WTkxeG9xcjRja3c4Q25OaEhGRUczZDAwWFIzZWtuRHJZSXBiUXBwdXU3Y2JSY2ItbXNiZUJ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-06-15-023",
+    "date": "2026-06-15",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Can the Colt Tie-Up Fuel Ciena's Quantum-Secure Expansion? - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQWDk5UkNaZ1paeXJIamQ3MEptcUVHODJlRUhJa2t0YTBsUWpZTHQ1c0YwZm4yLWM4NFBpUjhQU2hFS0xvcGtGNmV3Um0xZXh0YmNEWGpNMXVUSHBBcTZHQ0pZZC1CZFp0NTZBUjJHZ1",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWDk5UkNaZ1paeXJIamQ3MEptcUVHODJlRUhJa2t0YTBsUWpZTHQ1c0YwZm4yLWM4NFBpUjhQU2hFS0xvcGtGNmV3Um0xZXh0YmNEWGpNMXVUSHBBcTZHQ0pZZC1CZFp0NTZBUjJHZ1FSWEhyVklwTUgteTJqV0xFSnByNVY5RmpibVRPQnV1YjdqdlVKUndDUGVUTUdEUHQ4Tk9YMjN4ZTJxTmdmRllKbDBfaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tmobile-2026-06-15-024",
+    "date": "2026-06-15",
+    "companies": [
+      "tmobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Elon Musk Wants to Buy T-Mobile, and It's Not as Crazy as It Sounds - Android Headlines",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPeHJDQVBPU1p4YlQ3Q2JtS3dMbGFwdW1DVm9VVGpGWGVxZFN5NFZvLTVacXNWcUVlekFmNnBpS0ZSd05aUFBZcERWX1hlWmVSV1BYVzlTT1ZPU01fR2pQUVJhS3FmSlA3bnNadEF4ek",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeHJDQVBPU1p4YlQ3Q2JtS3dMbGFwdW1DVm9VVGpGWGVxZFN5NFZvLTVacXNWcUVlekFmNnBpS0ZSd05aUFBZcERWX1hlWmVSV1BYVzlTT1ZPU01fR2pQUVJhS3FmSlA3bnNadEF4ekdTQ3NLM0w3UUNLaWpzektxRWs1NUZ6UTZqeFFGSlhuempkdFRLa2RiVmFnODFhSU1Lb2JYU2JGSGZJLWdZN0lINg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-06-15-025",
+    "date": "2026-06-15",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Did American Tower’s (AMT) Note Redemption and Rating Upgrade Just Reframe Its 5G Infrastructure Story? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPNnVVaWZWQ3JYWGRFVFdGWkFBdUNEbEhhMGpoN0FGcUxVM3NPTGE0eXVpUUpLbU1lb1cyQmVHZE9ZQkxIdE9oaTIxdHBxYUU5OEJwdGF4SG9TU21RV3ZSUk9OTWhiUmFXdENsRUdrYj",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNnVVaWZWQ3JYWGRFVFdGWkFBdUNEbEhhMGpoN0FGcUxVM3NPTGE0eXVpUUpLbU1lb1cyQmVHZE9ZQkxIdE9oaTIxdHBxYUU5OEJwdGF4SG9TU21RV3ZSUk9OTWhiUmFXdENsRUdrYjZWZ1ZBemJUQVI0UFUtWkRhNF9EWnFucjQyUnRKLUEtZXppLVBUVHYxTmdIWlRXTTFsb1gyWWZRbmIxMThqc1BudmY3UFI2bUJtS2xaQThkY19KdV9aTF9nTHA2V09RUdIB0wFBVV95cUxQbWhibjczOHlUeHpXWmFNSDVQc1ZpUEJoeDdHZkpmZGZ4TW5YX3ZNYXY0U1E4WnFCSS1TOWhDRVBaa2JkUVlLWlBCcGRlczhKLXhLclpSS19jenhLaHhMZjBybGliTWRlMzZIR1N0TW9Hd3FlcTVrVjV5SlNnSW1yUDFURU5JTGEzUTVLNDNyaF8xdF9VTFliUVhhT2NuSXVkVnJ6dlJZTE1jRFZZLUdYTzV4TURLSk4wYm9pNXdBVndvajlnQWE2RGlVSFVVMFpTcnBz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-06-15-026",
+    "date": "2026-06-15",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "American Tower Gains Attention As Digital Infrastructure Expands - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNQXN1TnE5dmRkSmE4RlQzTG1Ld1VZRzEwNnJhUXRQbW9EZWwwYUpWV2xhd3JNN0FXcVZIS0JINF95LTdmT0czVWRMQjYxYWtubk43RllkSlNXY3RRYUt6ZjRVcm5JOUtpZlFUajFlZ3",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQXN1TnE5dmRkSmE4RlQzTG1Ld1VZRzEwNnJhUXRQbW9EZWwwYUpWV2xhd3JNN0FXcVZIS0JINF95LTdmT0czVWRMQjYxYWtubk43RllkSlNXY3RRYUt6ZjRVcm5JOUtpZlFUajFlZ3VTV3pjMjFsamtldy1NZjFUbnB1TU80YnRSNnFNWEw1elVMcTVZSXZHb3lYaklhMWEyWDJMRTRKcVo1V0RQc2pVNFFTNzNHOU0xczBtQTdVSEtGZGRLVnRZc0Z3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-06-15-027",
+    "date": "2026-06-15",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "SBA Communications (SBAC) slides as tower stocks face renewed carrier-credit concerns - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNd0pLVFk3OUlCVXF3bzg2NFpBb2E3SGs5VFh2YmNqNW1IYlR0UERUTm1TeWZERXJQQ2NzZVBveWdqS2FqUDExdUVkekxfakpqb2ZNSUZ0RzhXT2FJVlk2VE1iUldud2dSaDJrZDE4QX",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNd0pLVFk3OUlCVXF3bzg2NFpBb2E3SGs5VFh2YmNqNW1IYlR0UERUTm1TeWZERXJQQ2NzZVBveWdqS2FqUDExdUVkekxfakpqb2ZNSUZ0RzhXT2FJVlk2VE1iUldud2dSaDJrZDE4QXB4QkNoVFY5TjZ2MU1nRFRLbEY5Y2prNEVTVkJ3Z3oyS3c0RWtFX3ZmSG9Zc1NlYmRTdGQ5SVFvalhLa1hOSGJicjlJdjZ1QXVSTUx2VnpKSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-06-15-028",
+    "date": "2026-06-15",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why is SBA Communications stock sliding today? By Investing.com - Investing.com Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOODFzbUpQbXV4N0o4UlQyMHhGLTNGeVI1YzhsS19ZZS1yaWhndFZlQzkwSzV1Vjl6RE1jMlpkenpnUWFsNlZHY3JsWkJ5RFRLaTRHc3U1MktpV1o2ano4REFJMkZwaGxMelgzS3hSaF",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOODFzbUpQbXV4N0o4UlQyMHhGLTNGeVI1YzhsS19ZZS1yaWhndFZlQzkwSzV1Vjl6RE1jMlpkenpnUWFsNlZHY3JsWkJ5RFRLaTRHc3U1MktpV1o2ano4REFJMkZwaGxMelgzS3hSaFpQM2VJWllBTV9UTXZGZXcyZ3pNSXNxYV8wUVhPZkhIQnB1RW15TThseFhYbWg5RTJSWUJlQnR4RmtWQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-06-15-029",
+    "date": "2026-06-15",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SBA Communications (SBAC) Falls on Cautious Deal Chatter - StreetInsider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOYzhQLVdlYjU0ZlhZV18tZU9LWl83RFludFNNSFRYaXhjcGVqYmg5UG5iajRWT3QzVmZucXcyeEZPWExvYk5pbkJJVW0xSDdwVDRVamdzUWJIR0J3cWJBUEhyazdYLWNzdC15ZXNnUG",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYzhQLVdlYjU0ZlhZV18tZU9LWl83RFludFNNSFRYaXhjcGVqYmg5UG5iajRWT3QzVmZucXcyeEZPWExvYk5pbkJJVW0xSDdwVDRVamdzUWJIR0J3cWJBUEhyazdYLWNzdC15ZXNnUGFBR051R2wyTy1kVlB4cXRFMzBIWjNTYUdOdkFwa284azRoRWpXdE1jZ3luMFk0Z2ZQbUU5WngzYTI1SVZ5YWFweg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-06-15-030",
+    "date": "2026-06-15",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SBA Communications (SBAC) Shares Fall 4% as Take-Private Talks S - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ2RTbXhOSXY1OTJYRWhiSmdvRnR0TTBiM0ViQlpIYmFNTFdjck52cDM0LTI4bXlMOGtmU3lXdk5nN2ZTazh4amFhd1g1eWlRSXd3RVFnRnJoSHJlWmNfVFdNLXJpZ0taVGNxa2JWNn",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ2RTbXhOSXY1OTJYRWhiSmdvRnR0TTBiM0ViQlpIYmFNTFdjck52cDM0LTI4bXlMOGtmU3lXdk5nN2ZTazh4amFhd1g1eWlRSXd3RVFnRnJoSHJlWmNfVFdNLXJpZ0taVGNxa2JWNnRLZWkxenoyU3AyWW9NbGtoaVFFSmhNX0JrdjNrVm5xR1Y2c1RBTExoQzlmbzc2WjU4TXd0M1VNNy1yZm5iMm1BdEtLcW82Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-06-15-031",
+    "date": "2026-06-15",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SBA Communications Corp (SBAC) Stock Down 4.4% -- Now Undervalued? GF Score: 86/100 - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOQmYtQ3pWeW5HbGtGMWxzOHlhV0FPLWNrQXZXaDlrSWl0Rkl0S0FyUHhVdzNTOE1JMnpGZUg0YVlKblVfLUdGSGpvM09EaWdpX2JidlY5dFZPcDktMzZKN3o2aU1rcWhnMHRwX1k2Z3",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQmYtQ3pWeW5HbGtGMWxzOHlhV0FPLWNrQXZXaDlrSWl0Rkl0S0FyUHhVdzNTOE1JMnpGZUg0YVlKblVfLUdGSGpvM09EaWdpX2JidlY5dFZPcDktMzZKN3o2aU1rcWhnMHRwX1k2Z3dmaXZhMEdoOVpOakRXamV4ZHJINk56WWRXLWpBNkVtdWZyb3BVcVpKZzFXRFVXdmpsb1Bzd3A3aWdTQUc5SDRXX0ZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-06-15-032",
+    "date": "2026-06-15",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SBA Communications (SBAC) on watch amid circulated vague rumor - StreetInsider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNU0o2VEN1TC11S19YMWRfOURPSTk1WlVUUVE5MWRwWGNkR25WMG91QXZDNVhmUmhGYWJvdHJZTVg3SHZqLWhGVkNXM2lmS01Uc3NDTkZ2b2t0Z3FEY1YwM2N4b0tINTBLcUthZHhkU0",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU0o2VEN1TC11S19YMWRfOURPSTk1WlVUUVE5MWRwWGNkR25WMG91QXZDNVhmUmhGYWJvdHJZTVg3SHZqLWhGVkNXM2lmS01Uc3NDTkZ2b2t0Z3FEY1YwM2N4b0tINTBLcUthZHhkU0lneTNJX0gzaDRYYk8wY0RCQnhnNlg4WkhmLWZUTW12R2FPSzdibHNOVEVHTGF6TFNwdHlWMHZMcUJJX1BDWVNDd1NXX212ZFJFaVdCRFdlOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-15-033",
+    "date": "2026-06-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "News | Link Logistics sells LA data center as demand grows for existing AI networks - CoStar",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUzhXWXZXamdsTlNlT3VFMDZ1OGs3RER6MUoyUEkxSGxpTWVYc1Z2MG8zTVJVRjdsM2FNQXotTTNQb2R1WjVyR0FYd3JFb3JZWjVKS04zNG9PVF9lVGpmdi0zcE9BTmZrZnRWTmJIdE",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUzhXWXZXamdsTlNlT3VFMDZ1OGs3RER6MUoyUEkxSGxpTWVYc1Z2MG8zTVJVRjdsM2FNQXotTTNQb2R1WjVyR0FYd3JFb3JZWjVKS04zNG9PVF9lVGpmdi0zcE9BTmZrZnRWTmJIdEhjVU4zSWhGV3d2ZnV5X1BTMTFPTG5pOTdRaGREVG9sZV92NHFxSHUzQi12MHFSMzZrd1JlMktSNWxQZ1FLYXVQd2RHOHJMNUkx?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-15-034",
+    "date": "2026-06-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Base Station Antenna Market Size, Share, Growth, 2034 - Straits Research",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1XNUVxRGgyTnZKZUhGX3o1Vk9oT2xYX3dtbC1WSDlKQXlWX2pheXdXcnVocWRzX0pzdnJuX2xjbDVIX1Q4aFZYTkwtYW1mMG1jeGczOVBaMlZUYW5BMTJHcWpObGpFdWF4UVQ5OEJqRQ",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XNUVxRGgyTnZKZUhGX3o1Vk9oT2xYX3dtbC1WSDlKQXlWX2pheXdXcnVocWRzX0pzdnJuX2xjbDVIX1Q4aFZYTkwtYW1mMG1jeGczOVBaMlZUYW5BMTJHcWpObGpFdWF4UVQ5OEJqRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nokia-2026-06-14-001",
     "date": "2026-06-14",
     "companies": [
@@ -512,6 +1249,27 @@
       {
         "name": "ciena",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeGhOUEZvUi1wTXVBTjA4NkhHWEZEd1pnby11c0hjMDdDT18wajBzT0Z0V2lLTGJDT0RNR294Vl90R2xjNVlzVHpVVjNsYnRkWkZtV0xYLVlrdHVucnZuY1ZWaHJ2MjNpNVJmejlMeEhpdEVOem82MEk4Q245d0hpZU0tRFpGa3M2c0F3T2RCZVEzZTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-06-14-008",
+    "date": "2026-06-14",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ciena (CIEN): AI-Driven Connectivity Demand Is Turning Into Stronger Revenue Visibility - Insider Monkey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOVF9iQm5WZDlnZUZIU1VHTFF1QTViVy1hWEtQb0RndUpEZEh0cGUxa0N6eEs4NnhFR2k3ZkxGV3hFSDJlRU42c0RiUTltRVlSRElzRFpGQWc5SDEtVkNzYnl4aEZwd0hnM0RMZzJqbj",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVF9iQm5WZDlnZUZIU1VHTFF1QTViVy1hWEtQb0RndUpEZEh0cGUxa0N6eEs4NnhFR2k3ZkxGV3hFSDJlRU42c0RiUTltRVlSRElzRFpGQWc5SDEtVkNzYnl4aEZwd0hnM0RMZzJqbjRhcjh3T3RjMWJVUG5OaHN6bHF4WFlZRVFGYjR6SzgxZ093UlpHQ1A0NUFPc0tHQy1NWFY3YmQzSW9OVWNoZUFPV1lMMzloS1RRWW9WeWVjckVpQ3FybGNz0gHPAUFVX3lxTE9zUkt0bzZkTFBqU0wyXy1wUnp5UE9ZTjlWM2MzOGlDbGtLbkxfVVpVNllUVW54Q013QlA5ZG5famlDSTNobHBuNTUxR09vZzI0UzE5aWl2bHliaVBsWXlhdVY0OUVYZkVDWEk1amp3VHVXU0N2eXcyZEZkYVBxRkZYQlFzZEdLQ2NVbnZMTHd2NnlFa0lFcGprSS0wQ2JDM0dQX2ZlQUZSZnRpZUt4dlB0Ti13M0VnRlBfVV9Md1NWWjRPY3VQOWZQVGtqXzJwTQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1147,6 +1905,46 @@
       {
         "name": "american_tower",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcjk0Z3NuVEZtSnRrTHFhUy0yWGF0UTlqZHd6NXRHeTUzcThRMzhfZFNYNDVRbHdvTlJsaHdZRGhOZXhaay03Qm9FTW8tSXdHYjdncFU0UU8zallwem9QUnNrNGNvdy1SVkVhV3BjMjZjZXVIdlFrNGNYQUNnemxaQllCaEpZQ3FpM2RxYTJWVmhkMzNWdXo4RWdUYmNWbnNXd1owcEdjX1ZVSlVNaTJDaGxpdmlHeXJvNXVQR29kZjNhaWxDeEw0ZWdnaWlKUlZFVFIzUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-06-12-027",
+    "date": "2026-06-12",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Loudoun students tour Equinix data center in Ashburn - Loudoun Times-Mirror",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxONFBMLXMwTG56TmJDTnVqRWNuOGFpczVmTEszOHk5dk9kTWVxdUozbi15VGREY0tsdy1iRnBSdF9hczdkVW1XOVZ5bW5NeTU0OWRRRVJkdFhnLUN4bTA4aWYtQzlyUTBranhRbXBzQW",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxONFBMLXMwTG56TmJDTnVqRWNuOGFpczVmTEszOHk5dk9kTWVxdUozbi15VGREY0tsdy1iRnBSdF9hczdkVW1XOVZ5bW5NeTU0OWRRRVJkdFhnLUN4bTA4aWYtQzlyUTBranhRbXBzQW4wX0lxZkNEZWJ3UE5UZUd0YnhoR1FzV1duUEF0SzBjaTRrNWNIRzNsaUdieTZpeWljbTNkR0lFLVRCYlRTenY4M1dXQk5pejVZbGFhOFFXT3RJR0FWMHpla1BtLTJ2cmk4U0Z1Snc1TWxyUUxUWnFHeFdaeEhhT0JmVXFQY1lB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-06-12-028",
+    "date": "2026-06-12",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Equinix (EQIX) Gains Analyst Attention as Citi Adds to Focus List - Negative Surprise Momentum - The League of Women Voters of Texas",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxObnRZWmRkb01hMDRmNzh2ZzA0Q3JCVXhBQWVVbGdXU2JLOFpUMlhFYXVqbjBTaldBR3lqWml2VnRqeUVlUEJ4NUpuMDBDVkl6NjZXTG5IeTU5aWhqLWtEVTVDcDNfU2xINUpab1BFaD",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObnRZWmRkb01hMDRmNzh2ZzA0Q3JCVXhBQWVVbGdXU2JLOFpUMlhFYXVqbjBTaldBR3lqWml2VnRqeUVlUEJ4NUpuMDBDVkl6NjZXTG5IeTU5aWhqLWtEVTVDcDNfU2xINUpab1BFaDFxeXdNWXRrQ1pvUG9fLTRLZGtKVDl0cU9YSU92QUpsdGs4YWFmUGtWZXZfR09tR0xfRjJjSmYzTC1Uc2lWUkE?oc=5",
         "type": "rss"
       }
     ]
@@ -3767,6 +4565,26 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM000R2taQnZqWHZmUS05cGJmWVNjTzNHNFA0b0JlNTBSVnkxd0RRY0F0dlppYml5dUZWWXZrQWcxZnpkRFJfRVlyd2NoRkoxckxZQXU3emNWNEhNY0RaZmpVQzFBUU5zb2lpelpHaGl0bjlENXlySGYtNmVoTXlweVV1aw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-06-09-057",
+    "date": "2026-06-09",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Ciena’s (CIEN) Zero-Coupon Convertibles Quietly Redrawing Its AI Network Investment Playbook? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQRzNYMlZvdEZ6NzUxUE1abGVPVEN0cG5zVTlKS0pSczA1UVhsd1Z5cTVnTUd2U3h6UTExbEFhSXZNUHdaVmQ2QTZRNjd3Y25OTXp5aFNmWWZLbFEwU1BraGV0UzVvNER2X3NCMmg5Wm",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRzNYMlZvdEZ6NzUxUE1abGVPVEN0cG5zVTlKS0pSczA1UVhsd1Z5cTVnTUd2U3h6UTExbEFhSXZNUHdaVmQ2QTZRNjd3Y25OTXp5aFNmWWZLbFEwU1BraGV0UzVvNER2X3NCMmg5WmZwR2VQTzdMTUFlVVM3WGNFMm00Sk1WQ1NsMUlTaWRlMEZzYmpaS290Y3pTbEVQRGZRM3c?oc=5",
         "type": "rss"
       }
     ]
