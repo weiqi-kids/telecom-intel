@@ -1,5 +1,345 @@
 [
   {
+    "id": "nokia-2026-06-17-001",
+    "date": "2026-06-17",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nokia Oyj gains with AI network bets in focus - TechStock²",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9XUTZscFRMbTEwSjBWdk0xbVQ2ZkgxVmkxMFVfNEQ1dVJPeU51WkluemxBcmdKdkN2OHVMdWdzZjFQVmVuSmNYRHo1YXZqM0pNa1hpblhobUxya1daT1MxVDkzcnJFZ0xsMTF0TzNadG",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XUTZscFRMbTEwSjBWdk0xbVQ2ZkgxVmkxMFVfNEQ1dVJPeU51WkluemxBcmdKdkN2OHVMdWdzZjFQVmVuSmNYRHo1YXZqM0pNa1hpblhobUxya1daT1MxVDkzcnJFZ0xsMTF0TzNadGNPMmxG?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "commscope-2026-06-17-002",
+    "date": "2026-06-17",
+    "companies": [
+      "commscope"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CommScope Holding Company Inc (COMM) Dividends & Stock Splits: Historical Payouts and Event Timeline - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5RS3J6T0RSN3lLclEtbDNWSGZISkhLbExscHo1UDc0cEJ4UDdmbzJKSGN1c0ZRWWpWTDlPU25NTDJSNkNTVGNibVZfT0pwYktGZUpvZWZMUWVveEltTHZyZHk3OWhya2FLUnBOdlJrMm",
+    "sources": [
+      {
+        "name": "commscope",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RS3J6T0RSN3lLclEtbDNWSGZISkhLbExscHo1UDc0cEJ4UDdmbzJKSGN1c0ZRWWpWTDlPU25NTDJSNkNTVGNibVZfT0pwYktGZUpvZWZMUWVveEltTHZyZHk3OWhya2FLUnBOdlJrMmlnYlJxNXlXZA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-06-17-003",
+    "date": "2026-06-17",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SoftBank Launches New AI Security Product, Joins Forces with OpenAI to Defend Against Unknown Cyber Threats - NAI500",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMkFET05lQm8taDhtbWQtd1B5VkFTMVRPQ3dNakJDMzFpbzhwbVpabmVlM3ZmTHE5bDdHaFJCWGRPb3R2ZnNKZ0tJZER4ZTdNYU1WTG9SR0JsemIxcEJUMVJ1ckxGdV9McTJ4dzhZN0",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMkFET05lQm8taDhtbWQtd1B5VkFTMVRPQ3dNakJDMzFpbzhwbVpabmVlM3ZmTHE5bDdHaFJCWGRPb3R2ZnNKZ0tJZER4ZTdNYU1WTG9SR0JsemIxcEJUMVJ1ckxGdV9McTJ4dzhZN0ZkT19FcmlFRHlkNDN2ejh1eWFvMHJMR0RYVFd1a0FVb3lpc0VZcXdqeXNyUlRxM0dyc2NBR3J2ZWpvbGJjOGpacGtNdzd5Y2FId2tscDdhZF9RWWhtcmRPa3IyLWRUQXU2LXk0QkN3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-06-17-004",
+    "date": "2026-06-17",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SoftBank launches AI-driven cybersecurity service in Japan - techgig.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNbXBfYXZMcGVHWVdlRnZISG81NDFSZ2Q0aW5Oekx3Wlp3RG1nTGFrMHR0QTJxd3JUTE9IQ01zaEhtNVhvYnlHSjJBQ2dQX2xYN0M1WTJ3ODYteUFlQnJ4MHFBbzNwLTNMRnZycXpfV0",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbXBfYXZMcGVHWVdlRnZISG81NDFSZ2Q0aW5Oekx3Wlp3RG1nTGFrMHR0QTJxd3JUTE9IQ01zaEhtNVhvYnlHSjJBQ2dQX2xYN0M1WTJ3ODYteUFlQnJ4MHFBbzNwLTNMRnZycXpfV01vcHV6N2MyNXgyYnVONU1HUUlTN0h6QmtTeTFma2hIVjF1eXVwM0d4a3JGaF_SAaIBQVVfeXFMUFplUTZxRzhkRHRQMF96U0hYYTZuRzlycjIxMjZQTGhZVE16YUxQNEktVmVRN3F1WlhYVTAyUWt2NmdkRUgyZDR4WmxITEVwUWZnUHVaT0tkQVVFTWhJTk1fcl9jX0xSQXYtY0F0QmI1OGpvZzBBR2xUNkxjbk5NZUlRMkZyUkRnV0ZiRnRDX3p0SEJ0YnhEb29Fam1aTjJnSVJn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-06-17-005",
+    "date": "2026-06-17",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Analysts’ Top Real Estate Picks: American Tower (AMT), Apollo Real Estate (ARI) - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdEotTERiQU5EY1JvRnpHRFZCZHRDeDdWdFNVM3pXYmJoR1N5aEMwTk92Q2ppaEtQcTBtbmJ1VVN5TldyT2VKMkp1ZFZzUTBfLU5BdWI4SzhoQ1dxLWVyWU9zMjJ0OTEwajktaFdXal",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdEotTERiQU5EY1JvRnpHRFZCZHRDeDdWdFNVM3pXYmJoR1N5aEMwTk92Q2ppaEtQcTBtbmJ1VVN5TldyT2VKMkp1ZFZzUTBfLU5BdWI4SzhoQ1dxLWVyWU9zMjJ0OTEwajktaFdXalRaTklDSGlYRkZ4Ym9uTU51dEVYVE9DZllySGFxNG95REViQ2xZNlJzclpVbUx0Mjk2NUppV0hWTGg0cTJxNC1LcGNUVGlpRGt1ZVRXcFk0RjRiT1M3cHh0MU1aZURIbzY3ZHdCWU82c18tVlJSWWJwNXp1UkdxQ3BRb0tyZQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-06-17-006",
+    "date": "2026-06-17",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Equinix opens AI-ready HK6 data center in Hong Kong - W.Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE5pR0tsMVM0ZkNLZDR4V2xZWkI0RE1LWVpNUS1PckJ3c25SLXMyazFiZ3BWMDJFdG1INlB2VFVzNTlaSTVzSk9GM3dlWHlKWDE3RGtKV0RJZWVrcnZIRHFKLWFlNTBXQXFaNUNJYUNRMk",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5pR0tsMVM0ZkNLZDR4V2xZWkI0RE1LWVpNUS1PckJ3c25SLXMyazFiZ3BWMDJFdG1INlB2VFVzNTlaSTVzSk9GM3dlWHlKWDE3RGtKV0RJZWVrcnZIRHFKLWFlNTBXQXFaNUNJYUNRMktYcDRNODF3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-06-17-007",
+    "date": "2026-06-17",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Equinix Launches New Data Center HK6 in Hong Kong, Boosting AI I - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOZk13dWZ4NnUxcUUzQjFkOVo3WTBRT0NoVFJQbWxpa3haZ3laYVV2T1dDM1R1MzNBbG03ZmRzcHlfOHRsRHVLWmxSTV8zaGpWcWR6dmpiWmowNUZNMUkyQUMtRV96OGJDdUFTLURGVT",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZk13dWZ4NnUxcUUzQjFkOVo3WTBRT0NoVFJQbWxpa3haZ3laYVV2T1dDM1R1MzNBbG03ZmRzcHlfOHRsRHVLWmxSTV8zaGpWcWR6dmpiWmowNUZNMUkyQUMtRV96OGJDdUFTLURGVTdpTXRwdWQtUDVwM3ROT001bWY0b0FZenFzM0RsSkZ5WmdqY0M4Tnd2b1ZERUoxUGgyZjZpRVdGMmMyRFE3dDBfSWNLVU10QUNCdl8yY3d3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-06-17-008",
+    "date": "2026-06-17",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Equinix procures Cisco's Secure AI Factory with Nvidia to strengthen global data infrastructure - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR3N1TVdvcUNDSVpBWnhpem5pX19fTm04MHlPaGZTeU1oTGU5eGM4Y2dOaXJod1VSODFKNGg2amNLVUlsQ2UwdVlPZE1TUmdPb3g1RXhGWGNUcmQ3R3ZpbmVyYzg4RG5FdmJJVXZqcj",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR3N1TVdvcUNDSVpBWnhpem5pX19fTm04MHlPaGZTeU1oTGU5eGM4Y2dOaXJod1VSODFKNGg2amNLVUlsQ2UwdVlPZE1TUmdPb3g1RXhGWGNUcmQ3R3ZpbmVyYzg4RG5FdmJJVXZqcjFxZW1pbkt6Y3hpV1E2Zm5OV21GbGVtMDBfRFRrNjBlRXdxVW9MMGh6Z0I0b1hjeFZDU0ktNGpKU1VQZTRFQkZYcTBEQUY1N3ZJc29CUFpuT0pvd2lYUDFJQTlDc0p6UTFHakZN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-06-17-009",
+    "date": "2026-06-17",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Equinix, Inc. (EQIX.US) Launches 6th AI Data Center in HK - AASTOCKS.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNYTFNdTZicDAwNEJaRV9hUkNvNnNvYW5wTWpOVXJuMzcyRktsQ2tzcHhncHcxb3ZHcHFzU0ZBbDlVS2ZsNVV1SE9KSnBkUEVvVWFDSnpoUHA3VDlKb0dJOHNjaEZEWVZOQnhjZUcybU",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYTFNdTZicDAwNEJaRV9hUkNvNnNvYW5wTWpOVXJuMzcyRktsQ2tzcHhncHcxb3ZHcHFzU0ZBbDlVS2ZsNVV1SE9KSnBkUEVvVWFDSnpoUHA3VDlKb0dJOHNjaEZEWVZOQnhjZUcybU1tdGFqbDQya0h3MFF4NlNSN1hjcGVvWnBkM3g1SncyUzlHaGNSMjV5REhCQWs1ZWU0cFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-06-17-010",
+    "date": "2026-06-17",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SoftBank rolls out AI-powered 'patching as a service' in Japan",
+    "summary": "SB OAI Japan GK, a joint venture between SoftBank and OpenAI, announces the launch of 'patching as a service,' which will initially be offered to Japan's top 3,000 companies.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/security/softbank-rolls-out-ai-powered-patching-as-a-service-in-japan",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-011",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Eurobites: Kyvistar hooks up with Starlink for 'light data' service",
+    "summary": "Also in today's EMEA regional roundup: Ofcom consults on MSS band and more; RugGear joins Vodafone's mission-critical gang; Alibaba opens cloud region in France.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/satellite/eurobites-kyvistar-hooks-up-with-starlink-for-light-data-service",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-012",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "6G might not be such an easy upgrade from 5G after all",
+    "summary": "Talk of wacky AI use cases is creeping into the 6G conversation, and the technology path from 5G could be bumpier than operators hoped.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/6g/6g-might-not-be-such-an-easy-upgrade-from-5g-after-all",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-013",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "5g_deployment",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "AmpliTech Adds Senior Telecom Leaders to Accelerate 5G Open RAN Commercial Growth - The Fast Mode",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPN3Y0bW1Rb1JOWkRUNEhnZGp2WEQ0TDMxbFUwSWNhV3pTdDFOOW04SnVocHdfSjBhMGZmVk14c0hZVlNOcF95ZDhIZTJkLURscExjWGNzLVVZd0t2M0ZMd0NmTFlYTG5QelZuMG16bG",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPN3Y0bW1Rb1JOWkRUNEhnZGp2WEQ0TDMxbFUwSWNhV3pTdDFOOW04SnVocHdfSjBhMGZmVk14c0hZVlNOcF95ZDhIZTJkLURscExjWGNzLVVZd0t2M0ZMd0NmTFlYTG5QelZuMG16bGN6Q1kta1kwX0JMRDNOUk9GcHgyY0R5VXEwdlg2c2ZGQnRMYmNra2dnYkFua2JQUno0ZlptajUxZ0ZzZzd1bzZjcTRwaGFxUElLNEdOVldlUTNPdnJmZXRUR043WUVtSnpVVEpuTFpMSEw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-014",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Flow activates Jamaica's first commercial 5G network - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQMWsyaVBvOG9TTExiTUU3Zm5xTUZxdjBMLTBrUllaVi01ZVFibE5UUUtDMlRGMjFYSkdpQThMZWR1S3lZYVZRNGtEdHBUTjFPcGRCUXFWSWxrLTRsQ25yTk1EaFNhU3lia0lHdlBTRG",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMWsyaVBvOG9TTExiTUU3Zm5xTUZxdjBMLTBrUllaVi01ZVFibE5UUUtDMlRGMjFYSkdpQThMZWR1S3lZYVZRNGtEdHBUTjFPcGRCUXFWSWxrLTRsQ25yTk1EaFNhU3lia0lHdlBTRGk4Y0hfb3NqVUtTX3lVZm5scEdkWmdDWmVwZHZsYTRZenF0YllwREpuOFdB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-015",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tanzania Telecom Sector Should Be Declared Critical Infrastructure, Report Says - TechAfrica News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNnZBQkJkTmplWDlZYzNIZE54elVObHA4UWR6bk45eWRURTRIQjBhWkJ5Rmc3c3h1YTlxQ2t1b1dQVURZMlFka25XclA1TkRqSVR0U3dlWlJMMWw3V20zZWktWThiQVpwZm5ubHBvS2",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNnZBQkJkTmplWDlZYzNIZE54elVObHA4UWR6bk45eWRURTRIQjBhWkJ5Rmc3c3h1YTlxQ2t1b1dQVURZMlFka25XclA1TkRqSVR0U3dlWlJMMWw3V20zZWktWThiQVpwZm5ubHBvS2dmOEg2TjA5eGFpcDRLa3FPbm5jZFhMU1FGZnhOTmV0c19yVTRGbWpRbUVPdzNKTjVtbUVOUEV2aFhaOHJHcUlVMWRURlptT2hY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-016",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Telia Revolutionizes Telecoms with 5G Critical IoT Launch - VoIP Review",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOWHVqV2ZuenNMb2xpeFRqZmMwZnNfcVFjX29LR0lYRlVmeGFfSzZ3UTh5RnphMW1ST21hRjBPSUxuWERlX1J6aUQzWWtVSHFIZ3lvZE1JRE5Jb1pJRkNyXzNIUXQ1czByaWpqbmFQb2",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWHVqV2ZuenNMb2xpeFRqZmMwZnNfcVFjX29LR0lYRlVmeGFfSzZ3UTh5RnphMW1ST21hRjBPSUxuWERlX1J6aUQzWWtVSHFIZ3lvZE1JRE5Jb1pJRkNyXzNIUXQ1czByaWpqbmFQb2xVOW96MEFaN25WY3pvWUVycGZyUnczN2tZYkxtQg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-017",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bharti Airtel appoints Rahul Vatts as group chief regulatory officer - ET Telecom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT2t6NzBkQ0JacHVKTmVCSlBDaUk5UGQxVFp1ZDI0VG5jeWdKU3dOQ3puNGtfWWZlU291MkpfYTYzdzNGQkhKeXdvY0JHcXotYWtRQkIyWXp5QnE2Yzc5SG1nT0JnZFM3YVZLM0hLND",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT2t6NzBkQ0JacHVKTmVCSlBDaUk5UGQxVFp1ZDI0VG5jeWdKU3dOQ3puNGtfWWZlU291MkpfYTYzdzNGQkhKeXdvY0JHcXotYWtRQkIyWXp5QnE2Yzc5SG1nT0JnZFM3YVZLM0hLNDBDYWxPaExZTk9UdUJzb1AyVXgxU2t1bGhMNW1nMVc3LUZFOV9HZF9pN2VfZUVYMDdjZEd5WkZKUE1JSVo1ZHdFeEFOaWNMUTNrZVFiRWlINjJKTEc0S0dOWTZZNFVEb0h5WmQ2Nw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-17-018",
+    "date": "2026-06-17",
+    "companies": [],
+    "topics": [
+      "spectrum_auction",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NCC begins telecom pricing review after eight years - Punch Newspapers",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBZN1BRYUdGOHdnWVpiNGl0N0ZrcTF1SlNIWmxNQlVzZGVGN2h1d09kaUdoejJCSW1CSmxCb2hHV2hpc2NENU51bktmX3EtQUNUdkNRN0pQMVlxUWZzNEJFZ05QN2NIZEpqS19xSFhMeF",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZN1BRYUdGOHdnWVpiNGl0N0ZrcTF1SlNIWmxNQlVzZGVGN2h1d09kaUdoejJCSW1CSmxCb2hHV2hpc2NENU51bktmX3EtQUNUdkNRN0pQMVlxUWZzNEJFZ05QN2NIZEpqS19xSFhMeFA2dm5uVjNFVWJJMTU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "softbank-2026-06-16-001",
     "date": "2026-06-16",
     "companies": [
@@ -464,6 +804,341 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkZlN3dyM3JmQWJFZmJjZy1HTFkwWE9VcUtLZ0gyZmhXM2J3UFF1cFk0aDZ4NjlDSHJoakM5QmhfcHRoOTBKcUdmcDc5cmtsQTIzVFhrSmlaLTNxTVlZUEZJNG1DbVpUU1BmQ3E1Q25FRC1OS1h5TkxnWkNmRlV4SUQxa3l0alZWVGJCeENnd0xmV1FnSG9acXNjakxQS0dFRUVzS2ZvN2I2QVdMOXpQVk05aDJrZDRMaUJv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-06-16-026",
+    "date": "2026-06-16",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Ciena slides as investors digest $2.5B upsized convertible note deal and related hedging/dilution overhang - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWnBuMWFzVkpnU045YW00WFhERkZrOXFlVnJvQTg1aXY4ampxSGQ4MXRMeWl2aEVlenNfd2tpekpqVnFCSWNyNTV4WXZfOFlyUGNzTkFiZUE3OVMtV1MxU0ZNSHgxUGdia0c4Q0ZnSm",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWnBuMWFzVkpnU045YW00WFhERkZrOXFlVnJvQTg1aXY4ampxSGQ4MXRMeWl2aEVlenNfd2tpekpqVnFCSWNyNTV4WXZfOFlyUGNzTkFiZUE3OVMtV1MxU0ZNSHgxUGdia0c4Q0ZnSmpkTEJrNVp4N2owdHI4LWFHUjdnblJJV3FralFEVDQ1QmpMdnlvb3cyQ3VsWWc1YXZIQVd2aFNwYVFrQWdvdGhNcFlDcGdxbTJ1M29DRk1fWUZhTFNQV2FwQkZKVXkzbEF0OGN2N21WLVg3T0U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-06-16-027",
+    "date": "2026-06-16",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SoftBank Launches OpenAI Patching Service for Cybersecurity - Let's Data Science",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOVU9FQnZLelhmWUhldkgtUndxbXh1dWN1WUVDZkp4WWdWTmVPalpBVTE1a3gyR2NPQV9fNFQtNkYwMXpBSGxEeENidVhKaGN1dXZTRWZnekZxVGZ0WVVwNUl6WXFSbGZLUG1Md19vcT",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVU9FQnZLelhmWUhldkgtUndxbXh1dWN1WUVDZkp4WWdWTmVPalpBVTE1a3gyR2NPQV9fNFQtNkYwMXpBSGxEeENidVhKaGN1dXZTRWZnekZxVGZ0WVVwNUl6WXFSbGZLUG1Md19vcTV5ZkxCSUFFb0RDQmptSGM5M1drTXJPSFdqX0xaazI2Z3BEOTJ0LWRCY25yMkYtZ0hGaXJJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-06-16-028",
+    "date": "2026-06-16",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Equinix Collaborates with Cisco and NVIDIA to Deploy Secure AI Factories Across Global Data Center Footprint - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdmFvVjRYYUNkYk53QU1NSHBYVjktUFFqR25rX3p3ODlLMHNWM0lDcXdESHFPcUFZbDF2UTA3ZWFkWWJmbDJ5SXVIRFZRQUFaR25YbEpxVlBvX3JkWDZfZHRiMUlTd2Rkd3lLbG5XTV",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdmFvVjRYYUNkYk53QU1NSHBYVjktUFFqR25rX3p3ODlLMHNWM0lDcXdESHFPcUFZbDF2UTA3ZWFkWWJmbDJ5SXVIRFZRQUFaR25YbEpxVlBvX3JkWDZfZHRiMUlTd2Rkd3lLbG5XTVNSdldaclkzUUI1Mi1GOTM1U1pJR1BfRUZHMC1MSTAySXRaNW94akQ0SDVRbVBQOU9xdWV2bnJyQUhBazBTbWtxbUNpR29fSnAyUHc1eTRKTTF6VldDU2FDSGEwdmhXWXAtUkJ6cUp0amhsaVpqUVQxeXdTUkNaLXdLZzVQazZaN1ZpMW0xUUtz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-06-16-029",
+    "date": "2026-06-16",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Equinix Sets Up Lab to Let Firms Test AI Systems Before Wider Rollout - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUnVRQlEtdFloMGo3b2tDNkU2dVpuTTA2cUs2RV91UnN1LVA1dFpRUG8tQzJVdFo2dXVnOTlFOVBmR0xyOTFOVjBLVEtTaEtZSkZJbkFLY0c2TFB5SjR0bU9EQl9VSzBaOS10Q2JQQj",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUnVRQlEtdFloMGo3b2tDNkU2dVpuTTA2cUs2RV91UnN1LVA1dFpRUG8tQzJVdFo2dXVnOTlFOVBmR0xyOTFOVjBLVEtTaEtZSkZJbkFLY0c2TFB5SjR0bU9EQl9VSzBaOS10Q2JQQjdMcUNDUVJjbU5DdlBBREpxSlA1dlNxdkQ0SVRNQjI3a0ZxSnozTXVCTXRoYzdFUUJEekFHNHpzX1pGRGpEMTBDQUttTVBnb3RSalRPWWl3ckhiQVJsWnF3dHZwVWQtRDRv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-06-16-030",
+    "date": "2026-06-16",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Equinix, Inc., Cisco Systems, Inc., Nvidia Corporation and Presidio, Inc. Collaborate to Deploy Secure Ai Factories Across Global Data Center Footprint - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNnduRW1BXy1qZXhGUy1wWGFkRFZ6VXFaaEdnWGN1TUlfODEyTFhabXpfVjZ5VzlwVTVHX3dlUFNlS2U0OGpZTVRpRHlRb2xQZFJla3JwS1c4M1NQd1NSaTZKTU1JZGQyWkltM3Y1NE",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNnduRW1BXy1qZXhGUy1wWGFkRFZ6VXFaaEdnWGN1TUlfODEyTFhabXpfVjZ5VzlwVTVHX3dlUFNlS2U0OGpZTVRpRHlRb2xQZFJla3JwS1c4M1NQd1NSaTZKTU1JZGQyWkltM3Y1NEs4UDFuelZOMDEzNEI3UVFqT0w4VmVab3FieXFJWkJaa2lDSTBMZF90UVFhLXJyTUZZV3lDaFVCZl9naFZDNW1nS3M2LXlrdjJwMDNNYzNxM09mbThMTk5zbjk4andzVDZhMTlOME1PWUh5UEdNQ0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-06-16-031",
+    "date": "2026-06-16",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Waypoint Trading Solutions to Expand European Exchange Connectivity with Equinix MD6 Deployment in Madrid - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNDBMZlVKRW10VG5DXzRDS1RBN2ttN3hDZjZOTDVzTkxSb2lKNnJ1SW9jbFJ5LURYNU50RnJGaGJJMGpKQ2xKMk5EZEdMZUNFbng4RC01RG9Wb3NTZElDUWY2MWdJTUdzRy1faUNNWm",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNDBMZlVKRW10VG5DXzRDS1RBN2ttN3hDZjZOTDVzTkxSb2lKNnJ1SW9jbFJ5LURYNU50RnJGaGJJMGpKQ2xKMk5EZEdMZUNFbng4RC01RG9Wb3NTZElDUWY2MWdJTUdzRy1faUNNWmg4aXRSckZ6bWJXN3dRMktfWVlaTGpydlJZMUJRU2loX1hFWGdtNEpxdXpBN0w0SVE3NzZyZlpPb1NxanFKUm15elZWR3JMZXJfenE5ZDAtQlJ5aGY2RVBqRXF3OFNvLUYwT2VodlgyT2Fla0Vfbm42MmRKb3l5YjVXaVRrSzM0MUpzTG1G?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-06-16-032",
+    "date": "2026-06-16",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "Equinix Expands Cisco and Nvidia Partnership to Accelerate AI Production Deployments - TechAfrica News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbWZfdk5FVzc4bTRrUkt0TmRzekhGc09WMUYwZ2ZHTUFXRTVFWnlwemtXZmxMbWctWGNSQWJEeVptNDVUZ2p4c3ZvbDU2Q280MDN4dDdwMnpHeFd2Tm9jTldFbTNKYW9PS184ZG01bn",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbWZfdk5FVzc4bTRrUkt0TmRzekhGc09WMUYwZ2ZHTUFXRTVFWnlwemtXZmxMbWctWGNSQWJEeVptNDVUZ2p4c3ZvbDU2Q280MDN4dDdwMnpHeFd2Tm9jTldFbTNKYW9PS184ZG01bnJfWWhUMDl5ejcwOXlrSm41d3R3N2lrWXFETy00aXNFU3lTcDZmbFo1Vm1QdjVEcGhUenRrSDc4aUo0WFZTQmNaTHJnbVI1Sl9aM1FZNzB2SmM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-033",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Boingo celebrates 25 years in business",
+    "summary": "Boingo's portfolio spans more than 130 airports and transportation hubs, over 70 sports and entertainment venues and more than 100 military bases. #pressrelease",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/wifi/boingo-celebrates-25-years-in-business",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-034",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SCTE's TechExpo26 to key on AI, fiber and convergence",
+    "summary": "SCTE has begun to flesh out the agenda for TechExpo26, set for September 29-October 1 in Atlanta. The show promises 48 hours of sessions on topics such as AI infrastructure and network and service con",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/cable-technology/scte-s-techexpo26-to-key-on-ai-fiber-and-convergence",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-035",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Comcast rolls out same-day access to broadband gateways",
+    "summary": "Comcast has teamed with Roadie, a UPS company, to launch a same-day Wi-Fi broadband gateway delivery service in about 20 markets. Comcast also offers this same-day option at its retail stores.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/cable-technology/comcast-rolls-out-same-day-access-to-broadband-gateways",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-036",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ripple Fiber taps Peeples as chief revenue officer",
+    "summary": "Chris Peeples has joined Ripple Fiber as chief revenue officer. He most recently served as CRO of Mercury Fiber. #pressrelease",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/broadband/ripple-fiber-taps-peeples-as-chief-revenue-officer",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-037",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ritter and Great Plains combine to become Rightfiber",
+    "summary": "Grain Management said it has combined Ritter Communications and Great Plains Communications to form Rightfiber, an entity that will serve more than 400 communities across 20 states. #pressrelease",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/broadband/ritter-and-great-plains-combine-to-become-rightfiber",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-038",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Toni Murphy joins Mediacom as EVP of operations",
+    "summary": "Former Astound Broadband exec Toni Murphy has joined Mediacom as EVP of operations. She succeeds the retiring John Pascarelli. #pressrelease",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/cable-technology/toni-murphy-joins-mediacom-as-evp-of-operations",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ericsson-2026-06-16-039",
+    "date": "2026-06-16",
+    "companies": [
+      "ericsson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ericsson appoints Per Narvinger as CEO to replace Ekholm",
+    "summary": "Ericsson CEO Börje Ekholm to retire and hand the baton to its head of networks, Per Narvinger, who will take over as president and CEO on October 1.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/5g/ericsson-appoints-per-narvinger-as-ceo-to-replace-retiring-ekholm",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-040",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Most of SpaceX's AI number is not Grok",
+    "summary": "Goldman projected $322 billion of AI revenue in the SpaceX IPO. The largest slice of that pie, with a real price tag, is the rent SpaceX collects from rivals Anthropic and Google.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/ai-machine-learning/most-of-spacex-s-ai-number-is-not-grok",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-041",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Alaska's GCI forges stronger connection to Starlink",
+    "summary": "After using Starlink terminals to keep business customers connected, GCI said it will deploy Starlink's dedicated Internet service with bonded gateways to provide backup connectivity to several Alaska",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/satellite/alaska-s-gci-forges-stronger-connection-to-starlink",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-042",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Anthropic’s AI Block on Foreigners Tied to Korean Telecom Company and China? - Businesskorea",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE1iQzlKZ0hpaHRiVTZWeXUzdzBJYTIyLWNURFNDQWgyTFk3bWtIX0hLbW10enF6VUdWTWFCT1JpX2d0WWwwS21nV1NvMU9zTWtWUGZKcm95WFExQmRzamR2c2tCaHNVc2s5VEg2OG00RX",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iQzlKZ0hpaHRiVTZWeXUzdzBJYTIyLWNURFNDQWgyTFk3bWtIX0hLbW10enF6VUdWTWFCT1JpX2d0WWwwS21nV1NvMU9zTWtWUGZKcm95WFExQmRzamR2c2tCaHNVc2s5VEg2OG00RXdpWjl0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-16-043",
+    "date": "2026-06-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Telecom sector targets cost-based rates after N3.99 tariff survives eight-year inflation shock - Business News Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRHhoQ1hPT18yc0VQdVg3Y0dEQUtRZldYeUVnYi02ZnFfclg2TmgwVnppNjA3cmxzSlotSGYtWVYxTjRjRVg5cjNRSUtodTZ3d0ZQM2I5RVE3MU02Z05VQ0FJUjRiSGo4NjdJVDF4U3",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRHhoQ1hPT18yc0VQdVg3Y0dEQUtRZldYeUVnYi02ZnFfclg2TmgwVnppNjA3cmxzSlotSGYtWVYxTjRjRVg5cjNRSUtodTZ3d0ZQM2I5RVE3MU02Z05VQ0FJUjRiSGo4NjdJVDF4U3BSVjhyZDhWa2kyby1MSVUxclVjeW9TdTdzSW9NaHdSajdEZkpWckplS04taVhSdUstTXdSSnZDQ01SWGVVVVBpQUQ4REVvV1BKdTRrd0tMY3Y2MHZLUWY0ZFByaFRQRXpFMEJJ?oc=5",
         "type": "rss"
       }
     ]
@@ -1112,6 +1787,42 @@
       {
         "name": "google_news_5g",
         "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XNUVxRGgyTnZKZUhGX3o1Vk9oT2xYX3dtbC1WSDlKQXlWX2pheXdXcnVocWRzX0pzdnJuX2xjbDVIX1Q4aFZYTkwtYW1mMG1jeGczOVBaMlZUYW5BMTJHcWpObGpFdWF4UVQ5OEJqRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-06-15-035",
+    "date": "2026-06-15",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Can the Colt Tie-Up Fuel Ciena's Quantum-Secure Expansion? - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMHlqejI3cWdGRG41SkNVWDdGb3JwS091bFNkRWlKZUJZVV9ZRVpsUDlwdDIzbnJhOERSWVV3OVZBcHA4R19oNG5TYWtaVGpsaEFaYWpnSUozdnJjemc1WlltLVRxRmdRRTFyb3c1SU",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMHlqejI3cWdGRG41SkNVWDdGb3JwS091bFNkRWlKZUJZVV9ZRVpsUDlwdDIzbnJhOERSWVV3OVZBcHA4R19oNG5TYWtaVGpsaEFaYWpnSUozdnJjemc1WlltLVRxRmdRRTFyb3c1SUlaUkNWeHVDNVlkRHJmYTN0enpQVE1NVTF0UVhDOHJjR0Rxb3AxMnotTklkQU90UGhtdzdOb0YzVkl3U0NQLUJnLTZRbnVMMXZEVUZLNVYzOFg0REhUQ051Vi1DMFl5eW5GQzh1QzdNcXE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-15-036",
+    "date": "2026-06-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mavenir First Major Network Software Vendor to Receive 5G Packet Core Network Function Certification Under Germany's BSI NESAS Scheme - markets.businessinsider.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAJBVV95cUxQeW1MalF4WXhzQ19KeHBreUthMllkYjdwbDFIZTMwMjI3RGhlcmpiNTJjTW9kdXRHUDE5TG9jSjh2VldQZnNvRmpUZ094aTFLWkxKVlcxaHp1d0U3UEpGUEZ5b1hYNGZSRi1vU3FQVn",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQeW1MalF4WXhzQ19KeHBreUthMllkYjdwbDFIZTMwMjI3RGhlcmpiNTJjTW9kdXRHUDE5TG9jSjh2VldQZnNvRmpUZ094aTFLWkxKVlcxaHp1d0U3UEpGUEZ5b1hYNGZSRi1vU3FQVnhNNjhoSzlXNGFkNWFCd2JCQWxuMlBRRDVUVF9IbGcybzFHTFZKdS1SR19VaGNfT0QyRGh5X0JRWGsyV3FyRDB5WGRJNjVUQjV1dkdZYzJTendsMmNsUzQ4VjdDLVJIMW9BRlc0YTF5LWlIVzl2dFMybkVnSnc5LU5OeFRhQThZQ244XzFkZEdDM3hSaFYwcE5uVlQ3X2pZcEdMTmtaX2dRNGVRTHJQOC1CQVp5UA?oc=5",
         "type": "rss"
       }
     ]
@@ -1940,6 +2651,26 @@
     ],
     "impact": "neutral",
     "title": "Equinix (EQIX) Gains Analyst Attention as Citi Adds to Focus List - Negative Surprise Momentum - The League of Women Voters of Texas",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxObnRZWmRkb01hMDRmNzh2ZzA0Q3JCVXhBQWVVbGdXU2JLOFpUMlhFYXVqbjBTaldBR3lqWml2VnRqeUVlUEJ4NUpuMDBDVkl6NjZXTG5IeTU5aWhqLWtEVTVDcDNfU2xINUpab1BFaD",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObnRZWmRkb01hMDRmNzh2ZzA0Q3JCVXhBQWVVbGdXU2JLOFpUMlhFYXVqbjBTaldBR3lqWml2VnRqeUVlUEJ4NUpuMDBDVkl6NjZXTG5IeTU5aWhqLWtEVTVDcDNfU2xINUpab1BFaDFxeXdNWXRrQ1pvUG9fLTRLZGtKVDl0cU9YSU92QUpsdGs4YWFmUGtWZXZfR09tR0xfRjJjSmYzTC1Uc2lWUkE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-06-12-029",
+    "date": "2026-06-12",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Equinix (EQIX) Gains Analyst Attention as Citi Adds to Focus List - Negative Surprise Momentum - lwvtexas.org",
     "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxObnRZWmRkb01hMDRmNzh2ZzA0Q3JCVXhBQWVVbGdXU2JLOFpUMlhFYXVqbjBTaldBR3lqWml2VnRqeUVlUEJ4NUpuMDBDVkl6NjZXTG5IeTU5aWhqLWtEVTVDcDNfU2xINUpab1BFaD",
     "sources": [
       {

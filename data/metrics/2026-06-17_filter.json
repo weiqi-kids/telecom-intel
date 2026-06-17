@@ -1,0 +1,16 @@
+{
+  "total_raw": 276,
+  "dup_title": 148,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 8,
+  "gate2_fail": 8,
+  "passed": 39,
+  "gate2_samples": [
+    "Nokia to expand chip test and packaging ops in US - Breakingthenews.net",
+    "Ciena Drops 6.0% Amid Sector-Wide Selling - AlphaStreet",
+    "Will RLS Hyper-Rail Emerge as Ciena's Next Growth Catalyst? - The Globe and Mail",
+    "Ciena's Strong Free Cash Flow: Can It Balance Growth and Returns? - Yahoo Finance",
+    "SBA Communications falls on the report take-private process is dead (SBAC:NASDAQ) - Seeking Alpha"
+  ]
+}
