@@ -1,0 +1,223 @@
+{
+  "date": "2026-06-18",
+  "generated_at": "2026-06-18T11:47:47.870472Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "commscope-2026-06-18-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Commscope Holding Ord Shs (VISN) Financial Health: Profitability & Balance Sheet Analysis - TradingKey",
+      "companies": [
+        "commscope"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxMF9ueldrbGl2dGJ6WjRYaWdqRWFnR0NCTEFmQmN1MmhVdklLVUxoQnlIUGFIeFNERmFMMXNPQ1hMcFYwak04b1pxREdqSzhqeUtwazZXNDZzZ01TQnFxcnRuYWM5UC1pQW1aS0QxMmQyMldFZjVvbDBR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "commscope-2026-06-18-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Commscope Holding Ord Shs (VISN) Earnings Forecast: Future EPS & Revenue Growth Estimates - TradingKey",
+      "companies": [
+        "commscope"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5BUGs2c1VXd2lVUmVYWTQ2T3l1c3FZZDJYdDFfTlBVMzNHYXlzazBzalcyell0aVJIbTRlVndTazZsTVo1M2lhYTlwQnpuSUhseGtOMi1WbTBLeE5DeVAwMVRBRUdEcHdaVUFoRkxhbw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sba_comm-2026-06-18-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SBA Communications Corp (SBAC) Revenue Breakdown: Business Segments, Regional Revenue & Profit Contribution - TradingKey",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tUUxBZjZ0cjNlWU1JUF9VUEJxUmh0LXM4R0lyMTQzVEFHZEpvaTZxX29kZXQyUzhWZGV3R1VlRG9vQXJOby1IRnUxTGVoRGcxLW9JY29qY3dVOVQ0UEVuT0dYWnNneU16aFowUXh3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ericsson-2026-06-18-008",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Ericsson, SoftBank Showcase 5G SA Network Slicing at F1 Japan Grand Prix - The Fast Mode",
+      "companies": [
+        "ericsson",
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "ericsson"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTThOQnlkSjVoQ29ob0JJNFE2MHVUNzFIUThEMmJtckVSaXpVenJ5bktGSHVsV21kWGJFWm96dzBmdDQyWWk3UXFDcDRCNTdUdE1USXFxaW4xSXFVMDlaOFF5Y3RlbmwzTHZMU2ZRTTh4eWF3OUY3eERxa0RHbFRGRGl6LVU1UzNWaWZSd3UyT09Qc1FJV0FTOVJNN3M4VUZnbXFMWFM5UzdHUEFXMEEzMDNBQTZCNVQxa1k1Z1ZlS0JsY3FT?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ceragon-2026-06-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ceragon Networks Ltd (CRNT) Dividends & Stock Splits: Historical Payouts and Event Timeline - TradingKey",
+      "companies": [
+        "ceragon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBsemJOUWtvcEFfZjlib3MxbUZqMGlTVlRBMjdJWXpRS0plRnhISVB3OFRUMHpIa1hxWmxReUV3RVZRMktDZl9NaElVdV8xUTJWM0ZSZU9QZ0RyZUZyeTZXVE5oT1I3bVpMODJQNW5pUkh0NlZQcktXcQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 15,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "commscope",
+        "count": 6
+      },
+      {
+        "id": "sba_comm",
+        "count": 4
+      },
+      {
+        "id": "equinix",
+        "count": 2
+      },
+      {
+        "id": "ceragon",
+        "count": 1
+      },
+      {
+        "id": "ericsson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 308,
+    "dup_title": 157,
+    "too_old": 83,
+    "gate1_blocked": 7,
+    "gate2_blocked": 13,
+    "passed": 48,
+    "pass_rate": "31.8%",
+    "gate2_block_rate": "8.6%",
+    "gate2_samples": [
+      "Nokia to expand chip test and packaging ops in US - Breakingthenews.net",
+      "Commscope Holding Ord Shs - TradingKey",
+      "Commscope Holding Ord Shs (VISN) Institutional Confidence - TradingKey",
+      "Commscope Holding Ord Shs (VISN) Technical Analysis: Support, Resistance, Indicators & Moving Averag",
+      "Ciena Drops 6.0% Amid Sector-Wide Selling - AlphaStreet"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為CommScope、SBA、Equinix相關動態：「Commscope Holding Ord Shs (VISN) Financial Health: Profit...」。主要關注主題為產業通用、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Commscope Holding Ord Shs (VISN) Financial Health: Profitability & Balance Sh...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Commscope Holding Ord Shs (VISN) Earnings Forecast: Future EPS & Revenue Grow...（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
