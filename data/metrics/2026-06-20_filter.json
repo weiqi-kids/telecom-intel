@@ -1,0 +1,16 @@
+{
+  "total_raw": 308,
+  "dup_title": 178,
+  "no_date": 0,
+  "too_old": 87,
+  "gate1_fail": 6,
+  "gate2_fail": 10,
+  "passed": 27,
+  "gate2_samples": [
+    "Nokia to expand chip test and packaging ops in US - Breakingthenews.net",
+    "Commscope Holding Ord Shs (VISN) Institutional Confidence - TradingKey",
+    "Commscope Holding Ord Shs - TradingKey",
+    "Commscope Holding Ord Shs (VISN) Technical Analysis: Support, Resistance, Indicators & Moving Averag",
+    "Ciena Drops 6.0% Amid Sector-Wide Selling - AlphaStreet"
+  ]
+}

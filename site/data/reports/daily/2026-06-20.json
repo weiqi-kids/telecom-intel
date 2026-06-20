@@ -1,0 +1,94 @@
+{
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T10:30:01.320022Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "equinix-2026-06-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "People Moves: Equinix Appoints René Mulder as Swiss MD - Data Centre Magazine",
+      "companies": [
+        "equinix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN0JSSW5sdFo5anVWT0haeGNNX3F4WG01SFVPQVFDdDFGbEFtcnk1Rjc5Rjh4SFlEUXQxcC1UUzcwN1psbTh0VUNWaFotTVBaZ0l1dEFvaVV3QXNzWEZLcGZaWnpwNnZlTFcwSnpIZk1QOVBQb1ZBdFhQREFaSy1xNWJ6TzFuLVppY21uZkg5VjJOLWtCMVpRWUtyU2FMcExKcTVFRmZxOA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "equinix",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 308,
+    "dup_title": 178,
+    "too_old": 87,
+    "gate1_blocked": 6,
+    "gate2_blocked": 10,
+    "passed": 27,
+    "pass_rate": "20.8%",
+    "gate2_block_rate": "7.7%",
+    "gate2_samples": [
+      "Nokia to expand chip test and packaging ops in US - Breakingthenews.net",
+      "Commscope Holding Ord Shs (VISN) Institutional Confidence - TradingKey",
+      "Commscope Holding Ord Shs - TradingKey",
+      "Commscope Holding Ord Shs (VISN) Technical Analysis: Support, Resistance, Indicators & Moving Averag",
+      "Ciena Drops 6.0% Amid Sector-Wide Selling - AlphaStreet"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為Equinix相關動態：「People Moves: Equinix Appoints René Mulder as Swiss MD - ...」。主要關注主題為產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "People Moves: Equinix Appoints René Mulder as Swiss MD - Data Centre Magazine（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Equinix為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
