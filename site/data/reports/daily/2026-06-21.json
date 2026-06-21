@@ -1,0 +1,166 @@
+{
+  "date": "2026-06-21",
+  "generated_at": "2026-06-21T11:02:36.599593Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "deutsche_telekom-2026-06-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Deutsche Telekom (XTRA:DTE) Stock Could Be 30.6% Undervalued After Higher 2026 Guidance - simplywall.st",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNY0h1RGY5WXgxbGhzek03ZldGMmprRTQ0emh1SjhBOVIwQlBIT3Vjci1HNVlWTFdIejY1UDFoQW5yN0oyM1NLRU1XZFRKTkFNcGdDalNCZGN3NUZrM3dpNHRoX0ZZYVhncDNSOUJfaURZSEF2Y044VjhwRVdUdkl1dFpsWHJGMThvYWFaWjdpR0R4RzhTU2hpWXFtQXlYZ1lGbXpfZ3l1ZnB1YThNTGxLRU4wOGxlVmt3TVpfUktfcWNXZDNVNEFMNmI0ZTFMT2lnTG530gHYAUFVX3lxTFBfbE4zazByci0tdmQzVEZWVFZwNGkxckcwc19PeXpNN0xhUUl5U2paZVhDTUlUVmVBLTF1anZTdm1weFVINS04d2F1WEZ2UUM5M2ozeUdiVjc5SW9lbmlPUmJlU0NGcU5hWnVrcXQtSFB4TDJyanUzOUhNLTFtb0dvM0EzNGk3TDJIeHByczRPZEpLQm8xZjdiR3RYSVpFWUVfaDhMYmllTXVPeVNJWkxKbllhczhjazJFZDdZcFJBSkhvbUJQMmRrclBXYThIaEI3ZFhrQTY3Qg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-06-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "NCC, KPMG, Telcos Commence Review Of Mobile Termination Rates After Eight Years - Independent Newspaper Nigeria",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "spectrum_auction",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcENoSXRZMldsaVAyQ1JienpkM01jNVZPcTlzeUg2Mkd1Qk1wWjFuRkVfVElJSVdpWDZDWG9vMVJPc1Rhand1VmZCOUdLRWVITVB5bGxvbFhDOWZ4REYyVGkwbWd2SXhvdlJqNFI2NENZVDlJQXZZLWJXWElQNWJpSTM5OUVBcjF0N0NNWEluaklLb2w3WEs0UkJxM3BaYl9vTjcw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Swisscom Stock - Analyst views and background on the Swiss telecom group - AD HOC NEWS",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb2Vad0pKUlV1Z0VoXzlGTzV6Rld0RU5HM3V3X2Y0M1hWOTYtQnBFSVc1UWFNUHJ3YWpTTDFlSERmRUpOakVOcUgzS3RmNDk4WVE4R0VhdzJiOU56ZkhlM01OR0pWaVl3OTNzcE4wM2pZdFRxT3QxQndjeUlRYlZsN0VJXzR6aW55U3UzSFNSUzBUVGNucTd0czc3XzJNYmtxRlF2UzFwdTlzS2pna0V3UGlfNVZ1TGJUV002ek9sRVlUc2R3M19VUg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "spectrum_auction": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "spectrum_auction",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 296,
+    "dup_title": 190,
+    "too_old": 73,
+    "gate1_blocked": 8,
+    "gate2_blocked": 8,
+    "passed": 17,
+    "pass_rate": "16.0%",
+    "gate2_block_rate": "7.5%",
+    "gate2_samples": [
+      "Commscope Holding Ord Shs (VISN) Institutional Confidence - TradingKey",
+      "Commscope Holding Ord Shs - TradingKey",
+      "Ciena Drops 6.0% Amid Sector-Wide Selling - AlphaStreet",
+      "Ciena (CIEN) Sets A New Bar For Quantum Safe 800GbE Across The Atlantic - Yahoo Finance",
+      "Why governance is key to Deutsche Telekom's new AI-centric architecture - TMForum - Inform"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為德國電信相關動態：「Deutsche Telekom (XTRA:DTE) Stock Could Be 30.6% Underval...」。主要關注主題為產業通用、法說會、頻譜拍賣，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Deutsche Telekom (XTRA:DTE) Stock Could Be 30.6% Undervalued After Higher 202...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "NCC, KPMG, Telcos Commence Review Of Mobile Termination Rates After Eight Yea...（頻譜拍賣、產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

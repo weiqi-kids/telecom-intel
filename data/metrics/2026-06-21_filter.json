@@ -1,0 +1,16 @@
+{
+  "total_raw": 296,
+  "dup_title": 190,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 8,
+  "gate2_fail": 8,
+  "passed": 17,
+  "gate2_samples": [
+    "Commscope Holding Ord Shs (VISN) Institutional Confidence - TradingKey",
+    "Commscope Holding Ord Shs - TradingKey",
+    "Ciena Drops 6.0% Amid Sector-Wide Selling - AlphaStreet",
+    "Ciena (CIEN) Sets A New Bar For Quantum Safe 800GbE Across The Atlantic - Yahoo Finance",
+    "Why governance is key to Deutsche Telekom's new AI-centric architecture - TMForum - Inform"
+  ]
+}
