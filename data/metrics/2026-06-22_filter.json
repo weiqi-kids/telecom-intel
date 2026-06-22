@@ -1,0 +1,16 @@
+{
+  "total_raw": 298,
+  "dup_title": 179,
+  "no_date": 0,
+  "too_old": 85,
+  "gate1_fail": 4,
+  "gate2_fail": 8,
+  "passed": 22,
+  "gate2_samples": [
+    "Commscope Holding Ord Shs (VISN) Institutional Confidence - TradingKey",
+    "Commscope Holding Ord Shs - TradingKey",
+    "Deutsche Telekom Achieves Net Zero Operations, Cuts Emissions 94% Since 2017 - ESG News",
+    "Why governance is key to Deutsche Telekom's new AI-centric architecture - TMForum - Inform",
+    "Is SBA Communications Undervalued Amidst the 5G Buildout - Kavout"
+  ]
+}

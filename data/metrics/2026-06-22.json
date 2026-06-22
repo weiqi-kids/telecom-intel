@@ -1,0 +1,45 @@
+{
+  "date": "2026-06-22",
+  "total_events": 16,
+  "by_company": {
+    "nokia": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "ciena": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "american_tower": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ericsson": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 15,
+      "sentiment_avg": 0.03
+    },
+    "fiber_buildout": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "spectrum_auction": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
