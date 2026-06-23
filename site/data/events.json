@@ -1,5 +1,217 @@
 [
   {
+    "id": "deutsche_telekom-2026-06-23-001",
+    "date": "2026-06-23",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Telekom: Attractive Again In 2026 (Rating Upgrade) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxORlRQNTIzYUN6aWsxU2ljQlBfVjVPb3hRdEhiYVphT0g0VDJvc3ZlWWVXeE1lMXpMai1sWElnUl94bUlTSjIzOEQ5ckdKTFhkUTlhd2ZCZUVabUhjMy1ySDRBdlVkaWs1Vlo5VWd5Q3",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORlRQNTIzYUN6aWsxU2ljQlBfVjVPb3hRdEhiYVphT0g0VDJvc3ZlWWVXeE1lMXpMai1sWElnUl94bUlTSjIzOEQ5ckdKTFhkUTlhd2ZCZUVabUhjMy1ySDRBdlVkaWs1Vlo5VWd5Q3Y3X3UzQzFIejFUOHZpS196Y2ZxV3BaaGQ2OEJxcnZpaTVlVUdablJydW05Vmh3aGZpd2RwZjdn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-06-23-002",
+    "date": "2026-06-23",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Deutsche Telekom upgraded to BUY with €28 target, valued for income and buybacks, not growth. - Pluang",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxPVDhWb2ZKMjVOeG1sUjVJSlBrdWlNRGNWcFQzWmQ1dzZuS2FYVmFLOHBCQ3dKY1hCQTZ4Mnc4alFnMUs5ZURYa05NaUl3WUFWRVU4YjhmVW5pTG5Pbl90OW01OGlDUFpka3lCbGdTSD",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVDhWb2ZKMjVOeG1sUjVJSlBrdWlNRGNWcFQzWmQ1dzZuS2FYVmFLOHBCQ3dKY1hCQTZ4Mnc4alFnMUs5ZURYa05NaUl3WUFWRVU4YjhmVW5pTG5Pbl90OW01OGlDUFpka3lCbGdTSDhYRjk3by0xcjZmWDI3NEd6WFJBd0ZvbzY0aVJZOWpvN0s3amJ0NG1IOHBB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-06-23-003",
+    "date": "2026-06-23",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank's Son dismisses Musk’s idea for orbital data centres - The Edge Malaysia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDdmM4UmEtcXZZLU9mZ2p6b3B2VmsxNzBiV2xWNUo0TndxcVhXTlBVWkdJQzR0UHFPMUhaNzFTZGdyU0hZYnZiRnk0ek04cHZs?oc=5\" target=\"_blank\">SoftBank's Son dism",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDdmM4UmEtcXZZLU9mZ2p6b3B2VmsxNzBiV2xWNUo0TndxcVhXTlBVWkdJQzR0UHFPMUhaNzFTZGdyU0hZYnZiRnk0ek04cHZs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tmobile-2026-06-23-004",
+    "date": "2026-06-23",
+    "companies": [
+      "tmobile"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "T-Mobile's 'kinetic token' may be a non-starter for most telcos",
+    "summary": "The T-Mobile idea that numerous 6G networks can profit from a new variety of AI tokens seems wildly optimistic.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/ai-machine-learning/t-mobile-s-kinetic-token-may-be-a-non-starter-for-most-telcos",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-005",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "India's Jio bets on 5G, AI and satellite for next growth phase",
+    "summary": "Jio outlined a growth strategy centered on 5G, AI, enterprise services and satellite broadband, including possible plans to set up a sovereign LEO constellation.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/satellite/india-s-jio-bets-on-5g-ai-and-satellite-for-next-growth-phase",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ericsson-2026-06-23-006",
+    "date": "2026-06-23",
+    "companies": [
+      "ericsson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "5G network slicing can create new monetisation opportunities for telcos: Ericsson's Nitin Bansal - ET Telecom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxPaExUdjdsbGE1Z2w3ZGpIM3dsZUZTemNjaWlwY2M5YVRmQnJLT2JGRmw0RE44ekUwZy11YXNDaFotQTBnLTc0dzFEdEFmWVN6R3I4Wk9BNExkWHV3NXFUMmc0SDlvaTRoenFxOXd3RD",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPaExUdjdsbGE1Z2w3ZGpIM3dsZUZTemNjaWlwY2M5YVRmQnJLT2JGRmw0RE44ekUwZy11YXNDaFotQTBnLTc0dzFEdEFmWVN6R3I4Wk9BNExkWHV3NXFUMmc0SDlvaTRoenFxOXd3RDlqUTZWT1FZelF5VE5ORTZEeUN1MFJpeVNDRlc0RlEzNXYzcFA3d2pvdEdna2ZoQWpCclNGSWItdUstSzdwMGlGZmxMd2hnYmtmbFJ0d0pSclRfazBXamNvd3ZTYy05RTZGWEFOUGtVNm9LamJ2Z2Q2bDEtNzNQLWlESXdmcWZFVFM3NHJfVi1nVUdTODNSQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-007",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Japanese broadcasters complete 5G network slicing trial using long-distance transport - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNbXNSSG90UEw0QTdWNWllX1hRYWtxZllRWW9MS2JtQzBQN3FfbVU4R1ZQNzMzZjVjUVFJN1MwckF5XzhiS1V4N25CQVFpUmRZZzFoaF9yajBfenJtVlQ4cVlGSmNnNVhFLWs1QXl1TV",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbXNSSG90UEw0QTdWNWllX1hRYWtxZllRWW9MS2JtQzBQN3FfbVU4R1ZQNzMzZjVjUVFJN1MwckF5XzhiS1V4N25CQVFpUmRZZzFoaF9yajBfenJtVlQ4cVlGSmNnNVhFLWs1QXl1TVNFb0dOeGJxTjZaVHE0RjUwYVdZUEpEakJYeU9lbW92RVNuTVRCX296am51cm94T2dKY1Fvb05kbFBUZ0FrSGxUeWJHWEJOUkJqNVBNQ2lMVWh6cjF5YkRn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tmobile-2026-06-23-008",
+    "date": "2026-06-23",
+    "companies": [
+      "tmobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "T-Mobile's 'kinetic token' may be a non-starter for most telcos - Light Reading",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQWXRuVGpZLVJFSjU0VVFlaDg1Sk96MFlENXFYUzdRVWJqeW83bm1tLVZNMW5rZnFxdEJtTmpiZkgxcjlIOXlQWlNsOG1Oam56MGZ5NDRWUUtabkRXbFl5eG0tTjRPWFZGcm5CSzFPM1",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWXRuVGpZLVJFSjU0VVFlaDg1Sk96MFlENXFYUzdRVWJqeW83bm1tLVZNMW5rZnFxdEJtTmpiZkgxcjlIOXlQWlNsOG1Oam56MGZ5NDRWUUtabkRXbFl5eG0tTjRPWFZGcm5CSzFPM1UxSzdPb01mUzhybUhqZDlWUm5xdjNtV3ZSbm9rVm5CaVNGb2xxZXFCX2hUdU5PR2pJUjVoOUsxSGg4RF9Sc2VF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-009",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UST Launches New AI Cloud Center of Excellence on AWS to Accelerate Telecom Industry Transformation - Business Standard",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAJBVV95cUxNT1dSbGdac3IyaEJwRTNGNHNYVDcyQXBXNndoYXlxOFZVbzVkRHQ5UkktUXQ1MXBzZ2VRZk1hZF9xM1pCbVVDY0pDOS05NEZzN3FHbkU2VEJ5M2x3RDFiYlhwVHhGMzBDS3hwbWQtWU",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNT1dSbGdac3IyaEJwRTNGNHNYVDcyQXBXNndoYXlxOFZVbzVkRHQ5UkktUXQ1MXBzZ2VRZk1hZF9xM1pCbVVDY0pDOS05NEZzN3FHbkU2VEJ5M2x3RDFiYlhwVHhGMzBDS3hwbWQtWUc4VkRISUxsSU9zSXU2WGJDTjQzcVdmZzR0M0QwRXJibElxaTk0cExucVZJN2lLSmZpNXJoaU1ib1RpRl8tZ0pQQjlkazVCbVY2Zk5aNUhoWG4tRHhIWjJ1bzJNay00S2RyUDJoSUtSdW5BdmhGdXFhaGtCVmkxUzJ3dFRpbHdQcWxrZlAwTHFwd1lwaG9BMG9BOUU4NkprSjAwQWN30gGSAkFVX3lxTE5LZFo5ZjVVYmhDektpemZsUDZjUWRjNXNqaklWOFNYeUZubkt0ekZxNjd5R0xzQnYxNG9DTF9VNzZCRXdaS1MzaWkzRVlCZGNVdGgtRzN3SXlPSFFicWVIU2RIT05vYWNoX2RiR0pEM0JoRUJOcEFXbTk2VTVIN25FdWp3OW9GNEF4cnBWbTluM1c1eGNfd0k1WTFKdnRvNHlYQTY3V01ZaEJFQ2ZsWDFoU2hmRzVHMjdEOGo4MVhDMDN2a21qY1l2ZFNFc243WnZiYWZmamxTb0RoRHVIclhkQjRHalJvTzduVHlKWVZaSlhuWWh6NGc4QlpxSG1hMXltbGhleDFZV1A0X09lVGZNX3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-010",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Tech Analyst Jeff Kagan Says Private 5G Wireless Continues Growth Despite Market Challenges - The National Law Review",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVIyMmZpQm1vSTRMNnVBSnIyUkZoeEdrbzljclFVZDF6ajRVX00zR1N4RkpTUm5KdlRGbUVVWWlYbnRpX2JGN2tDTmRrbkRVeHVCQ3hoczlwems5NG1HanhjdFdCMldxeTlUUHpJVH",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQVIyMmZpQm1vSTRMNnVBSnIyUkZoeEdrbzljclFVZDF6ajRVX00zR1N4RkpTUm5KdlRGbUVVWWlYbnRpX2JGN2tDTmRrbkRVeHVCQ3hoczlwems5NG1HanhjdFdCMldxeTlUUHpJVHgxZWFoRlNhWW5EMFdnbk9IOVplcW9YVk9SWXhsWncwWnQ2ZEZoQ2lKcDl1a0xiS2RXaWpwNHoxWTI2aU1WNnNEZUlWWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-011",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China telecom sector faces dual backlash over pricing practices and AI monetisation - Communications Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQOUlxMU5hNnZUOWtmZl8xTGMxVlhqSHVzOUU5YmFYZlVVTVAyVFZzdUppbkZaZWI5V2EzWGxwWlZEaVVWNmwyc2VQMzhYeUY5a21OOFBGTERlek1IYWRzamZubHpIT0V1M2htUjQ0Qn",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOUlxMU5hNnZUOWtmZl8xTGMxVlhqSHVzOUU5YmFYZlVVTVAyVFZzdUppbkZaZWI5V2EzWGxwWlZEaVVWNmwyc2VQMzhYeUY5a21OOFBGTERlek1IYWRzamZubHpIT0V1M2htUjQ0QnJ2em9NNFFlcHFNRmpPNUFDRnRNOF8wMGtxNUZSNVpaanJpSlJ2VWhhZXpzZWpRWFR5MGpuYWIxLWdJNGNodkM2MU4taWoxNzVJZGl1dWoyNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nokia-2026-06-22-001",
     "date": "2026-06-22",
     "companies": [
@@ -295,6 +507,357 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83TXpqel9CYmhNSTktMlp2bWdFdV9lb2VZZzVGRWJ1eFlYZkc1ZENadDF3QmlobkFiS3R0bTRqek4wU3JiVmpRT1Iwa3ZobDF1aHpkaU5KSU5xSkZJU0hla2hzSmg3M25jeXpuaHJ1aXVkZGgweFhYUE1DTdIBgAFBVV95cUxPZ1dvMThHcmNVSzBKcm1XMHFPN2NGd01kWXE0RFM2RjZxVnUtelJ5WjBxS0tIajNITXRJTWtNYi12VnRmQm1CRkw4V200T1BaUjFadU1qUVlsMm42eFlmRlN1ejB1YlBqYzdJbE5Mb3VxWlhTa0dEZ2I2blR5Y3Izbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-06-22-017",
+    "date": "2026-06-22",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nokia Stock Jumps As AI Photonics And Price Targets Rise - StocksToTrade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOTjVtYVBLaHlBYlVtX0dWS2RfZ2VHVXFfQkJxLV9VZ2JGY2RwdTBRaHR2VmxjUzdpRUtiZ01oeTJaVVJXV3BtTzR1UWhoRTBEQVNObjFGSC1rWjBPajhXTUoxUnpQeHlVZ2lfVVlzY1",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTjVtYVBLaHlBYlVtX0dWS2RfZ2VHVXFfQkJxLV9VZ2JGY2RwdTBRaHR2VmxjUzdpRUtiZ01oeTJaVVJXV3BtTzR1UWhoRTBEQVNObjFGSC1rWjBPajhXTUoxUnpQeHlVZ2lfVVlzY1FHLVZhQzMtWV9fT2JPa1NBZzRiUEREQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-06-22-018",
+    "date": "2026-06-22",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ciena Corporation’s stock price skyrockets to $460.33, marking a robust 7.50% surge - Smartkarma",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNMnBrRVdGRTJOVVZXU1A1UWZ4R1FlS2xZSmtWUlMxTy1JcGRJSFdLdHo3XzQyYlhuMnlzbTJIZjhvb1pxTkJOWXNPMzV2eTJiZjBEejRHWHR0OWFjWXZ6V1ZZUzF1UzZGU1B5T0EySW",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMnBrRVdGRTJOVVZXU1A1UWZ4R1FlS2xZSmtWUlMxTy1JcGRJSFdLdHo3XzQyYlhuMnlzbTJIZjhvb1pxTkJOWXNPMzV2eTJiZjBEejRHWHR0OWFjWXZ6V1ZZUzF1UzZGU1B5T0EySW1xaWwtdmVrUGFCWFg1QTBlcF9ocTU5UHRZcGM4WnZIVVdjdW9nUEYxVFhfVXNlOU92VTV0eEZsczVJclJiUTZDQmtqdlB6QmlBMlBqekdSU3FodlR1?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-06-22-019",
+    "date": "2026-06-22",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Ciena Names Grant Hoffman Chief Supply Chain Officer, Expands Brodie Gage’s Leadership Role - citybiz",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNV09YNmhiY2psbklJYkd2SkFJQk5ibnRubzF2VGswTXZKSC0tQ2QyaGRCQmdvSlhfM0RvUHEzWTdSUlFDYlRIVkF6S2dINlNUR0E0TGhHTlExMEdIVGlQSlBoemNYMnd3eWRhVmJDWV",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV09YNmhiY2psbklJYkd2SkFJQk5ibnRubzF2VGswTXZKSC0tQ2QyaGRCQmdvSlhfM0RvUHEzWTdSUlFDYlRIVkF6S2dINlNUR0E0TGhHTlExMEdIVGlQSlBoemNYMnd3eWRhVmJDWVNfcTVXY0QzV2lHeVV5TlVkWGZ3VGdxOC1OaTkzU1R5R2JXUXZUOVlITVpCRDMzaDh2VnQxNnk0bEQzOFgweF9hMW1XN3MyWDJzUkRNVmRES05WYUJlSC1B?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-06-22-020",
+    "date": "2026-06-22",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Ciena Strengthens Leadership Team with Key Executive Appointments - 01net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOV2xoM19QWlRQZnQ4bzM5Skd4b01UZU1vVnIyZTlJakNaR0NBSXFVMUZja3R2c25tZGNKYVhseDk2ZjJqZ2JEd3RrbmhUTmNNNUdMejV4S0RoRUhMUjZkV0RhWGUtb0dfbmJPdGtKcT",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV2xoM19QWlRQZnQ4bzM5Skd4b01UZU1vVnIyZTlJakNaR0NBSXFVMUZja3R2c25tZGNKYVhseDk2ZjJqZ2JEd3RrbmhUTmNNNUdMejV4S0RoRUhMUjZkV0RhWGUtb0dfbmJPdGtKcTJLTURyaUlNeWVFcDYtcEN3Q3NVNFA4UGw2dWxkSXpKX3U?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-06-22-021",
+    "date": "2026-06-22",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Ciena names new supply chain chief, reorganizes leadership By Investing.com - Investing.com South Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOd3ZZTGpfYjRSUG10WUpIOG1wVnp1d2N1NDd5Z2h1NC1IZklpaU5BZ204WEdQLWVlWEJmVm1yQkZEQm8zekpZa1VzOHh5ODY2bGdaZjYteU5SVDVERGFyMW1RbFphN2lfbUNnNWVQNV",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOd3ZZTGpfYjRSUG10WUpIOG1wVnp1d2N1NDd5Z2h1NC1IZklpaU5BZ204WEdQLWVlWEJmVm1yQkZEQm8zekpZa1VzOHh5ODY2bGdaZjYteU5SVDVERGFyMW1RbFphN2lfbUNnNWVQNVpCZTd6S2dQbWc1MldiX25BdzRTZjVUU2ZEZWJjUENXZ2x1akZlZTB3bERCU205S0xDMUFPeUpzRl9wRFVpQzZMeGc0WTRDTzJVbWhUaTFiU3lfNE1rWFNTQ3Bn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-06-22-022",
+    "date": "2026-06-22",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SoftBank Corp.’s SOC Triaging Workflow Automated with Cisco Foundation AI’s Open-Source Model - Cisco Blogs",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPMGNBSjRSWDd5bFRESm9wdktrVUhrWGRiN2d6YVR0T09vbUt2Y0hqSkVDLWZiTGdNbC1wZEpLUFp1VTJTVlV5dlA5MTY4RkZIOUFXOTloR2NmZG1qQ1NMQy1jNTR6VE1WUU9rWURxOG",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMGNBSjRSWDd5bFRESm9wdktrVUhrWGRiN2d6YVR0T09vbUt2Y0hqSkVDLWZiTGdNbC1wZEpLUFp1VTJTVlV5dlA5MTY4RkZIOUFXOTloR2NmZG1qQ1NMQy1jNTR6VE1WUU9rWURxOGhJWmxsUXA4MzNjbVRFelU1R21DNGNIMnpaQ0cyeWcyNDI5S3llM1c4MDlSRjVCVk9OdDNvWUpPTFRlMFIyRjBFRFBzRWYxR3FuSEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-06-22-023",
+    "date": "2026-06-22",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SoftBank Automates SOC Triaging with Cisco Model - Let's Data Science",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPQWhWNDBReTZpeW1nR3pwMV85SlBVclBIVzE0V3BCTkNrWHVCa0VVQVNfNmZ2RGJhYks1VDdpTEJCMFlvSjFiUUZXNlg2dnRNdDByMzU4LTdrR0s3ZjNZOHNWS0c0VXVyQXRQUkQxSn",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQWhWNDBReTZpeW1nR3pwMV85SlBVclBIVzE0V3BCTkNrWHVCa0VVQVNfNmZ2RGJhYks1VDdpTEJCMFlvSjFiUUZXNlg2dnRNdDByMzU4LTdrR0s3ZjNZOHNWS0c0VXVyQXRQUkQxSnMwZGoyMGN4cGFXZUlMUWEzX2hjUGt4eVpIUVktZmlHUHF6SDlf?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-024",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "3 US REIT Stocks With Dividend Yield And Fair Value Appeal - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaU4yQ2hyZzN3ZmkxZlk3OGNxRDRpNmtQTFlYQ0ZRNzlsc1hudXg1SDNFWGxicGoyYXVjeUFmUDlDVEplNHd1cDFaNVNiTC00YlFHWE0ta21TTlpTQ2dsNlZrcEdlRV9pVlRsaFY3aH",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQaU4yQ2hyZzN3ZmkxZlk3OGNxRDRpNmtQTFlYQ0ZRNzlsc1hudXg1SDNFWGxicGoyYXVjeUFmUDlDVEplNHd1cDFaNVNiTC00YlFHWE0ta21TTlpTQ2dsNlZrcEdlRV9pVlRsaFY3aHRhRHgxSWRUTXlmYWtGa00yeHhqRVdwRDFnYkYwRlhkeExBYVpqeVlJRXJsSGFxYlFMTUg4ZlRVZURTLWRNT2ppX2txckxXcGwxazFoaUlISkxjT3pxcFBKN0Q3TUVTNkZV0gHQAUFVX3lxTFBpTjJDaHJnM3dmaTFmWTc4Y3FENGk2a1BMWVhDRlE3OWxzWG51eDVIM0VYbGJwajJhdWN5QWZQOUNUSmU0d3VwMVo1U2JMLTRiUUdYTS1rbVNOWlNDZ2w2VmtwR2VFX2lWVGxoVjdodGFEeDFJZFRNeWZha0ZrTTJ4eGpFV3BEMWdiRjBGWGR4TEFhWmp5WUlFcmxIYXFiUUxNSDhmVFVlRFMtZE1Pamlfa3FyTFdwbDFrMWhpSUhKTGNPenFwUEo3RDdNRVM2RlU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-06-22-025",
+    "date": "2026-06-22",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Tower (NYSE:AMT) Steps Into Today’s Data Boom - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPV19GNmRhb0VBa3g3c3VoT3BkcGF2X3YyNmRRUmZKNk1QZm1MRVhNX2VLTkV2bDg4bE1hZ2dIdE1MZWtTWk1haHgtY3pMV2E4bFVmanowUGVNU1lsV1dKSENSWUJDNU1rNFptMElUeE",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV19GNmRhb0VBa3g3c3VoT3BkcGF2X3YyNmRRUmZKNk1QZm1MRVhNX2VLTkV2bDg4bE1hZ2dIdE1MZWtTWk1haHgtY3pMV2E4bFVmanowUGVNU1lsV1dKSENSWUJDNU1rNFptMElUeE9kVC1aakYwYkpTdWhpanhWZFd2RGdjN3lhRzBVbUJzRFpnZmEtclh4NWFNdEloVkc3ZmQ0MFR2a29zMGVLRXFQOW5GQzM4MDA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-06-22-026",
+    "date": "2026-06-22",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SBA Communications (SBAC) call put ratio 1 call to 3.7 puts with a focus on July 175 puts - StreetInsider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcERNQzNfRDFHcWE2UXJVN0hkSEMtcUxlbVdvME5lR0VpdDVGS3p0QUpBTzBZQWt0MF8tV3pTWm9USlc4WWNJbzNMSHZaQmZ3Z3h5V0dRUUUzX3N2NU4xNFo5VWNVNUFJbnJoYUhzdX",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPcERNQzNfRDFHcWE2UXJVN0hkSEMtcUxlbVdvME5lR0VpdDVGS3p0QUpBTzBZQWt0MF8tV3pTWm9USlc4WWNJbzNMSHZaQmZ3Z3h5V0dRUUUzX3N2NU4xNFo5VWNVNUFJbnJoYUhzdXBjWkt6XzRseWNkZjVheHIyWHQ5aGVDRkNyWVRGZDh3MVdJREFEY0lRLXI0Z0dsSmkxR3VJU3RPTU5EZTdTclFFYmg5Nk1VeVNHajFTdGdTUVhGZmFweW5OTGRzWVVHM2RKRlB3REtJM3FDWmNWZmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-06-22-027",
+    "date": "2026-06-22",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Equinix (EQIX) Has an Interconnection-and-Power-Constrained Capacity Story Bigger Than a Data-Center REIT Label - AlphaStreet",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcy01TFZ1aTFxQjA0UmIzTzFEdTJPekYyX0J2N00ySzBFSHN2XzhqZV9pNHFDMEhmekhFSWhkcmM1N0doSk9Kamh4MFdHOHk2cjl1MEYtNXpoQUQxYUNqU0lESzZ2TTVJUDEwM2tmT2",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcy01TFZ1aTFxQjA0UmIzTzFEdTJPekYyX0J2N00ySzBFSHN2XzhqZV9pNHFDMEhmekhFSWhkcmM1N0doSk9Kamh4MFdHOHk2cjl1MEYtNXpoQUQxYUNqU0lESzZ2TTVJUDEwM2tmT2lFM2lGZTZRbk5BYi1tUm8tWTdZU1pPN0tScV9COUdqS29xcnFMMTk3SmhLcms4OFJCQ3Y3YkhabnBIa3JSYjRCZ3h2bVJvMzBSbFRMNEpJdmxpV1V2SGpsLVBUNlZOZ0NyLVhqMXB1UDZHRG_SAdsBQVVfeXFMUHMtNUxWdWkxcUIwNFJiM08xRHUyT3pGMl9CdjdNMkswRUhzdl84amVfaTRxQzBIZnpIRUloZHJjNTdHaEpPSmpoeDBXRzh5NnI5dTBGLTV6aEFEMWFDalNJREs2dk01SVAxMDNrZk9pRTNpRmU2UW5OQWItbVJvLVk3WVNaTzdLUnFfQjlHaktvcXJxTDE5N0poS3JrODhSQkN2N2JIWm5wSGtyUmI0Qmd4dm1SbzMwUmxUTDRKSXZsaVdVdkhqbC1QVDZWTmdDci1YajFwdVA2R0Rv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-028",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Cisco (CSCO) Is Turning AI Infrastructure Into a Hybrid Data Center Security Opportunity - Insider Monkey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQS0VFRTlUS2hTYUVfWGstSWktYTBfMzU0empWVlVBbzd4WktrZV81eWJOU2QyRjBHU1JERnJ3UWdpOU5mZEJVZXoxeTlZT2oxbl9wbURxenhIazg4QWpQMEpnVWVMbEZXVHlQOUJtd2",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS0VFRTlUS2hTYUVfWGstSWktYTBfMzU0empWVlVBbzd4WktrZV81eWJOU2QyRjBHU1JERnJ3UWdpOU5mZEJVZXoxeTlZT2oxbl9wbURxenhIazg4QWpQMEpnVWVMbEZXVHlQOUJtd2wtdjJ4U1hxRWtFd3FJTUxQb3JJbjc2OGhGVUtVcjZ2V0ZCSWFxUVRWUUJ0ZUdJazNiaDlFWUVIZ1ZiNmhZbm1RQ2x5YlBTV1hsRnZFbHNOZzQtRkxoQXkycGRlbkFPZ3PSAdcBQVVfeXFMTVdKZFF0RjZVUVA4NlNqQk5zdjNzMnhuX2p1WGpJTVEwZl9yWlNPODN3NlVJeUdvTjVrZUlYWUtmZUkwUlJQbWlhbi10Uk1MREIwYm4zbHFmUVE4M1hZa1lrZm5QRWZXcWJWaEtHdnAyWGF0TGRmeDduODdsd2xQUFRMVU9aM0thcHVlUko3WUl3ZHFiMjIwNXc3VEMyd25MYVJlb0FpMnZzZS1fLW1vYUpsdXd2SU8wSjBZME1MNmR4VHJsLTdCRmlnSzdDT0NwMlZoMWhpUXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-029",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nextlink, Aviat Networks partner on BEAD builds",
+    "summary": "Nextlink will deploy Aviat's 'Build America, Buy America'-compliant microwave, E-Band and multi-band solutions for its BEAD-funded broadband deployments. #pressrelease",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/fixed-wireless-access/nextlink-aviat-networks-partner-on-bead-builds",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-030",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EchoStar to change stock ticker to 'ECHO'",
+    "summary": "EchoStar will change its stock ticker from 'SATS' to 'ECHO' effective June 24, 2026. #pressrelease",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/satellite/echostar-to-change-stock-ticker-to-echo-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-031",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Philippines taps Google for agentic AI in government services",
+    "summary": "The Philippine government's expanded collaboration with Google Cloud includes a multi-agency cyberdefense alliance and the integration of subsea and terrestrial networks, which will enhance digital co",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/ai-machine-learning/philippines-taps-google-for-agentic-ai-in-government-services",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-032",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Europe leads on 5G FWA as fixed wireless remains key value driver",
+    "summary": "Europe has the most 5G FWA deployments to date according to data from the GSA, while the USA is in the lead at country level, according to a GSA market update, which also says fixed wireless continues",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/fixed-wireless-access/europe-leads-on-5g-fwa-as-fixed-wireless-remains-key-value-driver",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-033",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "What Telecom Operators Can Learn from the Growth of Cross-Border Communication Apps",
+    "summary": "<a href=\"https://totaltele.com/what-telecom-operators-can-learn-from-the-growth-of-cross-border-communication-apps/\" title=\"What Telecom Operators Can Learn from the Growth of Cross-Border Communicati",
+    "sources": [
+      {
+        "name": "total_telecom",
+        "url": "https://totaltele.com/what-telecom-operators-can-learn-from-the-growth-of-cross-border-communication-apps/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-034",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nigeria Introduces Stricter Oversight on Telecom Company Share Transfers - TechAfrica News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ3JMVHNla0NwSS0taEN2NHRBZEFrMUp4c1FNakJEUTJLTzJWZVA0UzRuWk9mNE9xaEFzWGNKc1poM0NSQ2NJT3Z1dDJaS2FuX19jdEljbW4tOEVVRnRMbEpIQk9aZmJrZ1FIQVJ2eC",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQ3JMVHNla0NwSS0taEN2NHRBZEFrMUp4c1FNakJEUTJLTzJWZVA0UzRuWk9mNE9xaEFzWGNKc1poM0NSQ2NJT3Z1dDJaS2FuX19jdEljbW4tOEVVRnRMbEpIQk9aZmJrZ1FIQVJ2eC1iZGd1elh0T0lsVzJvRGE3a2FYZHNpdEZKTHUtVW5xNlhLNlg4emxXWXhYODBxMC01bkZiSzdyaUdHSDlPQmFTdA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-22-035",
+    "date": "2026-06-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "inwi Named Morocco’s Most Admired Telecom and Brand at Brand Africa 100 Awards 2026 - TechAfrica News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQTWkxamlIdGotVGRZaDB2dmhQZ1FZQjhTcU1pTW1tbTY1TllBV3VMNjNtSnhSYWRjOEl1QV9fZ3BfdVZMS2h4MlpqWnVSVTc5TEZSdkhmYThkRDJpWjBnT1RuQ0ZvWGpxbkpUMG5SSE",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTWkxamlIdGotVGRZaDB2dmhQZ1FZQjhTcU1pTW1tbTY1TllBV3VMNjNtSnhSYWRjOEl1QV9fZ3BfdVZMS2h4MlpqWnVSVTc5TEZSdkhmYThkRDJpWjBnT1RuQ0ZvWGpxbkpUMG5SSEhUdHphcklPWmhzZF82MDMwcmhNLV9PVnlvanl4YVc3WDlYN0pRdTJ1MWF1NC1wVVFSVmdjX1lpQ0dvd0RTWXl1X1Jsd1NEcDBISW14N3Fn?oc=5",
         "type": "rss"
       }
     ]
@@ -1208,6 +1771,26 @@
     ]
   },
   {
+    "id": "sba_comm-2026-06-19-032",
+    "date": "2026-06-19",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SBAC Stock Price Prediction 2025-2026 | SBA Communications Corp Forecast - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrVE9ncmx1dkFFMWdGT3ZkaFNjTjdmdXhtbi1QdUg2ZmFQNEp2SEIzMEtBSC1zREl6YWJ4emNVYzV0R3VDWmxuZWhpX0ZaSmtEX3N6YUtSbW1TbTRnNDU4ZjUzai0?oc=5\" target=\"",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBrVE9ncmx1dkFFMWdGT3ZkaFNjTjdmdXhtbi1QdUg2ZmFQNEp2SEIzMEtBSC1zREl6YWJ4emNVYzV0R3VDWmxuZWhpX0ZaSmtEX3N6YUtSbW1TbTRnNDU4ZjUzai0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "ceragon-2026-06-18-001",
     "date": "2026-06-18",
     "companies": [
@@ -1926,6 +2509,24 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbnVtV3NNb1lqNUdEYWpUdmRkZUhqaHR4elkxNUhfelhNbTdXUVV6RXlfSWVibVZrU21LLXdmeVYweksxOFBDSTllWDByU2owR1h4TV9zT1VZSkNOTHEzdEd4OXhvdERfbVVzUktLUVB5a3hTNFBEWk9RdThIWU5NRGd5ay1GVjdwV01lb2EyTzJucWhiZV9jSG1mdkI0UmtEQ2V4NGhXTHZPeld1ekNWNURJeUh4U2RYV2NxWVRJWG1lVTZ1YlJmU1Vab2NUUjZ0clc1eTBXUnN3dDdUZktfM21DOVY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-039",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Seattle banned new data centers. Why do companies want them here anyway? - KUOW",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNbXJMMG9ObWNHejVodTd6NEEyMUV3cTFyT054dE9JaWQ4bEgwWkdoaXNNbkp4YXFkRjVLRU9kX2JKMjg2OEZNTS0wa21Lc1R0aDVrQU5maElGWktjZG9lM3Brb3FkV0hMa2d4NzJNYm",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbXJMMG9ObWNHejVodTd6NEEyMUV3cTFyT054dE9JaWQ4bEgwWkdoaXNNbkp4YXFkRjVLRU9kX2JKMjg2OEZNTS0wa21Lc1R0aDVrQU5maElGWktjZG9lM3Brb3FkV0hMa2d4NzJNYmtNNnhobVpGbVM2WGpUOGdRRU1QT25pRWc3aFdBUkpzVWRnQ2l5SDhTWjRva1c?oc=5",
         "type": "rss"
       }
     ]

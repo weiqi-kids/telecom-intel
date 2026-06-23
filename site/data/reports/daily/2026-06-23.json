@@ -1,0 +1,224 @@
+{
+  "date": "2026-06-23",
+  "generated_at": "2026-06-23T10:58:28.166836Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tmobile-2026-06-23-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "T-Mobile's 'kinetic token' may be a non-starter for most telcos",
+      "companies": [
+        "tmobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.lightreading.com/ai-machine-learning/t-mobile-s-kinetic-token-may-be-a-non-starter-for-most-telcos"
+    },
+    {
+      "rank": 2,
+      "event_id": "deutsche_telekom-2026-06-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom: Attractive Again In 2026 (Rating Upgrade) - Seeking Alpha",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORlRQNTIzYUN6aWsxU2ljQlBfVjVPb3hRdEhiYVphT0g0VDJvc3ZlWWVXeE1lMXpMai1sWElnUl94bUlTSjIzOEQ5ckdKTFhkUTlhd2ZCZUVabUhjMy1ySDRBdlVkaWs1Vlo5VWd5Q3Y3X3UzQzFIejFUOHZpS196Y2ZxV3BaaGQ2OEJxcnZpaTVlVUdablJydW05Vmh3aGZpd2RwZjdn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "deutsche_telekom-2026-06-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom upgraded to BUY with €28 target, valued for income and buybacks, not growth. - Pluang",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVDhWb2ZKMjVOeG1sUjVJSlBrdWlNRGNWcFQzWmQ1dzZuS2FYVmFLOHBCQ3dKY1hCQTZ4Mnc4alFnMUs5ZURYa05NaUl3WUFWRVU4YjhmVW5pTG5Pbl90OW01OGlDUFpka3lCbGdTSDhYRjk3by0xcjZmWDI3NEd6WFJBd0ZvbzY0aVJZOWpvN0s3amJ0NG1IOHBB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "softbank-2026-06-23-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SoftBank's Son dismisses Musk’s idea for orbital data centres - The Edge Malaysia",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDdmM4UmEtcXZZLU9mZ2p6b3B2VmsxNzBiV2xWNUo0TndxcVhXTlBVWkdJQzR0UHFPMUhaNzFTZGdyU0hZYnZiRnk0ek04cHZs?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-23-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India's Jio bets on 5G, AI and satellite for next growth phase",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fiber_buildout",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.lightreading.com/satellite/india-s-jio-bets-on-5g-ai-and-satellite-for-next-growth-phase"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 7,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "deutsche_telekom",
+        "count": 2
+      },
+      {
+        "id": "tmobile",
+        "count": 2
+      },
+      {
+        "id": "softbank",
+        "count": 1
+      },
+      {
+        "id": "ericsson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 307,
+    "dup_title": 168,
+    "too_old": 87,
+    "gate1_blocked": 9,
+    "gate2_blocked": 11,
+    "passed": 32,
+    "pass_rate": "23.0%",
+    "gate2_block_rate": "7.9%",
+    "gate2_samples": [
+      "Commscope Holding Ord Shs - TradingKey",
+      "Commscope Holding Ord Shs (VISN) Institutional Confidence - TradingKey",
+      "Ciena (CIEN) Sets A New Bar For Quantum Safe 800GbE Across The Atlantic - Yahoo Finance",
+      "Deutsche Telekom Achieves Net Zero Operations, Cuts Emissions 94% Since 2017 - ESG News",
+      "Why governance is key to Deutsche Telekom's new AI-centric architecture - TMForum - Inform"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為德國電信、T-Mobile、軟銀相關動態：「T-Mobile's 'kinetic token' may be a non-starter for most ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "T-Mobile's 'kinetic token' may be a non-starter for most telcos（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Deutsche Telekom: Attractive Again In 2026 (Rating Upgrade) - Seeking Alpha（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

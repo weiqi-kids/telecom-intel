@@ -1,0 +1,16 @@
+{
+  "total_raw": 307,
+  "dup_title": 168,
+  "no_date": 0,
+  "too_old": 87,
+  "gate1_fail": 9,
+  "gate2_fail": 11,
+  "passed": 32,
+  "gate2_samples": [
+    "Commscope Holding Ord Shs - TradingKey",
+    "Commscope Holding Ord Shs (VISN) Institutional Confidence - TradingKey",
+    "Ciena (CIEN) Sets A New Bar For Quantum Safe 800GbE Across The Atlantic - Yahoo Finance",
+    "Deutsche Telekom Achieves Net Zero Operations, Cuts Emissions 94% Since 2017 - ESG News",
+    "Why governance is key to Deutsche Telekom's new AI-centric architecture - TMForum - Inform"
+  ]
+}
