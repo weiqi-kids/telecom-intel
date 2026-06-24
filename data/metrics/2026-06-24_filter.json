@@ -1,0 +1,16 @@
+{
+  "total_raw": 307,
+  "dup_title": 168,
+  "no_date": 0,
+  "too_old": 85,
+  "gate1_fail": 8,
+  "gate2_fail": 9,
+  "passed": 37,
+  "gate2_samples": [
+    "Commscope Holding Ord Shs - TradingKey",
+    "Commscope Holding Ord Shs (VISN) Institutional Confidence - TradingKey",
+    "Why governance is key to Deutsche Telekom's new AI-centric architecture - TMForum - Inform",
+    "Is SBA Communications Undervalued Amidst the 5G Buildout - Kavout",
+    "SBA Communications Corp (SBAC) Technical Analysis: Support, Resistance, Indicators & Moving Averages"
+  ]
+}

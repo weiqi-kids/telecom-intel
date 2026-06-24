@@ -1,0 +1,226 @@
+{
+  "date": "2026-06-24",
+  "generated_at": "2026-06-24T10:44:02.529949Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "softbank-2026-06-24-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SoftBank Founder Masayoshi Son Dismisses Musk's Idea For Orbital Data Centers - NDTV Profit",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMmpiSDdHUkJFc3VLbUNPZVhrbVFURmpxYVhvcGtEZEw3Nkl6UzFxbHdFOVQ5RXRpblhWU25IZy1hb3dWMUlmMjVVMHh1WFZqbG00cjFzajFid2pYbDZJSkY4WXc4UkY2STBDZGpaV0p3VnVDUDlyWm41NXdNcW14VkZWOTI1NWRLNGRmZmFYbzJXczhfek5DQXNmTE5RaFF0TnpWN3dacm5UUdIBsgFBVV95cUxQY3JmNFZvcHdmbDM5TGU4Ni1hTnNzUEdBSWo3azBzUEIxTGlmbENoLXpuZUlSSGRMb0FjckVZVjhFS1BhUk5IU3BGU2l2bkI0ZFJNR29icjlWUkU0U0hIdEF6U09kZHJmODlvenFNSmtDSDJhUEpuZEhROV80NzFuMXZmTHItTWVoeDRWMl9QZVM4OG5oZWZDbGJKQUlSU243czhsX3RMdXpleGp2YVNseFR3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nokia-2026-06-24-007",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Why Huawei still worries fans of Ericsson and Nokia",
+      "companies": [
+        "nokia",
+        "ericsson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/5g/why-huawei-still-worries-fans-of-ericsson-and-nokia"
+    },
+    {
+      "rank": 3,
+      "event_id": "nokia-2026-06-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia, AWS to expand autonomous networks co-op - Breakingthenews.net",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFUzS1owc0R0TTVTUmhDSG5ZQm5pXzNMaWVOcV82b05MVzFXWXdDLXJNSGQwVmJkNUY2NnVqZFJsRXg5Y0ZsdVA2RU4yTXh3TWRFcG5KMVo5RmlhcGhJaE42NTB3dDRpNGlnYTlOMEkyOVRPdWRTdy1sLUVRaHB3WWlLbHlFcm5OSE5aRXlFQlRHTEQw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "deutsche_telekom-2026-06-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Roundup: Deutsche Telekom's 1,000,000 RDK-B gateways, Xfinity's same day delivery, & Bluetooth innovation accelerates - Wi-Fi NOW Global",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNVRMUXVTSnVhTjNlcllsdkR3SUl5RmN2bGpwV2FlYi1sUGRWRC1aMF9NOS1SMEF2M0xmSG1nTzlzV0pBOXNvaEJ3d0FWb2kyYkF1aVduU19FNUxjdjFiTFBlZlY3TXl5NXBUTmYteEFlWThkX3R2ZVE5M0pUTUpJREktN0R0dS1uaDZ4cHZxZVhtSjdxOXpxX292UGZDZ282dko5aTRaaFlDdmtyZks2cjJKUFhYeHRPSVdmOEVHZVl0SmVFMy05QTBaSnlySnRRcXY3c2N0M2NHdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-06-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Masayoshi Son Rejects Orbital AI Data Centers Proposal - Let's Data Science",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzB5VjF1WU96RmpLSGxaZFBuWmtjOW5Lc0dJYkFfLVQ1bDRjckkzQkNRUDR6ZU9DaF9yOVJqaWlDanVfbnJ4UUJsXzl3WFNTUDZIeF8wckNYYWZZUl9qaEZEcFdVcm00NEMtNWNockZlbHduYlUtZzhqa0VsMUpHWHNzeFFEcmJjS3JURkhCMEZOcGw4N21vdWRCcFM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "softbank",
+        "count": 3
+      },
+      {
+        "id": "nokia",
+        "count": 2
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      },
+      {
+        "id": "ericsson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 307,
+    "dup_title": 168,
+    "too_old": 85,
+    "gate1_blocked": 8,
+    "gate2_blocked": 9,
+    "passed": 37,
+    "pass_rate": "26.6%",
+    "gate2_block_rate": "6.5%",
+    "gate2_samples": [
+      "Commscope Holding Ord Shs - TradingKey",
+      "Commscope Holding Ord Shs (VISN) Institutional Confidence - TradingKey",
+      "Why governance is key to Deutsche Telekom's new AI-centric architecture - TMForum - Inform",
+      "Is SBA Communications Undervalued Amidst the 5G Buildout - Kavout",
+      "SBA Communications Corp (SBAC) Technical Analysis: Support, Resistance, Indicators & Moving Averages"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為軟銀、諾基亞、德國電信相關動態：「SoftBank Founder Masayoshi Son Dismisses Musk's Idea For ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "SoftBank Founder Masayoshi Son Dismisses Musk's Idea For Orbital Data Centers...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Why Huawei still worries fans of Ericsson and Nokia（產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

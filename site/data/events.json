@@ -1,5 +1,216 @@
 [
   {
+    "id": "nokia-2026-06-24-001",
+    "date": "2026-06-24",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Nokia, AWS to expand autonomous networks co-op - Breakingthenews.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFUzS1owc0R0TTVTUmhDSG5ZQm5pXzNMaWVOcV82b05MVzFXWXdDLXJNSGQwVmJkNUY2NnVqZFJsRXg5Y0ZsdVA2RU4yTXh3TWRFcG5KMVo5RmlhcGhJaE42NTB3dDRpNGlnYTlOME",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTFUzS1owc0R0TTVTUmhDSG5ZQm5pXzNMaWVOcV82b05MVzFXWXdDLXJNSGQwVmJkNUY2NnVqZFJsRXg5Y0ZsdVA2RU4yTXh3TWRFcG5KMVo5RmlhcGhJaE42NTB3dDRpNGlnYTlOMEkyOVRPdWRTdy1sLUVRaHB3WWlLbHlFcm5OSE5aRXlFQlRHTEQw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-06-24-002",
+    "date": "2026-06-24",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Roundup: Deutsche Telekom's 1,000,000 RDK-B gateways, Xfinity's same day delivery, & Bluetooth innovation accelerates - Wi-Fi NOW Global",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNVRMUXVTSnVhTjNlcllsdkR3SUl5RmN2bGpwV2FlYi1sUGRWRC1aMF9NOS1SMEF2M0xmSG1nTzlzV0pBOXNvaEJ3d0FWb2kyYkF1aVduU19FNUxjdjFiTFBlZlY3TXl5NXBUTmYteE",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNVRMUXVTSnVhTjNlcllsdkR3SUl5RmN2bGpwV2FlYi1sUGRWRC1aMF9NOS1SMEF2M0xmSG1nTzlzV0pBOXNvaEJ3d0FWb2kyYkF1aVduU19FNUxjdjFiTFBlZlY3TXl5NXBUTmYteEFlWThkX3R2ZVE5M0pUTUpJREktN0R0dS1uaDZ4cHZxZVhtSjdxOXpxX292UGZDZ282dko5aTRaaFlDdmtyZks2cjJKUFhYeHRPSVdmOEVHZVl0SmVFMy05QTBaSnlySnRRcXY3c2N0M2NHdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-003",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Masayoshi Son Rejects Orbital AI Data Centers Proposal - Let's Data Science",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzB5VjF1WU96RmpLSGxaZFBuWmtjOW5Lc0dJYkFfLVQ1bDRjckkzQkNRUDR6ZU9DaF9yOVJqaWlDanVfbnJ4UUJsXzl3WFNTUDZIeF8wckNYYWZZUl9qaEZEcFdVcm00NEMtNWNock",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSzB5VjF1WU96RmpLSGxaZFBuWmtjOW5Lc0dJYkFfLVQ1bDRjckkzQkNRUDR6ZU9DaF9yOVJqaWlDanVfbnJ4UUJsXzl3WFNTUDZIeF8wckNYYWZZUl9qaEZEcFdVcm00NEMtNWNockZlbHduYlUtZzhqa0VsMUpHWHNzeFFEcmJjS3JURkhCMEZOcGw4N21vdWRCcFM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-06-24-004",
+    "date": "2026-06-24",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SoftBank's Son aims to be No.1 in ASI, no plans to retire - 毎日新聞",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1yUVVBeXZwQm1zZ0tfM0luVno3V2UtMzNxRlFwamxDSnB6VzlOcnNnNDVzRDZzeDRrSjNWX1U2OWthMzMwRUR4c3B4UTNfWHlqSFdHMFBzVmpyaEFnSDhwR3huZDg3UXRfVUlzd1RGeF",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1yUVVBeXZwQm1zZ0tfM0luVno3V2UtMzNxRlFwamxDSnB6VzlOcnNnNDVzRDZzeDRrSjNWX1U2OWthMzMwRUR4c3B4UTNfWHlqSFdHMFBzVmpyaEFnSDhwR3huZDg3UXRfVUlzd1RGeFZxYlk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-06-24-005",
+    "date": "2026-06-24",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank Founder Masayoshi Son Dismisses Musk's Idea For Orbital Data Centers - NDTV Profit",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMmpiSDdHUkJFc3VLbUNPZVhrbVFURmpxYVhvcGtEZEw3Nkl6UzFxbHdFOVQ5RXRpblhWU25IZy1hb3dWMUlmMjVVMHh1WFZqbG00cjFzajFid2pYbDZJSkY4WXc4UkY2STBDZGpaV0",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMmpiSDdHUkJFc3VLbUNPZVhrbVFURmpxYVhvcGtEZEw3Nkl6UzFxbHdFOVQ5RXRpblhWU25IZy1hb3dWMUlmMjVVMHh1WFZqbG00cjFzajFid2pYbDZJSkY4WXc4UkY2STBDZGpaV0p3VnVDUDlyWm41NXdNcW14VkZWOTI1NWRLNGRmZmFYbzJXczhfek5DQXNmTE5RaFF0TnpWN3dacm5UUdIBsgFBVV95cUxQY3JmNFZvcHdmbDM5TGU4Ni1hTnNzUEdBSWo3azBzUEIxTGlmbENoLXpuZUlSSGRMb0FjckVZVjhFS1BhUk5IU3BGU2l2bkI0ZFJNR29icjlWUkU0U0hIdEF6U09kZHJmODlvenFNSmtDSDJhUEpuZEhROV80NzFuMXZmTHItTWVoeDRWMl9QZVM4OG5oZWZDbGJKQUlSU243czhsX3RMdXpleGp2YVNseFR3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-06-24-006",
+    "date": "2026-06-24",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What's the point of AI data centres in space? SoftBank CEO thinks Elon Musk plan is no good - India Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxQYTNFT2dlWUtnU0lvakRQS0loLTNpZWxGLUxfamVWeFVkQk1ES3J1VW1aZkFCRmxrTVYxelRKek1CSk41ZHc3aVBZM3plZEZXTzVyeTZmTE04bVhOTzB5Q2VlOTVRWWJYaENHV0tjcl",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQYTNFT2dlWUtnU0lvakRQS0loLTNpZWxGLUxfamVWeFVkQk1ES3J1VW1aZkFCRmxrTVYxelRKek1CSk41ZHc3aVBZM3plZEZXTzVyeTZmTE04bVhOTzB5Q2VlOTVRWWJYaENHV0tjcllNdUYzX04wUEZmMUlNME9GbjhYX3JONnk4UFFOdHNLUTh2NnFfcUZPTk1OamkwVlo0UGpmanB4b0hFbkpuQnFYOE1ycHljSmdranZuME1xNnpGb0h5Z3RZUzBUZng1cnJwcEZBYnRnSW1lbEs4WHBhRFJvazUwTjNsLTM1NdIB8gFBVV95cUxOZXc2ckRUTUp5OEtXVG9URmtVczUydklzQzN2TzM5MGJacXIxUGhISlVHY0VibVdWbTExOF9ZREhvRjlZVy1jemFBVFl2QzllblpHaXBkTGF6ZTJHaUVZUEgtTkZZaU9BXzQ2T3V4RS13alNnWGQ1TTUwUGdSeDJQTVd4OV9iVFJjSVRsRWVwa0pONHpweGtCc3ZQRmxDSjhzWE8xNWdnQmU5ckpfZmF2cnItdFBpWW9YUlFIWlhQcnlPa19MZzU5OHlKV2hsa1VtQTN5N3ZtUTJkTE0wc3dIZ2RKWmNkUXZWcXZaWm5HYm5Edw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-06-24-007",
+    "date": "2026-06-24",
+    "companies": [
+      "nokia",
+      "ericsson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Huawei still worries fans of Ericsson and Nokia",
+    "summary": "Spending by Chinese telcos in a vast market closed to Europeans has given Huawei the muscle to compete aggressively in other countries.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/5g/why-huawei-still-worries-fans-of-ericsson-and-nokia",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-008",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ottawa has new powers to ban Chinese telecom companies. It says it's not planning to use them - National Post",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxNb3RIdjRScjVma3dzNmo4NXQydDYtY1kwQzVFTDZoYmU3Q1h0UzFnRjBmdEhTbVJWZkw1eDJIenBRdFJad21qaDAwMVNCZVlwa2g4cUhab21FWFpma3BUTVUwWHBIdk8xdnNJWUxqN2",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNb3RIdjRScjVma3dzNmo4NXQydDYtY1kwQzVFTDZoYmU3Q1h0UzFnRjBmdEhTbVJWZkw1eDJIenBRdFJad21qaDAwMVNCZVlwa2g4cUhab21FWFpma3BUTVUwWHBIdk8xdnNJWUxqN25TREVDd2ZMdXk4MjFHRGtUSVdOZ1ZZX0JubG5Bam1aTERiUWlJTUFwVTM4c2lFV2tDaFk0cld6RmR1bzU0NDdxeDVlUE1RZ1FfOHJDeFUyMWsyLTNFNjZj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-009",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Centre notifies new telecom authorisation rules, overhauls licensing framework - Storyboard18",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYXJVT1p0cGRJeERVVFk4ekNqWkxCajJ6WWgxWnZsNkR2RzAtWlN5NWVlXy13QjY5V0tYUGJGX2Z4dlljZ3k0SXg0ZmpsU1V1Y2cyc1cwZmw0RGk4WFR6ZUVvbEZYN05wdkx1NWVvUT",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYXJVT1p0cGRJeERVVFk4ekNqWkxCajJ6WWgxWnZsNkR2RzAtWlN5NWVlXy13QjY5V0tYUGJGX2Z4dlljZ3k0SXg0ZmpsU1V1Y2cyc1cwZmw0RGk4WFR6ZUVvbEZYN05wdkx1NWVvUTlSZzZtNENNeVNRSzJjbC1BUkFFQlU1dGRBcUFpTG11dmhzcHZBcFJkOE53LUNwNTRod3hGQThwSU1yUFI1NURDYjIzTk04RDhrcG9KdlRNVGRrOC00RVN1UF80eHFHYmZrZUhXX9IB1AFBVV95cUxOYXJVT1p0cGRJeERVVFk4ekNqWkxCajJ6WWgxWnZsNkR2RzAtWlN5NWVlXy13QjY5V0tYUGJGX2Z4dlljZ3k0SXg0ZmpsU1V1Y2cyc1cwZmw0RGk4WFR6ZUVvbEZYN05wdkx1NWVvUTlSZzZtNENNeVNRSzJjbC1BUkFFQlU1dGRBcUFpTG11dmhzcHZBcFJkOE53LUNwNTRod3hGQThwSU1yUFI1NURDYjIzTk04RDhrcG9KdlRNVGRrOC00RVN1UF80eHFHYmZrZUhXXw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-010",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Safaricom Strengthens Market Leadership in Kenya’s Broadband Sector - Telecom Review Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcnRLZFFtWmMzRTQxWHJpbVFnVDNXWHdCM1Q4Q1Q3Z3ZBZDlEQ2U5SHZtS3FId2NqaGRnNnkyaU5pYWpwWVFRRVdvWnNQWkEtTzA5ZC1BTGZmRVVrODVHMTZVRmp6bXR0RDdLZmxkTH",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcnRLZFFtWmMzRTQxWHJpbVFnVDNXWHdCM1Q4Q1Q3Z3ZBZDlEQ2U5SHZtS3FId2NqaGRnNnkyaU5pYWpwWVFRRVdvWnNQWkEtTzA5ZC1BTGZmRVVrODVHMTZVRmp6bXR0RDdLZmxkTHIyVGQ0VnJaUzlTRlM4Mi1zLUdnd0RjV2ZsdUVnanpabXU5R0pFcEM4a3ZtanZhdTNHd1pNb1hxenBvNUNyU0gyQ0ZvenVBc0tuT2pDdEVVYkN2ZEs0dWE3V1RRLS0yTDR5VEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-24-011",
+    "date": "2026-06-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nigeria tightens telecom ownership rules with new pre-approval mandate - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOTndqNmhieENXdDNfb1A1QUpnMXhaNHJOd0VGNGt0T044QS1rbUdDY1V4cmVic1JHYl9WcVkwY2dkMlYzSlhtV21fVzFLd0pybmxVVVk3VVFJTmhpakM5TU5Nbk9nZjhGNkUySTdxeH",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTndqNmhieENXdDNfb1A1QUpnMXhaNHJOd0VGNGt0T044QS1rbUdDY1V4cmVic1JHYl9WcVkwY2dkMlYzSlhtV21fVzFLd0pybmxVVVk3VVFJTmhpakM5TU5Nbk9nZjhGNkUySTdxeHdDYlZoVlE5RUdPS0dHckJWT255YUpyWUxjYzZiaUhrTTFZRkY4ZHA1YUNqVVNReUZsZ1FmdG44UndUU3ZTZWRjaHo1TQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "deutsche_telekom-2026-06-23-001",
     "date": "2026-06-23",
     "companies": [
@@ -207,6 +418,445 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOUlxMU5hNnZUOWtmZl8xTGMxVlhqSHVzOUU5YmFYZlVVTVAyVFZzdUppbkZaZWI5V2EzWGxwWlZEaVVWNmwyc2VQMzhYeUY5a21OOFBGTERlek1IYWRzamZubHpIT0V1M2htUjQ0QnJ2em9NNFFlcHFNRmpPNUFDRnRNOF8wMGtxNUZSNVpaanJpSlJ2VWhhZXpzZWpRWFR5MGpuYWIxLWdJNGNodkM2MU4taWoxNzVJZGl1dWoyNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-012",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "NOK Stock Slides As Selling Pressure Dominates Recent Trading - StocksToTrade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOOUdhZXo5cWdqcmpXMEVmRGpDUTNOaFhtMTRWU3NpNGRJV3V6bGV2ZzhsblNaSFB5NjgyLV84OGZXNkRFRC1oU1FsMndYVjlsLUR2UkF0cUowcEpqTVBfX0xjZllLclNUalRkSUdmcW",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOUdhZXo5cWdqcmpXMEVmRGpDUTNOaFhtMTRWU3NpNGRJV3V6bGV2ZzhsblNaSFB5NjgyLV84OGZXNkRFRC1oU1FsMndYVjlsLUR2UkF0cUowcEpqTVBfX0xjZllLclNUalRkSUdmcWdXMEFKR3NPck9WTEYxU2owNV8wZzRPZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-06-23-013",
+    "date": "2026-06-23",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ciena (NYSE: CIEN) SVP Grant Hoffman awarded 6,517 RSUs - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPR09YYXBaSmVjbkpQSkhMWV9fTG1yT1g1Q1JyVDh2TUJJZEtkQlNMUHVKblhxSk5ZOHEtTkZ4aHBPbUswS3h1UXFuckxWaU5BaXN6OWx4YU5paVlLQ2NNemlUY1FJN0pneFFxRFJrMH",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR09YYXBaSmVjbkpQSkhMWV9fTG1yT1g1Q1JyVDh2TUJJZEtkQlNMUHVKblhxSk5ZOHEtTkZ4aHBPbUswS3h1UXFuckxWaU5BaXN6OWx4YU5paVlLQ2NNemlUY1FJN0pneFFxRFJrMHZlQ1ExdVVNMzFSSTFsakdOTUZKNC1ZVFdXMVpMSFZfZDY2VlpORkNJWVlqVzJ1bWtZUkx3eW5UZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-06-23-014",
+    "date": "2026-06-23",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ciena vs. Arista Networks: Which AI Networking Stock is the Better Buy? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0JiWVM4Nm5oNG9DTjZKX1NOb1o4enI3a0ZBVFpoWU1iWjFjVDR4SkJvcTNWWmdjaXE3c0pnSlpqTVh4ZVRjem5KXzRyX1dORWpJbWhwQm9qN2duWm1pRFB3WXktcEZxaEZPZGJiU0",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU0JiWVM4Nm5oNG9DTjZKX1NOb1o4enI3a0ZBVFpoWU1iWjFjVDR4SkJvcTNWWmdjaXE3c0pnSlpqTVh4ZVRjem5KXzRyX1dORWpJbWhwQm9qN2duWm1pRFB3WXktcEZxaEZPZGJiU01TMGdiNnNvdHRJZUdNeWZJWlYxX1doQ1BUOXBMY3UxNjgtRG5YWVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-015",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Corning Rides on Strong Operating Margin Growth: Will it Sustain? - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNXlTT0I4ZzRYcjlGeEVxM3U5dHZ1Z25lTnpsYUJOQzZ3MHVkdGgzWWFyMUxBNzZNa3gyTTZIcm82cV9SWWtlSlFuMUp5OGZOa3BxQjl4X0JUQzVpV0VYaDhfdk9yOUcxSTRTaElRT3",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNXlTT0I4ZzRYcjlGeEVxM3U5dHZ1Z25lTnpsYUJOQzZ3MHVkdGgzWWFyMUxBNzZNa3gyTTZIcm82cV9SWWtlSlFuMUp5OGZOa3BxQjl4X0JUQzVpV0VYaDhfdk9yOUcxSTRTaElRT3ZBM2VqSHNSRzl1WjhscUZjY3NWVmppOG9PeEVEZTJ4b29BbGZGdVpSQ1JTalc4SVh2NGMwLUFYdnFzeHBmX2cxNHA5N044VEEyb3p3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-06-23-016",
+    "date": "2026-06-23",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ciena (CIEN) strategy chief has 2,350 shares withheld for RSU taxes - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmx3WDFUUVFlWlZrR0g2aFFfRnpTeWVOZlhoNlBPb1ZUQWxDbFN1X2h0RjY3M3RWaVpKcWthN2RUTkJXUzc2cEZTXzdwMGMyd3BpX0NkMmhITS1qS2VqNDFUaHhGby15cU1hRjdnOF",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQmx3WDFUUVFlWlZrR0g2aFFfRnpTeWVOZlhoNlBPb1ZUQWxDbFN1X2h0RjY3M3RWaVpKcWthN2RUTkJXUzc2cEZTXzdwMGMyd3BpX0NkMmhITS1qS2VqNDFUaHhGby15cU1hRjdnOFBCMUJWTnpPSFNSTGN6X3Zld0g1ME5FOVhxMlZoaWN6Smk5NVRyYVltVTF5X2dSbUZfa3hSRjFvaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-06-23-017",
+    "date": "2026-06-23",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ciena (CIEN) CFO covers RSU tax liability with 199 withheld shares - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOV0dWcG5JVm16UlBDdVM2MnJ2SG5ianhMSVM1bzRSX1F3OUYydXBEYnl2QVdHZEt6VWVSRGxIOTliNXJnN1IwQ2N5VDdxbGtrLXlFaGI4cTZrX3ZGYVNEbXNiUWd2bk1OZW91bEtuaH",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV0dWcG5JVm16UlBDdVM2MnJ2SG5ianhMSVM1bzRSX1F3OUYydXBEYnl2QVdHZEt6VWVSRGxIOTliNXJnN1IwQ2N5VDdxbGtrLXlFaGI4cTZrX3ZGYVNEbXNiUWd2bk1OZW91bEtuaHFPZjRLYjNqYVpibHJIaU9RaFNSOXRlaEl5R3JENXpXcjhfRF9laldITDZad3B3LU1Pa3NKalFUMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-06-23-018",
+    "date": "2026-06-23",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ciena (NYSE: CIEN) SVP has 1,934 shares withheld to cover RSU taxes - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQdlFqaGNyWHFsLTY4UVU3QWNTRU52ZloyeE9OQzFnSWVQVXJiTTlnN0xBNm81ZU1IN00tSm1pNzVST0I3bEd2enFrZ2g3VWs2QjQycWpWb0gwVC01SFVvXzZWUDhGNGx2OWtvQlRuSm",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdlFqaGNyWHFsLTY4UVU3QWNTRU52ZloyeE9OQzFnSWVQVXJiTTlnN0xBNm81ZU1IN00tSm1pNzVST0I3bEd2enFrZ2g3VWs2QjQycWpWb0gwVC01SFVvXzZWUDhGNGx2OWtvQlRuSmNnS1BlVnlIb1ZpYTJYTUJBaS1Vcjljb3MzaTZOSmt5UGNXYVhISzRua2k4SS1meTU4UkN0T2E0MA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-06-23-019",
+    "date": "2026-06-23",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ciena (NYSE: CIEN) SVP Grant Hoffman files initial Form 3 insider ownership - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPRS1sWlByTkVKQ0pfa1pfREpoOHp1V1JsblZMNS1IaEJvLXdWQXRIUktIbHMyZ3RIR280UExKVXFBNXhTZVJKY3NHRi1pMktualVDMW1CNW5GOWtWSXMyR1gtZm1OQXlHNDFNU1drbj",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRS1sWlByTkVKQ0pfa1pfREpoOHp1V1JsblZMNS1IaEJvLXdWQXRIUktIbHMyZ3RIR280UExKVXFBNXhTZVJKY3NHRi1pMktualVDMW1CNW5GOWtWSXMyR1gtZm1OQXlHNDFNU1drbjJTeERGeGRUcmtGQzg5X1pIUFREVE9QNmJiYTNDSi1RSld1b2o4WG1mdmVJb3hoc19FTDRJSGxRVzhfcXVPSnFuVXB0dHBNMWN5U3VwajNn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-06-23-020",
+    "date": "2026-06-23",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ciena (CIEN) SVP has 2,054 shares withheld to cover RSU taxes - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPTWdFc29PR3dsMkYwRnJtbm1NT0RuUFRmZFRGTnJYV3ZzUkUtSWNiN0lFazhpZnB5Yk5uZUV5a3VKdXNoOUhOY2RXZXRnS2xXT1VxQVJ0X2FfbWxOWFV2MHdmWjJSRGY0LWpJMmQ4dV",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTWdFc29PR3dsMkYwRnJtbm1NT0RuUFRmZFRGTnJYV3ZzUkUtSWNiN0lFazhpZnB5Yk5uZUV5a3VKdXNoOUhOY2RXZXRnS2xXT1VxQVJ0X2FfbWxOWFV2MHdmWjJSRGY0LWpJMmQ4dV9DTFhFQmdBQm5TQVB2cXdUN1dQZnV2ZmU3dXlGR0N6OGFGNTVLUlhXekp0enhlVV9kWC00allKaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-06-23-021",
+    "date": "2026-06-23",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SoftBank to build AI servers at old Sharp plant starting in fiscal 2027 - Nikkei Asia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVy1KeEF6M0lUMWtoUURCRUYzWXZSOENFaEU2eDl0N3JENVB2OVZudkVjRDZFUWNBdGF4eFk5eGVMS19yeHNCWm5OeWtQNXlVRlk0cVhOYUhaTHRpMEFYZzhJM08zT2xLMW11LUVVUk",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVy1KeEF6M0lUMWtoUURCRUYzWXZSOENFaEU2eDl0N3JENVB2OVZudkVjRDZFUWNBdGF4eFk5eGVMS19yeHNCWm5OeWtQNXlVRlk0cVhOYUhaTHRpMEFYZzhJM08zT2xLMW11LUVVUklPRl95eEVYMXVMbU9fOGVCVURQSjRMY2dtbW1VZXRjREM1NGkzN29NNkhqVDE1RGdGV3NtQ0pjRlZwMU41VlR5R09xMkk3ZWFBSGVNLUduVmlBbGkzLU1KcXl1d09UaDd1OGg4WXVB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-06-23-022",
+    "date": "2026-06-23",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is it Wise to Retain American Tower Stock in Your Portfolio Now? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNRXdHeXBRTkc4V2k3XzEzU1g5MVRTaFFFLUY1VEFaXzhjX1NxMXN2dkdnU3ZoSkUxSDhjSkc5SzJEYzQ3SnhWbnZWcU55TWU1MVQ0YWtWaTZWazQ3bUJvNDFoUFBDOHV1dVpBOGFfX1",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRXdHeXBRTkc4V2k3XzEzU1g5MVRTaFFFLUY1VEFaXzhjX1NxMXN2dkdnU3ZoSkUxSDhjSkc5SzJEYzQ3SnhWbnZWcU55TWU1MVQ0YWtWaTZWazQ3bUJvNDFoUFBDOHV1dVpBOGFfX1B4SmJMaGFORWU4UDhVeFM5SW1oOElGN1hJTWpHbXhkQVNBbDEyY25pQ1JiakhWQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-023",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "5g_deployment",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Clearing 160MHz in upper C-band will cost $3.6B, SES says",
+    "summary": "SES says it will cost about $3.6 billion to clear up to 160MHz of spectrum in the upper C-band, with the bulk of those costs linked to new Ku-band satellites with C-band uplinks.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/regulatory-politics/clearing-160mhz-in-upper-c-band-will-cost-3-6b-ses-says",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-024",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "WEI taps Starlink to connect enterprises",
+    "summary": "IT specialist WEI has launched WEI Connect, a managed enterprise platform powered by Starlink's satellite broadband service. #pressrelease",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/satellite/wei-taps-starlink-to-connect-enterprises",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-025",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "5g_deployment",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "PBS teams with LTN to manage upper C-band transition",
+    "summary": "PBS has selected LTN's IP video platform to future-proof the distribution of more than 330 public TV stations as the FCC looks to auction a portion of the upper C-band. #pressrelease",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/video-broadcast/pbs-teams-with-ltn-to-manage-upper-c-band-transition",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-026",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Vodafone IoT looks to satellites to connect more things",
+    "summary": "Vodafone IoT CEO Erik Brenneis tells Light Reading that it will launch satellite connectivity from Iridium and Skylo this year to expand global coverage.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/iot/vodafone-iot-looks-to-satellites-to-connect-more-things",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-027",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US cable still holds edge in convergence – study",
+    "summary": "US cable operators and telcos are all leaning hard into home broadband/mobile convergence, but cable holds key cost and footprint advantages, according to MoffettNathanson's analysis of this evolving ",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/cable-technology/us-cable-still-holds-edge-in-convergence-study",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-06-23-028",
+    "date": "2026-06-23",
+    "companies": [
+      "nokia",
+      "ericsson"
+    ],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Eurobites: VMO2 sets date for 2G switch-off",
+    "summary": "Also in today's EMEA regional roundup: FTTH Council Europe broadens remit; Nokia, Ericsson go automation-crazy; Telefónica has a (summer) plan.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/2g-3g-4g/eurobites-vmo2-sets-date-for-2g-switch-off",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-029",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Singtel raises $772M from Thai asset sale to fund AI and data center growth",
+    "summary": "Singtel has sold 2.8% of its shares in Thailand's Gulf Development for about $772 million, raising funds for data center and AI expansion.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/finance/singtel-raises-772m-from-thai-asset-sale-to-fund-ai-and-data-center-growth",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-030",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tuesday Roundup: Lightcurve, Netnod, SmartOptics, CityFibre, VodafoneThree, MGX, DayOne",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/PgZI3_rkfYadeosQxcf17OGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Tuesday Roundup: Lightcurve, Netnod, SmartOptics, CityFibre, VodafoneThre",
+    "sources": [
+      {
+        "name": "telecom_ramblings",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaVEm0-rWVzYVrZukjJeStd9?utm_source=follow.it",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-031",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "spectrum_auction",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FCC AWS-3 Spectrum Auction Raises Over $3.5 bn, Reviving U.S. Spectrum Strategy and Strengthening 5G and 6G Leadership - TelecomLead",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcVdaaEt3QUQ1Wl9BSUxmUWpvQW9rWEJDWTQ0eWFLNzh6aWNGNjBwSloybUxpM00zLW1KenpRREFTNVY5SDNmcjlLQmZzUGZWRFEwTTFScjczaDhnclctcExkTEY1a2tYd1l1ZmMwYl",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcVdaaEt3QUQ1Wl9BSUxmUWpvQW9rWEJDWTQ0eWFLNzh6aWNGNjBwSloybUxpM00zLW1KenpRREFTNVY5SDNmcjlLQmZzUGZWRFEwTTFScjczaDhnclctcExkTEY1a2tYd1l1ZmMwYl95YnVGcjFORmRLVEpJTUhjY212aXBUQVZUQWhEdWxfazA4aWhtdHFkY2hCa2hLYi1nbkRVWVpCTUQweGxXQ0xkalZiX2h5UW12cFhDTXBmT2JRMGFyTkx1YXlSTVJZdG92SU9ZZnNCX2pPTTFOYjZYLW5KRdIB6wFBVV95cUxNMGRwSy16WWZFRW1BeEdvN1phWGxOWlBMc213V0swdEZNbFY4MGlxakJQSHFyaEhSQkIwbFFwaWlaenBvSGdnbTRqWlVBY05FdWkzZEIwOVM4cmdaSTZyRVAtVU5USWFBcXZYdDN6dXgyZWxocVl1QnBZMGlWTHJNS0I2TmNNVEdxZV8tTnZSNlp0aFBEMmRwbXdEazZ3M2VXWXM2bDBIVGlEVm9GMGF3Y29pTWQyYmhuX2FFM25Ea1JaV0tpcERvVWx6bE9lRDlGRHdWSEhWTEFjNWVJanc4cHFCOURwVW12OHJz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-032",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dumb pipes no more – telcos have the AI opportunity of the decade (Reader Forum) - RCR Wireless News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPc0JHX2owRTl4SjhwM2tnTWlpTHdfWW5ieWptM0hoY29wWTFjb2pmUWVwLXQ3MWxVeHRrMXNjcjZXMjJPWVNHWG9mRGRzMy1oQmdudGQ1UEdlQWxab29fMVRkV2ctVVQyZzBzalp1RU",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc0JHX2owRTl4SjhwM2tnTWlpTHdfWW5ieWptM0hoY29wWTFjb2pmUWVwLXQ3MWxVeHRrMXNjcjZXMjJPWVNHWG9mRGRzMy1oQmdudGQ1UEdlQWxab29fMVRkV2ctVVQyZzBzalp1RU81RVdER1Z4UHk3TmhQWXlXbUNR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-033",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UST Launches New AI Cloud Center of Excellence on AWS to Accelerate Telecom Industry Transformation - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRlphZEJjam90VlNyS29aMmlRbEo1cWZlaDNBTTRTZlhjN3V5TTFrMkhTZGk2eHloUVdDR1ZxSGR3VkFwYlo5Z01kaGp1Z1lRVUxSTnh3QU9jN2hxMkxpSkJvdk0wektvN0JEU3o4Rz",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRlphZEJjam90VlNyS29aMmlRbEo1cWZlaDNBTTRTZlhjN3V5TTFrMkhTZGk2eHloUVdDR1ZxSGR3VkFwYlo5Z01kaGp1Z1lRVUxSTnh3QU9jN2hxMkxpSkJvdk0wektvN0JEU3o4Rzl0dFM2YnozOGJQM0lUQmZGTkJqQjR2bFhDd0R4SmhMOXhjUnQxdWstSmZzLWJoeDM1cGdiZElFalFsVGo4d2VPcndwLTEzYTVWSUhDX2lqTlJkYWdHdkw5TWtQNVRFbFlDcVZmQzhOYkktWW50bHRZT0VGYndleWQtNXRVbHkzMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-23-034",
+    "date": "2026-06-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "India adds 64 million internet users as telecom sector gains pace - Indian Television Dot Com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxObndrN3FPYnF0dU4yVnJrcVpIZW5oankxZ1FfUkIwa1dlYml2aVZzdWxzc2tWcXZkS2RFMlhHaEdseEFadzlMUDJqdmFlNG1XNVJIN2cwWGkzZUxqTktIQzdSTUxmTDhhYU1UOTVfQ2",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObndrN3FPYnF0dU4yVnJrcVpIZW5oankxZ1FfUkIwa1dlYml2aVZzdWxzc2tWcXZkS2RFMlhHaEdseEFadzlMUDJqdmFlNG1XNVJIN2cwWGkzZUxqTktIQzdSTUxmTDhhYU1UOTVfQ21GeGF5YmcwWFlrR0UxaElGZzBBQW5mUjlubmFGVmJUNWQxWWI5ZXYxZGZCVHJjVm5qNlJLWA?oc=5",
         "type": "rss"
       }
     ]
@@ -863,6 +1513,26 @@
     ]
   },
   {
+    "id": "ciena-2026-06-22-036",
+    "date": "2026-06-22",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ciena Corporation Announces Executive Appointments, Effective June 22, 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxNVVNHekdZUFBYYmRHWlJ2ZExRanpRbHIxUmxuQXJPeVR2cEJjMVMyUjluR3ZjVC1mNVh6RzZDa3R0dlhlUjd3WDVTb2dmRDVzTnRKMEcyMnlHNHdpeXZqSjEtVWZOTGo2NFVWRmY2Nk",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVVNHekdZUFBYYmRHWlJ2ZExRanpRbHIxUmxuQXJPeVR2cEJjMVMyUjluR3ZjVC1mNVh6RzZDa3R0dlhlUjd3WDVTb2dmRDVzTnRKMEcyMnlHNHdpeXZqSjEtVWZOTGo2NFVWRmY2Nk9lSmd1WTJmcmt3aW9CWXFiamdHdUZVdUxreWwwdW5yZDdyblZJZXJ6Ymo0UzlFUV96WUdVeDR2RGFhUUtDYlgtOUZ6bndqYjR2S1RMc0dsLXJWQUlw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "deutsche_telekom-2026-06-21-001",
     "date": "2026-06-21",
     "companies": [
@@ -1170,6 +1840,26 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWHVCekxYLWJaUnJzR3Q0Zk1hQXUxdWZDYlNnMm1sSEdhOVVUd2pWMUJxLXl5NlE1VkdrMnpQMWQyZnFIZ04tTENLRk8tY013Z3JZZmVxdGU3Zmc0RjRDNl9kZTBybTY3S2JJVkVUb0lLWUZEVnBmVU9XekpTNHM5aVBHUUNGMnMtMldqWWgzMXBQTUZ2UmY0N0w5Y2lJYURpZEFhY1FJTUR6NXY3WWVieGNpMDdVRVE1?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "calix-2026-06-20-009",
+    "date": "2026-06-20",
+    "companies": [
+      "calix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Calix Stock - Long-term fiber and cloud strategy in focus - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNS01XT3ItU1QzZ3AtVUpWMjVCUkFKaDR6RWU1a3FsYUhDazhFS1dSLUJCM3lUOS1jZzNJZEtZY05ZLVdBN002TXpLbWs5YUI3Zjl0Vm8xWWhIVGF1QmxVcjBFUzN2Z0VTcFMteENqQ3",
+    "sources": [
+      {
+        "name": "calix",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNS01XT3ItU1QzZ3AtVUpWMjVCUkFKaDR6RWU1a3FsYUhDazhFS1dSLUJCM3lUOS1jZzNJZEtZY05ZLVdBN002TXpLbWs5YUI3Zjl0Vm8xWWhIVGF1QmxVcjBFUzN2Z0VTcFMteENqQ3lpMjhVRmNnS284N3lNTEpLSjg4eG5CVU9SSGFCZlVKNlVhTXZnN0o3Z2xTbU5MYzVhV0xuc2tfME9DcGVYX1JNdjNoVGE?oc=5",
         "type": "rss"
       }
     ]
@@ -2527,6 +3217,24 @@
       {
         "name": "equinix",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbXJMMG9ObWNHejVodTd6NEEyMUV3cTFyT054dE9JaWQ4bEgwWkdoaXNNbkp4YXFkRjVLRU9kX2JKMjg2OEZNTS0wa21Lc1R0aDVrQU5maElGWktjZG9lM3Brb3FkV0hMa2d4NzJNYmtNNnhobVpGbVM2WGpUOGdRRU1QT25pRWc3aFdBUkpzVWRnQ2l5SDhTWjRva1c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-06-18-040",
+    "date": "2026-06-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Data center developer proposes building in Pinellas Park - Spectrum Bay News 9",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQSnNOMHdkQ082SDZVaEV6TU92bmJJNF9ONzZiVjlSdlQzbjhmcjlJWXh1WnhET2NsYmRQRC1NeGdZNnNZZV9TMFNNenpKbl9WSlNwMFdxRFhEajNTTlQtdGRqZ3RoWVV4a1VCTHVraG",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSnNOMHdkQ082SDZVaEV6TU92bmJJNF9ONzZiVjlSdlQzbjhmcjlJWXh1WnhET2NsYmRQRC1NeGdZNnNZZV9TMFNNenpKbl9WSlNwMFdxRFhEajNTTlQtdGRqZ3RoWVV4a1VCTHVraGZLRGI4ckFSNjM0YVhDODdZa2NuS0VHWG9vSy1taGMzSmhxcmQ4THIzOWtwSFcwUEZ5WlBHUQ?oc=5",
         "type": "rss"
       }
     ]
