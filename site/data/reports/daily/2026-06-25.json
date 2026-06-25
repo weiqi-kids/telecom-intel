@@ -1,0 +1,186 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T10:38:23.432542Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-25-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Romania 5G connections jump 45% in 2025, internet becomes main telecom revenue driver - Telecompaper",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZDNYZGowR2w1Q3lwb09rRFZzMUFxSk5Vdmc2UEJpeldNS0NvZU1mc2pBeThXeWdoc0IwVkdlaUxwQnZQTjFLU0lDQzdWZmZqRGFJQjZCcjdRZ1hwRmQtX0ZCLXRkcElWOHE4UHdRS0dIRU5hT3EwX1ZSWkJvRV9SeEFkOXRUSm5ESXN3NXU4TU1rLXdlMzc4cnI4cUgteFRTVGVsTVQtejRjMVM5SlJtcGRYeG9WcENBMG1RTGtxSnR2TUpH?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "softbank-2026-06-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SoftBank seeks Tepco stake to power AI data centers - Tech in Asia",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQM21nZDdyU0s2VXNWVGMwd1VyZzh5YUh2akVsczBUUDlYMXBuQ1M0WENSU0FoeU1wMl9YV0l0Y1NoT2dueFVyNjNDcGFsMDJNVmxpNEdWWGxDNjFxZFBOaWlGb05zaDdyNjNrWG1naFNXRG1PRENrY1U5VUF3dFo0TGFCRXdYbGc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The Internet of Things was 5G's big fail – 6G risks a repeat",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "5g_deployment",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/iot/the-internet-of-things-was-5g-s-big-fail-6g-risks-a-repeat"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-25-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "India shifts from licence contracts to statutory authorisations for telecom sector - Indian Infrastructure Magazine",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYmd4Mm01VG9xYXc0MkN2MEJIdURsSWxTeFFyWmpVcmVxM3ltcmRHeGJaZUw2XzVzb01sOWloMFR1YVFLUDFBUVcwTXZ3dGl5UjQ2d0pNSDRNMGMweFZ6SmNGZ3gxbEdHb2V6ZFA0QWl6TFF3V0gyX0kyOERuYUdkWllHTFRzYnlvT2w5b1ROSWV3YUk1aWtSam9ZbFZacjRGM0t3cmN0c016bzNVNlBUMFBBVUNUeThBdmM1YVhXNUVlczAtMWc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "5g_deployment": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "softbank",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "5g_deployment",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 308,
+    "dup_title": 172,
+    "too_old": 87,
+    "gate1_blocked": 10,
+    "gate2_blocked": 9,
+    "passed": 30,
+    "pass_rate": "22.1%",
+    "gate2_block_rate": "6.6%",
+    "gate2_samples": [
+      "Commscope Holding Ord Shs (VISN) Technical Analysis: Support, Resistance, Indicators & Moving Averag",
+      "Price to book forward of SBA Communications Corporation – NASDAQ:SBAC - TradingView",
+      "Is SBA Communications Undervalued Amidst the 5G Buildout - Kavout | AI",
+      "Price to sales forward of SBA Communications Corp. Class A – MUN:4SB - TradingView",
+      "Equinix Says AI Is Not Dead, Further Consolidation Likely (NASDAQ:EQIX) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為軟銀相關動態：「Romania 5G connections jump 45% in 2025, internet becomes...」。主要關注主題為產業通用、5G 部署、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Romania 5G connections jump 45% in 2025, internet becomes main telecom revenu...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "SoftBank seeks Tepco stake to power AI data centers - Tech in Asia（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

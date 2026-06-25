@@ -1,0 +1,16 @@
+{
+  "total_raw": 308,
+  "dup_title": 172,
+  "no_date": 0,
+  "too_old": 87,
+  "gate1_fail": 10,
+  "gate2_fail": 9,
+  "passed": 30,
+  "gate2_samples": [
+    "Commscope Holding Ord Shs (VISN) Technical Analysis: Support, Resistance, Indicators & Moving Averag",
+    "Price to book forward of SBA Communications Corporation – NASDAQ:SBAC - TradingView",
+    "Is SBA Communications Undervalued Amidst the 5G Buildout - Kavout | AI",
+    "Price to sales forward of SBA Communications Corp. Class A – MUN:4SB - TradingView",
+    "Equinix Says AI Is Not Dead, Further Consolidation Likely (NASDAQ:EQIX) - Seeking Alpha"
+  ]
+}
