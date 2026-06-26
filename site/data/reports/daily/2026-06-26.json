@@ -1,0 +1,207 @@
+{
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T10:46:42.343472Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_tower-2026-06-26-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "RBC Capital upgrades American Tower stock rating on growth outlook - Investing.com UK",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV0t2b2pIcllmcjlLWFM2eEV1WXR6STNzTnVXUWxMMFpMcDI0bzdPa21hU3IyN3BwTi1CWEFyeWd4QVpONUdSUWR2M0RjZE5uTC1tNXFacjM2cGZ6Z3dLT1BzQ09aM04wYUNTY2liWk85SzNzOUdxNHY5bTlXTlJ6dzEta0hTN05HR01vbFprOUZONjBoMWVlN0VRWWFUd2FxblFTRDY2NmpvNVpoekpIMy1KSkozazAzTnIwVDNOV3plM1ZWS29ub1VHLTlTX1JRTUN5S3B3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "deutsche_telekom-2026-06-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "OTE raises EUR 100 million in bond issue subscribed by Deutsche Telekom - Telecompaper",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSEpYanpYa2piTlFmS2VrSDJXbm1xWEl5SzZ2RzJaeHFIU01QR2N2cEl5U1lVeF9FbFZkNmlNblJDODJZdy03U1hkRnVMVHZPX2tIN211Y213LS1kckNrbk1OMlFDX1RhdHBIV0R1RTJtenVvZl9vU1ZOVjhKRXBIY2doaUNueVRNMnJTeUZBUWZfZWJtS3hSM0ZHRmJiaG9DWHBUWUF5V2hkUlFaUlhTeVBCSkc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-06-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Kirchhoff Consult and DSW publish 2026 forecast report study: Number of transparent forecast reports in the DAX 40 rises - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQVFhUdlp6VjFLVm5VQ2NpSXZ4eGtSNkF1ZDV1ZllBNm9fLWlGWHotZGJ0a3hhQWJ1aldvQXZRRi1NX2hjck04a0JsckxmcU1yR3AzSlhoemRxUnZ3aHl2M0g3QjFQTWZxVFc0S2dPVG5XT3llRER1bkVjb01fYlJqN1hPTDVyR0RlOU5XQXlSUDFIRENNV1lXUVV0Skh2U0xQbVg4LS1oRmJrWktzU2VHTmJpX1FzeEJTcTQ2OWNSSm9KV2tnb2VsQm1BVnhmRnI3YVNIdG1YSGl1LWhsSkFRM05sUG15QjdDTC11THlEN2s4aHc1QnNIUnVyTGppenB1UmU4?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "softbank-2026-06-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SoftBank Corp. Unsponsored ADR Actuals & Estimates (OTC:SOBKY) - TradingView",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcWk5Y3VZT2YyY3RKS1g4eV9VRm8wNEZBTTZJZUVueVJxNXJmck1HZFEyVmt6TWRsX1NmRUFWTTMyc0NHb09STF9jVXZhOWJmQWtCTmR4WFdPbEI4b2NSdTBGVVNIQXBINnZXWHFQRVdjWTVNTWpwR0E5c2tqNVA5dTdfSDlzZDhkdUU2ZW1tR2VMYWR0SUpqSHQwM3AzZ1dfdWc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "american_tower-2026-06-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "American Tower (AMT) Draws Fresh 5G Attention, Is The Stock Undervalued? - simplywall.st",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU2FMSk5HbnplNUR1MnFqOTRXVFJYUlZmVWxuMlNxOGw3QXJ6TzQ0RWpvLS1VMFhmdTR0OF9YTUdZRG9sUXVlYk1pMDdPS3ZqX1oxTEY2RlpWcy1uenE3WmU3QTJpbklKZzdkMVJYc2pMWkZIRTZxaGlRUFI4OUVERExUdVlLX1NWYXlRVEVqT1NrUDFBRVliWTQzVlZLYk9rWXBUUVhvWEVFRjNjU1hvN21rVWhzLUlJVGhxeFhiNXp4eFZ5c1lIaFVXTzcwZGREY0Nj0gHTAUFVX3lxTE5TYUxKTkduemU1RHUycWo5NFdUUlhSVmZVbG4yU3E4bDdBcnpPNDRFam8tLVUwWGZ1NHQ4X1hNR1lEb2xRdWViTWkwN09LdmpfWjFMRjZGWlZzLW56cTdaZTdBMmluSUpnN2QxUlhzakxaRkhFNnFoaVFQUjg5RURETFR1WUtfU1ZheVFURWpPU2tQMUFFWWJZNDNWVktiT2tZcFRRWG9YRUVGM2NTWG83bWtVaHMtSUlUaHF4WGI1enh4VnlzWUhoVVdPNzBkZERjQ2M?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 14,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "american_tower",
+        "count": 2
+      },
+      {
+        "id": "sba_comm",
+        "count": 2
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      },
+      {
+        "id": "softbank",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 307,
+    "dup_title": 170,
+    "too_old": 81,
+    "gate1_blocked": 8,
+    "gate2_blocked": 7,
+    "passed": 41,
+    "pass_rate": "29.9%",
+    "gate2_block_rate": "5.1%",
+    "gate2_samples": [
+      "Commscope Holding Ord Shs (VISN) Technical Analysis: Support, Resistance, Indicators & Moving Averag",
+      "Over 70 Telekom volunteers in action at the Special Olympics Saarland - Deutsche Telekom",
+      "Goldman Sachs Assumes SBA Communications (SBAC) at Neutral - StreetInsider",
+      "Price to sales forward of SBA Communications Corp. Class A – MUN:4SB - TradingView",
+      "Equinix opens HK6 with direct link to Hong Kong-Shenzhen innovation hub - Light Reading"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為AMT、SBA、德國電信相關動態：「RBC Capital upgrades American Tower stock rating on growt...」。主要關注主題為產業通用、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "RBC Capital upgrades American Tower stock rating on growth outlook - Investin...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "OTE raises EUR 100 million in bond issue subscribed by Deutsche Telekom - Tel...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

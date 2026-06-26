@@ -1,0 +1,16 @@
+{
+  "total_raw": 307,
+  "dup_title": 170,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 8,
+  "gate2_fail": 7,
+  "passed": 41,
+  "gate2_samples": [
+    "Commscope Holding Ord Shs (VISN) Technical Analysis: Support, Resistance, Indicators & Moving Averag",
+    "Over 70 Telekom volunteers in action at the Special Olympics Saarland - Deutsche Telekom",
+    "Goldman Sachs Assumes SBA Communications (SBAC) at Neutral - StreetInsider",
+    "Price to sales forward of SBA Communications Corp. Class A – MUN:4SB - TradingView",
+    "Equinix opens HK6 with direct link to Hong Kong-Shenzhen innovation hub - Light Reading"
+  ]
+}
