@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T10:46:38.435285Z",
+  "updated_at": "2026-06-27T09:59:32.013305Z",
   "quarter": "2025-12-31, 2026-03-31, 2026-04-30",
   "companies": [
     {
@@ -24,17 +24,17 @@
       "name": "AT&T",
       "ticker": "T",
       "currency": "USD",
-      "ar": 8843000000,
-      "ar_prev": 8936000000,
-      "ar_qoq": "-1%",
+      "ar": 8335000000,
+      "ar_prev": 8843000000,
+      "ar_qoq": "-6%",
       "ar_period": "QoQ",
-      "inventory": 2420000000,
-      "inv_prev": 2886000000,
-      "inv_qoq": "-16%",
+      "inventory": 2451000000,
+      "inv_prev": 2420000000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2025-12-31"
+      "quarter_date": "2026-03-31"
     },
     {
       "id": "calix",
