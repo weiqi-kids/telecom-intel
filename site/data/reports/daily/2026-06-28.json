@@ -1,0 +1,154 @@
+{
+  "date": "2026-06-28",
+  "generated_at": "2026-06-28T10:24:01.970767Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ciena-2026-06-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Maridea Wealth Management LLC Acquires New Stake in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNi1tSk5ObW5BZVdNUzR4NjlXcHczcm1RaE4wb3Vpa3RnZmlGam5tSTRfR3RlU2lvQTRKX1lMU3VzRzlDZ0tOVERkVTdrMUt4RkdvNllXZFJsdEtWWjNFcmVRWjFpakJsajVPek1XM3hzY1h4R2JSb3V3aUJtdVd6YWhEdF9JQmlJWjBYamo0dk9sZ0NWRUhOenllNS14eHkwd2VRMDExcmJETU0xV1NIWXY2VVM1djh3TGZlS2ZweGZNdXJPQmZrOUxRRkFiQzdr?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ciena-2026-06-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Kestra Private Wealth Services LLC Buys 2,082 Shares of Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNV1AtYnRiVFhsWGN6cjgzN2FHNml4Y19oODJlYVdQVEllUUZ2aWtCUi1BTW52T0NHUjNhdVNBSGo3TkIwdXRGYjBBaDFGdmtPMGVfbVpzVUdia0U1bXJUWnFiYm5QTXZQTU1OWU5hQWs5cXp0VDQ0OVVvUnZEYWhwVU1sQThQQWdFMjRRTW1kNmxiWld5MkRRMUk1QlNKajRFaV8yZkZzMDR6YzQ3WWNicXo4bzVvSUVDNGR3aVIyZkNRalg3cDBsRERydEtzNnFsb29vVQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ciena-2026-06-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Union Bancaire Privee UBP SA Makes New $5.67 Million Investment in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWGJDVFNDYkZwWDFBNjlMNjN1dVRTN09wRERhREI2RjF4N2JEUTlWNVBZMGVMbFVuVll0clBKSWtaSXRpS05fMFFtOWZLQmpzVTVmLW5XeFlremVadFduMktsNi1OMHpyOTJFa2VSZTh3WVZOM3JtSi1xSWlhRDlacUhVX0FXNV83Vlp0UWZDRk5GOW0ybEVXbkZXQ2VvcFRDWlpxR3d0R0xSc0pQd3ZUV2hmcGJoMmlVRTVlUmhfcVBsNWx0ekU4SGVuYTN1QzFiNTBfZ0VkYjlxNVhORGVMX1Bn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-06-28-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "NOS strategy in Portuguese telecom, shares on Euronext Lisbon radar - Ad-hoc-news.de",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYzNlOVVpbTlPWlViRllKNGhJMkNkWkJETnRGczBFUUlaWlBfallGbU9QazhZa2hhcEdBeVNsbWFCMDRLZGJoNUowUm56ZGh0eVoyUWZQZmxQcy1KazRqSDZ5QVlfOGxPTVRoTS13Skc5MlVLSDhUZGJPeG1Ic1ByaEZSempoaWVDQzM1bmFrNjBUZVdiYXlWQmdhVThYdGlTLURWMzF1Mk5ja3c3YS1FN0ppRWNyVXotaURMWmlrRFFBRVk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 307,
+    "dup_title": 189,
+    "too_old": 84,
+    "gate1_blocked": 5,
+    "gate2_blocked": 5,
+    "passed": 24,
+    "pass_rate": "20.3%",
+    "gate2_block_rate": "4.2%",
+    "gate2_samples": [
+      "Nokia Corporation (NYSE:NOK) Given Average Recommendation of \"Moderate Buy\" by Brokerages - MarketBe",
+      "Ciena Corporation Actuals & Estimates (BMV:CIEN) - TradingView",
+      "Hrvatski Telekom to borrow 100 mln euro from Deutsche Telekom - SeeNews",
+      "Eurobites: Nokia conscripted to Finland's counter-drone force",
+      "Comarch User Group 2026: Navigating the 2% Growth Trap with Agentic AI and Composable Architecture"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Ciena相關動態：「Maridea Wealth Management LLC Acquires New Stake in Ciena...」。主要關注主題為產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Maridea Wealth Management LLC Acquires New Stake in Ciena Corporation $CIEN -...",
+        "level": "green"
+      },
+      {
+        "text": "Kestra Private Wealth Services LLC Buys 2,082 Shares of Ciena Corporation $CI...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

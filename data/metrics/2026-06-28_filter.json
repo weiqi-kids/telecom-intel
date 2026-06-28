@@ -1,0 +1,16 @@
+{
+  "total_raw": 307,
+  "dup_title": 189,
+  "no_date": 0,
+  "too_old": 84,
+  "gate1_fail": 5,
+  "gate2_fail": 5,
+  "passed": 24,
+  "gate2_samples": [
+    "Nokia Corporation (NYSE:NOK) Given Average Recommendation of \"Moderate Buy\" by Brokerages - MarketBe",
+    "Ciena Corporation Actuals & Estimates (BMV:CIEN) - TradingView",
+    "Hrvatski Telekom to borrow 100 mln euro from Deutsche Telekom - SeeNews",
+    "Eurobites: Nokia conscripted to Finland's counter-drone force",
+    "Comarch User Group 2026: Navigating the 2% Growth Trap with Agentic AI and Composable Architecture"
+  ]
+}
