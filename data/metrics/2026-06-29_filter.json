@@ -1,0 +1,16 @@
+{
+  "total_raw": 312,
+  "dup_title": 175,
+  "no_date": 0,
+  "too_old": 96,
+  "gate1_fail": 6,
+  "gate2_fail": 7,
+  "passed": 28,
+  "gate2_samples": [
+    "Ciena Corporation(NYSE: CIEN) dropped from Russell 1000 Value Benchmark - marketscreener.com",
+    "Ciena Corporation(NYSE: CIEN) added to Russell 3000E Growth Benchmark - marketscreener.com",
+    "Ciena Corporation(NYSE: CIEN) added to Russell 1000 Growth Benchmark - marketscreener.com",
+    "OP Asset Management Ltd Invests $9.56 Million in Ciena Corporation $CIEN - MarketBeat",
+    "Hrvatski Telekom to borrow 100 mln euro from Deutsche Telekom - SeeNews"
+  ]
+}
