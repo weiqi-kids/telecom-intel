@@ -1,0 +1,209 @@
+{
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T10:51:51.859518Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-06-30-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "InterDigital CEO wooed China – now he's eyeing 6G gains",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/6g/interdigital-ceo-wooed-china-now-he-s-eyeing-6g-gains"
+    },
+    {
+      "rank": 2,
+      "event_id": "ciena-2026-06-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Corporation $CIEN Shares Sold by Sterling Capital Management LLC - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcVl5ampYR2daRWNQdUxjZEU0MXVyX2lYMVlRcmdOLVhjTjZ2SF9VVHNIS2JaWEg1YVEzTF8yWXc0TVVvX3dKR0VtZXhUT1llUUF0NVBxcUwtWWlFSlJTbUcxdlc5amU3RVpOX0ZqeFhkR1U3S1EwU0NuOEV6MzhqMFlIWkNYUW9sNWRhM3c3M1JneFo0M2c4M0lQVE9jbmZEdVMtQnRGZEFoeGM2TnAxSThDaDJhQm16dWI1RHZYel9aN1lwNDBITnZ3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ciena-2026-06-30-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Broad Peak Investment Advisers Pte Ltd Purchases New Shares in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRzNsZGk2dzZuVHBYV0tOaTVYYWZqR1dSeEN6T1Y5YXlQaExtQWVPQkJyMTNaaGhqNTA0a21lU2x6RzlaZHBqZHNpX3lsX3lGTW9KWVllT19ZckRoSE1KLXlLQnY4bFgxcUo2Y2JjWHFQQXdCNUxGMFhFZ1ZWMUw1dUo1YlVPaW9MV1FjYTdTcTlSa3hqZDBFOXAzQTJBY0VXYkItaGVWeUFLemlhclZjei1aek9Uby1KUVFfVG0yaWM3N0NTUXpyOEJsSWNvbUlNRkJrc2k4VzZrbEpXRTBz?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "tmobile-2026-06-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Telekom Hits 2024 Low Like T-Mobile US, UBS Cites Reasons - marketscreener.com",
+      "companies": [
+        "tmobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVHZqMGg1eDQ0bUQtbU1jOThiRmZBYTRib1dhcXhaUDZZWVNpVFE4RTZOOUVINmNMUGhhbFJkNWIwZXlxZlNaR20tRnR2c19oclVkTW9vblJkY0VGV2lrMG9Jb2lUa09vblpkQllXUXZXNkNFdVFuYXQzTGRnY2pKLVdOQzN2QzJnUzUyVV9tclBPeDJuS010TmhaeUVGQUlRRUVRSFFzaDdjeVVFN0E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "american_tower-2026-06-30-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Goldman Highlights American Tower (AMT) Diversification and Data Center Exposure - Insider Monkey",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRmpqbnk0cUdLZ3NKZ2thOEVXYV9NdU9CbzduWVl4UDk0RlR6ZFFnTmoyY1QwVklDMndyNzdlUG0yZ3dKb0g3d3NNSjFSVGpDOEt0R3RaaC1Qd2VTUkd3VG5rQnFrdDNYR2VNTFhRTTQ5VENjclBBMjQtNXl2ZzlXSEdCWGZGZmdyYVRYS0IwTnFuUmQtX2VSV3pZUW5tRVhJMnhkSUFZOGJ6NHhjOGY3XzBPcVkyaVkxdkRjaUJRWdIBxwFBVV95cUxOcXpScHlJaTJjNGN5Q3Uyb29BdFViMjdFZ1pBdTBwS245cFNpZDNZWmlpVjJqSWE3N1NJeEVsQXRFT05USGF2LTBhYS1MQWVQS0dLMHQ5VTBSOWozbXEzTGVFcVFkR3dVRlE3M2phcVpKWHVVTm1WbWhSOTZKTng2bVJwWXk0ZkVxZGNsREZlaG5DRVZSWU9IQjBROG10TUJSUU5yOEx4Rmc4RkJzbWFQVzI4VXBwQTNadGRPdFpSTzdVUGdKRTAw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 2
+      },
+      {
+        "id": "tmobile",
+        "count": 1
+      },
+      {
+        "id": "american_tower",
+        "count": 1
+      },
+      {
+        "id": "equinix",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 310,
+    "dup_title": 162,
+    "too_old": 96,
+    "gate1_blocked": 6,
+    "gate2_blocked": 10,
+    "passed": 36,
+    "pass_rate": "24.3%",
+    "gate2_block_rate": "6.8%",
+    "gate2_samples": [
+      "Nokia Corporation (NYSE:NOK) Given Average Recommendation of \"Moderate Buy\" by Brokerages - MarketBe",
+      "Ciena Corporation(NYSE: CIEN) dropped from Russell Midcap Value Benchmark - marketscreener.com",
+      "Ciena Corporation(NYSE: CIEN) added to Russell 3000E Growth Benchmark - marketscreener.com",
+      "Ciena Corporation(NYSE: CIEN) added to Russell 1000 Growth Benchmark - marketscreener.com",
+      "OP Asset Management Ltd Invests $9.56 Million in Ciena Corporation $CIEN - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Ciena、T-Mobile、AMT相關動態：「InterDigital CEO wooed China – now he's eyeing 6G gains」。主要關注主題為產業通用、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "InterDigital CEO wooed China – now he's eyeing 6G gains（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Ciena Corporation $CIEN Shares Sold by Sterling Capital Management LLC - Mark...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
