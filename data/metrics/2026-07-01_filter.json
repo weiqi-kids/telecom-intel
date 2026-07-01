@@ -1,0 +1,16 @@
+{
+  "total_raw": 309,
+  "dup_title": 159,
+  "no_date": 0,
+  "too_old": 80,
+  "gate1_fail": 8,
+  "gate2_fail": 13,
+  "passed": 49,
+  "gate2_samples": [
+    "Nokia voting rights held by FMR LLC fall below 5% threshold - Investing.com",
+    "Notification under Chapter 9, Section 10 of the Finnish Securities Market Act: voting rights of FMR ",
+    "Ciena Corporation(NYSE: CIEN) dropped from Russell 1000 Value Benchmark - marketscreener.com",
+    "Ciena Corporation(NYSE: CIEN) dropped from Russell Midcap Value Benchmark - marketscreener.com",
+    "Ciena Corporation(NYSE: CIEN) added to Russell Top 200 Growth Benchmark - marketscreener.com"
+  ]
+}
