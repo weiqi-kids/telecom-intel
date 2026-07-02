@@ -1,0 +1,16 @@
+{
+  "total_raw": 309,
+  "dup_title": 167,
+  "no_date": 0,
+  "too_old": 83,
+  "gate1_fail": 8,
+  "gate2_fail": 10,
+  "passed": 41,
+  "gate2_samples": [
+    "Nokia Rises 105.2% Year to Date: Is There More Upside Ahead? - The Globe and Mail",
+    "Nokia voting rights held by FMR LLC fall below 5% threshold - Investing.com",
+    "Notification under Chapter 9, Section 10 of the Finnish Securities Market Act: voting rights of FMR ",
+    "Ciena Corporation(NYSE: CIEN) dropped from Russell 1000 Value Benchmark - marketscreener.com",
+    "Form 144 CIENA CORPORATION For: 1 July By Investing.com - Investing.com Canada"
+  ]
+}

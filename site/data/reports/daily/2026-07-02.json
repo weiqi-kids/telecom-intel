@@ -1,0 +1,201 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T10:32:34.834751Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nokia-2026-07-02-013",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "US Defense Dept backs 6G rival to tech used by Ericsson and Nokia",
+      "companies": [
+        "nokia",
+        "ericsson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/6g/us-defense-dept-backs-6g-rival-to-tech-used-by-ericsson-and-nokia"
+    },
+    {
+      "rank": 2,
+      "event_id": "ciena-2026-07-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Corporation $CIEN Shares Acquired by Pictet Asset Management Holding SA - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcGIzOEF1VXppOUJweWR4QTRjQVU5UXFqZGlwVEgwaDhxUGZ4LXRlQlp6elA4Wl9FdjY0UE1Bb295aFlBckdabWt2QjQzVTkzUGEwSHc4TXVVdUVKVW5ZV2E5bEdocU51LTRmNGlja0tQUXgtbUs2azl3dWh0Mnp4QjZtdUVzVUg2RUlqUFlWcWJjSXVkY2hLQUNaTU5UNGJ3OXpQWkxiQ1hzNFBuNlduLUpaSUExa0JtOTlEUGtKODR3enFkaGU1OUwyRVU0TmhWeWxZ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ciena-2026-07-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Corporation $CIEN Shares Sold by iA Global Asset Management Inc. - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUUYyaUQ0Z0hJbG5YNkFhRXBDdm1MQlpkNU8xMEpkMjhWaEdfZllNbXdhUDhGSVNfS3JBbUZOMkZsczBIZmVENjRWNVFsemxpYTFuNnFDQ1hpZ1ZJYVNsdkNSaXNRRlpkRElCZ3ZQQl83X08zcmFsOWd2eEtzcEZhdjE5ZW9CS3I0QS0tMGo4OFc3RF8zRmw5UkVEM0pHaDZYNWhIM1VKR2dITVcwbjZaUnpuUFNFb3NMLUlWaFprcDBKaTZQY0ZGeA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "deutsche_telekom-2026-07-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Barclays cuts target for Deutsche Telekom, keeps 'Overweight' - marketscreener.com",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaU1PTnNtQ1R4OTJkY2hhbUFnRjNWRVFBQzBSemVESHpRQVdNWXBZaUlqX0JmNDQ3UWNrWXZpWFFQWk9sUHdub1JzRmNnakp0N09rQTY5UjhhQkw5WW85SlFVUWtuemJuMXVNWGFpclVGNEZiV05CMlFtMVRvQVlWMElwaVJ0amFlX1dteHpQaW1HUmZqa1NVRXZYSXN5bnZLVWJoeC1KLTkwQ2dWVUtQNg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "deutsche_telekom-2026-07-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "DEUTSCHE TELEKOM AG : Buy rating from Barclays - marketscreener.com",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbFdWWlcxQzh4RDBpVmVTYzUyTlVRamcyUnhSWUxta0JobUFPd0oxZXVpOFcwOF9HRnBteDVKNkloaGpGQW0zVHEtd0FsMWI3N0dZTDk2dEVFT2hubUZabF9WeFFJRGFjeS1JVkpmZUpES3JnLUxIWm0zNEhxd3EycFRfWWp1ak1ZNS1mWGtQUkNBTVBrbVFQdTZGS3dnUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 20,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 20,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "softbank",
+        "count": 6
+      },
+      {
+        "id": "ciena",
+        "count": 2
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 2
+      },
+      {
+        "id": "american_tower",
+        "count": 2
+      },
+      {
+        "id": "nokia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 309,
+    "dup_title": 167,
+    "too_old": 83,
+    "gate1_blocked": 8,
+    "gate2_blocked": 10,
+    "passed": 41,
+    "pass_rate": "28.9%",
+    "gate2_block_rate": "7.0%",
+    "gate2_samples": [
+      "Nokia Rises 105.2% Year to Date: Is There More Upside Ahead? - The Globe and Mail",
+      "Nokia voting rights held by FMR LLC fall below 5% threshold - Investing.com",
+      "Notification under Chapter 9, Section 10 of the Finnish Securities Market Act: voting rights of FMR ",
+      "Ciena Corporation(NYSE: CIEN) dropped from Russell 1000 Value Benchmark - marketscreener.com",
+      "Form 144 CIENA CORPORATION For: 1 July By Investing.com - Investing.com Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 20 則事件，焦點為軟銀、Ciena、德國電信相關動態：「US Defense Dept backs 6G rival to tech used by Ericsson a...」。主要關注主題為產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "US Defense Dept backs 6G rival to tech used by Ericsson and Nokia（產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Ciena Corporation $CIEN Shares Acquired by Pictet Asset Management Holding SA...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
