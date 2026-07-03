@@ -1,0 +1,16 @@
+{
+  "total_raw": 310,
+  "dup_title": 171,
+  "no_date": 0,
+  "too_old": 80,
+  "gate1_fail": 6,
+  "gate2_fail": 9,
+  "passed": 44,
+  "gate2_samples": [
+    "Nokia voting rights held by FMR LLC fall below 5% threshold - Investing.com",
+    "Notification under Chapter 9, Section 10 of the Finnish Securities Market Act: voting rights of FMR ",
+    "Ciena Corporation(NYSE: CIEN) dropped from Russell 1000 Value Benchmark - marketscreener.com",
+    "Ciena Corporation(NYSE: CIEN) dropped from Russell Midcap Value Benchmark - marketscreener.com",
+    "Deutsche Telekom AG: A medium term support level to take advantage of - marketscreener.com"
+  ]
+}
