@@ -1,0 +1,215 @@
+{
+  "date": "2026-07-04",
+  "generated_at": "2026-07-04T10:03:30.780496Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "deutsche_telekom-2026-07-04-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Deutsche Telekom's Strong EBITDA and New Cyber Platform Fail to Lift Stock from 52-Week Low - Ad-hoc-news.de",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOUtyQkQ3ZHRmb05BMUVnWkN4bU5MaHdyUFlsZDJlM1Z6NC11Yy1ick93dzlrMzh5Y3U5SFhyVUFULTlkQ2RsMEl4N2pxZEUxejhvSWI3N0gwekh5N0VEX0J6d19QU2xBMFdYSVFZQmxFX3J4UGxDM19CeVJ4dTR2WVpNSDJkMUctZ3Vlb0VhQm52SzRWTUVsOHB1cEp2RWxTbndYdElUZFl1SVlhNGlBdmZDeDdoYnB0clU0RlljdGJGcEZxSHVtcWpCT0x6QQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nokia-2026-07-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "If You Invested $1,000 in Nokia (NOK) - Stock Titan",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80T1lEOW1JY3ZUVWRNck9rOTJ3X1VQWHdXb0ZPTDkzd2NJbHhtY2FoVVk4VjA5V0MzMUZiQi1TTU1SVGFTTnBSeC1EaTB0bnRjZFJaRGJ3XzBReWJ1SkxkQUxmdENIM1pnUXlGVQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ciena-2026-07-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "IRON Financial LLC Acquires New Position in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUUdBNC12cExZXzNGMjNUeGFiYi1kNjg1aXprcjJyVkZwYnZLcUE5QV9zckcwNUVlT296ekR5dXNVTWpuMEhJTGF4ZlFvMG5JZGJrX3cxaW1vSG1nbElxMUkwVGFJTERZMXdsQ1E5ajRETURWNTNkdXExYXN1R1ZGOFJVUUUzYWt4RVJocDdNZUwwS3ZNZDRERDZ1b0M2Wmkwb3hRMkVvcXoxdWluaGVidzFFa0V5TE01c0U5VkVYdnB1UUlnN0E?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ciena-2026-07-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lansforsakringar Fondforvaltning AB publ Acquires New Position in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVGVvRmxiMi1HLUpmakN0UHpSQVdrS2xyQWFhRHFfVmJwQWtVbFRvRFkzN01nT3h5aUxPdGhQZldNUy1uMU1FV3JONzhkdWVOTV9CZzVBcFVOSWQ2a2ZsaHJfamtCUHZVQnA3MF9JNVBjQUZyNXM2NmZWRjA0eDdJcUpMRXJXZWhzNXJIX21PdzcySWdpZ25CR0R5QmlXMXNVdXBDM3NTbmhSeVN0amFZSTROSTNVNGFYQWdmTVozVUFLV2taNFpkWjRwSV9GcFFqNFlRYkdBQW5fTlFoWTBGVWlDWQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ciena-2026-07-04-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "New York State Teachers Retirement System Has $48.43 Million Position in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNbjRhMHJSVlRHU2cwZXB1OW1rNVNvT0cwQ1dUU1pvcDZGdE9MOXZmWlN5NkYxXzJ0ZTJNN09ueVZuQVZlOHJMWThLb2FNamJtMklhZ2YxclV2RmJJWmRpLUE3UUFjcmpNQk9rZnNsSl8wZW9hN1diZTNhSEk1dGZteUE0MlNoeFIzbjNzR1ZDQnc5MjF6eGtfR1AzRGREcUdYZHR6LXNrRFpyQUczeWo0aGZjcEtWaGRIcTkxbHE2WmFKOEg3SzRjZ0lyQzNfNndPUVpNMDZodlp1X2tqUzh6Tzd4Njd4Tk5BRHc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 4
+      },
+      {
+        "id": "american_tower",
+        "count": 3
+      },
+      {
+        "id": "nokia",
+        "count": 1
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      },
+      {
+        "id": "softbank",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 308,
+    "dup_title": 172,
+    "too_old": 77,
+    "gate1_blocked": 5,
+    "gate2_blocked": 14,
+    "passed": 40,
+    "pass_rate": "29.4%",
+    "gate2_block_rate": "10.3%",
+    "gate2_samples": [
+      "Notification under Chapter 9, Section 10 of the Finnish Securities Market Act: voting rights of FMR ",
+      "Nokia voting rights held by FMR LLC fall below 5% threshold - Investing.com",
+      "Nokia Rises 105.2% Year to Date: Is There More Upside Ahead? - The Globe and Mail",
+      "CommScope Holding Co faces thin data backdrop - Ad-hoc-news.de",
+      "Ciena Corporation(NYSE: CIEN) dropped from Russell Midcap Value Benchmark - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為Ciena、AMT、諾基亞相關動態：「Deutsche Telekom's Strong EBITDA and New Cyber Platform F...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Deutsche Telekom's Strong EBITDA and New Cyber Platform Fail to Lift Stock fr...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "If You Invested $1,000 in Nokia (NOK) - Stock Titan（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

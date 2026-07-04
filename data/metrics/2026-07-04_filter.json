@@ -1,0 +1,16 @@
+{
+  "total_raw": 308,
+  "dup_title": 172,
+  "no_date": 0,
+  "too_old": 77,
+  "gate1_fail": 5,
+  "gate2_fail": 14,
+  "passed": 40,
+  "gate2_samples": [
+    "Notification under Chapter 9, Section 10 of the Finnish Securities Market Act: voting rights of FMR ",
+    "Nokia voting rights held by FMR LLC fall below 5% threshold - Investing.com",
+    "Nokia Rises 105.2% Year to Date: Is There More Upside Ahead? - The Globe and Mail",
+    "CommScope Holding Co faces thin data backdrop - Ad-hoc-news.de",
+    "Ciena Corporation(NYSE: CIEN) dropped from Russell Midcap Value Benchmark - marketscreener.com"
+  ]
+}
