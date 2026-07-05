@@ -1,0 +1,207 @@
+{
+  "date": "2026-07-05",
+  "generated_at": "2026-07-05T10:06:26.010160Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ciena-2026-07-05-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Price to earnings forward of Ciena Corporation – NYSE:CIEN - TradingView",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRTJwRVlCelNxS0RmbW1QT2h5ZmVZTWN5aVFTaXFhSDJGbnI0SHRpeUxVR09KZHlYczZNdU1pOTcxLWQwTmg5d3RHc0MxNUVST19kY2w1amVteWotUjdWckJ3eERMUUhibHNreHk3Tzk0UnN3NGRhRHQ2Y3JSZ08zUjVvS2NvQnFXbXR4cTg0STVySUZ1alJIOTFvamtRTlU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ciena-2026-07-05-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Janney Montgomery Scott LLC Acquires 5,048 Shares of Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNko5elMtVy1ic1VTS2pFMW5jejdYcmRHU2FFd0U2cVlHYlYxejAxQk5nN2Z4S1hZaTV3QllLbC1YOVVrQVJSNlg5VTdUejBFN0lSSTlTazgwcWY2T1E2eVd4amRMaEZPUTRfZDdwa1BXR0VSQ1VhdElXeXpGVmlMNG5Ja0FWemxCOXdwZzNzNXotcFctR29hU1AxX2h5MkF5R0dJUXktcEpNRW1aVV9ZeFFRbmhEQjNnR3dMUklsYkhRc3BKTERRWl85d0NISHZ3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-05-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "10 Best Pick and Shovel AI Stocks to Invest In - Insider Monkey",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNWU5YUZDTnJLY3VwZ2t5eGV3TWJCbU1BWUgza053bTBldW5kNGVOZ3MxcllGVUNvWUFqRnAwLXRIVHNvWjc5Qkg4bVNCdkNZaUJWdTdUMmd1WkgzX01kME50WUFIYjhnQnZrelR6anFiNFBKQ0Nqdzd3cktNMEN1SWktUVlQUTVhb2xCdXo0UmlTWHRBWXZn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "softbank-2026-07-05-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SoftBank Launches SB Neo as CoreWeave Slides 48%: Energy Is the New Moat - Tech Times",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNci16Qkt0Sm5jdHVlQlFveldxLXNoYzBfQm1HbDQwdU1BcjZUTVctREhXdmZMZnZMYVpNem5BUHhLTTV6eVJXZlcwTkZVS1Naam1BaXlRcG5pLWV1U25VVVVEVHBmVlE1bEpvaE9Ka3VNRk9YYjd1ZDQxejFvYk9oWE90aEFMZkE0Wno4bng5T2V1ZnlvT0ZvdC1vLS1QamZxYjJnUHpma05MRFctMWpqS3VGNFNEQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "sba_comm-2026-07-05-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "The SBA Communications Wireless Infrastructure Services - Classic backbone for US mobile networks - AD HOC NEWS",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOUZUS0c5bXlvV1JKX0pVMkZzZDBSUTlBcmY2S29vdWpTRHFtVDN0WkY2RVB5ZkhkSWMtWXJSR0wyMzVlLUtiQUItZ0ZVWHpzVkgyRnZQZGUySEpoY2x3UjBIRHkxMlRkMG9XSTNpQTR3bG5tT1dlS1ZOZ2xfb1VJSUc2RDM5ZTdycjlvcXBEUHlfbWluXzBzSkltMkEwcWQ1NTdLMkZfLXRqSnJ6V0FCTjhjRlptVEFXVGR1a2xnYWZnLWpPdTRfeDJnYw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 2
+      },
+      {
+        "id": "equinix",
+        "count": 2
+      },
+      {
+        "id": "softbank",
+        "count": 1
+      },
+      {
+        "id": "sba_comm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 309,
+    "dup_title": 188,
+    "too_old": 83,
+    "gate1_blocked": 5,
+    "gate2_blocked": 12,
+    "passed": 21,
+    "pass_rate": "17.4%",
+    "gate2_block_rate": "9.9%",
+    "gate2_samples": [
+      "Notification under Chapter 9, Section 10 of the Finnish Securities Market Act: voting rights of FMR ",
+      "Nokia voting rights held by FMR LLC fall below 5% threshold - Investing.com",
+      "Nokia Rises 105.2% Year to Date: Is There More Upside Ahead? - The Globe and Mail",
+      "CommScope Holding Co faces thin data backdrop - AD HOC NEWS",
+      "Ciena Corporation(NYSE: CIEN) dropped from Russell Midcap Value Benchmark - marketscreener.com"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為Ciena、Equinix、軟銀相關動態：「Price to earnings forward of Ciena Corporation – NYSE:CIE...」。主要關注主題為產業通用、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Price to earnings forward of Ciena Corporation – NYSE:CIEN - TradingView（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Janney Montgomery Scott LLC Acquires 5,048 Shares of Ciena Corporation $CIEN ...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

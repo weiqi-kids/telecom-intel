@@ -1,28 +1,28 @@
 {
   "ericsson": {
-    "earliest": "2004-03-23",
+    "earliest": "2003-12-24",
     "latest": "2026-07-02",
-    "count": 5605
+    "count": 5665
   },
   "nokia": {
-    "earliest": "2004-03-23",
+    "earliest": "2003-12-24",
     "latest": "2026-07-02",
-    "count": 5605
+    "count": 5665
   },
   "zte": {
-    "earliest": "2004-04-06",
+    "earliest": "2004-01-07",
     "latest": "2026-07-03",
-    "count": 5433
+    "count": 5497
   },
   "ceragon": {
-    "earliest": "2004-03-23",
+    "earliest": "2003-12-24",
     "latest": "2026-07-02",
-    "count": 5605
+    "count": 5665
   },
   "ciena": {
-    "earliest": "2004-03-23",
+    "earliest": "2003-12-24",
     "latest": "2026-07-02",
-    "count": 5605
+    "count": 5665
   },
   "calix": {
     "earliest": "2010-03-24",
@@ -31,14 +31,14 @@
     "history_complete": true
   },
   "att": {
-    "earliest": "2004-03-23",
+    "earliest": "2003-12-24",
     "latest": "2026-07-02",
-    "count": 5605
+    "count": 5665
   },
   "verizon": {
-    "earliest": "2004-03-23",
+    "earliest": "2003-12-24",
     "latest": "2026-07-02",
-    "count": 5605
+    "count": 5665
   },
   "tmobile": {
     "earliest": "2007-04-19",
@@ -47,14 +47,14 @@
     "history_complete": true
   },
   "chunghwa": {
-    "earliest": "2004-04-06",
+    "earliest": "2004-01-07",
     "latest": "2026-07-03",
-    "count": 5478
+    "count": 5542
   },
   "taiwan_mobile": {
-    "earliest": "2004-04-06",
+    "earliest": "2004-01-07",
     "latest": "2026-07-03",
-    "count": 5478
+    "count": 5542
   },
   "fareastone": {
     "earliest": "2005-08-24",
@@ -63,9 +63,9 @@
     "history_complete": true
   },
   "deutsche_telekom": {
-    "earliest": "2004-03-19",
+    "earliest": "2003-12-22",
     "latest": "2026-07-03",
-    "count": 5673
+    "count": 5737
   },
   "softbank": {
     "earliest": "2018-12-19",
@@ -74,34 +74,34 @@
     "history_complete": true
   },
   "american_tower": {
-    "earliest": "2004-03-23",
+    "earliest": "2003-12-24",
     "latest": "2026-07-02",
-    "count": 5605
+    "count": 5665
   },
   "crown_castle": {
-    "earliest": "2004-03-23",
+    "earliest": "2003-12-24",
     "latest": "2026-07-02",
-    "count": 5605
+    "count": 5665
   },
   "sba_comm": {
-    "earliest": "2004-03-23",
+    "earliest": "2003-12-24",
     "latest": "2026-07-02",
-    "count": 5605
+    "count": 5665
   },
   "equinix": {
-    "earliest": "2004-03-23",
+    "earliest": "2003-12-24",
     "latest": "2026-07-02",
-    "count": 5605
+    "count": 5665
   },
   "etf_iyz": {
-    "earliest": "2004-03-23",
+    "earliest": "2003-12-24",
     "latest": "2026-07-02",
-    "count": 5605
+    "count": 5665
   },
   "etf_fivg": {
     "earliest": "2019-03-04",
-    "latest": "2026-06-26",
-    "count": 1839,
+    "latest": "2026-07-02",
+    "count": 1843,
     "history_complete": true
   }
 }
