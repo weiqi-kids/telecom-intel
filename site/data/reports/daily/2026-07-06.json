@@ -1,0 +1,190 @@
+{
+  "date": "2026-07-06",
+  "generated_at": "2026-07-06T11:59:11.897928Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nokia-2026-07-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia Advances AI Network Push With Orange Belgium Contract - Benzinga",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNmdaVDdGZVFqbTNuVk9KV0tTRFhCdklCRlM5SXVZTUhZbnVOVXd0THZXQjlTb1E0dmtBYWM4dzJ3dDFjSkhWRENKclVCbjBHWkUxeWF5ZDhJcXVLUndpWko2alNXaHFVVFNfZ01yd3BsUzBjcE94UFZUNjhFR2ZlQnZoOXN3N3lxcmhCR1RSOG5BRnhwSGRaeDEyemh3a3Y1cGZVZ1BDYklvQjJxbVI2Ni1yV29NZ3F1dFNELQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ciena-2026-07-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena (CIEN) Names New Supply Chain and Product Technology Chiefs - Yahoo Finance",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT0pPek96UzZTRnZjdVN4T2QzUk1EZDBhZVFDVDZYYTdkMmZlemNKOEhFUjJ2c2tMYUlRU0tVM2gtMEJJMnZ2YzVoeGRTTTlFT1VwUHpoeU5kLVhSMTNDcVJ2S0kwNndyLVktWGFqTWpmWFRoNm00NE1PUFozVW1hdkFLUlo2eDJSQnhhRkdsWUlXdktL?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ciena-2026-07-06-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena: Backlog Becomes A Multi-Year Runway (NYSE:CIEN) - Seeking Alpha",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMEN3TlJyc2lGd2tPVTVIZGJHanNtcWl5ekxZcnZZeEctakdKcHZnOVY4Q2UzUHlPTjg3Nnd0RllIaDEzYTctbWRDMUhYeEI2TGQ1Y2pxd2Q4LTUtd2JIZzNsNlVxakpOeGRtR242ZG9IUXNoR0VLQnhrSEVSbHlGWFhiVG5LWXhYeVJQb3prb0o0Zw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "equinix-2026-07-06-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Barclays Raises its Price Target on Equinix (EQIX) - Yahoo Finance",
+      "companies": [
+        "equinix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONTVFRktEVnFYT2hyaXhmYndYSmdiQjZTelFfV1lQN2JlWGNWNU5uVVIya2NEN2ZzM3RGZDVhQjJTUlRDM3dVWGk1UU8teklQam85dWNDMFQ0dmwzMGdGQWFqSDJka3hvTEV4RXdLb1FnUXB0SjlQZWQ0d0hVLWJPTFF0V0hBN3BncnNVSHgtQzV5VkRVSWVab0VTRl9nSG1SVUdn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "equinix-2026-07-06-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Equinix Inc. builds out digital infrastructure. Data centers anchor the long-term story - AD HOC NEWS",
+      "companies": [
+        "equinix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOT05jTlNJS09TV0FWVzIyVWtzRTZpM25mVGpyWS1xWXJ6a0xpNzBacDBLNDRfaHhIdFFuOTAySUh2MVIyNEoxQ3JzZDBNT2EzRm5YclZwQ1VldnZrVW8tS2xPVF9TaVFHOVpuQU9UYjFud013SmktS2dhd0tJN01UNTJzR3RkM3hLQ19CUmk2RHZQdnZxR3BpM3dCOFNkSmdZcUk1cWtaOGc1emJhckRNZld4Y3p2N3lTejl0YnJ6ck5FNWZTU3gw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 2
+      },
+      {
+        "id": "equinix",
+        "count": 2
+      },
+      {
+        "id": "nokia",
+        "count": 1
+      },
+      {
+        "id": "ericsson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 309,
+    "dup_title": 181,
+    "too_old": 94,
+    "gate1_blocked": 3,
+    "gate2_blocked": 9,
+    "passed": 22,
+    "pass_rate": "17.2%",
+    "gate2_block_rate": "7.0%",
+    "gate2_samples": [
+      "Nokia voting rights held by FMR LLC fall below 5% threshold - Investing.com",
+      "Nokia Rises 105.2% Year to Date: Is There More Upside Ahead? - The Globe and Mail",
+      "CommScope Holding Co faces thin data backdrop - AD HOC NEWS",
+      "Circular economy: securing resources for the digital future - Deutsche Telekom",
+      "Vodafone Spain to Swap Vantage for Cellnex, AMT - Briefs Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為Ciena、Equinix、諾基亞相關動態：「Nokia Advances AI Network Push With Orange Belgium Contra...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nokia Advances AI Network Push With Orange Belgium Contract - Benzinga（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Ciena (CIEN) Names New Supply Chain and Product Technology Chiefs - Yahoo Fin...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
