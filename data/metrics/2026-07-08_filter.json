@@ -1,0 +1,16 @@
+{
+  "total_raw": 310,
+  "dup_title": 177,
+  "no_date": 0,
+  "too_old": 92,
+  "gate1_fail": 6,
+  "gate2_fail": 9,
+  "passed": 26,
+  "gate2_samples": [
+    "CommScope Holding Co faces thin data backdrop - AD HOC NEWS",
+    "Cvfg LLC Invests $5.36 Million in Ciena Corporation $CIEN - MarketBeat",
+    "Flatrock Wealth Partners LLC Invests $1.95 Million in Ciena Corporation $CIEN - MarketBeat",
+    "Ciena: Up 80% YTD And Still Cheap (NYSE:CIEN) - Seeking Alpha",
+    "Circular economy: securing resources for the digital future - Deutsche Telekom"
+  ]
+}

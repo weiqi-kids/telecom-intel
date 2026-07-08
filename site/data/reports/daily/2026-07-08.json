@@ -1,0 +1,206 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T10:11:04.749049Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "deutsche_telekom-2026-07-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom AG strengthens its network strategy as investors watch long-term growth - AD HOC NEWS",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZk5sUmtoZFNLVVgtUUo2S2N1OExFdTJ4ZGNUUFRzeXBCXy0wN3VEcHRlOEZJbVA5djQ2SHFtMTdxWm1XWXNyQU9wc1R4cFFKcndiNndfUXJmQ21xWWhPOVVIaFpvU3RyaVdWWElJMVV2T1FBQmg1VHZwOWNKVzdqZFFKSW1pQ0hRWWE1Z21fbUx0MTJ3R3FTQzdsX3Y0eVhleGhJMHI1SG00UFY0NDF2RWEyRl92M0czNmpjanl2TVkyYkR5NzFxM0dn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "american_tower-2026-07-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "QRG Capital Management Inc. Has $1.24 Million Stake in American Tower Corporation $AMT - MarketBeat",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQc2Z5RHl4WEJLZ3djSmxDRDFRRWJlNURXRjMzd2lQSW1NMHNkaVY0cUc5TUVFNGxscWxFTjFncG1LVVJhZkR3ejkzcEI4V0hCYk1US3hOdFgxZEZia0tDbkZnUXVqOElSSUx1MmFxVFBhYjRacS00V2ZfeFBocmlCRHZLRUstLXhIUm1Uc1Ryckp6SXE3OXVLNUNBcVFLT292Z0MtS2xabGgxZHdVV1l1WGd2NlFkSzQ4OU1CZ0VKX3gwcXVwcTZmTEN4T1BwYktRb0o4UlI2VWJlLU0?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "equinix-2026-07-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Equinix Inc. highlights its global data center role amid ongoing digital growth - AD HOC NEWS",
+      "companies": [
+        "equinix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMHItX1E1TDJQbFVpWTNTUElCTnNZZk1pcXA3RHlhZElxNlAyaE80cWVYdGZsdXJac19rUWVhdVBGMXJjVmdYRFVZclJubUgwWk1rNW5uWjhsYjI5dzFfbDhUVnBtYUlHSXlaQU12SXEyWTB4VFdMTl9FUmx6bFhDZk1ycmlVZHprOWRSaGtBblR0ZTA0UHdjYlp6cl9pdDd3TVUxY202a090UGxnWEVzdUtSRklzY0tobGIweHBEZWZPcFcwdEVNYnhB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ericsson-2026-07-08-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ericsson is starting to look like the only safe bet for RAN chips",
+      "companies": [
+        "ericsson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.lightreading.com/5g/ericsson-is-starting-to-look-like-the-only-safe-bet-for-ran-chips"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-08-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "GL Communications Launches PacketForge for AI, Cloud and 5G Network Validation - The Fast Mode",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZlFoWENDWGxMb1NXM1g2NExUbWs3MEFLa0VzY1RZTmN6SzN2dm1SalNHZmNxdWN1azNvdWtwOHc4aFB3ekpwUDhlWnpZcnowWmRXdGE5dkNrWGZwS3hIS2N2QmxhZndkMnlZMW5qcmpBeVFSYkFfY096Q09ZeGd6aDNYNWZyUllidG9xS2lEbjlpVzRMay1wQjZMazJlbE83YWg1WnV3dWVQQXlWelhraHRiX2VQX09lTTd0MHRBb1FtX1d6eEpBWWJSb3Q?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "spectrum_auction": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 6,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      },
+      {
+        "id": "american_tower",
+        "count": 1
+      },
+      {
+        "id": "equinix",
+        "count": 1
+      },
+      {
+        "id": "ericsson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "spectrum_auction",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 310,
+    "dup_title": 177,
+    "too_old": 92,
+    "gate1_blocked": 6,
+    "gate2_blocked": 9,
+    "passed": 26,
+    "pass_rate": "19.5%",
+    "gate2_block_rate": "6.8%",
+    "gate2_samples": [
+      "CommScope Holding Co faces thin data backdrop - AD HOC NEWS",
+      "Cvfg LLC Invests $5.36 Million in Ciena Corporation $CIEN - MarketBeat",
+      "Flatrock Wealth Partners LLC Invests $1.95 Million in Ciena Corporation $CIEN - MarketBeat",
+      "Ciena: Up 80% YTD And Still Cheap (NYSE:CIEN) - Seeking Alpha",
+      "Circular economy: securing resources for the digital future - Deutsche Telekom"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為德國電信、AMT、Equinix相關動態：「Deutsche Telekom AG strengthens its network strategy as i...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Deutsche Telekom AG strengthens its network strategy as investors watch long-...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "QRG Capital Management Inc. Has $1.24 Million Stake in American Tower Corpora...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
