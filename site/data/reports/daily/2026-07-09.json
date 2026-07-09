@@ -1,0 +1,210 @@
+{
+  "date": "2026-07-09",
+  "generated_at": "2026-07-09T10:49:17.494825Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "deutsche_telekom-2026-07-09-001",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Deutsche Telekom’s Group CIO on leading AI-paced transformation - TMForum - Inform",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbkc5el9zUTJZS0FZRGVkb0M4dWc1V2E1bXFTdHcxdGhXa2J6Vm1GNjhaaG0td09OU2VVeDFjR2xHeUQwQnAxZEo3LV9JMGZZUFBqMU5oaWNGWG83VV91S0NSQWxLRlEyR2FWdU1aQUJObnptTTBTOXNUNjZxUEFDX0doaHNwdDdLLWg5WFluOUZteU03bVBUNXNpY0s?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "deutsche_telekom-2026-07-09-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "LF Networking assigns project status to Deutsche Telekom-founded StratoWeave orchestration platform - Telecompaper",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMERZMDRWNnlibHVqeC0yUHh3dGNWekdIdDk4M1YxejBWd3Z6T2pwejlHbEM3X19sWWJFSjd4OWExZENQVHJiM3F0dXNleEpUZWowWm1ld2JzQ0tTMWZsTHFMdzdRZ3ROSWt4bU5tYW95bUltUG9LdEJlQUVlTmRva3hQQmZZd2tTaU41NTd6cFN4NTZ0MHN0bmpCaG1rSnhUdDB3MXJSakhvY0cxX05lUUhEUEpmUDhoeGx0dHVQZXNjM2k1YW9JU1EyQUptSEYzRDFDS0JvOUtsUQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "american_tower-2026-07-09-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lmcg Investments LLC Has $1.37 Million Stock Position in American Tower Corporation $AMT - MarketBeat",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVlZfMkNGei1aakVHODA4N1BfU3ZXaVVGdFdHcWJ4Mm5SbW8wcUtSN09zZ243VVEwenlMQ0Z0ZEloS2xlbXB2LWQ5c21jdFZHb2l4dXZlVWdWYW1ScHM5dzUybDJSWWJWMmZDRmdCdEF3UUFsbklEZUtSR3RObXhXenBQLXEyRWhIQzJhSWJJUVQ4ZXE5V3dKYm1aVGR0MU9vZl8xQ19yVUZlbGRUSlhKS3ctVVlNQ1JLaGwyWlVrWTNwcERzSTZjaW5ESk5jUFFidm1mMWlTSTRsYjRnTEJV?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sba_comm-2026-07-09-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SBA Communications refines tower strategy as a key wireless landlord - Ad-hoc-news.de",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeW0wdFdqelNwbDdDdU9uM1dHZ2ZPa0gxU3VkMjQ2eFVkd0pCRW5yR2E3X1dLblRZZ1IzdUN5TlM5b0pQbjF0d1A0VzZhVTM0N2F2VDRVRjNJZTBmMXhtbjNJbG5XNllpQk5aUU1aZ1FjWHg1MG9aSk10UmlkUHhUeU1qd1Rla3czQnVIWjFlbF9FR1FMU0hJUU9aTlZNSy03a3A0WEZmQ1VtZklJM1NGUEZuZ0l0T0pYaHg4UUZncFhweHpqMEE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "equinix-2026-07-09-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What Makes Equinix (NASDAQ:EQIX) Key to S&P 500 Data Centers? - Kalkine Media",
+      "companies": [
+        "equinix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZlgtWVdCb2xNMm9DUzF5T2gtTlRENXBLTFM0REI2TzFZSVBQOGtzZ3hFYTBMVFphaGFYVmNDUm9lbDRTbDJfUkt2eGx1M09ma3JQb3ppYjg2aWNQRmxvckh5Y3hLWnk0SlMyTlRkVy1hUlN3dGNLRGRzRUN2NElJX3BKRUdBT1kzZVgydVhKLUp4WGlZTng2WUxSS0FmVUlYSzhEMzljSUhIcy1jVU91eTJyLUUwbVdNdXR4bEtLWQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.2,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "deutsche_telekom",
+        "count": 2
+      },
+      {
+        "id": "american_tower",
+        "count": 1
+      },
+      {
+        "id": "sba_comm",
+        "count": 1
+      },
+      {
+        "id": "equinix",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 309,
+    "dup_title": 165,
+    "too_old": 91,
+    "gate1_blocked": 4,
+    "gate2_blocked": 11,
+    "passed": 38,
+    "pass_rate": "26.4%",
+    "gate2_block_rate": "7.6%",
+    "gate2_samples": [
+      "CommScope Holding Co faces thin data backdrop - Ad-hoc-news.de",
+      "Ciena Corporation (CIEN)’s Blue Planet Division Introduced Blue Planet Configuration and Change Mana",
+      "Cvfg LLC Invests $5.36 Million in Ciena Corporation $CIEN - MarketBeat",
+      "Ciena: Great AI Prospects, But The Hurdle Is Too High (NYSE:CIEN) - Seeking Alpha",
+      "Flatrock Wealth Partners LLC Invests $1.95 Million in Ciena Corporation $CIEN - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為德國電信、AMT、SBA相關動態：「Deutsche Telekom’s Group CIO on leading AI-paced transfor...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Deutsche Telekom’s Group CIO on leading AI-paced transformation - TMForum - I...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "LF Networking assigns project status to Deutsche Telekom-founded StratoWeave ...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

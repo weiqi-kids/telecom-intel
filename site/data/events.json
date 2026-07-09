@@ -1,5 +1,196 @@
 [
   {
+    "id": "deutsche_telekom-2026-07-09-001",
+    "date": "2026-07-09",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Deutsche Telekom’s Group CIO on leading AI-paced transformation - TMForum - Inform",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPbkc5el9zUTJZS0FZRGVkb0M4dWc1V2E1bXFTdHcxdGhXa2J6Vm1GNjhaaG0td09OU2VVeDFjR2xHeUQwQnAxZEo3LV9JMGZZUFBqMU5oaWNGWG83VV91S0NSQWxLRlEyR2FWdU1aQU",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbkc5el9zUTJZS0FZRGVkb0M4dWc1V2E1bXFTdHcxdGhXa2J6Vm1GNjhaaG0td09OU2VVeDFjR2xHeUQwQnAxZEo3LV9JMGZZUFBqMU5oaWNGWG83VV91S0NSQWxLRlEyR2FWdU1aQUJObnptTTBTOXNUNjZxUEFDX0doaHNwdDdLLWg5WFluOUZteU03bVBUNXNpY0s?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-07-09-002",
+    "date": "2026-07-09",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "LF Networking assigns project status to Deutsche Telekom-founded StratoWeave orchestration platform - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMERZMDRWNnlibHVqeC0yUHh3dGNWekdIdDk4M1YxejBWd3Z6T2pwejlHbEM3X19sWWJFSjd4OWExZENQVHJiM3F0dXNleEpUZWowWm1ld2JzQ0tTMWZsTHFMdzdRZ3ROSWt4bU5tYW",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMERZMDRWNnlibHVqeC0yUHh3dGNWekdIdDk4M1YxejBWd3Z6T2pwejlHbEM3X19sWWJFSjd4OWExZENQVHJiM3F0dXNleEpUZWowWm1ld2JzQ0tTMWZsTHFMdzdRZ3ROSWt4bU5tYW95bUltUG9LdEJlQUVlTmRva3hQQmZZd2tTaU41NTd6cFN4NTZ0MHN0bmpCaG1rSnhUdDB3MXJSakhvY0cxX05lUUhEUEpmUDhoeGx0dHVQZXNjM2k1YW9JU1EyQUptSEYzRDFDS0JvOUtsUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-07-09-003",
+    "date": "2026-07-09",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lmcg Investments LLC Has $1.37 Million Stock Position in American Tower Corporation $AMT - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVlZfMkNGei1aakVHODA4N1BfU3ZXaVVGdFdHcWJ4Mm5SbW8wcUtSN09zZ243VVEwenlMQ0Z0ZEloS2xlbXB2LWQ5c21jdFZHb2l4dXZlVWdWYW1ScHM5dzUybDJSWWJWMmZDRmdCdE",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVlZfMkNGei1aakVHODA4N1BfU3ZXaVVGdFdHcWJ4Mm5SbW8wcUtSN09zZ243VVEwenlMQ0Z0ZEloS2xlbXB2LWQ5c21jdFZHb2l4dXZlVWdWYW1ScHM5dzUybDJSWWJWMmZDRmdCdEF3UUFsbklEZUtSR3RObXhXenBQLXEyRWhIQzJhSWJJUVQ4ZXE5V3dKYm1aVGR0MU9vZl8xQ19yVUZlbGRUSlhKS3ctVVlNQ1JLaGwyWlVrWTNwcERzSTZjaW5ESk5jUFFidm1mMWlTSTRsYjRnTEJV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-07-09-004",
+    "date": "2026-07-09",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SBA Communications refines tower strategy as a key wireless landlord - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQeW0wdFdqelNwbDdDdU9uM1dHZ2ZPa0gxU3VkMjQ2eFVkd0pCRW5yR2E3X1dLblRZZ1IzdUN5TlM5b0pQbjF0d1A0VzZhVTM0N2F2VDRVRjNJZTBmMXhtbjNJbG5XNllpQk5aUU1aZ1",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeW0wdFdqelNwbDdDdU9uM1dHZ2ZPa0gxU3VkMjQ2eFVkd0pCRW5yR2E3X1dLblRZZ1IzdUN5TlM5b0pQbjF0d1A0VzZhVTM0N2F2VDRVRjNJZTBmMXhtbjNJbG5XNllpQk5aUU1aZ1FjWHg1MG9aSk10UmlkUHhUeU1qd1Rla3czQnVIWjFlbF9FR1FMU0hJUU9aTlZNSy03a3A0WEZmQ1VtZklJM1NGUEZuZ0l0T0pYaHg4UUZncFhweHpqMEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-07-09-005",
+    "date": "2026-07-09",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What Makes Equinix (NASDAQ:EQIX) Key to S&P 500 Data Centers? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPZlgtWVdCb2xNMm9DUzF5T2gtTlRENXBLTFM0REI2TzFZSVBQOGtzZ3hFYTBMVFphaGFYVmNDUm9lbDRTbDJfUkt2eGx1M09ma3JQb3ppYjg2aWNQRmxvckh5Y3hLWnk0SlMyTlRkVy",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZlgtWVdCb2xNMm9DUzF5T2gtTlRENXBLTFM0REI2TzFZSVBQOGtzZ3hFYTBMVFphaGFYVmNDUm9lbDRTbDJfUkt2eGx1M09ma3JQb3ppYjg2aWNQRmxvckh5Y3hLWnk0SlMyTlRkVy1hUlN3dGNLRGRzRUN2NElJX3BKRUdBT1kzZVgydVhKLUp4WGlZTng2WUxSS0FmVUlYSzhEMzljSUhIcy1jVU91eTJyLUUwbVdNdXR4bEtLWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-006",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "UK still has Europe's worst 5G a year after VodafoneThree merger",
+    "summary": "The merger between Vodafone and Three was supposed to improve 5G in the UK, but it sits at the bottom of Opensignal's latest ranking of network experience in Europe.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/5g/uk-still-has-europe-s-worst-5g-a-year-after-vodafonethree-merger",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-007",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Airties targets more Wi-Fi devices and markets via Aprecomm buy",
+    "summary": "Airties said the acquisition of India-based Aprecomm will help it expand into emerging markets and manage a broader range of Wi-Fi-enabled broadband devices, including legacy CPE.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/oss-bss-cx/airties-targets-more-wi-fi-devices-and-markets-via-aprecomm-buy",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-008",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "3 Sweden strengthens 5G standalone network in key locations - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQemNFMk9ldGgxNE5YRWdFS0twOS0zdC1zTHJDZkJVX0dHYm81ZllFUkxCc09CRWktOTNfaUhmNXRXREN2MXM1S1pfZGhRd1FySlJlVV9WNk1lNjZMSW1uOXRVMG9yN3lURHlfeWVnZV",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQemNFMk9ldGgxNE5YRWdFS0twOS0zdC1zTHJDZkJVX0dHYm81ZllFUkxCc09CRWktOTNfaUhmNXRXREN2MXM1S1pfZGhRd1FySlJlVV9WNk1lNjZMSW1uOXRVMG9yN3lURHlfeWVnZV95ZjNvUE1JUjVCdkw3WWQ3UGZfVVZjUUVHWmRkMk1PUFV6YjV2VVR0d0NHcmQxRVNQX1gxNg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-009",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cosmote deploys private 5G SA network at Aretaieio Hospital - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQcnk0YXl3UXlBM0g0VGFiSzRzN21QLUxUX0FUYVhmbnlTdGJObmI2WDJhRldrSGEtNWo2MkNGdFhkRDBRT2c1OTVFTXdoeXhnbENubjJSZG1iRUZGd2YzblZObXdjU0ZyeW15cWhPSG",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcnk0YXl3UXlBM0g0VGFiSzRzN21QLUxUX0FUYVhmbnlTdGJObmI2WDJhRldrSGEtNWo2MkNGdFhkRDBRT2c1OTVFTXdoeXhnbENubjJSZG1iRUZGd2YzblZObXdjU0ZyeW15cWhPSGZybkhaYmxRYVpEcEZYOWhRcG1OTUxiSXE0YVFqZVNIeVAtdjNIN19LYlBVTDNNYXBvZTBoSw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-09-010",
+    "date": "2026-07-09",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UK takeover panel extends deadline for Epiris takeover of Gamma Communications - ET Telecom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOaUduRUExQWdNLTlpWGRueVpBcGdjMVBNYm00SnJMMEVSVDNBVjdLM2ZNT1BCM3FtOHBZX1BfOWRRQ1VLSEtOMnBuV2trWmRaclBXQ19oY2JFV3laUXc1SE1HMnR4cHdGWVhWQ29COG",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaUduRUExQWdNLTlpWGRueVpBcGdjMVBNYm00SnJMMEVSVDNBVjdLM2ZNT1BCM3FtOHBZX1BfOWRRQ1VLSEtOMnBuV2trWmRaclBXQ19oY2JFV3laUXc1SE1HMnR4cHdGWVhWQ29COGg4S0xpM0FSY2tjSGk4ckJCU0R3UnF3aUFFeDZvMlFYdGlUT0w5SE03ZHZLOHpINW56T3JuSTRaSW1aVngzZXo5bERYd3BkRG5xVTluSWZUc0Vkc3JOY3h1MW5xMFBMZ9IB0wFBVV95cUxPeW9LRWFyMDliMXl3ZjNhVEFack9odWlmdlYzX3JyV3IwTmFjTVJGX0Y0ZnNqZG1Ecnp3N1hrSDFBZEt0WHlJb1pQVUgwRVJwLU1TamNuSkpzSkNockRIbWFIUzlSNFBQRERsSVNOSTYzaWt1aHh4Vm9JbWFZZWFQRS1vazEwcmNnODJUdnJpUFJEdlhwR05sbDNtWW5pbk9hbFA0cU5UUDZId2w3ZlJvOTNoa0JzT1hxRHVKdXlzOTVkUGVMSGNDaXJOamZZbUdUYTZR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "deutsche_telekom-2026-07-08-001",
     "date": "2026-07-08",
     "companies": [
@@ -166,6 +357,441 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RdHl1c0UwY0oxOGlHUWM2NlFzMXE0ZUw0OUtOa0tDR3M0cGVyWEJYUWNhalUwc2pYcEFvaTd6ZXdGOXk5UXo1OFNfWGVWS1RoS2FJeEJ5d3JmX3lPRFBYQUNaaWZpZTJjZmdvZ3BGLVUtTnFQMF9lNw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-07-08-010",
+    "date": "2026-07-08",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nokia vs. Viavi: Which AI Networking Stock is the Better Buy? - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOeGZBNnFqV3F1aW5yeVYwWWdLSjY5YUNqejg0b2h6VmgwMXo5UmtHdEZDckYxMmxUSVFXY21oUUtLNTU2U3l0a0VKb2FQOUtfaUVHRjFMYktGSllVMDlqSnFwNElva191X1pfWW9EbX",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeGZBNnFqV3F1aW5yeVYwWWdLSjY5YUNqejg0b2h6VmgwMXo5UmtHdEZDckYxMmxUSVFXY21oUUtLNTU2U3l0a0VKb2FQOUtfaUVHRjFMYktGSllVMDlqSnFwNElva191X1pfWW9EbXo5d2NxTkI2Q3RNcjNnWldjeE5OOGlDbnhfSTZsVTVRU0dCWmJURHh3YjNqTmxrbnBLTFN3clpiNE52WTROUXVhajk5YUI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-07-08-011",
+    "date": "2026-07-08",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nokia (HEL:NOKIA) stock heads for €10 test as AI trade sets up into earnings - TechStock²",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOUG5yNlptOVJCaFZVUW5wOHhkYVBZamlDdEVBdl91V092ZkRzdVR0WmlmSXJyd3B3LWdZRjJRS1FrZW9BRHhkaDZJdkxSVXFwS3VJajFRcXk3cW5VOTlnaW8tWDk4SXp3emdNR29sVn",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUG5yNlptOVJCaFZVUW5wOHhkYVBZamlDdEVBdl91V092ZkRzdVR0WmlmSXJyd3B3LWdZRjJRS1FrZW9BRHhkaDZJdkxSVXFwS3VJajFRcXk3cW5VOTlnaW8tWDk4SXp3emdNR29sVnBrcngxT0lFbV84LV9SdTB4MFJEVFhZQTBPaU1SUWlZVmJFOUdXc1AyR1Fn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-07-08-012",
+    "date": "2026-07-08",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How is Ciena Scaling Its Data Center Connectivity Portfolio? - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNU9MNU9DTElKVHlpQ1VFaG9Qd3l6NDh4LU56Q3VlNHh3R1k4TFY0bXdBSFhDNHpvUTZYWHI0UG5nN09iSjNPb09RaFI3UDdKcGU1NkxEOEt0eGNjY2ZPX0lnckhwVnJHV3FaejVGZ3",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNU9MNU9DTElKVHlpQ1VFaG9Qd3l6NDh4LU56Q3VlNHh3R1k4TFY0bXdBSFhDNHpvUTZYWHI0UG5nN09iSjNPb09RaFI3UDdKcGU1NkxEOEt0eGNjY2ZPX0lnckhwVnJHV3FaejVGZ3RhUE1oQm14WDV1VUtGblRQZEpvTU54VnJrTmg0Q21CWDJuRllCQmpsTWJuX2NNcXM5OVdEd3Y4LXFPMmswZlBkMExCdW1mcFgwVUR4QVV6RnVPaDUzNDkzZmhBRVR0NWczTF9IbVJCc0E5VnhT?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-07-08-013",
+    "date": "2026-07-08",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "LF Networking Expands Portfolio with New StratoWeave Project, Contributed by Deutsche Telekom, to Advance Open, AI-Native Transport Network Automation - Linux Foundation",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowJBVV95cUxOUDRXMmUwTHptVENmVUM4ZDZaYnpKQVFjNFNRenBRUkdtdXE3SVlxSi16RW8yRGtiRVhqc1hXRTdJQm5uRTZ0S0NsQk16YmpwVGdPX0hKamxPc3o3emxWMGxUd1lmMl83V0pfOTA1Sk",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOUDRXMmUwTHptVENmVUM4ZDZaYnpKQVFjNFNRenBRUkdtdXE3SVlxSi16RW8yRGtiRVhqc1hXRTdJQm5uRTZ0S0NsQk16YmpwVGdPX0hKamxPc3o3emxWMGxUd1lmMl83V0pfOTA1Sk9qNWYwX0xLT1FHMmxrTTBvbm1lanpOZkw0U0JtN3BXdE96ZTZnWWJZWjVwRG5NR1JPOUtCQUc4SnZYSEdGYmpIaE1pS0pjX21zYlFDYXZOYk80UFd6bmFtb3Y2aXlndXpyNEd4VGpsWWthaWw1WDA3NTBvWVlVYzR0VGxkTU00YlhfcTFRUEdEVmpvUGdTYjN6SnVfOHdLQ2ZFVXFTZWNwVnQzUEh0V05MZlFDSmlKNnp2OHPSAaMCQVVfeXFMTlA0VzJlMEx6bVRDZlVDOGQ2WmJ6SkFRYzRTUXpwUVJHbXVxN0lZcUotekVvMkRrYkVYanNYV0U3SUJubkU2dEtDbEJNemJqcFRnT19ISmpsT3N6N3psVjBsVHdZZjJfN1dKXzkwNUpPajVmMF9MS09RRzJsa00wb25tZWp6TmZMNFNCbTdwV3RPemU2Z1liWVo1cERuTUdSTzlLQkFHOEp2WEhHRmJqSGhNaUtKY19tc2JRQ2F2TmJPNFBXem5hbW92Nml5Z3V6cjRHeFRqbFlrYWlsNVgwNzUwb1lZVWM0dFRsZE1NNGJYX3ExUVBHRFZqb1BnU2Izekp1Xzh3S0NmRVVxU2VjcFZ0M1BIdFdOTGZRQ0ppSjZ6djhz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-07-08-014",
+    "date": "2026-07-08",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "American Tower (AMT) Upgrade to Outperform with Strong Growth Ou - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxObmk2YTBoUXQzR0JVM1NWaEptSEdGVmd6V18zcXo5b0xRU3RvRkxFNHF5SEJHU2xibFBVZnJNMDkxOG1rY0I4ek5Wb1FBdWxzckU5cUl3WG55akx5QXJ6QmgzLWVsYTdnQV9ZcVhhS0",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObmk2YTBoUXQzR0JVM1NWaEptSEdGVmd6V18zcXo5b0xRU3RvRkxFNHF5SEJHU2xibFBVZnJNMDkxOG1rY0I4ek5Wb1FBdWxzckU5cUl3WG55akx5QXJ6QmgzLWVsYTdnQV9ZcVhhS01XRTNJZ21CQmk2bmRJX3RQM0lzZjBJaE4xZkhZU0MzbVRuejA3eEdwaXB1cy1WWnRMc1NJT2ZzT2hUQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-07-08-015",
+    "date": "2026-07-08",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wolfe Research upgrades American Tower stock rating on tower market recovery - Investing.com Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxOa0ZUOUN3WGZsMkJuYmIwQzhDLWloOE9WQUJuR194Qk1SODFFTXZtSWsyR0VzdUdBZmFSSWIyNGNuMkN1amZFMGdQQnBHN1FiZGlXc0VyWlkzcWl6T0ZkYmlLWkhaRUc5QlhGLXFsMH",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOa0ZUOUN3WGZsMkJuYmIwQzhDLWloOE9WQUJuR194Qk1SODFFTXZtSWsyR0VzdUdBZmFSSWIyNGNuMkN1amZFMGdQQnBHN1FiZGlXc0VyWlkzcWl6T0ZkYmlLWkhaRUc5QlhGLXFsMHYzX21mbjJhUnQxclY1NzFUU2szVU4zemV0alNoTUFiNy1xdEExdkUyeldiN3M0amR0alFYT0FKMXd3NUg5NFNwLS1iakdWUVZUUGJWUlV5dEZCQll2ODJPVkNZTkFVWko0bXVV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-016",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Old-School Dividend-Paying Data Center REITs May Be the Best and Safest Technology Idea Now - 24/7 Wall St.",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPRjMtRUtiSHJBUnZZVTRsa3ZTMUFmYkp2MnlPTFYzOTdxVnRLWFlya1ZyM1lzRmZQV0puYzZhOGZuZjl1dHJoZG0wb2p3RXNQcjA1Vm1VNXVtbWxqcS1STUdHWGV1d3VhY1VGSExoSV",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRjMtRUtiSHJBUnZZVTRsa3ZTMUFmYkp2MnlPTFYzOTdxVnRLWFlya1ZyM1lzRmZQV0puYzZhOGZuZjl1dHJoZG0wb2p3RXNQcjA1Vm1VNXVtbWxqcS1STUdHWGV1d3VhY1VGSExoSVZMZXNqR1pzUE81bDRwTVlMUHp2WmtGaGhyVFpTVmdCXzVNYU5aWjhkTWptTy1EakFEUFVLTVVOTFZqSVpWVGE2SUtBc2hjX01QQjV2UDlkaW15eFpqN3o0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-017",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX and a startup file separate plans to deploy 100K satellites",
+    "summary": "SpaceX and a startup called Orbital Compute have each filed applications with the FCC to launch 100,000 satellites. SpaceX's plan centers on its new, high-capacity Gen 3 satellite, while Orbital's foc",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/satellite/spacex-and-a-startup-file-separate-plans-to-deploy-100k-satellites",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-018",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Amazon-Globalstar deal draws concern and support",
+    "summary": "While some view the Amazon-Globalstar deal as a boon for D2D competition, the transaction is getting static from Yippy, a company that is partially owned by Globalstar.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/satellite/amazon-globalstar-deal-draws-concern-and-support",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-019",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DE-CIX teams with South Front Networks to bring low latency to ISPs",
+    "summary": "Internet exchange operator DE-CIX has partnered with South Front Networks to offer low-latency broadband to ISPs in the upper Midwest. #pressrelease",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/broadband/de-cix-teams-with-south-front-networks-to-bring-low-latency-to-isps",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tmobile-2026-07-08-020",
+    "date": "2026-07-08",
+    "companies": [
+      "tmobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "T-Mobile hires former AT&amp;T exec Chris Sambar for B2B push",
+    "summary": "Changes in T-Mobile's top team as ex-AT&amp;T exec Chris Sambar will lead B2B while business and product chief Mike Katz leaves to pursue new interests.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/business-management/t-mobile-hires-former-at-t-exec-chris-sambar-for-b2b-push",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-021",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Telstra network goes down in Australia's latest mobile failure",
+    "summary": "Telecom is Australia's 'least trusted industry,' says irate minister following latest outage, which occurred on Telstra's network.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/wireless/telstra-network-goes-down-in-australia-s-latest-mobile-failure",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-022",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Globe launches D2C satellite service with Starlink",
+    "summary": "Globe Telecom's direct-to-cell (D2C) offering with Starlink is the first D2C service to launch in Southeast Asia. The launch follows approval from Philippine regulatory authorities.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/satellite/globe-launches-d2c-satellite-service-with-starlink",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-023",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Aurora Networks adds low-latency features to legacy CMTSs",
+    "summary": "Aurora Networks, a unit of Vistance Networks, said it has implemented DOCSIS Low Latency tech into its chassis-based E6000 and C100G cable modem termination systems. Aurora also offers that feature in",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/cable-technology/aurora-adds-low-latency-features-to-legacy-cmtss",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-024",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Conexon slows some builds, citing 'severely constrained' fiber supply",
+    "summary": "In updates to the FCC about its RDOF builds, Conexon Connect said 'unprecedented demand' for domestic fiber has led to 'severely constrained' availability, which is 'expected to slow its deployment at",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/fttx/conexon-slows-some-builds-citing-severely-constrained-fiber-supply",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-025",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Eurobites: Virgin Media fined £28M for customer-retention antics",
+    "summary": "Also in today's EMEA regional roundup: Vodafone trials energy-saving tech in Turkey; Telenor acquires broadband provider Bahnof; Apple's a gatekeeper, insists EU.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/regulatory-politics/eurobites-virgin-media-fined-28m-for-customer-retention-antics",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-026",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "CityFibre's McRae: Telcos and hyperscalers are better together",
+    "summary": "CityFibre CTO Neil McRae discusses the symbiotic relationship between telcos and hyperscalers, and also warns the industry not to repeat the mistakes made with 5G in the 6G era.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/digital-transformation/cityfibre-s-mcrae-telcos-and-hyperscalers-are-better-together",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-027",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Infra Bytes: VFE, DE-CIX, South Front, Duos, Lumen",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/C961zxbjnUqyPeZesFWFXeGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Infra Bytes: VFE, DE-CIX, South Front, Duos, Lumen\" title=\"Infra Bytes: V",
+    "sources": [
+      {
+        "name": "telecom_ramblings",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaWvHkLdkPY0MPhg6exDPqRd?utm_source=follow.it",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-028",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Leading Network API Companies Transforming Connectivity - SNS Insider",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zREdXa0FRS182ZUstb1doZHlPNExjUUZxdWhEbVd4TlFKRTdPcVgxbnZScGk3U2JmaDVRWURCT2xMeTl3TlNmdjhwVkwyYzlBSnRzdWpqaDdjb1ZPUEhwZ1oxNA?oc=5\" target=\"_",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zREdXa0FRS182ZUstb1doZHlPNExjUUZxdWhEbVd4TlFKRTdPcVgxbnZScGk3U2JmaDVRWURCT2xMeTl3TlNmdjhwVkwyYzlBSnRzdWpqaDdjb1ZPUEhwZ1oxNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-029",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "As outage at Australia's biggest telecom company hits phone services, trains and online payments; telecom - The Times of India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipANBVV95cUxQQkdJSWpuVWFxd1czQ0E5Vm53RXNxbVlGRHFoYjNXTEhzbmJ5eUxTOFlaa3U0MHVCWmFQUkpRaWdhNVkyX0VibXhZc0MzN3NCQVdRcHR5SmdabFRRTWRhZUh5YW5EbUkwRlpkUE81S1",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQQkdJSWpuVWFxd1czQ0E5Vm53RXNxbVlGRHFoYjNXTEhzbmJ5eUxTOFlaa3U0MHVCWmFQUkpRaWdhNVkyX0VibXhZc0MzN3NCQVdRcHR5SmdabFRRTWRhZUh5YW5EbUkwRlpkUE81S1N5dXJjSVA2VHp0TDE1ck1NSkM0Z1VKSEVrNUZqVDBoWGtndEZzdmw0RHRWRFBpQ2hBNm16d3NVN1NKSFFkUlhad1BOWXJVY0VWWVE2cXVzbGtSN3lhLU9hazBIcEtLSHhyV2R4aXVoRXh6MXZBVkttSmFTb3prT2Y4VVVVV1BHSDZFTlN4ak9YbXRHSUFNUnBVUUVQamhJRFhZTmJ1VVFOV3hfVG03akZaSXJHS0RQQzcwT2t2eUlCNVhFbGt4OXl2NjNfRWl3elIwNlZneXZiLUp1TFh2bWRmX3M4cUFYanQ1alNNdDR5MzNxNkJnOGpiM05iOW1pVjR3YlpRQU01WFdEcGdkM25XVlpMVEJOSU41REdnbG56UHhXWnFsRThvcEFBalZ3VFZjQzEyYUUtc3BGaETSAaoDQVVfeXFMT0hNdUF4dVNXWlo4ZWZxbWdwb1F3Nk5qdXd6WU13eEgtekJxSlp5eEI2cU93N1F1ajRYV2E0Q0oyLWNuSS1QVXY2ODRoUlV5T1M5cGRnTngxYno2ZUNUUEFMV2lrNkJmcThIUThBOWhVQ0hHemxsTjZSa2ZJM2dDa3M1YXl4bXE4eHRxUlVvRWhvSTlLQUg1OXVLRm5MYjJDc0tZX2l4X2xTUmE2ejJWU2RtWnZhTTZvME5GMUk3NlllMTU0R25QU2FNN0pNaWYtTTVnS0xLdmoyeTRNQW05Wk1lNExLanB3M0gtUXY1M2YwVVE0XzE5VVF5a21MOVVLVC1MeFhHMmdfSVRhSUMxWE10M245V21uT0k3T0J2NWE3dFlZMkZxVzBrZ2pQVFVsc1YxMGItY0NpR2pSWE9sTXBfNDNpbkJ5VHNyMnFTQWJ2RVR6T2RXVGN5MFVGN0dNc1c5bFFNQmpvZHJTRW8tY2MwN2xIYVdYVkV5SmVKQURTUVN4NTdrSHhOS1lKcUxReDdtcGk0NkcySUZNUW8yM2dlWFROcTJxajB3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "att-2026-07-08-030",
+    "date": "2026-07-08",
+    "companies": [
+      "att"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AT&T (NYSE:T) Starlink Threat Rattles Telecom Sector Today - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNTVJfS1hGdnJkWXlaREt3NFE2MWZZWFBWNk9xQjZLS29mNlNxdWplblFQUHRNbFhXZFJ0TUNkWTN0NEhyRnRCeVIwUEFDdllNUFJPY0U0STN0WG1aeUtLaThnTGtfVEdva2M3YU85Wl",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTVJfS1hGdnJkWXlaREt3NFE2MWZZWFBWNk9xQjZLS29mNlNxdWplblFQUHRNbFhXZFJ0TUNkWTN0NEhyRnRCeVIwUEFDdllNUFJPY0U0STN0WG1aeUtLaThnTGtfVEdva2M3YU85WllTNkw4SkwtNDVfSW45VkZUTWZfQUR4aXdRNnpxWGtzU0N2TXhfTUo2eXZERm5ZSDkyQmoydXNB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-07-08-031",
+    "date": "2026-07-08",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank Corp outlines 5G strategy as domestic telecom competition intensifies - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSkxTSWxKamFVanZXcHlUOWdkYjZkajlUY0VkaGZSc2t3SXluT3JHWFRjdDgyZU5LaHBKMEczUFVNNW5Zbnoza3RGRlhfcHhrZ204VVBORjYyTW01RUpyN3R4VTRhaHd4d3dzNkFCel",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSkxTSWxKamFVanZXcHlUOWdkYjZkajlUY0VkaGZSc2t3SXluT3JHWFRjdDgyZU5LaHBKMEczUFVNNW5Zbnoza3RGRlhfcHhrZ204VVBORjYyTW01RUpyN3R4VTRhaHd4d3dzNkFCeld4M0FLNVZQNGJvZ2pvczlPSnBwX08wSktIVWd0VjVJT3BIRVpnNWxBOEEtOWYxV0tjOVYtdGVLZm9rZzRndHM0MWxPVkIwWUZhUTVzSU5OdG5lZlk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-032",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "True Corp extends its digital network reach as Thailand's telecom market evolves - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ2xDQ3FrZFI0RDNPam5Nazd6bjB3M0VHbUhUUXp6bHlUUHo1MTFoRXZTUDJfb2JacGNIZXlZU1B6aDhMSWg3c1U5ZElZT1Q2OWwxUjZtTXZJSndGR3NPb3poS1JKVEgwYldULU5mYn",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ2xDQ3FrZFI0RDNPam5Nazd6bjB3M0VHbUhUUXp6bHlUUHo1MTFoRXZTUDJfb2JacGNIZXlZU1B6aDhMSWg3c1U5ZElZT1Q2OWwxUjZtTXZJSndGR3NPb3poS1JKVEgwYldULU5mYnVkRGczLUk2OFhucWpNMFNydHc4VE80Vy1QQjZhYk00TTFGRjJEXzFPVlZsM3VqVWszWXVHSWx3WVJJVndRd1EyLUl4VU9EM1FGNUFqZGVtV2JKV1NuVFV5RWFuYw?oc=5",
         "type": "rss"
       }
     ]
@@ -601,6 +1227,64 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQzdoS0ZERHlpN2N6NnV1REE3ZDhJdjVkYlE0MHJmQXYxSUhjRlRNM1AwdWZkLXEyYlVndlNSZjhmdkxPZ1d3NUtKY0kzZjZBYThhd0NIOVlURVd6OHR0NW9UdkdmaDRyVTZXd1BGTGxwWWlHSUJNWWZHMkdLdjJCbF81M2dnUk9kZ0t3c3ZGdEpKaDFVOUo4aVVOc1JXS29qLTFzRTl4LUtSMEQyY0Rnc1Zrb0pvWHNvMlZSZTA2LVpjOGhTUzNxZDZ1Z0lKQmdnU203LXlOSjFtdzVkX3JsSjIyblY0WTY1TUpVMjE1a0dsM1BMWlllWkJqQ0RXUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "commscope-2026-07-07-024",
+    "date": "2026-07-07",
+    "companies": [
+      "commscope"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "CommScope Holding Co outlook and strategy for investors - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOTXpNVlNtNXZtaG5yaExrbXc4VWVURVpmcXVCVXhpUkdxdTFFZ0Y1d0g3ZEpQZGVJcmd4ay1KdXNiNnU0WE1GX3g1dUo5YW11V0p1SWtrVXBTdGNDWDEtNGNBLUFqQ25HMUp1SmUtUj",
+    "sources": [
+      {
+        "name": "commscope",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTXpNVlNtNXZtaG5yaExrbXc4VWVURVpmcXVCVXhpUkdxdTFFZ0Y1d0g3ZEpQZGVJcmd4ay1KdXNiNnU0WE1GX3g1dUo5YW11V0p1SWtrVXBTdGNDWDEtNGNBLUFqQ25HMUp1SmUtUjJ0M1R6Vml3RnRBN3BWQ195ejFZN1BGOVZPZVc5bXNKc0FHbEdVVl8wVHRBTXRWc2U2dXNkM3VZWFRhNDV0RjlOaDJKME4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-07-07-025",
+    "date": "2026-07-07",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank Slapped with 'Bullish' Rating as Major U.S. Brokerage Sets 260 Yen Target - finance.biggo.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE15ZzRFcHdoc2FWcldNSk1WMG5CZk5USUFRdHJReWJTVXFJLUNBdDAzcnBNTm91WnFjc2JjN2JOb1FRRUc3TW9sb0U3ZjZYRGpQbkttVGw1eGVhc3RoV2dSb0ZDMVRyaUZ2VEZzUmxtYU",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE15ZzRFcHdoc2FWcldNSk1WMG5CZk5USUFRdHJReWJTVXFJLUNBdDAzcnBNTm91WnFjc2JjN2JOb1FRRUc3TW9sb0U3ZjZYRGpQbkttVGw1eGVhc3RoV2dSb0ZDMVRyaUZ2VEZzUmxtYUwzamM3ZXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-07-026",
+    "date": "2026-07-07",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bluepeak reaches 500K fiber passings",
+    "summary": "Bluepeak now passes 500,000 homes and businesses within its fiber-powered network, serving communities across Oklahoma, North Dakota, South Dakota, Minnesota, Texas and Wyoming. #pressrelease",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/broadband/bluepeak-reaches-500k-fiber-passings",
         "type": "rss"
       }
     ]
@@ -1567,6 +2251,44 @@
       {
         "name": "softbank",
         "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaXMxUktZN1pSM1pwa2NBSGtmMmNndlNBXzJTYUNfRWthcDlpeHlZZE5Gakl5RmNTQ2ZydHg1bjF2dHpPcDhWMjNOTGZGNUFVdjhvdXJHMFkwY2tSWTg2UWNsanlNOTRKdHpLeGNfU1hLMEJzU1hqNWxQcFNMTzltS01uZW9kaG5Ccnk0UFdBMTJiNERK?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-07-05-018",
+    "date": "2026-07-05",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SoftBank Launches SB Neo as CoreWeave Slides 48%: Energy Is the New Moat - techtimes.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNci16Qkt0Sm5jdHVlQlFveldxLXNoYzBfQm1HbDQwdU1BcjZUTVctREhXdmZMZnZMYVpNem5BUHhLTTV6eVJXZlcwTkZVS1Naam1BaXlRcG5pLWV1U25VVVVEVHBmVlE1bEpvaE9Ka3",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNci16Qkt0Sm5jdHVlQlFveldxLXNoYzBfQm1HbDQwdU1BcjZUTVctREhXdmZMZnZMYVpNem5BUHhLTTV6eVJXZlcwTkZVS1Naam1BaXlRcG5pLWV1U25VVVVEVHBmVlE1bEpvaE9Ka3VNRk9YYjd1ZDQxejFvYk9oWE90aEFMZkE0Wno4bng5T2V1ZnlvT0ZvdC1vLS1QamZxYjJnUHpma05MRFctMWpqS3VGNFNEQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-07-05-019",
+    "date": "2026-07-05",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Equinix's Data Centres are Heating Milan's Duomo & Palazzo - Energy Digital",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOdVcwZlNtRFRaSDVhdl80WERuNm9jZWFPUTB2RDlkNHUxS1NjYklkcld5aDJRR2tocjRLNXNuVFNXT1pRYzdWeWQ1aFlhVzJmNEowUndjdGZIOFpBbzgxQ3BQV0Y2Q0xqZFdETnZBVn",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdVcwZlNtRFRaSDVhdl80WERuNm9jZWFPUTB2RDlkNHUxS1NjYklkcld5aDJRR2tocjRLNXNuVFNXT1pRYzdWeWQ1aFlhVzJmNEowUndjdGZIOFpBbzgxQ3BQV0Y2Q0xqZFdETnZBVnBRbW04Y1NTREVRVkh4R2Z6QnctTFhVVGRCYVI5elBXU01LTk0?oc=5",
         "type": "rss"
       }
     ]

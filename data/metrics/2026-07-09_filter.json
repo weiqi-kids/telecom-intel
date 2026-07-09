@@ -1,0 +1,16 @@
+{
+  "total_raw": 309,
+  "dup_title": 165,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 4,
+  "gate2_fail": 11,
+  "passed": 38,
+  "gate2_samples": [
+    "CommScope Holding Co faces thin data backdrop - Ad-hoc-news.de",
+    "Ciena Corporation (CIEN)’s Blue Planet Division Introduced Blue Planet Configuration and Change Mana",
+    "Cvfg LLC Invests $5.36 Million in Ciena Corporation $CIEN - MarketBeat",
+    "Ciena: Great AI Prospects, But The Hurdle Is Too High (NYSE:CIEN) - Seeking Alpha",
+    "Flatrock Wealth Partners LLC Invests $1.95 Million in Ciena Corporation $CIEN - MarketBeat"
+  ]
+}
