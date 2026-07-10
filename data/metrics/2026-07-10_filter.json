@@ -1,0 +1,16 @@
+{
+  "total_raw": 308,
+  "dup_title": 166,
+  "no_date": 0,
+  "too_old": 85,
+  "gate1_fail": 3,
+  "gate2_fail": 11,
+  "passed": 43,
+  "gate2_samples": [
+    "Ciena Corporation (CIEN)’s Blue Planet Division Introduced Blue Planet Configuration and Change Mana",
+    "Cvfg LLC Invests $5.36 Million in Ciena Corporation $CIEN - MarketBeat",
+    "Ciena: Great AI Prospects, But The Hurdle Is Too High (NYSE:CIEN) - Seeking Alpha",
+    "Flatrock Wealth Partners LLC Invests $1.95 Million in Ciena Corporation $CIEN - MarketBeat",
+    "Ciena: Up 80% YTD And Still Cheap (NYSE:CIEN) - Seeking Alpha"
+  ]
+}

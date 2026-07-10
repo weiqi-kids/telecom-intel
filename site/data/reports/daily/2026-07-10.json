@@ -1,0 +1,215 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T10:47:42.165239Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "deutsche_telekom-2026-07-10-005",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Deutsche Telekom builds 5G campus network at Hamburg port with Ericsson - Telecompaper",
+      "companies": [
+        "deutsche_telekom",
+        "ericsson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "ericsson"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa1V2Mm5JLWNPUFJGV0huT2pEbVdtcGZYbG16dWFiUzV3akFzOTRLaVNtWEQ2S1FPbkttRDBGd1FiWFpCdzRrZEhFcHJaQXRPUkswcEROeWlrYzh5WXpVTjJKV1podXR1VEdXeVpKVUFZTWNsZ3NpSGNnNmYzbmd0bV9DdV9jZVdEelViX3FvbE9oRUZhd2pZV3ZidWZ6TVNNc2NoUWhyX0d6dmZsZTNub2VwN0M?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nokia-2026-07-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Notification under Chapter 9, Section 10 of the Finnish Securities Market Act: holdings of FMR LLC in Nokia Corporation decreased below 5% - The Manila Times",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOcEZ1Sk1ZaWZpX29VMWtGLTViTmZZVVlnckdDaF9kLVFRWFprZnJMMWtwTDd1dnZwZFJ4a2tMWTFVMVJURnVacVFVVEpnUVpDLUgzdjE2RVJZMXhZX2o1b0dfZTUxSm4teUNVTGpRNFZiRlBFVFJJMS12OGdFTlVtRDVvVHp4LXZKQnlNUjNGWmo2NkNEcHVhN0ZlWF9DZGYyNWFxYkhRODVXaEhkb29RcjNGdnJEcGZSMlg5TW9sUzZacnRKVUI5eUp6YkZVM3lUQm1zNUt1LVI1N1lyVkJoVEtwYUN2YU5BNnAyd2V0LWc5MGFLdWFZRUFKSmF6M2VaVngwa2I3dllMWEtJLTRBT0xIdnpHQkRFWWFMSklkYkRiOGZTd3ZqLXg2eTJwR3VPaG5v0gG4AkFVX3lxTFBLTmxCRkNPZ0Z6QjlrQXRhbmlLMUNrRnJrRGtkVmF2OG8zQWFIVkpzRHIyLVhFVnpZY3V6SXQzX2pJNkxJcVQ0YzVGanNnUk83T1dUTDI4aGtrYWk2czBhRlVqWHJ3YmVNakFudmtQcndFX05kdFhmNXBDMl9Gb01KTlo0ekE3X0t4bVNzdndKdUVvN1N3RTRubl9pUVFPT1NPZnM1RklMd2Jwb2JqdlBGQjJsY3NCNG5KMHJIWkJVQ0dCUnd2cFJvWnVjd2lybndZSFZEblFPYlhtQUtSSWoxd1kxZTJlS2RQUUxpQUdsT1U3cEN3VUdhTG9COGotQVJON1RhQUx4SDYxM3RYdUh5RkZUY1RKRjIxOWVWc2VTaENBQ2lSWmRzenhfVWdMU3N3VHlLbXM1Mg?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nokia-2026-07-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "FMR LLC's stake in Nokia falls below 5%, now ho... - Pluang",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb2RZQmtzcC1KRWxzdVVPcndPckZFcXYyZHY1SXFoNkdEcGVtaDRDN2ZCb0Y5RFFNaDM2LXBNVXRiMVRRWi1vajJVenhqOGtIQktBM0dzODFFWGljdWlSWkJKcVhiQnpmQjlHcWdEcWdyS2JfblNyakhXVFB1RTY4U1ZFZFhnbW5wa04xdm10RExNX096em9ZVjR3Y0Y?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "deutsche_telekom-2026-07-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom Peoplewatch: top exec rejigs in USA, Detecon, NetWorks, and Austrian B2C - telcotitans.com",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbW9vU2w4LXJEMVQwcEFnTjVURFNBSEhWV2ZzWVZjVUJzNkJneEpPZENTNEtJbDg1OXB4eUdOaXRpRnRYWWVZRWVRMWlfNjI2WFF5dW4ycldsS3M4Si03OGVaYVh4VHEya3hVeXluYWtoRExLUDN3SFBoRnNSN2d6R2NpZUNibjFLT25JdWZaeTBKT2RMZ2NuTFh6QkthRzlFV0pwSXNLY2ZuN0ZrMjNWNktNVXdiMkw2MUtQSHREalI3MTZranZyTDRRaFJUUmZGbWRXeDBRRFZDZ3pWOU9UNEtTdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "deutsche_telekom-2026-07-10-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "DEUTSCHE TELEKOM AG : Receives a Buy rating from JP Morgan - marketscreener.com",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZUloWmRTZ1g3NEwydGNveEJtWjhISXRwYVFRbmltRWVvSjE0RVVmV0NPU294M1BBN21aQ0tlUWRwRVQwSkVCX19Fa29GM0laZlJseUctWjBWZDdmckJ0ZzZobktEbzIxb1duQjZUcElJVC1tdzY0S3d2aFV5VlpFd2RoeU5KVkxQNDdZb0Ixc0l6cGRUd0k1bDJ4NGlRNU9sd1FvN3FDcFZGXzFRUlE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "spectrum_auction": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 17,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "deutsche_telekom",
+        "count": 4
+      },
+      {
+        "id": "equinix",
+        "count": 4
+      },
+      {
+        "id": "softbank",
+        "count": 3
+      },
+      {
+        "id": "nokia",
+        "count": 2
+      },
+      {
+        "id": "american_tower",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "spectrum_auction",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 308,
+    "dup_title": 166,
+    "too_old": 85,
+    "gate1_blocked": 3,
+    "gate2_blocked": 11,
+    "passed": 43,
+    "pass_rate": "30.3%",
+    "gate2_block_rate": "7.7%",
+    "gate2_samples": [
+      "Ciena Corporation (CIEN)’s Blue Planet Division Introduced Blue Planet Configuration and Change Mana",
+      "Cvfg LLC Invests $5.36 Million in Ciena Corporation $CIEN - MarketBeat",
+      "Ciena: Great AI Prospects, But The Hurdle Is Too High (NYSE:CIEN) - Seeking Alpha",
+      "Flatrock Wealth Partners LLC Invests $1.95 Million in Ciena Corporation $CIEN - MarketBeat",
+      "Ciena: Up 80% YTD And Still Cheap (NYSE:CIEN) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為德國電信、Equinix、軟銀相關動態：「Deutsche Telekom builds 5G campus network at Hamburg port...」。主要關注主題為產業通用、頻譜拍賣，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Deutsche Telekom builds 5G campus network at Hamburg port with Ericsson - Tel...（產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Notification under Chapter 9, Section 10 of the Finnish Securities Market Act...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
