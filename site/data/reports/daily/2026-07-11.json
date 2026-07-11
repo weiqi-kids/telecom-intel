@@ -1,0 +1,187 @@
+{
+  "date": "2026-07-11",
+  "generated_at": "2026-07-11T09:21:08.120898Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "softbank-2026-07-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SoftBank, PayPay Eye Investment in Seven & i - nippon.com",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2bjJxTldiQmE0d3NkUkUxanJ3UXBtMHZlYUotT0ZPTHVmUF9xN1owbWx0V1U3OUllZXpCcDJ3b1FJSWU5OW5nQlBmSFMxSE9BRzZ4SUdDdnJtV0dD?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-07-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "This Week's Top Five: Supply Chains, EVs and Data Centres - Sustainability Magazine",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZkZSUEhrZWVkRnY0OWlpdnNtbE5HN1JLTDVMRVpqZEZxeEl0S1FGbTFRZUxXbUlDQnVMOXVlNHhTbTBPOEdoSHc5Yy1FdHVpbjFZbDFfZldYeDdkYXg1WmJtT0wxWlpSUUd4UmlrNGhCX0NUeUVRNW04dUZPVDVRdGotLXZJT283d3pxVXNB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-07-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Technology Advisory Group (TAG) of Empowered Technology Group (ETG) meets to discuss A Strategic Roadmap for India’s Telecom Sector and establishing a dedicated “Communication Technology Task Force” - orissadiary.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxQV3RVYjVUUEVnbWhhbWR6dWFULTZvS3hzLW5TOVJkTmtSLVpUVmZiZVl2VWZlN2lLUE9EQ0l5aU1ydUdodDlCaWtudVdaVXUzbTNYNkJERjFpR3FjbmFNdzVvUVlmQjZSMGtCSGpsZjZJaDQxc2lYMkM4NXBxZUM2SUNWb1lLeml1NUd6YUpRRUQteFFDMFBfRy1vMmYxNnMzWGVWeG5oaVoyY2JKNF9mQnBUcmVRMUU4MjFPb1Rxd1V3M29yb0lHcTdncUo5UnNuTkxaTndGczBuYi1iZHphUWIzMC1jM2NRYlIwcHFEajNSU0ZSbHlWVEZKQWVCVXdHZkVuTEF2d2tISjdSekxKa3dtbGtWMzMxYUREN21uTVpVQ2dXb3VnMVdlcw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-07-11-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "PHI stock shows steady performance amid telecom sector competition - ad-hoc-news.de",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaTVlVWhCM2Y1UEJKQ2RUNFZOeWRiaEVjLUl3SnlQMVZOTE1UcTZrbWRLUEwtMHZFVm1haHppYTNwVTNmSXRudFUwbXlfSDlwSklsNEViQmlKckMxN29EeWNsYmVCeXRSd3Y0V0E1OW9mZnJSeUFmY2tHd1h6R3FjV3dYNFhQbHBvcjFZOWdtemd6X1lpTU9sajV1dnpMdzdrc3BwamFWWms3VVdZYjN0RHVqMzk1VHdBVi1vM24ycG4wU0E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-07-11-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "NCC and telecoms sector development in Nigeria - The Guardian Nigeria News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "spectrum_auction",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSEpNYVVjRWJEWDg3X2xGZ0hodk1MQW1fLXU1WXFhcTFqTkF2S1RGTkpieFc0U2ptcHZmZXNhcEM1MzA3cXhfNFEzSXl3Y1BXOE5tMEladVg0Q0I0dU9vMlAwS3MyMjNqSENLTWRsZlZuSUJaY0lvMFBHM09CXzFtWHF0SjJmb0RNckRv?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "spectrum_auction": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "softbank",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "spectrum_auction",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 311,
+    "dup_title": 173,
+    "too_old": 82,
+    "gate1_blocked": 5,
+    "gate2_blocked": 8,
+    "passed": 43,
+    "pass_rate": "31.2%",
+    "gate2_block_rate": "5.8%",
+    "gate2_samples": [
+      "Ciena Corporation (CIEN)’s Blue Planet Division Introduced Blue Planet Configuration and Change Mana",
+      "Cvfg LLC Invests $5.36 Million in Ciena Corporation $CIEN - MarketBeat",
+      "Ciena: Great AI Prospects, But The Hurdle Is Too High (NYSE:CIEN) - Seeking Alpha",
+      "Ciena: Up 80% YTD And Still Cheap (NYSE:CIEN) - Seeking Alpha",
+      "Flatrock Wealth Partners LLC Invests $1.95 Million in Ciena Corporation $CIEN - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為軟銀相關動態：「SoftBank, PayPay Eye Investment in Seven & i - nippon.com」。主要關注主題為產業通用、頻譜拍賣，市場情緒中性。",
+    "signals": [
+      {
+        "text": "SoftBank, PayPay Eye Investment in Seven & i - nippon.com",
+        "level": "green"
+      },
+      {
+        "text": "This Week's Top Five: Supply Chains, EVs and Data Centres - Sustainability Ma...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

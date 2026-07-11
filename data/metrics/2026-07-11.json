@@ -1,0 +1,25 @@
+{
+  "date": "2026-07-11",
+  "total_events": 5,
+  "by_company": {
+    "softbank": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "spectrum_auction": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
