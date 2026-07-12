@@ -1,5 +1,63 @@
 [
   {
+    "id": "sba_comm-2026-07-12-001",
+    "date": "2026-07-12",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SBA Communications stock holds steady as tower leasing underpins long-term cash flows - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPZkNnUkpZZm5QTVQxem15ckdjVVRkM3lxdUJGbkR6YzVBWmtaUU5DY1BONFVZcXROTGYzeG4yMFZ4eHZWNFVXSEFYYnVOUEV3Rm5EOGp1ZUlFa2ZNeFAwdU9haEc3ZktXYXhRSmFuYW",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZkNnUkpZZm5QTVQxem15ckdjVVRkM3lxdUJGbkR6YzVBWmtaUU5DY1BONFVZcXROTGYzeG4yMFZ4eHZWNFVXSEFYYnVOUEV3Rm5EOGp1ZUlFa2ZNeFAwdU9haEc3ZktXYXhRSmFuYWRFYWRBQVdtR2RKSU1fdTFBRU9Jek9FN1luUHFUU0lUSURqWHpISTE1aWdxOUU2VnhHTElZTW00YTVZLVFGUmxyY3VkMXRlckFjdmNBYkxHamJlZDZ1ZVJ1RTVDakpFdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "verizon-2026-07-12-002",
+    "date": "2026-07-12",
+    "companies": [
+      "verizon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Verizon Communications stock holds steady as network investment and 5G strategy shape the long-term - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd3ZuZndic21fYXlPNlFqc1pvNDVWTzhpY3pMeGFKc09BNS1aTHAwaUFJdFBkcEJKbzhhR2FFeURJRENTNks1ekgyRkxkTDNZd3A2NUxmY243UWsyMy1MbHFlSFBVYjhBZDFJSXFMbm",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd3ZuZndic21fYXlPNlFqc1pvNDVWTzhpY3pMeGFKc09BNS1aTHAwaUFJdFBkcEJKbzhhR2FFeURJRENTNks1ekgyRkxkTDNZd3A2NUxmY243UWsyMy1MbHFlSFBVYjhBZDFJSXFMbmVJM3JBQjl2M1dLVXNtWTBRSmVFbG9NMGJLV1RSTHZjLXBlYXFBVC04YXkwN0E1WEdoT1BPLUFGelUycXdFcnExNmVIbTlGeW9LRlh2bFNQZTFrWkRwMGVzVA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-12-003",
+    "date": "2026-07-12",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Swisscom stock holds steady as core telecom business underpins long-term strategy - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxON2RwQVpNSGVBdVFrb1lLSHF2amItZVRTc3pRNlhDQlphOVRqNzFESWpjTkF2WTFjSXMyZFEtQUp2TUpnNl9Gak43Unowc2kzTFl1aFVPc3A5OUZIcHhiTVI3RXdaMHVsMmlsU0NSS2",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxON2RwQVpNSGVBdVFrb1lLSHF2amItZVRTc3pRNlhDQlphOVRqNzFESWpjTkF2WTFjSXMyZFEtQUp2TUpnNl9Gak43Unowc2kzTFl1aFVPc3A5OUZIcHhiTVI3RXdaMHVsMmlsU0NSS2J1Z2hqQ0ZJNk5paktsWHBGbmZsMjk4Wk1tb1VnT1dVZmVGenU3UklPNEFuN1ppM3FSaWJNN29uT0toZWxRRDJXeGd5YURQSXhBNzRQT3lsUHZjLWtqdmFCQlpFaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "softbank-2026-07-11-001",
     "date": "2026-07-11",
     "companies": [
@@ -86,6 +144,82 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSEpNYVVjRWJEWDg3X2xGZ0hodk1MQW1fLXU1WXFhcTFqTkF2S1RGTkpieFc0U2ptcHZmZXNhcEM1MzA3cXhfNFEzSXl3Y1BXOE5tMEladVg0Q0I0dU9vMlAwS3MyMjNqSENLTWRsZlZuSUJaY0lvMFBHM09CXzFtWHF0SjJmb0RNckRv?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-07-11-006",
+    "date": "2026-07-11",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Ciena (CIEN) Is Positioned to Benefit From Multi-Year AI Networking Demand Despite Elevated Expectations - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQYzJERFNhdTB0TkdSQmZRVDRKVlJtS3ZMWV8wS2pYem8yVk9NMkNIOWVQWHdoYUZTOS1fT09xNV94ZUVDaHYxd3Z2WDVNbEItSXZJa3FzdmxxSXhmYnhCOUdxTDl4NF9zSkpYbmhMTF",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYzJERFNhdTB0TkdSQmZRVDRKVlJtS3ZMWV8wS2pYem8yVk9NMkNIOWVQWHdoYUZTOS1fT09xNV94ZUVDaHYxd3Z2WDVNbEItSXZJa3FzdmxxSXhmYnhCOUdxTDl4NF9zSkpYbmhMTFRENnpKTUNnamhKbng1RzBBamhjYTdod3g5UUotZU0wYm9pOTNOU05FOEEzUVh4QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-07-11-007",
+    "date": "2026-07-11",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sumitomo Mitsui Trust Group Inc. Acquires 31,098 Shares of Ciena Corporation $CIEN - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbDJNbERvQ3N5VElhRjg1WEZhVzgxTzEwSWhQeFAzZy0tNFFnZTdkWmxnXzgzRndOdDZvMWJQTWdldVhlRFZ4enpDOTVzWGZDTkxFT2JQbV9wVkFCcW50VVl5T2c3bldiTVZ0TVcxQn",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbDJNbERvQ3N5VElhRjg1WEZhVzgxTzEwSWhQeFAzZy0tNFFnZTdkWmxnXzgzRndOdDZvMWJQTWdldVhlRFZ4enpDOTVzWGZDTkxFT2JQbV9wVkFCcW50VVl5T2c3bldiTVZ0TVcxQnlVTm4tNnFUSWJCRlRpQk92VDJweTN0R3VUOXF6TG9JeF9qTi14SkZEUlVWR1pUZWtJbjY1c3RVa01iejB5Qjg0bmtJSmw4eWdpbTMyb3V1ckdLSVdkX19GLThCYVFqcTFxSURRb01tWQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-008",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Session Telecoms challenges ICASA R6 million fine and calls for industry-wide fraud inquiry - Tech Review Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPdnI3TUsxYnFwUTRpUWVsMVhtYWxVWEgwNzJLOHhrYkJ6TXBFcXJPX0hiS2d2SU16WVppTTdKUnYxRkJ1Tk9SOWdnZzVaT29GMGJHWXJPYmZCRDBEa094OG1NRjJCMnhWZE94VTlHbW",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdnI3TUsxYnFwUTRpUWVsMVhtYWxVWEgwNzJLOHhrYkJ6TXBFcXJPX0hiS2d2SU16WVppTTdKUnYxRkJ1Tk9SOWdnZzVaT29GMGJHWXJPYmZCRDBEa094OG1NRjJCMnhWZE94VTlHbW5RT1ZjaTBXUTgwcU5UelpIcFB5Y1M0UGY4TGw0SkFQSEV6RXd2LWlfamd5elJZam84bWloVlZSWEdLaTI2MHRjenRVY2xFS0RtbVlMazdjRXRiN1hORkR6SUFB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-11-009",
+    "date": "2026-07-11",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Elisa stock reflects the Finnish telecom group's steady position in a competitive market - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOaXNiMkxLNV9EREhVT1dGd1VVbG5PcF8tclRBNEtCaDR3b1hzVjMxVDVhZ3FLQTd6Zm9WMk9SSkxOZEZkZ196LS1KYVZQXzMza05sdGxMQU1lU3VkSld0ZHNPZnFBVmU1aDhKcGJvS1",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaXNiMkxLNV9EREhVT1dGd1VVbG5PcF8tclRBNEtCaDR3b1hzVjMxVDVhZ3FLQTd6Zm9WMk9SSkxOZEZkZ196LS1KYVZQXzMza05sdGxMQU1lU3VkSld0ZHNPZnFBVmU1aDhKcGJvS1l1OGRHWTd2SmpqMXdLLXIxRGY3cFVPeUItM3VrZC1xM3RwaHA3ZFNiV3NpS0lYa1o3aGlsY1ZnYURZSS1oYzJ3ZTY1Y0hsRGNfWDByb2NEam5tRDlkZklv?oc=5",
         "type": "rss"
       }
     ]
@@ -979,6 +1113,68 @@
     ]
   },
   {
+    "id": "softbank-2026-07-10-047",
+    "date": "2026-07-10",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank (9434) Q4 2025 earnings summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE1hNTZ0RzFicmYyXzZkWXJoVmUxamNSU01ENWV5UmZjQkJ1TWJkWjV5S0JLY0NweEplaldIbzhaeEhLYUE1MVZzZUdMRG8xa3NjYUd2TDdkdk1Uc08wQXBDaG9RbnRmc3pCdnR6Ujd3?o",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hNTZ0RzFicmYyXzZkWXJoVmUxamNSU01ENWV5UmZjQkJ1TWJkWjV5S0JLY0NweEplaldIbzhaeEhLYUE1MVZzZUdMRG8xa3NjYUd2TDdkdk1Uc08wQXBDaG9RbnRmc3pCdnR6Ujd3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-07-10-048",
+    "date": "2026-07-10",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "tower_consolidation",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Tower REIT stock underperforms Friday when compared to competitors despite daily gains - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxOY3BvMEMtMi12QUVqZy1tZk1zRFJzcVlpYVNwcE9EYlh1TDYtSWVvdkJRdVIyZXM4V055Y0ozUVJ6M1B2Mkk0WW9MRFRvZ3E1RXFxYW5OY1lQZmdHa05mM05RZXlUdDdoRDF3M2xFTG",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOY3BvMEMtMi12QUVqZy1tZk1zRFJzcVlpYVNwcE9EYlh1TDYtSWVvdkJRdVIyZXM4V055Y0ozUVJ6M1B2Mkk0WW9MRFRvZ3E1RXFxYW5OY1lQZmdHa05mM05RZXlUdDdoRDF3M2xFTGlVNUcweFcxblB0OVA1YU1FXzNwNjZCR2xiTFY0a2xRcko3TXo2VjRLSTRqSFpvQ3F5MVlGZTlZU1pWMnhFZGowV3E3cEN1SWo3WTJKd1hBRGd2WVBLOEdueHFwMlNBeTgtMGtOLUptMUVTSTltNzhBczNvVU9FMEI0YzZ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-07-10-049",
+    "date": "2026-07-10",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "tower_consolidation",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SBA Communications Rises With Tower REIT Peers as No Clear Company-Specific Catalyst Emerges - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSjk2eXJOdWx3YWJ2LXVLYmZORzhkQmo2UEZCV0VoTE9SRzF4NHl2T2VMTC1oUXJOdEhqTXdFRGNsTVRBVFRUTk9tS0lHcEt6bFFVV1JUNkt4NGFRTUs2d0loRkl5TlU5SGFRd3llQl",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSjk2eXJOdWx3YWJ2LXVLYmZORzhkQmo2UEZCV0VoTE9SRzF4NHl2T2VMTC1oUXJOdEhqTXdFRGNsTVRBVFRUTk9tS0lHcEt6bFFVV1JUNkt4NGFRTUs2d0loRkl5TlU5SGFRd3llQlN6Ni1jRnd5NTUzajRXTnpPQ2tKZ09IejBlenZIY0t0ZmhaMlQ1bC1JY1hDYm5LdmZWQ0hKTC1pV0lNV25vX2pETUxEX2lEckpYaW5hTTF2bVdQRFU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "deutsche_telekom-2026-07-09-001",
     "date": "2026-07-09",
     "companies": [
@@ -1731,6 +1927,26 @@
     ]
   },
   {
+    "id": "nokia-2026-07-09-040",
+    "date": "2026-07-09",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nokia Corporation - Managers' transactions (Hanrahan) - NTB Kommunikasjon",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQcHBkMGIxVmpYQWlmVmM0NVNPQUt4NHhWaTEwdlUyeDlxWDgxSnZBZmpjb0thUHpnQlk4NlhPNE56SGFjNVFQNm1EM0NOQURPamotMk0tTVF4TzJhNEVGVFZ4blAyck9wTEhQblNWVz",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcHBkMGIxVmpYQWlmVmM0NVNPQUt4NHhWaTEwdlUyeDlxWDgxSnZBZmpjb0thUHpnQlk4NlhPNE56SGFjNVFQNm1EM0NOQURPamotMk0tTVF4TzJhNEVGVFZ4blAyck9wTEhQblNWVzVUUDMxWWRYOFVsdXpPUGhOSS1kY1M5SHZIUERGaWtvN09nZS01YjJPRGk4RVNFSFBOTjhXZFdDSUxPQVRpNnJlQnQwN1hPbTJ1NS1HUFY4Zk56bDNyUTJV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "deutsche_telekom-2026-07-08-001",
     "date": "2026-07-08",
     "companies": [
@@ -2392,6 +2608,164 @@
       {
         "name": "ciena",
         "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ1MwbDVXT3ZrOWQ3dGVyMUFyMlpSV1M1NEhKQzNzR2x3U2JBOG1rM2F6TVFUQjY0OVZiTk5YMGJBa2g4N3E0UDNkR3puVVFLak5VRlp3OWhEWW9RYmQtYTNGc0hGQmFOWWNraVcwRVhkM3NQQmd2eTFzcVBSZEhLVkY0OU0zZlRWYXVqT3lpVUxpbk1UclVjYlBRTHIxdng0Q0NKVmIwM0p6MmxmNmlrRkdScUNyTVRaMDg0Mk5fcXRxS2liOV9VZ3BSbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-07-08-036",
+    "date": "2026-07-08",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ciena (CIEN) Q3 2025 earnings summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE5HTV8zRE1NdEw0Rlh4S0hKT2llRzRMWDE2dUNHZFhpTkJYRFQ2cXM0TlpjOWVKTzJENGxFcVVHX29yTDJzMU0zT1JlVUg5WnNGX1haaTd4ektDVXhlelQxZkVFbVVzQnhqczFRUzdpWX",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HTV8zRE1NdEw0Rlh4S0hKT2llRzRMWDE2dUNHZFhpTkJYRFQ2cXM0TlpjOWVKTzJENGxFcVVHX29yTDJzMU0zT1JlVUg5WnNGX1haaTd4ektDVXhlelQxZkVFbVVzQnhqczFRUzdpWXJxdmM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-07-08-037",
+    "date": "2026-07-08",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ciena (CIEN) Q2 2025 earnings summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE1YWWZTRk00UzZ5MFVYeVJWZWJkRy1TTnRyMURmczg0U2dsSWVNdVpuM09JX2o2Tk1RMFVrYXpwM2o0SUZKVFptV3J3NFcwVnZxRWkwbks2Rm5wSVVlODhYNFptemlxOTNDN0ZVVVUxcU",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1YWWZTRk00UzZ5MFVYeVJWZWJkRy1TTnRyMURmczg0U2dsSWVNdVpuM09JX2o2Tk1RMFVrYXpwM2o0SUZKVFptV3J3NFcwVnZxRWkwbks2Rm5wSVVlODhYNFptemlxOTNDN0ZVVVUxcUhKOWs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-07-08-038",
+    "date": "2026-07-08",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "LF Networking Expands Portfolio with New StratoWeave Project, Contributed by Deutsche Telekom, to Advance Open, AI-Native Transport Network Automation - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdExfeHNDTFlDT0dSQ2NpT1ZWaGNxcDR1OUdCM3VyNmllbGJKWGZ6aEthOGxhWl9lQ01jU1pud0ktanV3WS15bFFhMmJVcnh0V05vS0xUcXdiYWkxbFd6T1ZUMHo1OHB6aXZDUHUxbE",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdExfeHNDTFlDT0dSQ2NpT1ZWaGNxcDR1OUdCM3VyNmllbGJKWGZ6aEthOGxhWl9lQ01jU1pud0ktanV3WS15bFFhMmJVcnh0V05vS0xUcXdiYWkxbFd6T1ZUMHo1OHB6aXZDUHUxbEE5QkRwd2xqOVZnaFNVZjk0c0RyaGJwZU5QMFdKdUVVS0pDbFQwY25FbG9fY25id294SDNSb2RGZndZdmM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-07-08-039",
+    "date": "2026-07-08",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Softbank Group (ADR) (SFTBY) Live Share Price, Invest From India - INDmoney",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaTAtc1FkUlpSUjV5X1p1eHhhbzdmWV9tdTRWdFBxMFZaUmRhdW9PVGZYaUhzS19yOUxpXzN6VVpBTjd4UEM3TVd3cWpBcVN2S1V3cGYwMjhBdnp0MlJFbl9zUEdFV2xvTVZvaWx2X1",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaTAtc1FkUlpSUjV5X1p1eHhhbzdmWV9tdTRWdFBxMFZaUmRhdW9PVGZYaUhzS19yOUxpXzN6VVpBTjd4UEM3TVd3cWpBcVN2S1V3cGYwMjhBdnp0MlJFbl9zUEdFV2xvTVZvaWx2X1cwTkN5U1hjTVZYU0ZrSGRsNnhBSWJWRjJz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-07-08-040",
+    "date": "2026-07-08",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wolfe Research upgrades American Tower stock rating on tower market recovery - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdlVwemlBOFgyYkhtTk14X3Itbi1ORWZvbndQMk9HQWpVYTBZU01KeHBjblFKYWtyTFV5T0w1eXlsbHVycU9tNklxMnplNkp2OVZBT0lab2xzSmhpUy1Dd0k1OF9td1RlTlU4Xzh6WG",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdlVwemlBOFgyYkhtTk14X3Itbi1ORWZvbndQMk9HQWpVYTBZU01KeHBjblFKYWtyTFV5T0w1eXlsbHVycU9tNklxMnplNkp2OVZBT0lab2xzSmhpUy1Dd0k1OF9td1RlTlU4Xzh6WGxnLXZTcF8zR0hpWWRfR0dmTzFhRDdVWkhtQTlOWlNITVl6R05TZldVODVqTUw4RmZXekJScnZpOV9RdWxCQXZ6aFl0d3FvbS1tNkptQnFwakV6el9JVXhvX0pDNEdmbHYwYVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-07-08-041",
+    "date": "2026-07-08",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Tower (AMT) Goldman Sachs Communicopia + Technology Conference 2025 summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYTZsbnZZRzJBQUZ2eVNvOFdXa0tjSi1IZ1ZXX0g0VUVBeE1oUENVQ2hhMUJ6T0FPczhEMTd5b1AxMXI1WFltdDV2Y0x4QmYyZXVrUVVEb2t1dW0zRHZGZmJWU0VUUkprSFIyUkg2ZE",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYTZsbnZZRzJBQUZ2eVNvOFdXa0tjSi1IZ1ZXX0g0VUVBeE1oUENVQ2hhMUJ6T0FPczhEMTd5b1AxMXI1WFltdDV2Y0x4QmYyZXVrUVVEb2t1dW0zRHZGZmJWU0VUUkprSFIyUkg2ZE9UM0tpUGpTX05uN3k1dm1JNlgzY2o3b0NXckpkT2tHRjlFVzJpdmJjUk5SbWRVWjR6NjZiRFR5Y1RuQWtkQTRnVnIxcGhRXzZfY0pj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-07-08-042",
+    "date": "2026-07-08",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Tower (AMT) Nareit REITweek: 2026 Investor Conference Summary - Quartr",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOal8yVTFpaG5WNzduS2FmMFY5eWNZSTFFWHVHeXA3Wm93UmRwRWFuTmVRMGVkUEZfQVFqZ2NpLVhmd2Y3U1ZKV1VETTZsbmlLNUtwTzVxdTR5VmRqRWc4NlZuQVl4NlBCbk5Bc3RfR2",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOal8yVTFpaG5WNzduS2FmMFY5eWNZSTFFWHVHeXA3Wm93UmRwRWFuTmVRMGVkUEZfQVFqZ2NpLVhmd2Y3U1ZKV1VETTZsbmlLNUtwTzVxdTR5VmRqRWc4NlZuQVl4NlBCbk5Bc3RfR290MGd2UmYyeU12T2VPNVdlTHVSZU5OdGxVTV9VNWlfY3V2dXNwSUhMdmpDMHNMdFFfQThDcEV6eE8zUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-08-043",
+    "date": "2026-07-08",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "True Corp extends its digital network reach as Thailand's telecom market evolves - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ2xDQ3FrZFI0RDNPam5Nazd6bjB3M0VHbUhUUXp6bHlUUHo1MTFoRXZTUDJfb2JacGNIZXlZU1B6aDhMSWg3c1U5ZElZT1Q2OWwxUjZtTXZJSndGR3NPb3poS1JKVEgwYldULU5mYn",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZ2xDQ3FrZFI0RDNPam5Nazd6bjB3M0VHbUhUUXp6bHlUUHo1MTFoRXZTUDJfb2JacGNIZXlZU1B6aDhMSWg3c1U5ZElZT1Q2OWwxUjZtTXZJSndGR3NPb3poS1JKVEgwYldULU5mYnVkRGczLUk2OFhucWpNMFNydHc4VE80Vy1QQjZhYk00TTFGRjJEXzFPVlZsM3VqVWszWXVHSWx3WVJJVndRd1EyLUl4VU9EM1FGNUFqZGVtV2JKV1NuVFV5RWFuYw?oc=5",
         "type": "rss"
       }
     ]
