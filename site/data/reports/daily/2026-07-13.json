@@ -1,0 +1,194 @@
+{
+  "date": "2026-07-13",
+  "generated_at": "2026-07-13T10:53:39.606713Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-07-13-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "SNS Telecom & IT: Private 5G Market to Surpass $6.6 Billion by 2029 Driven by AI - The Fast Mode",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOV0RTdFU3aDFxS2k4anFHb25xeXVaREZRLU5nWGJzRTF2dlF2OXF3d09WUGk5MTM4dnI2QUNIM1RPaEh3alQ4QXlId2RXazEzekFZNnJicmY4N2VKZDVDM0VsXzNLcDEyM3VHZUVVMlBZOGV2WTMtZEN4OTVKRUM4ZGZVa3BLUEN4QjJnOGs4NjdoRkw2cHBvc0FfRmF5NUJVc3VQeU91QWIxajFJdXV1YkFQaG5CNHBybm5HZk56UkxvT1NqNXF2b0k2cFdJZ29UdjktTUhTVWQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ciena-2026-07-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Corporation $CIEN Shares Sold by J. Safra Sarasin Holding AG - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN0VndEFYaUY3cXQwZ2d6aFNyaTY5U19zamFzYWREZGpNR1RremM2dEJfUUtDTVd2cWpEdDNMMnBZLVI5dzNfWGFCT1U0MTIxWTZLaWJHQlRSekdEMFcxYTRUYzktWWZMOWtfeTZUQ0x6SkN5ejJYdmt0RGpudGNOVzM0akUxY0xlM3FIWDNSc0lBMlNhVWpvU2RsaUJmbEY1Z3NYYUxmdklnY2lWMW9MeVI5X3hOTW4wR250UEk1Y0VHYlE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ciena-2026-07-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Triglav Investments D.O.O. Purchases Shares of 2,200 Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORzBINF9XYi1lNHhpSWp4QkVHQlRsWGFjVlpGRWZnWjd0M09qV0tmRmRqMGhpdWVpS0QyWUJFWk1VaURPOUE5WU13OS1DZTNwbk1JWTF2OEl1VjNNLU1MOE1RTlVlcnNjeGFqVFJ1dVZjcWN6U3htUlFGSFdfN3A2c2ZsTmFJWlYxN3NTWGNKREluak02Tzg1aGczdnVQZ3M3V3NnUTZRLUxqY0J6bFhZY3drdUpwMlJ2dzEwdjFNc0dMa3dyYkdpb0VVWmg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "softbank-2026-07-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Yaskawa Electric : and SoftBank Corp. Validate a Physical AI-Based Deformable Object Manipulation System - marketscreener.com",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZnpKRXZDdks0SUF2OWhFVE1zQ1hWeGdWZ1gwYjU4bTI2SjhGc2RaTUo2VUNDNmRVcjdCWmJRSTlJWVBsQUlRc3lQSnQxTzl5SDdKRV9JbmcxMmc0MVVwdXVRdWZIdklwVFMxeWhkZzFYQmxrb1Q2bHlnUjB4MTRhTzRmdFB4YjlvT0hMOElRblRIUnBFUm5ZMmNUa2pvaXBKa250M1F6VVFYOXdUdDhZal9oRnFoRi1XTzFyZ2o0UWNJc2xMdXd1SGZyQ3piV0wxOWFZYk90WmpDWTVMYnNYTUl0NS0?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "softbank-2026-07-13-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SoftBank, Yaskawa demo AI platform for robots - Tech in Asia",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcG1RWmlzaFVEU0NPRmEtcnh3TkxrU2t4bGgxZThLX2FTZ0pLQWRDbThDNEx4ZUdBbENXdFYwQXd0SklVR3pTUGdqTlZOMU94SGpjdUNvSDAwbHQ4WG0xa1lXLUlnQklyUXFlZk5MeXljMGkzOXZ1LW9VZk5UOXlQNDRB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 8,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.19,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "softbank",
+        "count": 3
+      },
+      {
+        "id": "ciena",
+        "count": 2
+      },
+      {
+        "id": "american_tower",
+        "count": 1
+      },
+      {
+        "id": "sba_comm",
+        "count": 1
+      },
+      {
+        "id": "verizon",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 8
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 299,
+    "dup_title": 167,
+    "too_old": 96,
+    "gate1_blocked": 5,
+    "gate2_blocked": 6,
+    "passed": 25,
+    "pass_rate": "18.9%",
+    "gate2_block_rate": "4.5%",
+    "gate2_samples": [
+      "Ciena Corporation (CIEN)’s Blue Planet Division Introduced Blue Planet Configuration and Change Mana",
+      "Is Ciena's Recent Surge Sustainable Amidst Insider Selling - Kavout | AI",
+      "Ciena: Great AI Prospects, But The Hurdle Is Too High (NYSE:CIEN) - Seeking Alpha",
+      "Cvfg LLC Invests $5.36 Million in Ciena Corporation $CIEN - MarketBeat",
+      "Flatrock Wealth Partners LLC Invests $1.95 Million in Ciena Corporation $CIEN - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為軟銀、Ciena、AMT相關動態：「SNS Telecom & IT: Private 5G Market to Surpass $6.6 Billi...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "SNS Telecom & IT: Private 5G Market to Surpass $6.6 Billion by 2029 Driven by...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Ciena Corporation $CIEN Shares Sold by J. Safra Sarasin Holding AG - MarketBeat（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
