@@ -1,0 +1,234 @@
+{
+  "date": "2026-07-14",
+  "generated_at": "2026-07-14T09:50:50.525298Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_tower-2026-07-14-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Tower (AMT) Q2 2024 earnings summary - Quartr",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rTFZObTRHSTdnTE1kSTl0Tm5JQlMzMlRlbjl6R0QzSDZlUkFTaU84MG9jR3RkX1U4aEh5TXFZN3Mxa1pVMXNQY0I4T3pSZzR2TkJyRTl6ZFh5SjdOZ3JNZHJZQXNpbG5JeUpGTmhB?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nokia-2026-07-14-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Nokia Corporation And Taiwan Mobile Co., Ltd. Extend 5G Partnership To Advance AI-Powered Networks - marketscreener.com",
+      "companies": [
+        "nokia",
+        "taiwan_mobile"
+      ],
+      "related": {
+        "customers": [
+          "taiwan_mobile"
+        ],
+        "suppliers": [
+          "nokia"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZzlrZnRyMWZ4Q1ZUUzFrbTg2SjZqT0hzNVJxbVZjWVNxbXFiRnZBVU9NSzdNNElVSWx0czgtQTFRalIwUEFJaWFkNmhKbm12QndGUENwVjkxeUJrYUFvdFhlVlVJR3dpV0FXcExJS0RzTWlFXzhSVzlQUDFzWlY2b1hDSHA5aGFUVFNQNFQ0T1d1RHlWeERFOGhrdDE3NEtjc3NlWUlPbjdfMGpiSGo0SjJKd2U1U2NqQWJmNDczbjB4ajRpZkhVZkN0bnBLN2Ewa0JFZW8xTHNMY3ZaTFF1cjJB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ciena-2026-07-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Corporation $CIEN Shares Sold by Commonwealth of Pennsylvania Public School Empls Retrmt SYS - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPV1dfUW5LRF9TaEpGZ3dHTnRnQkpjaTVHZ3FzSXYwaXp2N2ZQVDlMQzl6by1RdE56dThMVmE0SktsMG5CbDFHbUR3SFVwb0o1d3RWaUNocTZJUFFsRnpGclR0VWdFSUZVMkVDQ0FSZUFVdFRrbi1MQ2dmcTJXcmRZMUpXWTZvSzY1bWkxcXpKTFdhYTMwd1JwcG5PQzNyb2c1Zk91V0pvM2o3enZkdnMwY1l2dVBfajBsSGIwRHVLUlp1RXFkVTQ4Und3TkNYRHRkcmJRZzBsd01RWHVSaHE4SGQ4UTRlM2R6RDkwZ3JxOA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "softbank-2026-07-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Softbank Corp partners with AI firm Sierra for agentic customer support - Investing.com",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLTdQTzI1bkgyQ3NrM1QyVV9zN19nSEptMExkWjFpT3lsdjY5WmR2bHBWTXRuRHhPRlpIbW1jSWl0a0JjMWduMUFOQ1RlSV8xNVIySTQ4VEw0YXJ1aXZxSzd6ek1NaGE3ZTZ2aXAyOW4zQVpab25kd3NKUGptU2hrQnlWQzMyUEdpQW1jXzV6NWdRRVQzRVN2Z3FwWEluOTJWSF9uNEVIQjA1YmlZREI4ZzlRbXYyVGFOeUxJSnNwMGtidkNPcTV6VWpRUzdLbWJKaWc?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "softbank-2026-07-14-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SoftBank Corp. and Yaskawa Electric Corporation Demonstrate a Deformable Object Manipulation System Using “AI Data Center GPU Cloud” as a Physical AI Development Platform | About Us | SoftBank - ソフトバンク",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9la2MxZFgwY1BTcFprR1FSU1d0bmtfTDFxX3plSU9KN0ZDTUVBaVJZRnI5RUpsaG94UGJPR2lkYzZrZGdEdkVUUmp0bld2U2twYXExNndRamItWkpsME54T1hUSExOenhLbWpBZlFTX0Q?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 13,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "5g_deployment": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "softbank",
+        "count": 4
+      },
+      {
+        "id": "sba_comm",
+        "count": 2
+      },
+      {
+        "id": "nokia",
+        "count": 1
+      },
+      {
+        "id": "taiwan_mobile",
+        "count": 1
+      },
+      {
+        "id": "ciena",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 13
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "5g_deployment",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 306,
+    "dup_title": 172,
+    "too_old": 81,
+    "gate1_blocked": 8,
+    "gate2_blocked": 5,
+    "passed": 40,
+    "pass_rate": "29.9%",
+    "gate2_block_rate": "3.7%",
+    "gate2_samples": [
+      "Is Ciena's Recent Surge Sustainable Amidst Insider Selling - Kavout | AI",
+      "Ciena: Great AI Prospects, But The Hurdle Is Too High (NYSE:CIEN) - Seeking Alpha",
+      "Ciena Corporation (CIEN)’s Blue Planet Division Introduced Blue Planet Configuration and Change Mana",
+      "Cvfg LLC Invests $5.36 Million in Ciena Corporation $CIEN - MarketBeat",
+      "Flatrock Wealth Partners LLC Invests $1.95 Million in Ciena Corporation $CIEN - MarketBeat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為軟銀、SBA、諾基亞相關動態：「American Tower (AMT) Q2 2024 earnings summary - Quartr」。主要關注主題為產業通用、法說會、5G 部署，市場情緒中性。",
+    "signals": [
+      {
+        "text": "American Tower (AMT) Q2 2024 earnings summary - Quartr（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Nokia Corporation And Taiwan Mobile Co., Ltd. Extend 5G Partnership To Advanc...（產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
