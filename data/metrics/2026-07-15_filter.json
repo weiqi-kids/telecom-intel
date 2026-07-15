@@ -1,0 +1,14 @@
+{
+  "total_raw": 285,
+  "dup_title": 162,
+  "no_date": 0,
+  "too_old": 74,
+  "gate1_fail": 5,
+  "gate2_fail": 3,
+  "passed": 41,
+  "gate2_samples": [
+    "Is Ciena's Recent Surge Sustainable Amidst Insider Selling - Kavout | AI",
+    "Ciena Corporation (CIEN)’s Blue Planet Division Introduced Blue Planet Configuration and Change Mana",
+    "Deutsche Telekom and AIT to Spearhead EU Quantum Communication Infrastructure via PETRUS2 and Harmon"
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "date": "2026-07-15",
+  "generated_at": "2026-07-15T09:55:15.564601Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nokia-2026-07-15-009",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Nokia, Taiwan Mobile Advance AI-Native 5G Network Expansion - Telecom Review Asia",
+      "companies": [
+        "nokia",
+        "taiwan_mobile"
+      ],
+      "related": {
+        "customers": [
+          "taiwan_mobile"
+        ],
+        "suppliers": [
+          "nokia"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnp5N1lraWM1amllY18yWFhzQXJnbkV6SlZDZ2xHZ2tsTGJQVzUxWHRDQllqVGtKeUFZYklZdE5MYm5Ecks2YzRfRzM4dUF4Q1dZcjBfR1J0M0NVRnBMZUMzaHFuNnZoNHJYZE5FbHNfcng0SklCeVB1V051UUk4ZnZZWnJveXVDUWtrYzA5R2lfQkQyTmtsUXZPZDdrQnNxUThpdkU1d0xfVlNrekZfUlE4OUJFV0pZ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nokia-2026-07-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia’s New AI Platform Could Transform Future 5G and 6G Networks - Benzinga",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMG5mUVBTR25FT19NVVEzT1VFNktSR2k4QnIzUlQzMXBvMmUwTlZJVVFVMWhDcXp5UkhiVXI1Z0VGeF9ScGFaZXhmb3hXeWVleDVMMEhFMXlHMHNHOUIzZzdMU1d3Q1dHeXZtbC1vZWNpTTljUVJvQTJGYlJpb091R3ZybXpUU3RRSHlLT1hVd0ZOOEUxdWdINmEyYVY1WUUwQnF2TFRUcFdsQmlkNmRaUmFqektSM2pxSl9fSzlJN3Z3Q1U?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ciena-2026-07-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Calamos Advisors LLC Raises Stake in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQXhSUWZSaUlDWW5WVnVHNS1WcmxVUTBrcndjQVE3Q0xlckFqbWdSbXJMODFPakNHMkg4dVdkbGZ0dkEwRlAybXVuai0wZnQ3a0VuSE5DN3l3aFY4WDZVSDVMVjBSQzYxYU1CVVNBMTRCQ25DVlFpMEpPd3AwQzExWkxqZHFGVzFVbkt0MzZFa2JWU3EwNm0zbkppQ1NSM2ZWVjhwMDN6ZlFIWHc4dVBLTGFUSGxRRXdmUk5HbA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ciena-2026-07-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Corporation $CIEN Shares Acquired by State of Michigan Retirement System - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOHl0ZkFvRnhkOHJBc0hlWGlWN3VMUHM2NEZVZXc0YnZsdmlydG1pRUswUDhaZklodVlSdElxcDA0RG1NNFl4WWZlcl9XRTh6RkZlMG91UUJiM2ExWENyeVJzTXFDVkpzUkRhdVBsT0FUNTBtVFRwaFhkVi1JazlVdjcxRnpnWF9WaHo0WDJZcFd1SGE2Nk9IM0Z1UWVPVmR2c1FFRzhIZHRKSkFYaFFfZC1UVWZFeDJPZlVsZWtvNXJKakpLY0pfUHJxLTZpWm5JVUY3OA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ciena-2026-07-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Teachers Retirement System of The State of Kentucky Sells 33,014 Shares of Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOZWxNVFFoUWZxRF95X2plcVFHTm0ydEpIOHRiTzVINzF6bEVoVDg0aWZBT0FQdnF3RUM3Yk5udUlJSlp5ZXBHc3VvcHljQ3ltOVhnSGJkUmtaTmRURWUzNzkwOGNxa1Z2NVlrVEtUNUJ1NjRGOEg3UEo2eGNQbmtaYk9qLUxaRXVzUFdtckhUQjFJS1VacFpQeTRfRUJCQzJKYl9tS19vcVFxYi1aVmpVYnpmVXlNekFPZVY1UE9NdUdmbDVJd2hueWwzQmZESnlaU1RFa3RzZF81bW9SYk13ci0yRlZMdmJTUVpGNy13?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 13,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 12,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 3
+      },
+      {
+        "id": "american_tower",
+        "count": 3
+      },
+      {
+        "id": "nokia",
+        "count": 2
+      },
+      {
+        "id": "equinix",
+        "count": 1
+      },
+      {
+        "id": "taiwan_mobile",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 285,
+    "dup_title": 162,
+    "too_old": 74,
+    "gate1_blocked": 5,
+    "gate2_blocked": 3,
+    "passed": 41,
+    "pass_rate": "33.3%",
+    "gate2_block_rate": "2.4%",
+    "gate2_samples": [
+      "Is Ciena's Recent Surge Sustainable Amidst Insider Selling - Kavout | AI",
+      "Ciena Corporation (CIEN)’s Blue Planet Division Introduced Blue Planet Configuration and Change Mana",
+      "Deutsche Telekom and AIT to Spearhead EU Quantum Communication Infrastructure via PETRUS2 and Harmon"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 13 則事件，焦點為Ciena、AMT、諾基亞相關動態：「Nokia, Taiwan Mobile Advance AI-Native 5G Network Expansi...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Nokia, Taiwan Mobile Advance AI-Native 5G Network Expansion - Telecom Review ...（產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Nokia’s New AI Platform Could Transform Future 5G and 6G Networks - Benzinga（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

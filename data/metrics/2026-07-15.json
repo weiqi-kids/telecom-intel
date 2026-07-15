@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-15",
+  "total_events": 13,
+  "by_company": {
+    "nokia": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "ciena": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "american_tower": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "equinix": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    },
+    "taiwan_mobile": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "verizon": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 12,
+      "sentiment_avg": -0.04
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
