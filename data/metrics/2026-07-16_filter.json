@@ -1,0 +1,16 @@
+{
+  "total_raw": 308,
+  "dup_title": 167,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 11,
+  "gate2_fail": 8,
+  "passed": 49,
+  "gate2_samples": [
+    "Ciena Drops 7.2% Amid Sector-Wide Selling - AlphaStreet",
+    "Is Ciena's Recent Surge Sustainable Amidst Insider Selling - Kavout | AI",
+    "Form 144 Ciena Corporation For: 15 July By Investing.com - Investing.com India",
+    "Deutsche Telekom and AIT to Spearhead EU Quantum Communication Infrastructure via PETRUS2 and Harmon",
+    "Linux Foundation Adopts Open Source StratoWeave From Deutsche Telekom - Open Source For You"
+  ]
+}
