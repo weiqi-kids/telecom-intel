@@ -1,0 +1,16 @@
+{
+  "total_raw": 306,
+  "dup_title": 175,
+  "no_date": 0,
+  "too_old": 71,
+  "gate1_fail": 12,
+  "gate2_fail": 7,
+  "passed": 41,
+  "gate2_samples": [
+    "Ciena Drops 7.2% Amid Sector-Wide Selling - AlphaStreet",
+    "Form 144 Ciena Corporation For: 15 July By Investing.com - Investing.com Nigeria",
+    "Deutsche Telekom, AIT Win EU Quantum Backbone Mandate With Eagle-1 on Deck - Tech Times",
+    "Deutsche Telekom and AIT to Spearhead EU Quantum Communication Infrastructure via PETRUS2 and Harmon",
+    "SBA Communications Prices $3.5 Billion Senior Notes Offering to Refinance Term Loan and Revolver - T"
+  ]
+}
