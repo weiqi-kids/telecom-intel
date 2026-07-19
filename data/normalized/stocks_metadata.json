@@ -1,28 +1,28 @@
 {
   "ericsson": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "nokia": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "zte": {
-    "earliest": "2000-10-30",
+    "earliest": "2000-08-01",
     "latest": "2026-07-17",
-    "count": 6339
+    "count": 6403
   },
   "ceragon": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-08-04",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6525
   },
   "ciena": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "calix": {
     "earliest": "2010-03-24",
@@ -31,14 +31,14 @@
     "history_complete": true
   },
   "att": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "verizon": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "tmobile": {
     "earliest": "2007-04-19",
@@ -49,7 +49,8 @@
   "chunghwa": {
     "earliest": "2000-11-15",
     "latest": "2026-07-17",
-    "count": 6372
+    "count": 6372,
+    "history_complete": true
   },
   "taiwan_mobile": {
     "earliest": "2002-08-27",
@@ -64,9 +65,9 @@
     "history_complete": true
   },
   "deutsche_telekom": {
-    "earliest": "2000-10-12",
+    "earliest": "2000-07-14",
     "latest": "2026-07-17",
-    "count": 6579
+    "count": 6643
   },
   "softbank": {
     "earliest": "2018-12-19",
@@ -75,34 +76,34 @@
     "history_complete": true
   },
   "american_tower": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "crown_castle": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "sba_comm": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "equinix": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-08-11",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6520
   },
   "etf_iyz": {
-    "earliest": "2000-10-18",
+    "earliest": "2000-07-20",
     "latest": "2026-07-17",
-    "count": 6473
+    "count": 6536
   },
   "etf_fivg": {
     "earliest": "2019-03-04",
-    "latest": "2026-07-10",
-    "count": 1848,
+    "latest": "2026-07-17",
+    "count": 1853,
     "history_complete": true
   }
 }

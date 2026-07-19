@@ -1,0 +1,16 @@
+{
+  "total_raw": 304,
+  "dup_title": 197,
+  "no_date": 0,
+  "too_old": 76,
+  "gate1_fail": 9,
+  "gate2_fail": 8,
+  "passed": 14,
+  "gate2_samples": [
+    "Ciena Drops 7.2% Amid Sector-Wide Selling - AlphaStreet",
+    "Form 144 Ciena Corporation For: 15 July By Investing.com - Investing.com Nigeria",
+    "Independent Financial Group LLC Invests $3.02 Million in Ciena Corporation $CIEN - MarketBeat",
+    "Deutsche Telekom and AIT to Spearhead EU Quantum Communication Infrastructure via PETRUS2 and Harmon",
+    "Deutsche Telekom, AIT Win EU Quantum Backbone Mandate With Eagle-1 on Deck - Tech Times"
+  ]
+}
