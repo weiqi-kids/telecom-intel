@@ -1,0 +1,16 @@
+{
+  "total_raw": 304,
+  "dup_title": 177,
+  "no_date": 0,
+  "too_old": 88,
+  "gate1_fail": 9,
+  "gate2_fail": 6,
+  "passed": 24,
+  "gate2_samples": [
+    "Independent Financial Group LLC Invests $3.02 Million in Ciena Corporation $CIEN - MarketBeat",
+    "Deutsche Telekom and AIT to Spearhead EU Quantum Communication Infrastructure via PETRUS2 and Harmon",
+    "Deutsche Telekom, AIT Win EU Quantum Backbone Mandate With Eagle-1 on Deck - Tech Times",
+    "SBA Communications (SBAC) BofA Securities Leveraged Finance Conference 2025 summary - Quartr",
+    "SBA Communications Prices $3.5 Billion Senior Notes Offering to Refinance Term Loan and Revolver - T"
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T10:45:11.523747Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sba_comm-2026-07-20-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SBA Communications stock stabilizes as tower revenue supports cash flow - ad-hoc-news.de",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQM3hrNjFQdUh2T1dwNlFSSk05VlA1akpTMk90LWFHeDVHemRuTnNPUURQS1l6UEY1QWdhUkh1Ti1UV3VKZkRMc1JGOHhzN2dsMGJtRjROM0F2eWxZNVlLNmZRZUNSSEdEeHUxbk5rVUlWRlViamgwOEhwaXRyV00weTRpb1lsRE12R0hoclpjUExvV3VYZ1F3VTFTYXRsUDh1ZUpoc2pSQTRtQ0ZodkJKTnVkV1FWQlNrZ2trcncwMnJCNkRLSlpqMF93?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ciena-2026-07-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Swiss National Bank Raises Stock Holdings in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbVlsUVZwWThuZ0dMMldVc0hsbk4zb3Zsa2I1OEVQUHI5NlFvVUJYMkRwZUQ2bTlqeG12dE5iUVlSQnB1VzRVekR6MGpSSGlwcUkwR1BQVE42aEQteWpILUdUZGdOUjYxa1VPSVd4clk2U2lObTRPazJmcXlPbWNTa1dIZDFsQm9mNWsxenZ1VjIyZkxXTFJYWkJKck4tYVp1LW9CN1B1NTl5ckZYbEl1OG9SYkV2UnY1cHFYNllzT2RPS3ZTZWl3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ciena-2026-07-20-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hsbc Holdings PLC Purchases 168,736 Shares of Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV0pPakktak1tUXVkOWdVSEZzeVNNRkVHelZwNFdsRTU2VWwybk04bUEwaTc5bjVYWHpLZ1BTTTlfT1dheXExaUN4UnJNODdKT1NHRzVJT3BMOU1XWWhWTjQxV1FJWGI5Sk90d1BEQzRuZjgwTmU5TXFYRndObVFUdWRmU28tZ3BsWldZVkI5VWhjdmh0MGR0TXFnNjJJd1A3YmNZQWZCMU9MVGNpT2NEM2xJaXBQTmxPaVd4Sm1UdUtxNVdweVlz?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ciena-2026-07-20-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Corporation $CIEN Shares Sold by California Public Employees Retirement System - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWVVYak5vMUxHemlsRlJtaGloZVBIaVFWU0tPNG1kdXBJSHdPdW1hR041WWR1bkd3QjJxSm1kSldYSm56bVRjYmVmWGUwVFhSN1RpMlpGM2duemtQVzlhSGVpOUtUS3VGUVltMTFSeFlxMGg1c0pvNWRab3V1bUF1R01UaVJyYnM3ZDhzWnd3TW1lWjFTOF9udF9qWF80NnBLOUQyamNUUG9RbUljc29SRHo5Z3RZTHJsUlJIV3lBZ0FFZGNIbjh5aFRsY1RkR2xWLTVoN1FiN0VwdHp6?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ciena-2026-07-20-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "10,319 Shares in Ciena Corporation $CIEN Bought by AIA Group Ltd - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVXA0NUtkS01JTVVNUzVyUDd0QTRjcmlBa1h3QkR5Snk4TlExbGxHRTFrTThFV0t3dURlT2pONktfR3l0MmpXMnkxSTB2U1pEWFVVV1kyODAyX0FXV2VWX3dvUkttWWxoa0VZanNkdzR3dmpZVE5zSmhCS21MS3lLb0xwY0h5c3VzTVA0Q0xEQWJNei0zMTlrU3hibFFUR01abTBEa0lOS0lIanZ0aExtdGxBTXdFV0Vod2hoSjVvSmc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_tower",
+        "count": 7
+      },
+      {
+        "id": "ciena",
+        "count": 4
+      },
+      {
+        "id": "sba_comm",
+        "count": 1
+      },
+      {
+        "id": "equinix",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 304,
+    "dup_title": 177,
+    "too_old": 88,
+    "gate1_blocked": 9,
+    "gate2_blocked": 6,
+    "passed": 24,
+    "pass_rate": "18.9%",
+    "gate2_block_rate": "4.7%",
+    "gate2_samples": [
+      "Independent Financial Group LLC Invests $3.02 Million in Ciena Corporation $CIEN - MarketBeat",
+      "Deutsche Telekom and AIT to Spearhead EU Quantum Communication Infrastructure via PETRUS2 and Harmon",
+      "Deutsche Telekom, AIT Win EU Quantum Backbone Mandate With Eagle-1 on Deck - Tech Times",
+      "SBA Communications (SBAC) BofA Securities Leveraged Finance Conference 2025 summary - Quartr",
+      "SBA Communications Prices $3.5 Billion Senior Notes Offering to Refinance Term Loan and Revolver - T"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為AMT、Ciena、SBA相關動態：「SBA Communications stock stabilizes as tower revenue supp...」。主要關注主題為產業通用、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "SBA Communications stock stabilizes as tower revenue supports cash flow - ad-...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Swiss National Bank Raises Stock Holdings in Ciena Corporation $CIEN - Market...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

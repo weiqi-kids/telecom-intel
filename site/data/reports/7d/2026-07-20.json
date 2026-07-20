@@ -1,0 +1,162 @@
+{
+  "date": "2026-07-20",
+  "date_range": {
+    "start": "2026-07-14",
+    "end": "2026-07-20"
+  },
+  "generated_at": "2026-07-20T10:45:11.667595Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "american_tower-2026-07-14-007",
+      "date": "2026-07-14",
+      "title": "American Tower (AMT) Q2 2024 earnings summary - Quartr",
+      "importance_score": 0.75
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "nokia",
+      "company_b": "taiwan_mobile",
+      "co_mention_count": 3,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 67,
+      "last_week": 52,
+      "week_over_week_change": "+29%",
+      "sentiment_this_week": -0.01
+    },
+    "earnings": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "5g_deployment": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nokia": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "taiwan_mobile": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "ciena": {
+      "event_count": 14,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "softbank": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "american_tower": {
+      "event_count": 22,
+      "sentiment_avg": 0.0,
+      "rank": 1
+    },
+    "sba_comm": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "equinix": {
+      "event_count": 4,
+      "sentiment_avg": -0.12,
+      "rank": 5
+    },
+    "verizon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "ceragon": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "att": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 204,
+        "last": 228,
+        "change_pct": -10.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-14",
+      "event_count": 48,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-15",
+      "event_count": 52,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-07-16",
+      "event_count": 35,
+      "sentiment_avg": -0.07
+    },
+    {
+      "date": "2026-07-17",
+      "event_count": 30,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-07-18",
+      "event_count": 14,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-19",
+      "event_count": 9,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-20",
+      "event_count": 16,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-14 ~ 2026-07-20）共 204 則事件，重點為「American Tower (AMT) Q2 2024 earnings summary -...」。產業通用、法說會、5G 部署為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "諾基亞",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Ciena",
+        "reason": "本週出現 14 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "軟銀",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
