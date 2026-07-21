@@ -1,0 +1,16 @@
+{
+  "total_raw": 305,
+  "dup_title": 177,
+  "no_date": 0,
+  "too_old": 83,
+  "gate1_fail": 9,
+  "gate2_fail": 5,
+  "passed": 31,
+  "gate2_samples": [
+    "Independent Financial Group LLC Invests $3.02 Million in Ciena Corporation $CIEN - MarketBeat",
+    "Deutsche Telekom secures German rights to 2030 FIFA World Cup - TheDesk.net",
+    "Germany: Deutsche Telekom scores World Cup 2030 rights - Advanced Television",
+    "SBA Communications (SBAC) BofA Securities Leveraged Finance Conference 2025 summary - Quartr",
+    "Verizon to unload 274 stores, lay off 500 corporate employees"
+  ]
+}

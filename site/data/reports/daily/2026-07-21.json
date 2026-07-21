@@ -1,0 +1,232 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T10:19:15.083440Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nokia-2026-07-21-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nokia stock holds steady as networks revenue stabilizes and 5G orders support outlook - Ad-hoc-news.de",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX19HOHJCUjhCRjh5TE5mSUtGWldWS0ZvNS1VNlFZaHBJRlZVWEJBck4wc214emZ2VFhJNGJCUFV4Q0RBM0JWLTJsdlJjbmZrZ2dTYmxWVklHcDZ1dk0xenNEWkt1Tm5yT2Fqa202U3J2eHdjelRiZVk3UGtPVC1Pdm9sNUs1ZzdTWGw2YmRlY1lKeThURGJoa1dsTS05dER4OEZSN3hQWV94QTZNcktSZy12SWk3c2NMTUtaQlN0TEdoRVRSaGZJ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "american_tower-2026-07-21-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Tower (AMT) Expected to Post Quarterly Earnings on Tuesday - MarketBeat",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeU4zS2JhR2JfTEYyeENicml3SWhmRGhsRFQtQXhGYjREc2FGZUc5dVNnQVZkSXZyTGpVdDE2XzB0UEpkYlM4cmdRb2NmaW11WnNLOF9sZWRlTkF4cnNNYnlraHJyTy1KdEdKY2ZySGJ1ZFROS0ZBS0ppVmU0YUc3cFFWOE9DU1pUVVpSaFVwWlhnS1VuR01talltSXJ4Y0xWZnJsbGJSc0tlRTIxaWlvMFBnUlM0eE94a240?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ceragon-2026-07-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ceragon to help expand a nationwide operator's 4G and 5G network - Stock Titan",
+      "companies": [
+        "ceragon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMUJJUlJQOGJwRDlvLVg1cFNTLVZ6YzI4ZS1xUHRHVEplNlQ4aDV5U1J3WFFNNUUxLTgtVjlYV1FGZjJxTmZLQk9JaDR3cHhDTDNqUG5YdERtX0dpdG9pX2ozN0RWQnBiZ0ptWGNvaDd4S0dLQjBydTJycEJaUkRoeTJOTjJUTHR3emRCS0tGVjNOemdQeGRqdzRhdkFDSGtQMUFSdndhUkpaS21ZcmRLYlk3TVp2c1VEOHAzZzVtUQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ciena-2026-07-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Mediolanum International Funds Ltd Purchases New Shares in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNODdGUUYtNWpjdUVwWVdEOVR1eTV0MVc4ZUliSV9FaXdHQlF5NGpxa3pubkxSQTE4aGltR1A4VHF2NDlhSkFnXzVVZjF4Q2k4cTF2OGFBY3AxUThzUG5QSG8wM2o1bEszeTNfSmNPdG9qdEhSUDBNVlk0bEVqUl9qMUVURUx5YmVfZlhoZUU5VkVIZlNkTzNCaDA5bmNqRnVHZmYwREdwR1pLN2dwUGlRTkg4cGZzTEZ6SThma3hZVGNWaERkTDFRcG54M3p0aXNvZXUzcWtQVWx4UQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ciena-2026-07-21-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SEB Asset Management AB Buys Shares of 37,479 Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQllSelFlaDJPWHVZaVhkNWVwYUhpVWt3RjQwdW5JOU9vVHVjNUpuNkdHalZFNzFDanAwa0dpdmJoazlZMGlUQ3Z1dFpvUVNmM3FJRFFBQldTQmNJTXFUS285cldEcU5QSzFwNmNvX0FubTZhTUpxT3pyMFZkNG81MTB5eklPOHlMbWpwb3NId05LVDFzVzhNeHFaZ3BJSGFWUElxVFlydDc3TlZ5YUlUUUxDODE0OGdFWXo3ZWdXTHhSNkxTUlk4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "arpu": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 18,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_tower",
+        "count": 4
+      },
+      {
+        "id": "ciena",
+        "count": 3
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 3
+      },
+      {
+        "id": "sba_comm",
+        "count": 3
+      },
+      {
+        "id": "nokia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "arpu",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 305,
+    "dup_title": 177,
+    "too_old": 83,
+    "gate1_blocked": 9,
+    "gate2_blocked": 5,
+    "passed": 31,
+    "pass_rate": "24.2%",
+    "gate2_block_rate": "3.9%",
+    "gate2_samples": [
+      "Independent Financial Group LLC Invests $3.02 Million in Ciena Corporation $CIEN - MarketBeat",
+      "Deutsche Telekom secures German rights to 2030 FIFA World Cup - TheDesk.net",
+      "Germany: Deutsche Telekom scores World Cup 2030 rights - Advanced Television",
+      "SBA Communications (SBAC) BofA Securities Leveraged Finance Conference 2025 summary - Quartr",
+      "Verizon to unload 274 stores, lay off 500 corporate employees"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為AMT、Ciena、德國電信相關動態：「Nokia stock holds steady as networks revenue stabilizes a...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nokia stock holds steady as networks revenue stabilizes and 5G orders support...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "American Tower (AMT) Expected to Post Quarterly Earnings on Tuesday - MarketBeat（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

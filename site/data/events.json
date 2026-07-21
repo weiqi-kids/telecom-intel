@@ -1,5 +1,378 @@
 [
   {
+    "id": "nokia-2026-07-21-001",
+    "date": "2026-07-21",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nokia stock holds steady as networks revenue stabilizes and 5G orders support outlook - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOX19HOHJCUjhCRjh5TE5mSUtGWldWS0ZvNS1VNlFZaHBJRlZVWEJBck4wc214emZ2VFhJNGJCUFV4Q0RBM0JWLTJsdlJjbmZrZ2dTYmxWVklHcDZ1dk0xenNEWkt1Tm5yT2Fqa202U3",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX19HOHJCUjhCRjh5TE5mSUtGWldWS0ZvNS1VNlFZaHBJRlZVWEJBck4wc214emZ2VFhJNGJCUFV4Q0RBM0JWLTJsdlJjbmZrZ2dTYmxWVklHcDZ1dk0xenNEWkt1Tm5yT2Fqa202U3J2eHdjelRiZVk3UGtPVC1Pdm9sNUs1ZzdTWGw2YmRlY1lKeThURGJoa1dsTS05dER4OEZSN3hQWV94QTZNcktSZy12SWk3c2NMTUtaQlN0TEdoRVRSaGZJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ceragon-2026-07-21-002",
+    "date": "2026-07-21",
+    "companies": [
+      "ceragon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Ceragon to help expand a nationwide operator's 4G and 5G network - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQMUJJUlJQOGJwRDlvLVg1cFNTLVZ6YzI4ZS1xUHRHVEplNlQ4aDV5U1J3WFFNNUUxLTgtVjlYV1FGZjJxTmZLQk9JaDR3cHhDTDNqUG5YdERtX0dpdG9pX2ozN0RWQnBiZ0ptWGNvaD",
+    "sources": [
+      {
+        "name": "ceragon",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMUJJUlJQOGJwRDlvLVg1cFNTLVZ6YzI4ZS1xUHRHVEplNlQ4aDV5U1J3WFFNNUUxLTgtVjlYV1FGZjJxTmZLQk9JaDR3cHhDTDNqUG5YdERtX0dpdG9pX2ozN0RWQnBiZ0ptWGNvaDd4S0dLQjBydTJycEJaUkRoeTJOTjJUTHR3emRCS0tGVjNOemdQeGRqdzRhdkFDSGtQMUFSdndhUkpaS21ZcmRLYlk3TVp2c1VEOHAzZzVtUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-07-21-003",
+    "date": "2026-07-21",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mediolanum International Funds Ltd Purchases New Shares in Ciena Corporation $CIEN - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNODdGUUYtNWpjdUVwWVdEOVR1eTV0MVc4ZUliSV9FaXdHQlF5NGpxa3pubkxSQTE4aGltR1A4VHF2NDlhSkFnXzVVZjF4Q2k4cTF2OGFBY3AxUThzUG5QSG8wM2o1bEszeTNfSmNPdG",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNODdGUUYtNWpjdUVwWVdEOVR1eTV0MVc4ZUliSV9FaXdHQlF5NGpxa3pubkxSQTE4aGltR1A4VHF2NDlhSkFnXzVVZjF4Q2k4cTF2OGFBY3AxUThzUG5QSG8wM2o1bEszeTNfSmNPdG9qdEhSUDBNVlk0bEVqUl9qMUVURUx5YmVfZlhoZUU5VkVIZlNkTzNCaDA5bmNqRnVHZmYwREdwR1pLN2dwUGlRTkg4cGZzTEZ6SThma3hZVGNWaERkTDFRcG54M3p0aXNvZXUzcWtQVWx4UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-07-21-004",
+    "date": "2026-07-21",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SEB Asset Management AB Buys Shares of 37,479 Ciena Corporation $CIEN - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOQllSelFlaDJPWHVZaVhkNWVwYUhpVWt3RjQwdW5JOU9vVHVjNUpuNkdHalZFNzFDanAwa0dpdmJoazlZMGlUQ3Z1dFpvUVNmM3FJRFFBQldTQmNJTXFUS285cldEcU5QSzFwNmNvX0",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQllSelFlaDJPWHVZaVhkNWVwYUhpVWt3RjQwdW5JOU9vVHVjNUpuNkdHalZFNzFDanAwa0dpdmJoazlZMGlUQ3Z1dFpvUVNmM3FJRFFBQldTQmNJTXFUS285cldEcU5QSzFwNmNvX0FubTZhTUpxT3pyMFZkNG81MTB5eklPOHlMbWpwb3NId05LVDFzVzhNeHFaZ3BJSGFWUElxVFlydDc3TlZ5YUlUUUxDODE0OGdFWXo3ZWdXTHhSNkxTUlk4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-07-21-005",
+    "date": "2026-07-21",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dimensional Fund Advisors LP Trims Stock Holdings in Ciena Corporation $CIEN - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVzlUY1g1SmFRc0xXY0dDd2RkRnJlUEdsX3U4YmFtTTR5dlpLRjlDZXVOYzBqNlBkXzBPTUhpeTJwbGloRHRFVGNsZnJuSEEyMFBVSmlOdC1ENGo3akxDX1p4blBOTGN3cVFwci1pMU",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVzlUY1g1SmFRc0xXY0dDd2RkRnJlUEdsX3U4YmFtTTR5dlpLRjlDZXVOYzBqNlBkXzBPTUhpeTJwbGloRHRFVGNsZnJuSEEyMFBVSmlOdC1ENGo3akxDX1p4blBOTGN3cVFwci1pMUR2YzZ5Ulg2WWFjNm40TlppTUJadENhMEhwWms5OGFpY0s4ZnJXeXRsbFJPV1U0R0o1dkUzYUJrRVRaa3Y5NUFMbkJjQUFRNEZVc3hwNnUtMDNFWXdYXzJRRVZJZzhXRF93eFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-07-21-006",
+    "date": "2026-07-21",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Telekom secures broadcasting rights for men's FIFA 2030 World Cup - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQOTlBS015aXRPYXlBSFRDNWhkcW5yYWlFVzh0VUN0djZaVGpFOUJZdXk2Mi1zOU5IdFVYOXN4RmtaMmpkMXlWTEYwblVTNmJWQUR3dEtCZ3cyOWJpVmNSUFNUTWxhQzNWR2V2R01LaE",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOTlBS015aXRPYXlBSFRDNWhkcW5yYWlFVzh0VUN0djZaVGpFOUJZdXk2Mi1zOU5IdFVYOXN4RmtaMmpkMXlWTEYwblVTNmJWQUR3dEtCZ3cyOWJpVmNSUFNUTWxhQzNWR2V2R01LaEVBZUNnNzJoYlhhMHN5X2NDTkFGeFp6WEgtcmZreGFhbWZ6andMYXlDemIta1dGQ3BBM2w4aHN2NVNBUGN0UGNRQUJmYmRfQm8?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-07-21-007",
+    "date": "2026-07-21",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DEUTSCHE TELEKOM AG : Deutsche Bank keeps its Buy rating - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYkFqdFJCTlVEM1BkaWZJbm9qajIwZkMyLXdqeTJ4ZjgwRWU4bktBV3BHRS1IVFdaSzJxMzFFZ2FHRVhyQVN6bGFjbTdQM3dfWGV4dGUzNnE3MFBOQjZWbEdURFoxS05rY3AyWDR6bW",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYkFqdFJCTlVEM1BkaWZJbm9qajIwZkMyLXdqeTJ4ZjgwRWU4bktBV3BHRS1IVFdaSzJxMzFFZ2FHRVhyQVN6bGFjbTdQM3dfWGV4dGUzNnE3MFBOQjZWbEdURFoxS05rY3AyWDR6bWdJa0RzMkFIMEZUM1dyeVNoVHpIbmN2Z2swYm1Zd1o4QXRWYWdpdXlCYlh5SU5DXzZCekQ3R2hrRjd1SDQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-07-21-008",
+    "date": "2026-07-21",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Telekom secures broadcasting rights for 2030 World Cup - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWHNmUVZnUmpvMUxqREZsMDJCRTZpUU9rbHYxUWpkdVlYaE9YdFhNUFVBZEJtOGE5Q21BZG5DMlZGcDBvWjllQ2xVeXRhVDliUW9uN0JWTER3eGJQdmoweUZmcmtaYkMxcFc0bFFtM0",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWHNmUVZnUmpvMUxqREZsMDJCRTZpUU9rbHYxUWpkdVlYaE9YdFhNUFVBZEJtOGE5Q21BZG5DMlZGcDBvWjllQ2xVeXRhVDliUW9uN0JWTER3eGJQdmoweUZmcmtaYkMxcFc0bFFtM051VDE0S2E5Sm1sVU1kNHNIajFYRENzcTVYbW1EbnIydzA3S2x0Q0h5WG9ucXJ4UWU1YzdUdzZyS3phZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-07-21-009",
+    "date": "2026-07-21",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Rebuilding Systems for the AI Era: SoftBank Corp. CEO Junichi Miyakawa at SoftBank World 2026 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdFlWb0lVdzBzWlpQMnVYSWlJdW4tQjNTLUpCNmpaRkpZY2FkS0oxdS1PQ05VY2xIVDdiQzlQT3V5cjc4OTVJb2RWeGFRT1o2RG1WSmxKcnd3b0tyZTRBcnVaUDdZeWJsel9UWGpyQ2",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdFlWb0lVdzBzWlpQMnVYSWlJdW4tQjNTLUpCNmpaRkpZY2FkS0oxdS1PQ05VY2xIVDdiQzlQT3V5cjc4OTVJb2RWeGFRT1o2RG1WSmxKcnd3b0tyZTRBcnVaUDdZeWJsel9UWGpyQ2ljazZGUFhPa3gyVmpvRkxFUDFsdkp2LVBzQlFId0FvanhyczhnVVItVDZxbFI3bk9Ga3FnNE9obTRiUTFkNmdNcEVmajVFWl9MRmpXdEZ3TUNJRUhRczRnTmVYYW40Z19CdlhlNDVXajFncHU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-07-21-010",
+    "date": "2026-07-21",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Tower (AMT) Faces A Valuation Test, Is It Undervalued? - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLXowQlpOU2pvZGhvWGlsSDdhZE1TOUpDd3pEMDZIaHBZdjJrYXdnVHQ0SjRXaFVVY0o1dWc5N09iRDR0RXl5MGh1dkRsU2xYTlBLN1VPemcwMXo4NzdkRi1jMTc4T181RWV6U1p1RH",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLXowQlpOU2pvZGhvWGlsSDdhZE1TOUpDd3pEMDZIaHBZdjJrYXdnVHQ0SjRXaFVVY0o1dWc5N09iRDR0RXl5MGh1dkRsU2xYTlBLN1VPemcwMXo4NzdkRi1jMTc4T181RWV6U1p1RHdsTXVSY0k0WURadTdIVnY2QWs2UUJHTDc0Q2Jn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-07-21-011",
+    "date": "2026-07-21",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "KBC Group NV Purchases 29,631 Shares of American Tower Corporation $AMT - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNVDkwekZlZVdIT1lxTWxjdEJtN0Yzb1R4ampwV2NMVFp1Z0lBX1NXc1ZXUHh6RC1LbDd4dlJjNmtJY3pmM1hScTNoSjlWSG9EZWExcWNwR0pub2lfaHF3Z3YyOFNaSlNrZnludzBnOW",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVDkwekZlZVdIT1lxTWxjdEJtN0Yzb1R4ampwV2NMVFp1Z0lBX1NXc1ZXUHh6RC1LbDd4dlJjNmtJY3pmM1hScTNoSjlWSG9EZWExcWNwR0pub2lfaHF3Z3YyOFNaSlNrZnludzBnOWdXOENUWTNYb2ZxVExCNm1tYzRuR3JiUWk5ZHdfMS03ODJHaU9Lb2c4Qktta1hjWXpPcy0tMUNEOUdRT0xaYVRZUWo1QlRleUh2Ul9NdU5zZzRuX005U3pPaExR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-07-21-012",
+    "date": "2026-07-21",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Tower (AMT) Expected to Post Quarterly Earnings on Tuesday - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeU4zS2JhR2JfTEYyeENicml3SWhmRGhsRFQtQXhGYjREc2FGZUc5dVNnQVZkSXZyTGpVdDE2XzB0UEpkYlM4cmdRb2NmaW11WnNLOF9sZWRlTkF4cnNNYnlraHJyTy1KdEdKY2ZySG",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeU4zS2JhR2JfTEYyeENicml3SWhmRGhsRFQtQXhGYjREc2FGZUc5dVNnQVZkSXZyTGpVdDE2XzB0UEpkYlM4cmdRb2NmaW11WnNLOF9sZWRlTkF4cnNNYnlraHJyTy1KdEdKY2ZySGJ1ZFROS0ZBS0ppVmU0YUc3cFFWOE9DU1pUVVpSaFVwWlhnS1VuR01talltSXJ4Y0xWZnJsbGJSc0tlRTIxaWlvMFBnUlM0eE94a240?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-07-21-013",
+    "date": "2026-07-21",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Commerzbank Aktiengesellschaft FI Trims Stock Position in American Tower Corporation $AMT - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaFJTcVprYXVyZFJyaU5IZWFHNGZQZS1EOUdjcC1LaVlMZTh6VUY0a3cyQ2t0aTlicW1RZFlCejNNWlFzU2M2YlY2ajJpNHZhRUhYcFVfYWFDODlMY3hubW9MSUZ6eWd1OThQVnhOTT",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaFJTcVprYXVyZFJyaU5IZWFHNGZQZS1EOUdjcC1LaVlMZTh6VUY0a3cyQ2t0aTlicW1RZFlCejNNWlFzU2M2YlY2ajJpNHZhRUhYcFVfYWFDODlMY3hubW9MSUZ6eWd1OThQVnhOTTB0UnRLeGhHU3BURGpiVTJNNG5ZM1ItcG1rR0FmbWZqVnZ5eEJnQ0pwd3hKVUpfSkZUSmEydXkzXzB0ZTA2dk5UT2lucXpHaTE3amhOdWdWVE1zNmxUTmc2NkJlS1BPR1Y4UTBTeXg1bHY5cVV3QTdSbGlURQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-07-21-014",
+    "date": "2026-07-21",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Principal Financial Group Inc. Has $24.11 Million Stock Holdings in SBA Communications Corporation $SBAC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVmwxRThkNk50clpSWkVvSEFJRFZla25KN3NLNU9naFZnYUxBQ2h2V0FDTGxmelNESmt2SW1hV0VKUFFockRCRlN6eHhiWEF3TFpCN0RqOXlFbHNPRGMyT2FsSjdHLWx5YzdNQlAtcj",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVmwxRThkNk50clpSWkVvSEFJRFZla25KN3NLNU9naFZnYUxBQ2h2V0FDTGxmelNESmt2SW1hV0VKUFFockRCRlN6eHhiWEF3TFpCN0RqOXlFbHNPRGMyT2FsSjdHLWx5YzdNQlAtcjhZdDBTM1pvc3o1SzhVcFFIa0JyeUk2YUxkdnBKYVZVbFhBSUpMUVREV2JpUHBhWFVOeWYwOVg1WEdkVXZMNTIxcGlkUllYYmV1SXpBMWxlaUZPdVFDMDV1NUMzcHVydkFocE9MNEdlR19HajJLYzMwdlNjRXZwUmFOMmV3YzktR3hQVVk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-07-21-015",
+    "date": "2026-07-21",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "California Public Employees Retirement System Lowers Stake in SBA Communications Corporation $SBAC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMC1pQkFzTU5EckNQNUFfd1kwTVFFaWl4MEVmaXpfU29uVHUyeWFNMnFlcHpaM2pXaEVMcS1KWE43STRVTGVjZGtUQ1l1RWRZdWZpUHpwLXRZZWpTZE80dVQ4cEhacTNiblZ0US1lb2",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMC1pQkFzTU5EckNQNUFfd1kwTVFFaWl4MEVmaXpfU29uVHUyeWFNMnFlcHpaM2pXaEVMcS1KWE43STRVTGVjZGtUQ1l1RWRZdWZpUHpwLXRZZWpTZE80dVQ4cEhacTNiblZ0US1lb2k3b0p5M25qblg1SmdrN21jeWJEaU45TnJTX1BhTk56YlhoaGJVUUVZOGVQaThhVjZUdXBNTk9BajBXbmVqemNmTGJUZjMwR0RrUXlxWG5VZ0JRTVJkNndKdmtvcy16anl2UWRkNnY5UURMN1h1OFBaLWQyUFE2cnlIaC1nbWlZZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-07-21-016",
+    "date": "2026-07-21",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bank of New York Mellon Corp Decreases Stock Holdings in SBA Communications Corporation $SBAC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVkxFTG1YUjBGV09JVFdPNGo1UWp6VWpBSm5qclJYRjNucHFDVzVEZmplUE1qN1lOX0ItTzJJTm9UTWZQODNiWWkzSE93alVzNlVaX0NtSXhmR1pkbDNWTG5qQ1RNMTQzdTg2UE04V1",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVkxFTG1YUjBGV09JVFdPNGo1UWp6VWpBSm5qclJYRjNucHFDVzVEZmplUE1qN1lOX0ItTzJJTm9UTWZQODNiWWkzSE93alVzNlVaX0NtSXhmR1pkbDNWTG5qQ1RNMTQzdTg2UE04V1hGN2xmSVp5NWMwNlAycGVsR0VpSnUwZU45dWN3YTdiQW1FWTZFa3RmSEJOd1BFLVFtTUZHRHpRbElXSGpDcFgtblJrRkhxdEhHMlB4R0pKdDBEVEhfenBoVDlYc0Q0S2tuSFBXVmJsdDdiaE9ZdUR1MURFNjZ3MjBS?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-21-017",
+    "date": "2026-07-21",
+    "companies": [],
+    "topics": [
+      "arpu",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "8 in 10 mobile subscribers face dark patterns in telecom sector; bait-and-switch, nagging top complaints: Survey - Fortune India",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd0oxanpmckw5UVhzWUEwMzQyNjBEVXdZUFU1aXFPOXVwX1hsSFFNNGh1NHBDMTdIWEhsUm9Vd1hwNnhoNXFCYnVwaHdIQjNhYmpfOEdnbmZwS3dYc3RfQXBWdHpLMmhuakFnWHRmVl",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd0oxanpmckw5UVhzWUEwMzQyNjBEVXdZUFU1aXFPOXVwX1hsSFFNNGh1NHBDMTdIWEhsUm9Vd1hwNnhoNXFCYnVwaHdIQjNhYmpfOEdnbmZwS3dYc3RfQXBWdHpLMmhuakFnWHRmVlpKcHp5aUI4ajY3RUNnV0RyUnJ0TkhPeHBpb3licDdoRjBZNzZtNmpEQngtajhOdFJ0bVlPaVNwajE5M1NMbXdNaERneWhYRVRoaWNWSTY3NmRQbzZTNm1BMV9qQmllZDdic1JQay1Mb05sVF92YnFwT1loeE00MjRoeERfOdIB-gFBVV95cUxNUHlIS2U3OVV2RVZaTTBwUERUMVc5ZlBza3RNZlFYbVhhWHRLVnpSMlh5WmtsemZlbEtlUVh6X1hHZXNkWkZva28yNEJaVnVkenFJZ3VSOEhSMjgyWnpYd2RpU0JXVHBTb095aG42bVhJRTJ6Nl9rb2RDMW12dzBpcXR2T0dnX2hIbUJ6V2Y2LVNIRWJYaUw3SzBNX1RIc240cXQ5MGNMNmJaNkVjNW5ZMVFGQWdhUldfdGtUZC1hTWJyVXRrWjQtSkgyc0UtNk1nbVRldDE0SThkSTNrejhIVGtQWEFVNnZuTGFNNHJGSWc0bUJ2X201aTB3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-21-018",
+    "date": "2026-07-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Niger kicks off public consultation on 5G spectrum plan - Developing Telecoms",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQV0xSTzV6eGhkVUMybUdrMS10NW1KZ2c1bU16MHhWMF9jZW12UnJ1YzZsalpuM1lOSTh2dFlsWEY1M3JOUUhCdVZ3Y0JrOG41ZHVIYktGZ1piS1lSTTdubU9vZ3NBTGFRaGcxMDhEcF",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQV0xSTzV6eGhkVUMybUdrMS10NW1KZ2c1bU16MHhWMF9jZW12UnJ1YzZsalpuM1lOSTh2dFlsWEY1M3JOUUhCdVZ3Y0JrOG41ZHVIYktGZ1piS1lSTTdubU9vZ3NBTGFRaGcxMDhEcFpmOWNmTXYtRW52U2JXWXlqNXJjXzB4UWNvckNuY0FFa3plR1JlRi03T0JrNEhNdERrWDBfRVh4N2Z6YzNKcFZIU2paTGdxdlBaelJfNlNVZ19iX21MYmJOOEdNOFlDUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-21-019",
+    "date": "2026-07-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Oman deploys 29 new towers to power Khareef Dhofar connectivity - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd3g2LXNVdlRhR2hieUtqZ1hJaHQ2SXNHS20ydXdnbVlJc09kR1ZIeHVIa1lkZmtJemItVEVCc2NMNUtmOW0xcWZZY2RLSnZrdy12cGJuYWR0THpxaVBPLUR3TW1xdEwwU3Jsclc5N3",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd3g2LXNVdlRhR2hieUtqZ1hJaHQ2SXNHS20ydXdnbVlJc09kR1ZIeHVIa1lkZmtJemItVEVCc2NMNUtmOW0xcWZZY2RLSnZrdy12cGJuYWR0THpxaVBPLUR3TW1xdEwwU3Jsclc5N3U1YUhHQ0lCcWE5MjUxSnk2T1lzX090Z0RoVWkyTTdGS3ZTdVcyVHV4clM1WFhTRlYyOThvak5fdXI2QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "ciena-2026-07-20-001",
     "date": "2026-07-20",
     "companies": [
@@ -310,6 +683,213 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONXlnbjQzRndaZ0JqU1dlbzcxd1lCSEllVzZ2YWVyQ3BXaUk4M2N2VjhhTW5iVFN1ZFJrMktObF82cE92cGo1TVltM19kb1A1TTNDN0pielNTazZCVVY0azdHa2FST0VSMUVvT3VOTi1IcUFyUWFwazdDM0RpODJIOTR2Tk9Ubkk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-07-20-017",
+    "date": "2026-07-20",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Laurel Lee from Florida’s 15th District Trades Stocks in Nokia, GE Aerospace, and Bank of America - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPS1ViWkxlWnlGOGtGaTVHaUZGU3lqV2p3SldQMlJmajdEWDI2WkhibXA5eDN5ZkhVanNjVnFJYUdmQWdmV3ljanI4dmZGaEJoQld6eUtlSy03LW41SGhkb256dFNBMWxLd0ZRU0tjM0",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPS1ViWkxlWnlGOGtGaTVHaUZGU3lqV2p3SldQMlJmajdEWDI2WkhibXA5eDN5ZkhVanNjVnFJYUdmQWdmV3ljanI4dmZGaEJoQld6eUtlSy03LW41SGhkb256dFNBMWxLd0ZRU0tjM0dxTDlfZkt1dU1kNEZYcDhaeVZuTnQxOG9FLU8yWDJWOEYwZmR1dTFPUEFuWTBZbFlLaFJDREdMeU8taW0zcWZEMzRzZ1kzRVF2bTgzaFdnLUtJeXh2R1BNd21MY0paUDFHYTVieGxoRUQ4T1huX192MVlLZlFSQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-07-20-018",
+    "date": "2026-07-20",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Nokia Stock a Smart Buy Ahead of Q2 Earnings Release? - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPZmN2eC1oNjJGdEVoVC01SkM3dnRFbGgyU2NndGNJM2NOOHI3SWRkVzMwOGxUaVg2Znpvcy1xY1A0YUdZbjNheU9uOHROY1JmcjNuS0owRFU1amJ3Mkk5dlBzTUl5UkV2ZU5UZnZhWD",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZmN2eC1oNjJGdEVoVC01SkM3dnRFbGgyU2NndGNJM2NOOHI3SWRkVzMwOGxUaVg2Znpvcy1xY1A0YUdZbjNheU9uOHROY1JmcjNuS0owRFU1amJ3Mkk5dlBzTUl5UkV2ZU5UZnZhWDY1M3NTSE1McC1JOUpRQ0J4a2RUaVdQaE0tNG9BRGhOWHAtSGNuSGgtMG5BSGtVMVlFZnQ2T3pMbURkNE8tV053Ug?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-07-20-019",
+    "date": "2026-07-20",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nokia Oyj (HEL:NOKIA) rises prior to Q2 despite ongoing 72% profit challenge - TechStock²",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNSllGX19DSHdHRjFWb1NkdGQyREZueHI0ckI4ZWJvallLMlYzb19YVWRqQlpoSWNkM1dnQWtUNWJpckNoWkh0R3lpak9HcWpEbWpaOFVMZGhfWTc5Q25ZZk5pVER4M1VpOHJtUXFDZU",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSllGX19DSHdHRjFWb1NkdGQyREZueHI0ckI4ZWJvallLMlYzb19YVWRqQlpoSWNkM1dnQWtUNWJpckNoWkh0R3lpak9HcWpEbWpaOFVMZGhfWTc5Q25ZZk5pVER4M1VpOHJtUXFDZUFSSFBqbUxMU3NpOUNfcFFLQmc1ZUFla2hZMXc4TWVJald5ZmhWUG91VQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-07-20-020",
+    "date": "2026-07-20",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Deutsche Telekom nets German rights for FIFA 2030 World Cup - Sportcal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNUHA4SElKX19UbDg5TkhjeldocElsTkgwVHc5R0wxMHpBcVVnUVdpZ05MTEZXLWtBbkg5SnFsWDdSOVBOemtIWjVScWQycU1yWHdTbm5NUWN2RGRNNFpnNWlBR013Z1BfMWlzODBzbT",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUHA4SElKX19UbDg5TkhjeldocElsTkgwVHc5R0wxMHpBcVVnUVdpZ05MTEZXLWtBbkg5SnFsWDdSOVBOemtIWjVScWQycU1yWHdTbm5NUWN2RGRNNFpnNWlBR013Z1BfMWlzODBzbTZCYVF0V2Y0ZHhvaS1oeWwydHBuQmFKVDhDTnB4TnpENHNMZGV5?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-021",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "spectrum_auction",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FCC IDs three bands for unlicensed D2D",
+    "summary": "The FCC's proposal to bring D2D connectivity to unlicensed wireless devices initially keys on three spectrum bands that are already being used for Wi-Fi, Bluetooth and other unlicensed use cases.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/satellite/fcc-ids-three-bands-for-unlicensed-d2d",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-022",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China's SenseTime backs AI space computing project",
+    "summary": "Chinese commercial firm SenseTime joins project to build 2,800-satellite constellation capable of carrying out AI computing tasks in space.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/satellite/china-s-sensetime-backs-ai-space-computing-project",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-023",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "TIM steps closer to state ownership via Poste Italiane takeover",
+    "summary": "Telecom Italia's board backs state-owned Poste Italiane's bid to gain control of the company, which would reportedly value it at over €13 billion, but the purchase is not yet a done deal.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/finance/tim-one-step-closer-to-state-ownership-via-poste-italiane-takeover",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-024",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Policy, tech and convergence to collide at The Independent Show",
+    "summary": "NCTC's Lou Borrelli and ACA Connects' Grant Spellmeyer hop on the podcast to preview The Independent Show, which will dig into top policy issues and tech trends for small and midsized operators.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/cable-technology/policy-tech-and-convergence-to-collide-at-the-independent-show",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-025",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Malaysia seeks proposals for $489M Salam subsea cable system",
+    "summary": "The planned 5,582 kilometer Salam subsea cable project will connect Peninsular Malaysia, Sabah and Sarawak. The $489 million project is expected to take two to three years to complete.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/cable-technology/malaysia-seeks-proposals-for-489m-salam-subsea-cable-system",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-026",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Eurobites: Virgin Media deploys 'AI robots' to troubleshoot TV offer",
+    "summary": "Also in today's EMEA regional roundup: Sky offers free roaming to loyal customers; cloud boost for Johannesburg; research reveals AI credibility gap.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/video-streaming/eurobites-virgin-media-deploys-ai-robots-to-troubleshoot-tv-offer",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-20-027",
+    "date": "2026-07-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Regional Roundup: Duos, ValorC3, Race, Boldyn",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/RNMKpAhY7Ik3Hetml-CaZOGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Regional Roundup: Duos, ValorC3, Race, Boldyn\" title=\"Regional Roundup: D",
+    "sources": [
+      {
+        "name": "telecom_ramblings",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaWkC9id98EgcXAEKF7rf7CP?utm_source=follow.it",
         "type": "rss"
       }
     ]
@@ -3007,6 +3587,27 @@
       {
         "name": "nokia",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUlRNdkRwZE1iU1hGZXhBOThJQ19xbE9UNnVQN0lJNU5xQ3FwZE55dVZDakpxVUNFVlh1d0VoeTFMMXZRa01XRXNjRGJ2bGhMRHVEYU9FZGpHS3RGU0NyYWRDUzB5bU96Y0VPeVVWNFJ0WkVIanA1MDJTOE54NFh3NHRjeU5LMGVjMy02WGNRVS01djdVWnJ0ZldILUNMSTZBOE5CV1ZmTHdqSFBkQm1j?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "taiwan_mobile-2026-07-15-053",
+    "date": "2026-07-15",
+    "companies": [
+      "taiwan_mobile",
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Can Nokia's Extended 5G Deal With Taiwan Mobile Drive Future Growth? - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMm5EQ3Z0TFhQXzMzODl4bUxEaENrNWhLX24tNEZxUHBmVHdNTjU0cFp6eVlhTVJTMjRqNWRoNEsxd1dkZWZiTVBycHZiVzhSb1RoYlJsZVhrV0xoYnQzMFEwZmJtQnpqSnloNHNVUU",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMm5EQ3Z0TFhQXzMzODl4bUxEaENrNWhLX24tNEZxUHBmVHdNTjU0cFp6eVlhTVJTMjRqNWRoNEsxd1dkZWZiTVBycHZiVzhSb1RoYlJsZVhrV0xoYnQzMFEwZmJtQnpqSnloNHNVUUk2UzhWOHozVF9FY0ROSGxBTDNoRUVnMkRuMmFxdEx2STNVOERkYUFtUHZlNC1HN3hFYkxFYmIwWXVCR3FXS2JTZHVRR0l5SXJ6OV9mRGlJZFo?oc=5",
         "type": "rss"
       }
     ]
