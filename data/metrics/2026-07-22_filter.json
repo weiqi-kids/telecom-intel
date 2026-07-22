@@ -1,0 +1,14 @@
+{
+  "total_raw": 312,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 7,
+  "gate2_fail": 3,
+  "passed": 58,
+  "gate2_samples": [
+    "CIENA CORPORATION Shs Thailand Depositary Receipts Repr 1 Sh - TradingView",
+    "Deutsche Telekom secures German rights to 2030 FIFA World Cup - TheDesk.net",
+    "Germany: Deutsche Telekom scores World Cup 2030 rights - Advanced Television"
+  ]
+}
