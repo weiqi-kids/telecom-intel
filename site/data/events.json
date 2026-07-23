@@ -1,5 +1,41 @@
 [
   {
+    "id": "unknown-2026-07-23-001",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AT&amp;T CEO: A satellite MVNO pact would solve a problem I don't have",
+    "summary": "AT&amp;T CEO John Stankey said D2D services via partner AST SpaceMobile are coming in 2027 for remote coverage and he has no need for a wholesale satellite MVNO.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/satellite/at-t-ceo-a-satellite-mvno-pact-would-solve-a-problem-i-don-t-have",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-23-002",
+    "date": "2026-07-23",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UK launches £42m grant call to fund LEO satellite innovation",
+    "summary": "<a href=\"https://totaltele.com/uk-launches-42m-grant-call-to-fund-satellite-innovation/\" title=\"UK launches £42m grant call to fund LEO satellite innovation\" rel=\"nofollow\"><img width=\"768\" height=\"43",
+    "sources": [
+      {
+        "name": "total_telecom",
+        "url": "https://totaltele.com/uk-launches-42m-grant-call-to-fund-satellite-innovation/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nokia-2026-07-22-001",
     "date": "2026-07-22",
     "companies": [
@@ -485,6 +521,172 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdnRGa3p5em5DYllXeS1VSkdzSVBkNzlkVlhlMFQ5LXpheEk0T05KdTVQTF94X2w5NUc2Sm5rODZUbUk4QVdQajJua3Z4ak5qRmRTaHhjRW9xejBYUzVUeG5SYnFEaWtYQVVmMGd1bklsbGc2S21BTmJybWdrZXlobGNRa1Q1aUFwZmxCQXdkTGhGMmM3UW0ydDZnXy11TWxYb1RUVW50TDE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-026",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "5g_deployment"
+    ],
+    "impact": "neutral",
+    "title": "FCC votes in rules for upper C-band auction",
+    "summary": "The FCC has adopted rules to auction 160MHz of upper C-band spectrum by July 2027. #pressrelease",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/regulatory-politics/fcc-votes-in-rules-for-upper-c-band-auction",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-027",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Charter bulks up on hotspot data, 4K streaming with 'Unlimited Plus Premium'",
+    "summary": "Amid a move away from by-the-Gig plans, Charter has launched a new 'Unlimited Plus Premium' plan for Spectrum Mobile that features more hotspot data than its other unlimited plans.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/5g/charter-bulks-up-on-hotspot-data-4k-streaming-with-unlimited-plus-premium-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-028",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AT&amp;T braces for the agentic AI wave",
+    "summary": "CEO John Stankey believes AT&amp;T's networks are well positioned to manage the coming wave of agentic AI traffic amid investments in fiber, the network edge and spectrum that solidifies the wireless ",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/ai-machine-learning/at-t-braces-for-the-agentic-ai-wave",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-029",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FCC votes to change broadband label rules",
+    "summary": "'The result is a label that's easier for consumers to use while reducing compliance costs for providers. It's a win all the way around,' said FCC Chairman Brendan Carr at the Commission's July open me",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/broadband/fcc-votes-to-change-broadband-label-rules",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "chunghwa-2026-07-22-030",
+    "date": "2026-07-22",
+    "companies": [
+      "chunghwa"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Taiwan eyes photonics-powered future with Chunghwa-Fujitsu collaboration",
+    "summary": "Chunghwa Telecom, Fujitsu and 1Finity have agreed to develop APN and quantum technologies in Taiwan.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/optical-networking/taiwan-eyes-photonics-powered-future-with-chunghwa-fujitsu-collaboration",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-031",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Eurobites: TIM touts 'Priority' platform for connectivity cognoscenti",
+    "summary": "Also in today's EMEA regional roundup: Vodafone partners with Cosine for sovereign AI; Glasgow's boffins boost the signal; VMO2 rails against net neutrality rules.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/customer-experience/eurobites-tim-touts-priority-platform-for-connectivity-cognoscenti",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-032",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Miami broadband speed is slowest among US cities – Ookla",
+    "summary": "At 113.51 Mbit/s, Miami claims the slowest median fixed download speed of any US city, according to Ookla's latest connectivity report. Miami's fastest ISP is AT&amp;T Fiber, which again ranked as the",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/broadband/miami-broadband-speed-is-slowest-among-us-cities-ookla",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-033",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "5G-A: A mobile foundation for embodied AI",
+    "summary": "<a href=\"https://totaltele.com/5g-a-a-mobile-foundation-for-embodied-ai/\" title=\"5G-A: A mobile foundation for embodied AI\" rel=\"nofollow\"><img width=\"768\" height=\"512\" src=\"https://totaltele.com/wp-c",
+    "sources": [
+      {
+        "name": "total_telecom",
+        "url": "https://totaltele.com/5g-a-a-mobile-foundation-for-embodied-ai/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-034",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wednesday Roundup: Telxius, GTT, RETN, Ribbon",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/4tO1xsTtpBQljUccuqcHiuGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Wednesday Roundup: Telxius, GTT, RETN, Ribbon\" title=\"Wednesday Roundup: ",
+    "sources": [
+      {
+        "name": "telecom_ramblings",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaUEMIp3AtqE-9vZ7qDHkLeF?utm_source=follow.it",
         "type": "rss"
       }
     ]
