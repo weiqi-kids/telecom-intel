@@ -1,0 +1,196 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T10:10:58.499297Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nokia-2026-07-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ABN Amro Investment Solutions Sells 199,405 Shares of Nokia Corporation $NOK - MarketBeat",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV3lpNDJLcl9uYUVBNnlnYzNBUl9yTnVSR0w2ZWdyWUZjdFBiZ2gzT3Y3alJweWVNR2QwTm1fWWU5RkJGandoV2dpTGZ3Tjg0VnlnWGJnWEFTcXVaNHBPZEFhMGxyM05GVThRZUdXSTRiQ09QY3NJOGhVb0Y4amZnLU04blY2WnJvRDJYckJYRFJhOUV6SjZOUWFUV2dwMEktWHhKM0Jwbjk2WXFhT2VzZFpYUHBoNnRkMmRHbXVPeE40M19rNldkR3pydVMxR1h4?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nokia-2026-07-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia Oyj (HEL:NOKIA) slides as €2.8 billion AI orders outrun near-term sales - TechStock²",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV3R3aWlJMnNhMEtXRzF0NHhseVgwbnQzT3hhdFNJM0JHdEU1NmU1OG1LMHE2ZnBzVUNPcFRPZklJOFpKVDVMcVI5d0tVRTc0TWIzOFdrWTczWWxwMm5sQ3VGX0VWb1NnZmx5cHlSbTJNUXYzZkZUaWMyNjFycjZtc0VRajVyYVIyX2tHelFtelNNRWpMSWMzUWw5OA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nokia-2026-07-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Arrowstreet Capital Limited Partnership Decreases Stake in Nokia Corporation $NOK - MarketBeat",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQbXkyMEdFaC1MTmlkS2ktRkZnM2xwa0hKUmJyRF9XdUVCeS1QNHY5dFZmNDM5clBuUnBYNGtPSzJneDBwZ3BrUlhXM0o3MU5LaTB4cG1MblB6RGZOS1hTak02cUtsVk5qZU1JTXJRdjY1bXZGM1JMckppaUp1MG54VXVqTnRmbDJTRWpiMFlTZkd6VnM1UUQzX1VsdGJvMkt4aFFqZHhmXzhPQmpCbmVIYUVRNHhQdHhraS1aUzEzdzcyeUtLaW1yUUhrT2VFcXNDMDF6UmFoWEY?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nokia-2026-07-24-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia Corporation Sponsored (NOK) Stock Forecasts - Yahoo! Finance Canada",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRGpIVlJxcEpOb1VSRXpIN3lPdHhFRU5RVlBwMkNTUnhHWVA3VFRSbHNCUEF1a0tNZUpZTWdndzNoSjI3dFJITTF5T3FGb1JkV2ZSYmNCVF95eGNJUTZqSGczUGlVUWZzLXF6bGVkUXdWaFY5QkVJMnBNV25KYWRoSDdIdU1qTWt6Wm9KbXpkcno?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ceragon-2026-07-24-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ceragon Reports Over $10 Million in Q2 Private Network Bookings Across Key Industries - The Fast Mode",
+      "companies": [
+        "ceragon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTXRZNGY3U3ZVSnpnNmExNzZ0ckxQNjgtWFZaajIxNkxxS3BYTVJvQlhDMVJHQVpDNWxKNjlISmxfTHE1WGxQUTdwT19pOUFZTXpjakFVM3Z2ZzZNc2lod21Mbzk0SmRIOXIyUjV2b2N1b283UjZKOHh3Zml1Rjh0aWxJMHAwQTRaUkhTWGJtaDJ3aVBTa2ZDTEt4azNEZ1o5MXA3RVdFVlN5YVk4MGVmNnBBRlFDaDVxUFNYQ01NZUNXS2FZODJyXzlKWGI3cTN3emhFMk93?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 13,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nokia",
+        "count": 4
+      },
+      {
+        "id": "ciena",
+        "count": 2
+      },
+      {
+        "id": "sba_comm",
+        "count": 2
+      },
+      {
+        "id": "ceragon",
+        "count": 1
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 312,
+    "dup_title": 141,
+    "too_old": 65,
+    "gate1_blocked": 8,
+    "gate2_blocked": 8,
+    "passed": 90,
+    "pass_rate": "52.6%",
+    "gate2_block_rate": "4.7%",
+    "gate2_samples": [
+      "Technical Analysis of Nokia Corporation Sponsored (CRYPTOCOM:NOKUSD.P) - TradingView",
+      "Nokia Corporation (NYSE:NOK) Receives Consensus Recommendation of \"Moderate Buy\" from Brokerages - M",
+      "Nokia says AI, cloud boosted sales in second quarter - Yahoo Finance UK",
+      "Ciena Relocating Corporate Offices to Maple Lawn - citybiz",
+      "At US$409, Is Ciena Corporation (NYSE:CIEN) Worth Looking At Closely? - Moomoo"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為諾基亞、Ciena、SBA相關動態：「ABN Amro Investment Solutions Sells 199,405 Shares of Nok...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "ABN Amro Investment Solutions Sells 199,405 Shares of Nokia Corporation $NOK ...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Nokia Oyj (HEL:NOKIA) slides as €2.8 billion AI orders outrun near-term sales...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

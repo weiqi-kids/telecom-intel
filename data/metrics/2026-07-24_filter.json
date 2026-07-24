@@ -1,0 +1,16 @@
+{
+  "total_raw": 312,
+  "dup_title": 141,
+  "no_date": 0,
+  "too_old": 65,
+  "gate1_fail": 8,
+  "gate2_fail": 8,
+  "passed": 90,
+  "gate2_samples": [
+    "Technical Analysis of Nokia Corporation Sponsored (CRYPTOCOM:NOKUSD.P) - TradingView",
+    "Nokia Corporation (NYSE:NOK) Receives Consensus Recommendation of \"Moderate Buy\" from Brokerages - M",
+    "Nokia says AI, cloud boosted sales in second quarter - Yahoo Finance UK",
+    "Ciena Relocating Corporate Offices to Maple Lawn - citybiz",
+    "At US$409, Is Ciena Corporation (NYSE:CIEN) Worth Looking At Closely? - Moomoo"
+  ]
+}
