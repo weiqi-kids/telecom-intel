@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T10:10:54.424155Z",
+  "updated_at": "2026-07-25T09:31:41.403666Z",
   "quarter": "2026-03-31, 2026-04-30, 2026-06-30",
   "companies": [
     {
@@ -262,17 +262,17 @@
       "name": "T-Mobile US",
       "ticker": "TMUS",
       "currency": "USD",
-      "ar": 4866000000,
-      "ar_prev": 4874000000,
-      "ar_qoq": "-0%",
+      "ar": 5247000000,
+      "ar_prev": 4866000000,
+      "ar_qoq": "+8%",
       "ar_period": "QoQ",
-      "inventory": 2327000000,
-      "inv_prev": 2405000000,
-      "inv_qoq": "-3%",
+      "inventory": 2191000000,
+      "inv_prev": 2327000000,
+      "inv_qoq": "-6%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "verizon",

@@ -1,0 +1,16 @@
+{
+  "total_raw": 311,
+  "dup_title": 188,
+  "no_date": 0,
+  "too_old": 60,
+  "gate1_fail": 4,
+  "gate2_fail": 11,
+  "passed": 48,
+  "gate2_samples": [
+    "Nokia Corporation (NYSE:NOK) Receives Consensus Recommendation of \"Moderate Buy\" from Brokerages - M",
+    "Nokia says AI, cloud boosted sales in second quarter - Yahoo Finance UK",
+    "Is Ciena's Recent Surge Sustainable Amidst Insider Selling - Kavout | AI",
+    "At US$409, Is Ciena Corporation (NYSE:CIEN) Worth Looking At Closely? - Moomoo",
+    "Ciena Relocating Corporate Offices to Maple Lawn - citybiz"
+  ]
+}
