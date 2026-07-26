@@ -1,5 +1,85 @@
 [
   {
+    "id": "nokia-2026-07-26-001",
+    "date": "2026-07-26",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Renaissance Technologies LLC Has $106.89 Million Stock Holdings in Nokia Corporation $NOK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcmtmeUF0UXI5WE1TQnBWNHZqM2dMdm0zanJMbEhNLWpjS3Btb2JyWkZlZUhnQkZJb3RMS25PaFZTdkc2OVFvTU9mTDdsZ3NzVm5CY01Od0t5clRYSTkwSnJyRnBuV0NMYm9DR0FIRD",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcmtmeUF0UXI5WE1TQnBWNHZqM2dMdm0zanJMbEhNLWpjS3Btb2JyWkZlZUhnQkZJb3RMS25PaFZTdkc2OVFvTU9mTDdsZ3NzVm5CY01Od0t5clRYSTkwSnJyRnBuV0NMYm9DR0FIRDRhNjZ3VkczN0x4TDhQejBkVHZoNFNIaEJ2T2xNaTVtOVBjb3paX0FTWnpEOEpmT0RqRmlIMVJIRVcwbVJ4SGlqdFJ0RHB3ejJ2c0FjT0pMa2tnaHl2eEJRLUJadTVyQ09SOVVSdV9TZ0dESXNtdld3SQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-07-26-002",
+    "date": "2026-07-26",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sei Investments Co. Has $49.67 Million Position in Nokia Corporation $NOK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQUDZ6RFN0MGI0UmZJQjVBaFNuTGFHdkxsM2JvQUpzT0lFMm9tWnV1T1lzM2dGSEtfTXN6eWVPc1JWckpsWjVrdmZoc1FwTE9ZbHp0SmJick9hWjN1bGU2SnRXSm9USi1oVFU5ajZrdm",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUDZ6RFN0MGI0UmZJQjVBaFNuTGFHdkxsM2JvQUpzT0lFMm9tWnV1T1lzM2dGSEtfTXN6eWVPc1JWckpsWjVrdmZoc1FwTE9ZbHp0SmJick9hWjN1bGU2SnRXSm9USi1oVFU5ajZrdmg4WHFKZ1JMUGthX2Y0aW9TbmN2LWlzcnAyVXQzNmgweDZ3SDVSZUJYdlJVdWQ3ZUNJS00zMGRvRkVFNVR1WUotM3lON2FEWDZyYXluelJaVjNxOGdfek5ZTlVn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-07-26-003",
+    "date": "2026-07-26",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Sei Investments Co. Sells 104,622 Shares of Ciena Corporation $CIEN - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSkU5VVVSMFdmOGM0TlhaMVFXM0d0aUVVbUF3aTFKQm9JdjFmVXI5ZDk2MjZ2WHNSNDFvRWxReFliUlI2aTNobHFBYUJ5QnlxSVRETW1RdnZhM1p5c1dZalFzblZFM3hnSWtYMENidk",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSkU5VVVSMFdmOGM0TlhaMVFXM0d0aUVVbUF3aTFKQm9JdjFmVXI5ZDk2MjZ2WHNSNDFvRWxReFliUlI2aTNobHFBYUJ5QnlxSVRETW1RdnZhM1p5c1dZalFzblZFM3hnSWtYMENidkN0NWlYSkJqQ2RHdEM2R0VhU29GcEMxZmNFSUVBTlRfdnNqZXltOFZRNld3eE16V0VLY0NwYXdUS2ltQU1Pc18wRmpINXRPYUpuUlR3aXloaUdrTVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-07-26-004",
+    "date": "2026-07-26",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "12,564 Shares in SBA Communications Corporation $SBAC Acquired by Delta Global Management LP - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUVNTa3FjMXhvQkV0Q083Ny1EQnZ4eF9jQWY0WWJkX2wzYWE4TFd1ajZFeUFEcm5MdlJPbGxpMV9JRkhpajNjR2dZWWNQclVkaFdhRVBGOFllaXJ6Mm81cXF0QjBfRmtaUEZHc0VwNk",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUVNTa3FjMXhvQkV0Q083Ny1EQnZ4eF9jQWY0WWJkX2wzYWE4TFd1ajZFeUFEcm5MdlJPbGxpMV9JRkhpajNjR2dZWWNQclVkaFdhRVBGOFllaXJ6Mm81cXF0QjBfRmtaUEZHc0VwNkhvVnY2dTNsakwtNGRHbHh6dmpBa1duZzBDbE1vS2phRTU1TWFGdDBtUDEtbkQ0b1BSYVZiYVBnbnM1Rjl1VnhUTGh1cDhkZlBra2FHb1ppTXQxRVAxR3dFSlZiUkdmME1XQU0yQkxaYWhSRlJFMnhKd1FXSGVqUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nokia-2026-07-25-001",
     "date": "2026-07-25",
     "companies": [
@@ -95,6 +175,126 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVXFLb2ZBMWdzUlZKUEVLWlZFOVBsc3loYlhraElFVHdhanM3QVJzN2hkMXZXTnk1cUh2VHNrbGZncktOUThGYzV6ZE4taGkxSFM3ekhnT2hVempocjRnNGJQVTRVbko5NmxiOVpFU1ZBMmNCWE1LN1NPQ2hKb19jellKb0F4M3A0a3hhdA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ceragon-2026-07-25-006",
+    "date": "2026-07-25",
+    "companies": [
+      "ceragon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ceragon Networks Ltd. (CRNT) latest stock news and headlines - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE50RGtZdlpTdFdkcjExRTRuQWw1NDVRcC1tWTBnX1RIeUFCWE9ZczRZMHZSdVdLY0xVMjNKTlY0M0hBeHdsd3NnbUtNLXN1QVprdnQxME43eXg?oc=5\" target=\"_blank\">Ceragon ",
+    "sources": [
+      {
+        "name": "ceragon",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50RGtZdlpTdFdkcjExRTRuQWw1NDVRcC1tWTBnX1RIeUFCWE9ZczRZMHZSdVdLY0xVMjNKTlY0M0hBeHdsd3NnbUtNLXN1QVprdnQxME43eXg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ceragon-2026-07-25-007",
+    "date": "2026-07-25",
+    "companies": [
+      "ceragon"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ceragon Networks Ltd. Revenue Breakdown – NASDAQ:CRNT - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE12aW5zRzA3Vm1nWW1pbW1MTlNJMzN2ek94ZW9WSG40SFYzdEhuZmE1MFVRWGJNMUhGTVZra1Z0SW9MdlQ2TkRSUFdEUXJ1cFJLQmZialM5VV9Xa3hGbHJsSGhaRmoyV1VPY3N1dkRlTH",
+    "sources": [
+      {
+        "name": "ceragon",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE12aW5zRzA3Vm1nWW1pbW1MTlNJMzN2ek94ZW9WSG40SFYzdEhuZmE1MFVRWGJNMUhGTVZra1Z0SW9MdlQ2TkRSUFdEUXJ1cFJLQmZialM5VV9Xa3hGbHJsSGhaRmoyV1VPY3N1dkRlTHloLU5WYVRJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-07-25-008",
+    "date": "2026-07-25",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Senvest Management LLC Trims Stock Holdings in Ciena Corporation $CIEN - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPNlB2cFREOVNnTVlLUnU5LUJPQ1dPeURTOXoyMDBUdkozUUZnR0RoTDJwcFpRUkV1aFdETC1kVDcwV3MzV2VaMFpSMUI0Rjk3clIzZjdLaWY3VkxuM01vV1luanh0WWZUVUhGejFoZT",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNlB2cFREOVNnTVlLUnU5LUJPQ1dPeURTOXoyMDBUdkozUUZnR0RoTDJwcFpRUkV1aFdETC1kVDcwV3MzV2VaMFpSMUI0Rjk3clIzZjdLaWY3VkxuM01vV1luanh0WWZUVUhGejFoZTcxb0ZOSy1sRV9QQjhIU1F2RWFsZlBQTGFtbk5rNDJURzVURzVmcW5WTGUwQ2lmQUhmaEUxd3h6WFJJc2hwcG9vVnZXblVxQVRIbFhaMkR3VTRBX0VjRjhMTnRR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-07-25-009",
+    "date": "2026-07-25",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Systematic Financial Management LP Trims Holdings in Ciena Corporation $CIEN - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ2pHY2VMd21vOTFoblotMURSRERyYjhjclJuVEN0dm5HdktqZDZyQWFvWXpMeWVKWFhMZ0E4b3NER0RsQTZ2bjFIdXNQQTNsT01DSDBaVTVGMkN6bl8ydG92T0R5R0lEaW9fTUd6Qn",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ2pHY2VMd21vOTFoblotMURSRERyYjhjclJuVEN0dm5HdktqZDZyQWFvWXpMeWVKWFhMZ0E4b3NER0RsQTZ2bjFIdXNQQTNsT01DSDBaVTVGMkN6bl8ydG92T0R5R0lEaW9fTUd6QnZINzhlRjZrRUZCdDhaTmRDX3hjYUszX1dBeFV0SlFUeHVfYlI4NU5kb2xpcVNyQ0FZWjk4OHB2dnJ0Z0ZYN1BtRkcyZ0FhR0cwRFNuRmktTFg5cllCWUptMFBQQTd5THU0cUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-07-25-010",
+    "date": "2026-07-25",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Tower Corporation Revenue Breakdown – DUS:A0T - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE5mck9FNU9Pek83Uk1ScVRlVzBtVnExb0ROMGZSejc0OTZUUGJMajVuLTZZTEdWb29wU2Y2d2U0Qk11ZmxtTkthLVJZd1g2ZXJHYXZXTlNlTUt6MUNhUzJIVGtnN1FPYTFSOV9lSXdZdz",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mck9FNU9Pek83Uk1ScVRlVzBtVnExb0ROMGZSejc0OTZUUGJMajVuLTZZTEdWb29wU2Y2d2U0Qk11ZmxtTkthLVJZd1g2ZXJHYXZXTlNlTUt6MUNhUzJIVGtnN1FPYTFSOV9lSXdZdzNYQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-25-011",
+    "date": "2026-07-25",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Telecom news: StarCell, Huawei, Meridiam, Netcity Telecom - TelecomLead",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQV0gwekhCY0VQZHNzcm5OaXBoRGdyS3hRYzhZY1ZPMnlnM0tPdXM4TzVxeXl0cWE2STVDSDB3ZzZIS1BGZXk1UnFtbkh4eXBOd1lpYXpJekVaNWNQVWVXbm04RF9EOTlhS2JiSzBFQ2",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV0gwekhCY0VQZHNzcm5OaXBoRGdyS3hRYzhZY1ZPMnlnM0tPdXM4TzVxeXl0cWE2STVDSDB3ZzZIS1BGZXk1UnFtbkh4eXBOd1lpYXpJekVaNWNQVWVXbm04RF9EOTlhS2JiSzBFQ2hkMmxvZE1jWUJVVkJRcFdjVElua0tuV0NCY19ZYmdrbVRRX3PSAZsBQVVfeXFMTzlKdmh3QU9UZktXNzBiZWxaM05VRnEzUms1azFETXMzTnZYZ3dyWU9mVVhWaXV0eU1maVRLOFI4bUEzMzd2NjBoZjhrUllza2Nnc20xOTZaNmxnancwSnFNMjliVWliSFJSTHFEWEt5U0NPVkxVbUpaQ21vaUU5OVh1WVBzOW9YSGs4UmlEZTBSR3RzZ2JjejM3bDQ?oc=5",
         "type": "rss"
       }
     ]
@@ -1004,6 +1204,62 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVGRSSDZBUUVibi1EV0hPYkJ6VWR5M2VDS2lDNklMbDVUcEVCeGFINWVuZldreFQ2M3Awejg2SGhTVkdveWVBNzREeGdzeDdaeGhleFpGeFBoUUJzSVhMdXozMUNhN3pFczBuLUg1VzY5QXR4c2RvczJIc3M2cmtKVEs0d1dHaWcxOUhtWG5zbVIyVmp2RkUtelNNVXRjTFl5b1NnTE14ZTdONlBQRzBnWXVtY1h3dkpOcENjZDR3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-07-24-048",
+    "date": "2026-07-24",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nokia Q2 Earnings Call Highlights AI Infrastructure Push - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNYWF3QTdZc20ybmVBTzljNGRSMmdTcnpVbjQxaFBVbDlFb2I0aGlJMjFJa3hPNk8wWDdQcFRNZjNib1VjZkJ4RVZDV2FiTDhYalEyZncxSTZzT3lYbHpoTHZFNXZZdzFnb3JrMmhDY2",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYWF3QTdZc20ybmVBTzljNGRSMmdTcnpVbjQxaFBVbDlFb2I0aGlJMjFJa3hPNk8wWDdQcFRNZjNib1VjZkJ4RVZDV2FiTDhYalEyZncxSTZzT3lYbHpoTHZFNXZZdzFnb3JrMmhDY25zM0pkU1hPVnhWZC03cDZ4ZHY3NlVBeS1JaF83THA2WlU1RktFSmZXVVNjemRUQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-049",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Thursday (telco diary) | Telco pieces in the AI jigsaw - RCR Wireless News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQWFZ0dEVTLVF6Q3VpVnRrMkpMci1aYXBRTm83UllUSjVjTFJ4bVhaOEtfY1owNlllcTh2UXZwM1FfV19DY1FiNG1YSkF1LVFrNUdDNUpHVnlQY20wR1ZRTzMwanNQb2hhakNWdmZYN3",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWFZ0dEVTLVF6Q3VpVnRrMkpMci1aYXBRTm83UllUSjVjTFJ4bVhaOEtfY1owNlllcTh2UXZwM1FfV19DY1FiNG1YSkF1LVFrNUdDNUpHVnlQY20wR1ZRTzMwanNQb2hhakNWdmZYN3h6bkpEOUNkcG5xOVMyZ0NseENaYw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-24-050",
+    "date": "2026-07-24",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Twenty-five years after GSM, Nigeria’s telecom industry faces its hardest infrastructure test - Business News Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQVEp0dVd3VTRfckxTcFdwOEtIZGRCQUZIalZSY1FtVnFDUmlmMjB2RUFHYTJPekt6RFRhTXFBSWptbDUzbC1VRzRBRjFYM0xTT296UzJUNEE4ckF1TWRoYTFXQ2VpQ1N2Vkd3TnNzeE",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVEp0dVd3VTRfckxTcFdwOEtIZGRCQUZIalZSY1FtVnFDUmlmMjB2RUFHYTJPekt6RFRhTXFBSWptbDUzbC1VRzRBRjFYM0xTT296UzJUNEE4ckF1TWRoYTFXQ2VpQ1N2Vkd3TnNzeEgtMDlJNnFxbkQxcTlwUEM4OXljSVhqT2swdVgzaV92WlYxNlZWbENrNzZNOHFPZENzTzJFZTFvLXhtVFVQT0pZVTh1LVFrOUVMMW1wcUJpR0Q1c2xfeXdHckExanFUZHc?oc=5",
         "type": "rss"
       }
     ]
@@ -2107,6 +2363,48 @@
     ]
   },
   {
+    "id": "nokia-2026-07-23-058",
+    "date": "2026-07-23",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nokia Corporation (NOKIA-SEK.ST) Q2 FY2026 earnings call transcript - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOY08tRjUzRF9HcWViQVVyYkpCMUQ3cTAtLWlXZ3hXazVOa1JFaGw3WFdBdEJ4b2dJRXFIUl9qcFFDSGpfaENRbHRqZXI1WmVnOGlLUXFRVWV1OHNid3E5a1IwRDFUMmc5amJJWmx4SU",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY08tRjUzRF9HcWViQVVyYkpCMUQ3cTAtLWlXZ3hXazVOa1JFaGw3WFdBdEJ4b2dJRXFIUl9qcFFDSGpfaENRbHRqZXI1WmVnOGlLUXFRVWV1OHNid3E5a1IwRDFUMmc5amJJWmx4SUVIbFVVREZHV05LckRuc0E3NVk4MWZERUtES1BqWXdBem5SMzZCVUptM2EyYTZjRXpaSWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ceragon-2026-07-23-059",
+    "date": "2026-07-23",
+    "companies": [
+      "ceragon"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ceragon Networks Ltd. (CRNT) Q3 2023 Earnings Report - Results, Call & Slides - TipRanks",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE84VTBSRWZ3WGt4c2otd3JpMEVJZTlXdzQ0WloyR2VyTDd2eC1MYjR6b2NQcmdSRVI0dE03TEhmQzlELXQ2M0hsYmZMbUZTTm9RSTFJcDdWUDNSUVRMenNGNDB1c2NJU2VXd1BZUg?oc=",
+    "sources": [
+      {
+        "name": "ceragon",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84VTBSRWZ3WGt4c2otd3JpMEVJZTlXdzQ0WloyR2VyTDd2eC1MYjR6b2NQcmdSRVI0dE03TEhmQzlELXQ2M0hsYmZMbUZTTm9RSTFJcDdWUDNSUVRMenNGNDB1c2NJU2VXd1BZUg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nokia-2026-07-22-001",
     "date": "2026-07-22",
     "companies": [
@@ -3195,6 +3493,65 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbFJ2WXBfSUs5RmVMbFZiUjdIbm5jS1RsTkd2aDBrWXdrLTRWYkFEZG9NTWFKRThFUlNYbFhHQ1I0WVlwaVdUQ3IwY2szT250QWc4eDlkSi02ZHJ6RzIxUHUteVduemlGbjNCWWIwUVV6eHFMTEVORlBhV1FrRExDN2VTQmV6NnI4bnBNSm83cWN2V1REZUxVNXRiV3NtNzZjbGhPUE1vVVdnRVdJZlJvbnYtTzVkdC0zeGc1clBn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-07-22-057",
+    "date": "2026-07-22",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Tower to Post Q2 Earnings: Is AMT a Portfolio Must-Have? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNeGZfdVh5MFU3dmlKQXZsOHBsMjFTOVRwY1pFQ2tSVVktZHVvVmpxTllZbElHLV9oUEJUZE5FcjVNWUZBZDJXR000eXRCQ0htdzNXWjN5X1JtTkdDZm0tTDV0cE5qNnBGTmh0dERXYm",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeGZfdVh5MFU3dmlKQXZsOHBsMjFTOVRwY1pFQ2tSVVktZHVvVmpxTllZbElHLV9oUEJUZE5FcjVNWUZBZDJXR000eXRCQ0htdzNXWjN5X1JtTkdDZm0tTDV0cE5qNnBGTmh0dERXYm9Xa20yc19lR2xncmxXZFpDd09tRWpmRTJTdUVsTHU4NDQ2TWhmakp3VXhhbE0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-07-22-058",
+    "date": "2026-07-22",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BMO Capital Adjusts American Tower Price Target to $190 From $200, Maintains Market Perform Rating - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNFNid2szb2hyZ2xsR3FFcnNJSHhoMEoyZ0hsYUlJSEhWR3pEN2JROWUzRVUwb0FVQzVOckdzc0Q5cTFfNDdUbkhMNGtuUkoweXlDUXpCNnVGQnV2M1RCaGZnd3hXUmtudEI0MGN2Uk",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNFNid2szb2hyZ2xsR3FFcnNJSHhoMEoyZ0hsYUlJSEhWR3pEN2JROWUzRVUwb0FVQzVOckdzc0Q5cTFfNDdUbkhMNGtuUkoweXlDUXpCNnVGQnV2M1RCaGZnd3hXUmtudEI0MGN2Uk1zZHRnV3UtcXZJSnlLc0F0bXZCN2VxR3hmWFo0a0VBY3dIbkhJcFp1bG1qRFhQSG9HbldmUS1XaTlSZzdtMDQ2MF9xdTFWSVE1Q01zbEdPS2djWldweVlEa3BtWGJJX0dzSlBmM0lmcldCMXhIVzUxWWNn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-22-059",
+    "date": "2026-07-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "31-year-old tower foreman killed in Minnesota cable strike; first industry fatality of 2026 - Wireless Estimator",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVkxIWTZ3N2MxeGtiem5hRDIyNllZajl4aTBRQXItcHo3OHJZd1UyMGhILTVpdXRCVXRoSEl6YWhXY3NiX2ZnS1FSWDVhQXM4V2llMEY1SFowWDdYYzVfdl9fdHNFT0JzWWx3bVU2UW",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQVkxIWTZ3N2MxeGtiem5hRDIyNllZajl4aTBRQXItcHo3OHJZd1UyMGhILTVpdXRCVXRoSEl6YWhXY3NiX2ZnS1FSWDVhQXM4V2llMEY1SFowWDdYYzVfdl9fdHNFT0JzWWx3bVU2UWo5bWxmZHpVR2FUQVJwV0VpRzVMMWlGZ3NLaExLYUtqcjhObUdKQWJRRUZ1cHluV2pWV0JOX1owQklFZ0VzZmlQWmN5LVNJcUNxUWNpcWJXQXptazI5V1BMLWdKODhkZzlX?oc=5",
         "type": "rss"
       }
     ]
@@ -4337,6 +4694,26 @@
       {
         "name": "commscope",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbWUwVFBhQ3RRTTJXUW5qd19QY0ZfY0otdy1RWnFFS25xRTM0cFNvNFd1RzdFY2RvWXdUNlFtVWpGY0hjNDFCbXVLQ3VDYTFRcXc4ZWtZejVLaGNNa25NU3F1VHhDMmJsN2pVSlNhd2ctTXdIZHUzbksycTlXZkpGOWhoZkVETUk4Ul9zZ1l2Q05HM2VKSkV1bHNvVHVDUW1aVkhPbFlZWnFSUmJraVNmcl9wRE9ySWlXYmVqeHlCUnN5TjdMUEJwMXF6dHNfZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-07-21-060",
+    "date": "2026-07-21",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Quantinuum and SoftBank Corp. Publish Joint White Paper on Scaling Practical Quantum Computing Use Cases Toward the Fault-Tolerant Era - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgJBVV95cUxNOGVFeUcxMl80RTFmT0N1eHVoQXlaWHRPRWJSakIxZDRvWjJhMXJ2ZXJpeHR6NFRXdm4yQUdDREhkTWd1djlMY0dvR3Y0N3VPZmhKbkJpWnY5Y3otbUkyelFSU1lMWFhjeFRKTHExRU",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNOGVFeUcxMl80RTFmT0N1eHVoQXlaWHRPRWJSakIxZDRvWjJhMXJ2ZXJpeHR6NFRXdm4yQUdDREhkTWd1djlMY0dvR3Y0N3VPZmhKbkJpWnY5Y3otbUkyelFSU1lMWFhjeFRKTHExRUdoSHQ1cnBDVWJ5b1ZkY2l0WTh5YkpsYnZTcEVaSTVNYWF3eHFOMnA0NGJmeERGSjctY2ZOdm4xSzJzemk2eWpzMGh4VHVOR0lnZ216c0x0angxYV9ia0tXQXZQMjFUR0h1UTUwV1VUMVhTMGNhOUdZZUQtTDlVLWdjVWdQZ3dDdjEtUGdiT3RseVduZ0poRTJqaVZiSUliR05FdjJfMlpEdTlGdHRKNnpwMmktcjNuRFNoV1ljQlBXRDNXNzJ5MjVwc2hIWUoxTEtBbUowWFE?oc=5",
         "type": "rss"
       }
     ]

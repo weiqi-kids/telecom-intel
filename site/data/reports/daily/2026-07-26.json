@@ -1,0 +1,168 @@
+{
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T09:53:49.249850Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nokia-2026-07-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Renaissance Technologies LLC Has $106.89 Million Stock Holdings in Nokia Corporation $NOK - MarketBeat",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQcmtmeUF0UXI5WE1TQnBWNHZqM2dMdm0zanJMbEhNLWpjS3Btb2JyWkZlZUhnQkZJb3RMS25PaFZTdkc2OVFvTU9mTDdsZ3NzVm5CY01Od0t5clRYSTkwSnJyRnBuV0NMYm9DR0FIRDRhNjZ3VkczN0x4TDhQejBkVHZoNFNIaEJ2T2xNaTVtOVBjb3paX0FTWnpEOEpmT0RqRmlIMVJIRVcwbVJ4SGlqdFJ0RHB3ejJ2c0FjT0pMa2tnaHl2eEJRLUJadTVyQ09SOVVSdV9TZ0dESXNtdld3SQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nokia-2026-07-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sei Investments Co. Has $49.67 Million Position in Nokia Corporation $NOK - MarketBeat",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUDZ6RFN0MGI0UmZJQjVBaFNuTGFHdkxsM2JvQUpzT0lFMm9tWnV1T1lzM2dGSEtfTXN6eWVPc1JWckpsWjVrdmZoc1FwTE9ZbHp0SmJick9hWjN1bGU2SnRXSm9USi1oVFU5ajZrdmg4WHFKZ1JMUGthX2Y0aW9TbmN2LWlzcnAyVXQzNmgweDZ3SDVSZUJYdlJVdWQ3ZUNJS00zMGRvRkVFNVR1WUotM3lON2FEWDZyYXluelJaVjNxOGdfek5ZTlVn?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ciena-2026-07-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sei Investments Co. Sells 104,622 Shares of Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSkU5VVVSMFdmOGM0TlhaMVFXM0d0aUVVbUF3aTFKQm9JdjFmVXI5ZDk2MjZ2WHNSNDFvRWxReFliUlI2aTNobHFBYUJ5QnlxSVRETW1RdnZhM1p5c1dZalFzblZFM3hnSWtYMENidkN0NWlYSkJqQ2RHdEM2R0VhU29GcEMxZmNFSUVBTlRfdnNqZXltOFZRNld3eE16V0VLY0NwYXdUS2ltQU1Pc18wRmpINXRPYUpuUlR3aXloaUdrTVE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sba_comm-2026-07-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "12,564 Shares in SBA Communications Corporation $SBAC Acquired by Delta Global Management LP - MarketBeat",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUVNTa3FjMXhvQkV0Q083Ny1EQnZ4eF9jQWY0WWJkX2wzYWE4TFd1ajZFeUFEcm5MdlJPbGxpMV9JRkhpajNjR2dZWWNQclVkaFdhRVBGOFllaXJ6Mm81cXF0QjBfRmtaUEZHc0VwNkhvVnY2dTNsakwtNGRHbHh6dmpBa1duZzBDbE1vS2phRTU1TWFGdDBtUDEtbkQ0b1BSYVZiYVBnbnM1Rjl1VnhUTGh1cDhkZlBra2FHb1ppTXQxRVAxR3dFSlZiUkdmME1XQU0yQkxaYWhSRlJFMnhKd1FXSGVqUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 4,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nokia",
+        "count": 2
+      },
+      {
+        "id": "ciena",
+        "count": 1
+      },
+      {
+        "id": "sba_comm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 310,
+    "dup_title": 207,
+    "too_old": 68,
+    "gate1_blocked": 3,
+    "gate2_blocked": 13,
+    "passed": 19,
+    "pass_rate": "18.4%",
+    "gate2_block_rate": "12.6%",
+    "gate2_samples": [
+      "Nokia Corporation (NYSE:NOK) Receives Consensus Recommendation of \"Moderate Buy\" from Brokerages - M",
+      "Nokia says AI, cloud boosted sales in second quarter - Yahoo Finance UK",
+      "Is Ciena's Recent Surge Sustainable Amidst Insider Selling - Kavout | AI",
+      "At US$409, Is Ciena Corporation (NYSE:CIEN) Worth Looking At Closely? - Moomoo",
+      "Ciena Relocating Corporate Offices to Maple Lawn - citybiz"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為諾基亞、Ciena、SBA相關動態：「Renaissance Technologies LLC Has $106.89 Million Stock Ho...」。主要關注主題為產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Renaissance Technologies LLC Has $106.89 Million Stock Holdings in Nokia Corp...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Sei Investments Co. Has $49.67 Million Position in Nokia Corporation $NOK - M...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
