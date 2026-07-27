@@ -1,0 +1,157 @@
+{
+  "date": "2026-07-27",
+  "date_range": {
+    "start": "2026-07-21",
+    "end": "2026-07-27"
+  },
+  "generated_at": "2026-07-27T11:13:56.520338Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-07-23-047",
+      "date": "2026-07-23",
+      "title": "Ethio Telecom Reports 47.5% Earnings Growth as Subscriber Base Surpasses 90 Million - The Voice of Africa",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 11,
+      "last_week": 3,
+      "week_over_week_change": "+267%",
+      "sentiment_this_week": 0.05
+    },
+    "industry_general": {
+      "this_week": 75,
+      "last_week": 67,
+      "week_over_week_change": "+12%",
+      "sentiment_this_week": 0.05
+    },
+    "arpu": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "spectrum_auction": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "tower_consolidation": {
+      "this_week": 2,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.75
+    }
+  },
+  "company_7d_summary": {
+    "nokia": {
+      "event_count": 12,
+      "sentiment_avg": -0.04,
+      "rank": 2
+    },
+    "ceragon": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 7
+    },
+    "ciena": {
+      "event_count": 20,
+      "sentiment_avg": 0.03,
+      "rank": 1
+    },
+    "deutsche_telekom": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "softbank": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "american_tower": {
+      "event_count": 10,
+      "sentiment_avg": 0.2,
+      "rank": 4
+    },
+    "sba_comm": {
+      "event_count": 11,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "equinix": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 275,
+        "last": 218,
+        "change_pct": 26.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-21",
+      "event_count": 60,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-07-22",
+      "event_count": 59,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-07-23",
+      "event_count": 61,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-07-24",
+      "event_count": 54,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-07-25",
+      "event_count": 14,
+      "sentiment_avg": 0.11
+    },
+    {
+      "date": "2026-07-26",
+      "event_count": 10,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-27",
+      "event_count": 17,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-21 ~ 2026-07-27）共 275 則事件，重點為「Ethio Telecom Reports 47.5% Earnings Growth as ...」。Equinix表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "諾基亞",
+        "reason": "本週出現 12 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "Ceragon",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "Ciena",
+        "reason": "本週出現 20 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

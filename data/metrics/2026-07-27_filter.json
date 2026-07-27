@@ -1,0 +1,16 @@
+{
+  "total_raw": 307,
+  "dup_title": 192,
+  "no_date": 0,
+  "too_old": 59,
+  "gate1_fail": 6,
+  "gate2_fail": 18,
+  "passed": 32,
+  "gate2_samples": [
+    "Nokia Corporation (NYSE:NOK) Receives Consensus Recommendation of \"Moderate Buy\" from Brokerages - M",
+    "VISN|Commscope Holding Ord Shs|Price:11.800|Chg%:-0.140 - TradingKey",
+    "Commscope Holding Ord Shs - TradingKey",
+    "Commscope Holding Ord Shs (VISN) Technical Analysis: Support, Resistance, Indicators & Moving Averag",
+    "VISN|Commscope Holding Ord Shs|Price:11.800|Chg%:-0.140 - TradingKey"
+  ]
+}
