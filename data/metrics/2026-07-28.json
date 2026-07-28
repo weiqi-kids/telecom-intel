@@ -1,0 +1,41 @@
+{
+  "date": "2026-07-28",
+  "total_events": 10,
+  "by_company": {
+    "ceragon": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "ciena": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "sba_comm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nokia": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ericsson": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 10,
+      "sentiment_avg": 0.1
+    },
+    "arpu": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

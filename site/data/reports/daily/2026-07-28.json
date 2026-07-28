@@ -1,0 +1,215 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T10:28:43.825572Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nokia-2026-07-28-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Nokia weighs Nvidia for 6G radios in 'spectral' scrap vs. Ericsson",
+      "companies": [
+        "nokia",
+        "ericsson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/6g/nokia-weighs-nvidia-for-6g-radios-in-spectral-scrap-vs-ericsson"
+    },
+    {
+      "rank": 2,
+      "event_id": "ceragon-2026-07-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ceragon Receives Approximately $120 Million in Orders from Operators in India Year-to-Date - PR Newswire",
+      "companies": [
+        "ceragon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNmdFMW5wMUtlZmVmbHVwS2toNkN3Nk12VzZWUzg3Vk5uR2Ffb18wNmhVSXh0V2dHdkRzaXp3c3hlUUphbVRDNGJvMm92ZDdENDRPNTBCT3NGeFpQU3FmbFVpSExFNXI5RFhZUDRMaGY4c3VzVkJldDNyUlVoWXRHbXF3NE1sZHhYeUFENUZ2eUIwWTNsY3B0WnVDbTlaZHNod3FuUjBBXzlIejVWZGJvYUV4Nzg4Wm15VHJLN0liYVlkd2w3Wm4ycnJNR3l5Wk1ZcUhxUktwdmpKS0JJZ3IyS1JR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ceragon-2026-07-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ceragon Networks (NASDAQ: CRNT) books $120M India wireless contracts - Stock Titan",
+      "companies": [
+        "ceragon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX0I2Yi1OclAwZ2t2Uk5pMFpqZTgtbFNCLXJFMmtKdzJrem83WU1QVktlM20wRlBqUjFkbk5Vem53VWV5YjROWmRuNnk4akNTNldyR0h0SjhuNEJYbXBpR1VtT0FXNVlyWFRadmhJWF9YVURmbzVZNGtSUjl2QlZJb2xOb0lPenlSV2hNRFRNM0ZaYVZpZFJITTRldUQyd2I1RUsxN2RqS2lJRGpEMVBTOTJwam02V0E?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ciena-2026-07-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Corporation $CIEN Shares Bought by Renaissance Technologies LLC - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTVlKRkRQX0wwRl9vMVd6QW9VeF92cFRuM2EzRDdIbXgzVVR3OVdDVG5pRFUyRlFlcm1UaGxnZklYXzl2MEkzR0hjUXFnYlRGaG5vS0trZG5TbC1tUGM4MUFvd3RPTGkxRkJpRDA0R3JIaGYtNnJNZndEbjNSRl84czU5VmpZWGpYa2RSWlBtOTFyb3kyNmZxOEhUUVE2VWltVFEzc3BUZTAwRXU4SEgxcGEtLWM4NjdwUVhQekVDOHVueFNQSEJHUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ciena-2026-07-28-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bank of Nova Scotia Boosts Holdings in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZE1LY3JVUUFnd2ZKZkJ5RjQ3Um5sU1J4NFE0dWhYVEgzSmVEVE1ybHVxcTVBTHBoOXNSQjFFUkdDaE1qOGZoZXA4WXlDQnNabzlPVHA3NFlHdFk0cloyUHk1VkdoOWg0MHhmdUpPS3NkZ2NQUVFKWXNnRkxBc0NUcUt5QnVmMGN2ckFXRk92VkVGT2Myd1dTLUJ0QjNlQmVEd3hCdGtHekNoUXZLTEtsQnEyQXUyMHlyeUpLZ3JkWQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "arpu": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ceragon",
+        "count": 2
+      },
+      {
+        "id": "ciena",
+        "count": 2
+      },
+      {
+        "id": "sba_comm",
+        "count": 1
+      },
+      {
+        "id": "nokia",
+        "count": 1
+      },
+      {
+        "id": "ericsson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "arpu",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 306,
+    "dup_title": 177,
+    "too_old": 51,
+    "gate1_blocked": 8,
+    "gate2_blocked": 17,
+    "passed": 53,
+    "pass_rate": "41.1%",
+    "gate2_block_rate": "13.2%",
+    "gate2_samples": [
+      "Entropy Technologies LP Invests $1.44 Million in Nokia Corporation $NOK - MarketBeat",
+      "Commscope Holding Ord Shs (VISN) Cash Flow - TradingKey",
+      "VISN|Commscope Holding Ord Shs|Price:11.850|Chg%:+0.050 - TradingKey",
+      "VISN|Commscope Holding Ord Shs|Price:11.850|Chg%:+0.050 - TradingKey",
+      "Commscope Holding Ord Shs - TradingKey"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為Ceragon、Ciena、SBA相關動態：「Nokia weighs Nvidia for 6G radios in 'spectral' scrap vs....」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nokia weighs Nvidia for 6G radios in 'spectral' scrap vs. Ericsson（產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Ceragon Receives Approximately $120 Million in Orders from Operators in India...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
