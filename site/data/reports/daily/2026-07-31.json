@@ -1,0 +1,214 @@
+{
+  "date": "2026-07-31",
+  "generated_at": "2026-07-31T10:31:38.623117Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "equinix-2026-07-31-019",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Equinix lifts 2029 outlook, doubles capex to US$7 billion annually - Indiatimes",
+      "companies": [
+        "equinix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPNnl2QlFhWk15MTRMMFdVQl8zYktzZFByUDE3bGt4aTl0UDQydVJMMjZZMHdUaGxmdDF0Ul8xTmdFcmVvTkJuUEZfaWR5SmFRUDNPUGpQWVdaSzdsWkctZHdfWmktNkNpcU5PUEpwS3Rad1puVllwTEdQZXRUYXc0WlNfZGdreUd4MGp0ckVfQ3VRRHI0RFg2WDZGT3ZmY1BaemdLQnQ0ZEhRZ1VYdE93V29Pc0VCWjRaRjF2Y2ZnM1NRRmt2b3JoZUVIV0RuNmlPeUpWQUtYZHZ0aXJvT2trVjZIdGxxbzF1QllZS20wQjJ0emN6SDlPVm9LcFhqS3dZNTBtbklXNDdaemlscFJVRUtGZ3Y5eEVIaGlV?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nokia-2026-07-31-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bank of New York Mellon Corp Has $13.96 Million Holdings in Nokia Corporation $NOK - marketbeat.com",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOM2hacm5XeFlTbDBNaFVyYlB2N3pScE9TOExLdlFNem1UZHQ5TXczRzlZQTZSM3ZNb3YweXY0QXZYelhRd2g1SzJpNmFidjRxNk5lRVN2SDA1WWJpZmdRUU5qdVIyNktzUHktYUJGWllLMEtjd2xPd24yX2VzNUdIZ1JNM1RKWG9LdS1ORmsyQjIwT2N1eG81c1RWcnRZXy1wcExROG9SNXVIRlNHb3EteVd2UE04b3RzNWk0eWQwOVFIYXRjWjNIU1NPVEo5QVRpeDV2bXVTWQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ceragon-2026-07-31-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "CRNT|Ceragon Networks Ltd|Price:2.170|Chg%:+0.100 - TradingKey",
+      "companies": [
+        "ceragon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB1dHQ4S0x1RzlSOGxHQXJjZHBKWHhvNHdNNndyUmNMZnFwTVl5QV9HWnQ0d1Zjem05VjBpTWZnYjdzV3hJeVd3RXlWRVBfbjBQSUdaajRxN3VDTnB5aGxGcS1qeVA5X3JEbHdZaHl3?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ciena-2026-07-31-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Corp (CIEN) Stock Price & News - Google Finance - Google",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aWTdyOVl6MzlWaHpES0VQX2YyZGVObjJEMXQ3RHZfTEpobDJKMTJpQzVFVUNyUDhCUlJpN25ZMlNCRFhCVld2OGxjZTFmeTQ1b1NSTXBEZ0Z2UQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ciena-2026-07-31-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Quantinno Capital Management LP Boosts Position in Ciena Corporation $CIEN - marketbeat.com",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRXAxMVllVUc3Z1pFMGJYUWd6dVJrLWtnV0ZCYzlma0sxa1B3YndHREp5M0UzQUlsT2ZFT0xNU0pFNktZd0YtVTBtN01HRXo4YU95RzMyLVY5QmI3RUJVRDByTkU3bkJIMW1wWk1oNldzV0RERzVaUG9BUTdCdUxCMVVZLU5vSnhHOVA2M1hhaWtBam9UM0ItMWM3QmlUSmk5OFl6Z1F5RDk5akYxTnN2WVV5MlhhamFzNnVwZjhoemhObFZDWmthTUNoTVFETXc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 22,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "softbank",
+        "count": 6
+      },
+      {
+        "id": "ciena",
+        "count": 5
+      },
+      {
+        "id": "american_tower",
+        "count": 3
+      },
+      {
+        "id": "sba_comm",
+        "count": 2
+      },
+      {
+        "id": "nokia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 305,
+    "dup_title": 128,
+    "too_old": 57,
+    "gate1_blocked": 8,
+    "gate2_blocked": 16,
+    "passed": 96,
+    "pass_rate": "54.2%",
+    "gate2_block_rate": "9.0%",
+    "gate2_samples": [
+      "Entropy Technologies LP Invests $1.44 Million in Nokia Corporation $NOK - marketbeat.com",
+      "VISN|Commscope Holding Ord Shs|Price:11.710|Chg%:+0.160 - TradingKey",
+      "VISN|Commscope Holding Ord Shs|Price:11.825|Chg%:-0.025 - TradingKey",
+      "Commscope Holding Ord Shs (VISN) Cash Flow - TradingKey",
+      "Commscope Holding Ord Shs (VISN) Income Statement - TradingKey"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為軟銀、Ciena、AMT相關動態：「Equinix lifts 2029 outlook, doubles capex to US$7 billion...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Equinix lifts 2029 outlook, doubles capex to US$7 billion annually - Indiatimes（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Bank of New York Mellon Corp Has $13.96 Million Holdings in Nokia Corporation...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

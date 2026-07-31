@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-30T10:16:16.997381Z",
+  "updated_at": "2026-07-31T10:31:34.995503Z",
   "quarter": "2026-03-31, 2026-04-30, 2026-06-30",
   "companies": [
     {
@@ -143,9 +143,9 @@
       "name": "Equinix",
       "ticker": "EQIX",
       "currency": "USD",
-      "ar": 1108000000,
-      "ar_prev": 1001000000,
-      "ar_qoq": "+11%",
+      "ar": 1256000000,
+      "ar_prev": 1108000000,
+      "ar_qoq": "+13%",
       "ar_period": "QoQ",
       "inventory": null,
       "inv_prev": null,
@@ -153,7 +153,7 @@
       "inv_period": "QoQ",
       "inventory_applicable": false,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "ericsson",
