@@ -1,0 +1,157 @@
+{
+  "date": "2026-08-01",
+  "date_range": {
+    "start": "2026-07-26",
+    "end": "2026-08-01"
+  },
+  "generated_at": "2026-08-01T09:54:21.773543Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-07-27-046",
+      "date": "2026-07-27",
+      "title": "Eurobites: Vodafone grows revenues despite customer losses",
+      "importance_score": 0.9
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "deutsche_telekom",
+      "company_b": "tmobile",
+      "co_mention_count": 4,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 89,
+      "last_week": 77,
+      "week_over_week_change": "+16%",
+      "sentiment_this_week": 0.03
+    },
+    "earnings": {
+      "this_week": 7,
+      "last_week": 9,
+      "week_over_week_change": "-22%",
+      "sentiment_this_week": 0.0
+    },
+    "arpu": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    }
+  },
+  "company_7d_summary": {
+    "nokia": {
+      "event_count": 16,
+      "sentiment_avg": -0.03,
+      "rank": 3
+    },
+    "ciena": {
+      "event_count": 20,
+      "sentiment_avg": 0.03,
+      "rank": 1
+    },
+    "sba_comm": {
+      "event_count": 11,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "softbank": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "american_tower": {
+      "event_count": 17,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "equinix": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "ceragon": {
+      "event_count": 9,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "ericsson": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "verizon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 343,
+        "last": 293,
+        "change_pct": 17.1
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-07-26",
+      "event_count": 14,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-07-27",
+      "event_count": 63,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-07-28",
+      "event_count": 80,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-07-29",
+      "event_count": 74,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-07-30",
+      "event_count": 51,
+      "sentiment_avg": -0.02
+    },
+    {
+      "date": "2026-07-31",
+      "event_count": 53,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-08-01",
+      "event_count": 8,
+      "sentiment_avg": 0.06
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-07-26 ~ 2026-08-01）共 343 則事件，重點為「Eurobites: Vodafone grows revenues despite cust...」。產業通用、法說會、ARPU為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "諾基亞",
+        "reason": "本週出現 16 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "Ciena",
+        "reason": "本週出現 20 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "SBA",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
