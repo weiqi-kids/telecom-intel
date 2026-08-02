@@ -1,0 +1,135 @@
+{
+  "date": "2026-08-02",
+  "generated_at": "2026-08-02T09:50:58.609035Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-02-002",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Saudi Telecom Companies Post Record Revenue - ASHARQ AL-AWSAT English",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTkJNWWhwX0lpV1RmS3lZUldGSFp0cW1XVUk2ZEl3Rkh5RHd1N1BEUDFzYjhCNmV5X3ZqY19HbktvT1dxamRBRmZJNWltdGlhYUZtUE9qOVhWRC01a3VzN1pwSWM4S0hlS2tMV2g4RGZGczBoX25GeWhGSENWUzhYd2VrdXpFWTNIbTBpVVZvY0o?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "american_tower-2026-08-02-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Should American Tower's Profit Jump, Raised Outlook and Buybacks Require Action From AMT Investors? - simplywall.st",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV3ZGOFZ3ZnpnZG5lTHpvYkZVT2lieXItdzJGZVVZek13RUgyb01KcF9hNzlvOGFVQkFsY2l3Y1BBVEtYdkNseE13ZkRHY0VpMzB5MU40QzJNRnZnVnhhc0JkR3cxa2hBSV9LRFotRTBJNTNLQ0pNc0NQaFhKZFFRWWdLaHpzV0dlRmp1Sng3T20tUnFNUjZwV3c4UjN2UGN2cXhBMF9wa1Y1aHhaVnZNa0tNbDNhVVZ2WkR5OUFvYnF6RDV5R0tqXzM0dG10cEEyU1VZ0gHTAUFVX3lxTE1XdkY4VndmemdkbmVMem9iRlVPaWJ5ci13MkZlVVl6TXdFSDJvTUpwX2E3OW84YVVCQWxjaXdjUEFUS1h2Q2x4TXdmREdjRWkzMHkxTjRDMk1GdmdWeGFzQmRHdzFraEFJX0tEWi1FMEk1M0tDSk1zQ1BoWEpkUVFZZ0toenNXR2VGanVKeDdPbS1ScU1SNnBXdzhSM3ZQY3ZxeEEwX3BrVjVoeFpWdk1rS01sM2FVVnZaRHk5QW9icXpENXlHS2pfMzR0bXRwQTJTVVk?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_tower",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 292,
+    "dup_title": 194,
+    "too_old": 50,
+    "gate1_blocked": 10,
+    "gate2_blocked": 16,
+    "passed": 22,
+    "pass_rate": "22.4%",
+    "gate2_block_rate": "16.3%",
+    "gate2_samples": [
+      "Entropy Technologies LP Invests $1.44 Million in Nokia Corporation $NOK - MarketBeat",
+      "VISN|Commscope Holding Ord Shs|Price:11.710|Chg%:+0.160 - TradingKey",
+      "VISN|Commscope Holding Ord Shs|Price:11.745|Chg%:+0.035 - TradingKey",
+      "Commscope Holding Ord Shs (VISN) Income Statement - TradingKey",
+      "Commscope Holding Ord Shs (VISN) Cash Flow - TradingKey"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為AMT相關動態：「Saudi Telecom Companies Post Record Revenue - ASHARQ AL-A...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Saudi Telecom Companies Post Record Revenue - ASHARQ AL-AWSAT English（法說會、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Should American Tower's Profit Jump, Raised Outlook and Buybacks Require Acti...（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

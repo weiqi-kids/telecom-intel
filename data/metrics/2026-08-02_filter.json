@@ -1,0 +1,16 @@
+{
+  "total_raw": 292,
+  "dup_title": 194,
+  "no_date": 0,
+  "too_old": 50,
+  "gate1_fail": 10,
+  "gate2_fail": 16,
+  "passed": 22,
+  "gate2_samples": [
+    "Entropy Technologies LP Invests $1.44 Million in Nokia Corporation $NOK - MarketBeat",
+    "VISN|Commscope Holding Ord Shs|Price:11.710|Chg%:+0.160 - TradingKey",
+    "VISN|Commscope Holding Ord Shs|Price:11.745|Chg%:+0.035 - TradingKey",
+    "Commscope Holding Ord Shs (VISN) Income Statement - TradingKey",
+    "Commscope Holding Ord Shs (VISN) Cash Flow - TradingKey"
+  ]
+}
