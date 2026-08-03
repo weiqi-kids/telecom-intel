@@ -1,0 +1,212 @@
+{
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T11:15:26.596922Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tmobile-2026-08-03-007",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Deutsche Telekom shares jump on report about T-Mobile US - marketscreener.com",
+      "companies": [
+        "tmobile",
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQVdFakhOQWRlTjNDUzI0eFg0MU5GSlA4d3BpZkR2dG1vRnVHQ09mUE1NMllNYk53eHhMUkduWExfa1luRHlHNFdEVTlLVVBUX05OMkFlRjdzcVRiNzRTSzZTNnF0cHNqeE1HZGstZkhfYVlmUFphZ1pDS201SnhkQVpwdFpUT09yajdnb1pxYk94bjFfT0dHemp1Mm5aa0dBMkt2VS14TmlvY05paFE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tmobile-2026-08-03-008",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Deutsche Telekom, T-Mobile Merger Faces Shareholder, Regulatory Pushback - marketscreener.com",
+      "companies": [
+        "tmobile",
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNnM2a202NHRZak1BdVc0Nmsybkw5ak1mR0ozYUtibkxERkNncHl5cVMybkE1aVFfMWRPZjZEOW5VNzR5OFl5M2dVcVlEQk43aFRNQUlXRFR0NHNETEFfWmZRdlEwVGQ2QUcyR2xGc1FpQTgzeXNTaEMzV2FKWlNUSGEtSjFTdTlaVkdxT3BicW12NTAyUXZad00wSElHMElTTmhfbHBCdGpWMXJrTl9QNV9OU1EzQm4wSlN1MURtSHo?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ericsson-2026-08-03-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Ericsson kicks off Vonage revival plan after years of losses",
+      "companies": [
+        "ericsson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.lightreading.com/5g/ericsson-kicks-off-vonage-revival-plan-after-years-of-losses"
+    },
+    {
+      "rank": 4,
+      "event_id": "nokia-2026-08-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Militia Capital Management LLC Invests $2.41 Million in Nokia Corporation $NOK - marketbeat.com",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT1RJR09zamVoN054eGpPVENfVGYxWXRPOVJCMjVyVFktSjk4Ny1tXzFaS3ZQOEtVYWRRcS0wbVJtQVpacTNqRjBhenBxQnpzMXNuZzZlTl94dHB0RWdsSzFkTC0zanV2NFFBX29TVVhVUDgySXVfZkdhMmliOHRxN2F6eFp5aFNHNXRtMV9KYWZVcVVPQU1kX1ROcFd6Wk9vMGt3WE1hYjMzYXM0bUFabzlyd3BvUF9TWnN6M3p3bm5vQ2VPR3hWZm5ZMDF1d2NnelE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nokia-2026-08-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Dimensional Fund Advisors LP Sells 251,732 Shares of Nokia Corporation $NOK - marketbeat.com",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNVBuR2V6WTF0ZHZHZnZPUFBNeGU4SHJUMDlXa0xFT1duU2VvV3AtdHB0UGlfLUpQNTI1UzBYaU5HbDExRVdwTVNCa2E2OGlqYXo2R1UtNnU3SzB1djVvVG42VDR0am02VmtHQlFUOGdUbjJ2eXVnekk4ejNyc0FlRHo5RGxjVTdKcHN1UTJVSnF5RlZVTnFtWEZTSjVRVGVXZEFveWlVdzFRdC1GSjk4MElueEdlQVA3WldOR2VQd0phVTNWZGZFV1BQT3AyWDA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "deutsche_telekom",
+      "to": "tmobile",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 14,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 12,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 3
+      },
+      {
+        "id": "nokia",
+        "count": 2
+      },
+      {
+        "id": "tmobile",
+        "count": 2
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 2
+      },
+      {
+        "id": "ceragon",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 11
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 293,
+    "dup_title": 181,
+    "too_old": 58,
+    "gate1_blocked": 6,
+    "gate2_blocked": 15,
+    "passed": 33,
+    "pass_rate": "29.5%",
+    "gate2_block_rate": "13.4%",
+    "gate2_samples": [
+      "Entropy Technologies LP Invests $1.44 Million in Nokia Corporation $NOK - marketbeat.com",
+      "VISN|Commscope Holding Ord Shs|Price:11.710|Chg%:+0.160 - TradingKey",
+      "Commscope Holding Ord Shs (VISN) Cash Flow - TradingKey",
+      "Commscope Holding Ord Shs (VISN) Income Statement - TradingKey",
+      "Commscope Holding Ord Shs - TradingKey"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 14 則事件，焦點為Ciena、諾基亞、T-Mobile相關動態：「Deutsche Telekom shares jump on report about T-Mobile US ...」。主要關注主題為產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Deutsche Telekom shares jump on report about T-Mobile US - marketscreener.com（產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Deutsche Telekom, T-Mobile Merger Faces Shareholder, Regulatory Pushback - ma...（產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

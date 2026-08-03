@@ -1,0 +1,59 @@
+{
+  "date": "2026-08-03",
+  "total_events": 14,
+  "by_company": {
+    "nokia": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "ceragon": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ciena": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "tmobile": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "deutsche_telekom": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "american_tower": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sba_comm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ericsson": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 11,
+      "sentiment_avg": 0.05
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": [
+    {
+      "from": "deutsche_telekom",
+      "to": "tmobile",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ]
+}
