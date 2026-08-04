@@ -1,0 +1,16 @@
+{
+  "total_raw": 302,
+  "dup_title": 176,
+  "no_date": 0,
+  "too_old": 65,
+  "gate1_fail": 3,
+  "gate2_fail": 6,
+  "passed": 52,
+  "gate2_samples": [
+    "Who Owns Nokia? - bgr.com",
+    "VISN|Commscope Holding Ord Shs|Price:11.710|Chg%:+0.160 - TradingKey",
+    "Ciena and Boston Beer have been highlighted as Zacks Bull and Bear of the Day - TradingView",
+    "SBA Communications (SBAC) Reiterated at Market Perform by Citizens on In-Line Results - StreetInside",
+    "SBA Communications hebt Jahresprognose aufgrund der starken Nachfrage nach Mobilfunkmasten-Leasingve"
+  ]
+}
