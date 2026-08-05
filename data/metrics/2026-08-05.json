@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-05",
+  "total_events": 12,
+  "by_company": {
+    "softbank": {
+      "count": 5,
+      "sentiment_avg": 0.1
+    },
+    "american_tower": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "equinix": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "nokia": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ericsson": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "industry_general": {
+      "count": 10,
+      "sentiment_avg": 0.1
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,221 @@
+{
+  "date": "2026-08-05",
+  "generated_at": "2026-08-05T10:29:09.399920Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Crnogorski Telekom H1 pre-tax profit up 39% y/y - SeeNews",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd25reWZPcVhRUS1acGJWMDl1dTlkeG8xTUlXbDFjMGxRNU9xQmlVT0FjRVVvTzE3WkFTYWRfdEtRcHdVNnZJajVUbkhQd0xuR1RHeWp5dUducmU0aHpsRXBEdThmc1J3ZnlUanMwbmJUU0tLeXB6b1JTS2RfNzhmUl9XWE9ZQ2EtZXFzdkFNSQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "softbank-2026-08-05-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SoftBank Group Surges Over 11% as Subsidiary’s Q1 Operating Profit Beats Estimates, 30% AI Growth Guidance Lifts Sentiment - TradingKey",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT1dlOHlqZFVLM0NyMkJlQnU2R1EzSUJjeFpsb21iTUh3dGNjeUpDczk5TWw2eGJSNXNLaVRWaUNZc0xzZTdwaVE1WWJJSXRpZUNmWEhTWWE0angzVWF3dW1haG41ZXJYeHNjN2xia1U3T01MaV9QOWh5eFZTbjFCOGxFSW1wYmpyWmJiNFptY05jN3JrTURXUEhkbWFkYmxId3RZZ2paQmc4dw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "softbank-2026-08-05-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SoftBank shares climb after strong Q1 earnings; AI business lifts profit - Investing.com South Africa",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeTdkN3ZjU25PZ0dfbGFnbEtlWmJsU0stRVhzY2xYSG5CNzNpcEFZc0c1VTFmOVdKSk9FS0NZWVhxVTExMlJ0aEVDSVV0M25MLUtCZGNqd0Jya05Oa3pzV0dlNUI0RzJCdzhnb1ZqWm5TWmlEWWI3QlFBU3BXQ0VyOEd4LWFUZl9FWkxsdFZsaXNWblZER29xdzFXZ1BzTlYtY1d6RWhkaHR5aUJ0TDBHQm1pWlpuU0hjbVF1WFhWUnVqZTEyNTRLQTkzTUsxWHNlMERHeXJB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nokia-2026-08-05-009",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "AI 'scandal' risks pulling telecom down with it",
+      "companies": [
+        "nokia",
+        "ericsson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/ai-machine-learning/ai-scandal-risks-pulling-telecom-down-with-it"
+    },
+    {
+      "rank": 5,
+      "event_id": "softbank-2026-08-05-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why is SoftBank Corp stock rallying today? By Investing.com - Investing.com Nigeria",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN2IweVpTdFpnV1FJSDZleVZQMXhnV3NROFAzaWsyUHpyUlRCd3F0UTkxY1ItMEJqYzM4Rm4ydzZPbG1SLTVLVWdUOEFhTWdoYTd2VW5Ea0x6ZjZfZTd6a1JUYUZIZGRWbWFiQ2pMb2YzOGhNOTBLVUpvekZxUUdmaE11MXdXQlNjT1l0R1lHM2Q0R0JNSk9uMTFNWHFST21WUUxBLQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "softbank",
+        "count": 5
+      },
+      {
+        "id": "american_tower",
+        "count": 1
+      },
+      {
+        "id": "equinix",
+        "count": 1
+      },
+      {
+        "id": "nokia",
+        "count": 1
+      },
+      {
+        "id": "ericsson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 301,
+    "dup_title": 167,
+    "too_old": 67,
+    "gate1_blocked": 3,
+    "gate2_blocked": 7,
+    "passed": 57,
+    "pass_rate": "42.5%",
+    "gate2_block_rate": "5.2%",
+    "gate2_samples": [
+      "Who Owns Nokia? - bgr.com",
+      "Ciena and Boston Beer have been highlighted as Zacks Bull and Bear of the Day - TradingView",
+      "Deutsche Telekom's Q2 Report Expected to Put Key Focus on Germany, Morgan Stanley Says - marketscree",
+      "Deutsche Telekom’s Home Market Is The Main Event This Quarter - Finimize",
+      "Is It Too Late to Buy SBA Communications Corp (SBAC) After 4.7% Rally? GF Value Says Undervalued - G"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為軟銀、AMT、Equinix相關動態：「Crnogorski Telekom H1 pre-tax profit up 39% y/y - SeeNews」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Crnogorski Telekom H1 pre-tax profit up 39% y/y - SeeNews（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "SoftBank Group Surges Over 11% as Subsidiary’s Q1 Operating Profit Beats Esti...（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

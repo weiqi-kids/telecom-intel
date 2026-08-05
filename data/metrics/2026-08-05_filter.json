@@ -1,0 +1,16 @@
+{
+  "total_raw": 301,
+  "dup_title": 167,
+  "no_date": 0,
+  "too_old": 67,
+  "gate1_fail": 3,
+  "gate2_fail": 7,
+  "passed": 57,
+  "gate2_samples": [
+    "Who Owns Nokia? - bgr.com",
+    "Ciena and Boston Beer have been highlighted as Zacks Bull and Bear of the Day - TradingView",
+    "Deutsche Telekom's Q2 Report Expected to Put Key Focus on Germany, Morgan Stanley Says - marketscree",
+    "Deutsche Telekom’s Home Market Is The Main Event This Quarter - Finimize",
+    "Is It Too Late to Buy SBA Communications Corp (SBAC) After 4.7% Rally? GF Value Says Undervalued - G"
+  ]
+}

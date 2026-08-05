@@ -1,5 +1,238 @@
 [
   {
+    "id": "unknown-2026-08-05-001",
+    "date": "2026-08-05",
+    "companies": [],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Crnogorski Telekom H1 pre-tax profit up 39% y/y - SeeNews",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOd25reWZPcVhRUS1acGJWMDl1dTlkeG8xTUlXbDFjMGxRNU9xQmlVT0FjRVVvTzE3WkFTYWRfdEtRcHdVNnZJajVUbkhQd0xuR1RHeWp5dUducmU0aHpsRXBEdThmc1J3ZnlUanMwbm",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd25reWZPcVhRUS1acGJWMDl1dTlkeG8xTUlXbDFjMGxRNU9xQmlVT0FjRVVvTzE3WkFTYWRfdEtRcHdVNnZJajVUbkhQd0xuR1RHeWp5dUducmU0aHpsRXBEdThmc1J3ZnlUanMwbmJUU0tLeXB6b1JTS2RfNzhmUl9XWE9ZQ2EtZXFzdkFNSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-08-05-002",
+    "date": "2026-08-05",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why is SoftBank Corp stock rallying today? By Investing.com - Investing.com Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQN2IweVpTdFpnV1FJSDZleVZQMXhnV3NROFAzaWsyUHpyUlRCd3F0UTkxY1ItMEJqYzM4Rm4ydzZPbG1SLTVLVWdUOEFhTWdoYTd2VW5Ea0x6ZjZfZTd6a1JUYUZIZGRWbWFiQ2pMb2",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN2IweVpTdFpnV1FJSDZleVZQMXhnV3NROFAzaWsyUHpyUlRCd3F0UTkxY1ItMEJqYzM4Rm4ydzZPbG1SLTVLVWdUOEFhTWdoYTd2VW5Ea0x6ZjZfZTd6a1JUYUZIZGRWbWFiQ2pMb2YzOGhNOTBLVUpvekZxUUdmaE11MXdXQlNjT1l0R1lHM2Q0R0JNSk9uMTFNWHFST21WUUxBLQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-08-05-003",
+    "date": "2026-08-05",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Yomiuri: Partnering with Seven & i, SoftBank Looks to Support Convenience Store Operations with AI - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUWlJd0VuOFluRWZGam1VTS1CMHpGU1BGZG5RdWNsOHpNRXpBaXhndjNwbXRMNXhfVUhtQ3VrSnpkb0lJVVJNZzN5UlprdTVORm5PaUN0VE9jR2thRl9WTkZSelJKUzd1N3dZZU1TQ0",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUWlJd0VuOFluRWZGam1VTS1CMHpGU1BGZG5RdWNsOHpNRXpBaXhndjNwbXRMNXhfVUhtQ3VrSnpkb0lJVVJNZzN5UlprdTVORm5PaUN0VE9jR2thRl9WTkZSelJKUzd1N3dZZU1TQ0Z2c2JKc09TUlBaNkpVeUl4dk15MXNHYVh5TkVscDVqNjQzVHAxTW52TGMtc3drYXRhUkxTMVd3T0FwajB2Y0szRTdHLUJPb29HYUo1cEJ3VmZ3Nmt1QmN5UTVwU1VMVmRQMEs4akctTnk1VjFBV0pHcFlVcGRLRlBkcGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-08-05-004",
+    "date": "2026-08-05",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "SoftBank Group Surges Over 11% as Subsidiary’s Q1 Operating Profit Beats Estimates, 30% AI Growth Guidance Lifts Sentiment - TradingKey",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT1dlOHlqZFVLM0NyMkJlQnU2R1EzSUJjeFpsb21iTUh3dGNjeUpDczk5TWw2eGJSNXNLaVRWaUNZc0xzZTdwaVE1WWJJSXRpZUNmWEhTWWE0angzVWF3dW1haG41ZXJYeHNjN2xia1",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT1dlOHlqZFVLM0NyMkJlQnU2R1EzSUJjeFpsb21iTUh3dGNjeUpDczk5TWw2eGJSNXNLaVRWaUNZc0xzZTdwaVE1WWJJSXRpZUNmWEhTWWE0angzVWF3dW1haG41ZXJYeHNjN2xia1U3T01MaV9QOWh5eFZTbjFCOGxFSW1wYmpyWmJiNFptY05jN3JrTURXUEhkbWFkYmxId3RZZ2paQmc4dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-08-05-005",
+    "date": "2026-08-05",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why is SoftBank Group stock surging today? - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxORTBFR0VCTTB4bDM2VUtGLUZtVXN0NzJkYzZ6MG56NzJHVk9MdGpybVJmdDQ0S0dqQWhISVcycnlwZmltZHdwdzFCQjFfdWQ3eTNvQnpLZWE5WVV5N0paMnhLYVdDb0ZJcGFEZ1Y1OT",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORTBFR0VCTTB4bDM2VUtGLUZtVXN0NzJkYzZ6MG56NzJHVk9MdGpybVJmdDQ0S0dqQWhISVcycnlwZmltZHdwdzFCQjFfdWQ3eTNvQnpLZWE5WVV5N0paMnhLYVdDb0ZJcGFEZ1Y1OTRRTXItZ1psZ01nU1pVWHFnYzI4NDR4T2lvbTZvYW5aR19odjhGRElxZ2N6UFVOQkRlYVlwQ0NSUlVzVFZ1MGdDdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-08-05-006",
+    "date": "2026-08-05",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank shares climb after strong Q1 earnings; AI business lifts profit - Investing.com South Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeTdkN3ZjU25PZ0dfbGFnbEtlWmJsU0stRVhzY2xYSG5CNzNpcEFZc0c1VTFmOVdKSk9FS0NZWVhxVTExMlJ0aEVDSVV0M25MLUtCZGNqd0Jya05Oa3pzV0dlNUI0RzJCdzhnb1ZqWm",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeTdkN3ZjU25PZ0dfbGFnbEtlWmJsU0stRVhzY2xYSG5CNzNpcEFZc0c1VTFmOVdKSk9FS0NZWVhxVTExMlJ0aEVDSVV0M25MLUtCZGNqd0Jya05Oa3pzV0dlNUI0RzJCdzhnb1ZqWm5TWmlEWWI3QlFBU3BXQ0VyOEd4LWFUZl9FWkxsdFZsaXNWblZER29xdzFXZ1BzTlYtY1d6RWhkaHR5aUJ0TDBHQm1pWlpuU0hjbVF1WFhWUnVqZTEyNTRLQTkzTUsxWHNlMERHeXJB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-08-05-007",
+    "date": "2026-08-05",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Tower (NYSE:AMT) in Focus as Connectivity Demand Climbs - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNYllEdC10ZFUtNGhESkMwTzBEeHpPOE5qR29fbWRNR1c5OVFJZGxCZmVacDBBUDIxZEJKaDNrdVVsVWVVTzN1SGVGenpPMWREdlE1Wm9vY3huaVlqeGF3eFN0OC02NVJ2Yjg1Zi1mU3",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYllEdC10ZFUtNGhESkMwTzBEeHpPOE5qR29fbWRNR1c5OVFJZGxCZmVacDBBUDIxZEJKaDNrdVVsVWVVTzN1SGVGenpPMWREdlE1Wm9vY3huaVlqeGF3eFN0OC02NVJ2Yjg1Zi1mU3pYeTFxZ2pxc3oyWmVSWFVkX1ZfWTFjbGpMcUNvTk12TWtka2N2TGw2aG1IYWY5VVlfZE5EbEpHdXNrUTFiZDFXWHU3djNtbExqQVdvV0tEZi03azZ5Mnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-08-05-008",
+    "date": "2026-08-05",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Equinix (NASDAQ:EQIX) in Focus as AI Demand Drives Data-Center Real Estate - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSTFvWnlySmdXemE4RHdUdmdQLTdJV3MtYzFpOFRuUF9OYmpLQ1ExdGhOM1lQQ00xUGFsRk40LUJVZUhHMVNKdURBd05OMXRhWkRpbU1uWC1MdFVvM1VsUTFOY2x4eHhBQVVza3YwMG",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSTFvWnlySmdXemE4RHdUdmdQLTdJV3MtYzFpOFRuUF9OYmpLQ1ExdGhOM1lQQ00xUGFsRk40LUJVZUhHMVNKdURBd05OMXRhWkRpbU1uWC1MdFVvM1VsUTFOY2x4eHhBQVVza3YwMGhTUDFlazhYN1ctS25Ia0ptTDNsZUxHTUZ2Uy00ZDJiVm9BNkQwMURJRm1lOGFiX3h2b0dqWFByZDdhR0xDbVBXaC12Q0g0Zlp1VVJfVkNnc3hWRVZjcHNRRmVXc1FqNDRCYzBF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-08-05-009",
+    "date": "2026-08-05",
+    "companies": [
+      "nokia",
+      "ericsson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI 'scandal' risks pulling telecom down with it",
+    "summary": "Ericsson, Nokia and telcos invested in AI could be among the casualties when the bubble inflated by Sam Altman eventually bursts.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/ai-machine-learning/ai-scandal-risks-pulling-telecom-down-with-it",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-05-010",
+    "date": "2026-08-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX's mobile ambitions jolt US telecom market, analysts debate threat - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOXzdtUXFDTFJmekk3eHU1U3hzV0MyM21yTUdIS2tIZ1N2WkRSQW9Vcm5vaHFONlYxaExidlotWWZVbk1QQi1OaHFDc0xPdE1vMjRzY3d6QnhjbUVMV05pUEtNYVlnUXNSaG9kYzBPZk",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOXzdtUXFDTFJmekk3eHU1U3hzV0MyM21yTUdIS2tIZ1N2WkRSQW9Vcm5vaHFONlYxaExidlotWWZVbk1QQi1OaHFDc0xPdE1vMjRzY3d6QnhjbUVMV05pUEtNYVlnUXNSaG9kYzBPZk9xMTlvUlNlVEJ3ajM3M05nT255V09GOXA2S2pmQ191aDZVU1Zoa3RaQ3ZfbnhiT3FwLVV6aWxUb1Jvc2NwWjhucVIwMUhGS2tQOGtKQ3ZHZURFUVZ5M2xEXw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-05-011",
+    "date": "2026-08-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Network X Awards 2026 Finalists Announced, Spotlighting Telecom Innovation and Industry Excellence - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQzhjdzJ3WTgwOFlIcUtqeDdTZmxwM3U3YUNOOGQ4bUZjM25QblB6S2JYeWtrZDZlalRKMzY3RWJ3UTBvaGRpNnAzdThYeWpvd3I1LXFXMUl1OC1VTVZGbnIzLW91UGJrbFJwUHhfST",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQzhjdzJ3WTgwOFlIcUtqeDdTZmxwM3U3YUNOOGQ4bUZjM25QblB6S2JYeWtrZDZlalRKMzY3RWJ3UTBvaGRpNnAzdThYeWpvd3I1LXFXMUl1OC1VTVZGbnIzLW91UGJrbFJwUHhfSTQ3RjVmbVdtaXpHS3lSYV8tWDRVbWY5bzUxcGJWYmNSUEQwa3hhS2RXT0hHWk1TeUpnVVZJZ1JzX3VpUHk2d1ZBUGYzWnRFdjE2cXU2X2RlREJiYlJwVW1hMzRTRWc1RXFqT3p6bEtRcC1Yc21WRjQ5OWdiRkhwRmM2ZWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-05-012",
+    "date": "2026-08-05",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "India’s telecom sector poised for strong growth on 5G, data boom, Ind-Ra - Communications Today",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQSXRBM2NXRTRjRUhjUmt4RGhsa1R2UnpfX1lhWW1qclFzc2Fsbm9YZEI5cWN3ZUttWEwwdjNJa0NkcjRkV181VllObVVuRkstdEkwLUlQRWpaX0E2c3VGSzhhUmhsUmNMcWFQejFBTy",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSXRBM2NXRTRjRUhjUmt4RGhsa1R2UnpfX1lhWW1qclFzc2Fsbm9YZEI5cWN3ZUttWEwwdjNJa0NkcjRkV181VllObVVuRkstdEkwLUlQRWpaX0E2c3VGSzhhUmhsUmNMcWFQejFBTy11c1d3ZzYybVU1YmZnYS1FSDRDN2RsQjZ4OVVoR2tuU0tKS1dFNjRHT1VZM1dSdGkwcFFGN0drZFpVcnd5?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "softbank-2026-08-04-001",
     "date": "2026-08-04",
     "companies": [
@@ -206,6 +439,793 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPR01xbjZzcDhITVdrc09YT2pzUlFSZVpKVTYySHB6aWd1RmxIVk5yMmhWX3pVdGJtMXVsbU5fVEN0Yms1MXBvRmNIUjFnOGt0WUlfc0N4djZESGZUMUtYTVpha2FlaV84S19jT0hXejRGdjJrTERHWjV6ZUtCODQ3c0hzM2p6dVNjQmtxNEQ2QnJXYW5Bd1NxcEJxOEVWcGFTczliQmlESUw1WXJzZ0VuM09tS2lGSmRJNmtYNWdVZUlHRktkM3h3T2JHNzQwMmwwU2ZVbU1SVUdVWGtqazE4MzFrZm5fei1jcmhPeVVsRnRINmpmd2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-08-04-012",
+    "date": "2026-08-04",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nokia Stock Climbs As AI Orders And Upgrades Pile Up - StocksToTrade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRXFEU3BKMGx0LWtyd0N1RjZjNFduOFV4Um1HUHR3UWRKY0dycGVHbXR0QW5lYW5IQUVRVUdNVWxwaEN6OG84Y1FUVHdRTVFjUU5EcWhDVHZnRlVrRjdlMlJSOXNTR01ST1VNTDZ5ZU",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRXFEU3BKMGx0LWtyd0N1RjZjNFduOFV4Um1HUHR3UWRKY0dycGVHbXR0QW5lYW5IQUVRVUdNVWxwaEN6OG84Y1FUVHdRTVFjUU5EcWhDVHZnRlVrRjdlMlJSOXNTR01ST1VNTDZ5ZUNCMGpoOEZla0FsN1F4ZW9TcE9ObWtkSUM0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-08-04-013",
+    "date": "2026-08-04",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nokia Stock Jumps As AI Orders And Upgrades Fuel Rerating - timothysykes.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQOEVmbEZOM2QzRnM5WUhXOFpuRzBONlcycVdVZVRwNmVfbFFIZF8yVC1ZSzlOQ1gwamlGcmZYV01QbVZSRjgwSUVwVWFHbFNsem9KZGQ5ZGNJMkhaZVo5cFdrZ1dPZm5PTWZYNXI0bk",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOEVmbEZOM2QzRnM5WUhXOFpuRzBONlcycVdVZVRwNmVfbFFIZF8yVC1ZSzlOQ1gwamlGcmZYV01QbVZSRjgwSUVwVWFHbFNsem9KZGQ5ZGNJMkhaZVo5cFdrZ1dPZm5PTWZYNXI0bk8wQXpUUzlJamRhLUJ2YjktRVBuQlZDSEwwWXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-014",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NOK Stock Jumps As AI Orders, Upgrades Power New Trend - StocksToTrade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPRWdtdVFsX2dTSDFTc0FPY2dHN0pUdm1vS2d4V2RyNzdqSDJEUWlXejRTSGFxZDF0VjZVSnE3WENjUXZ1a1RyU25Fd1ZOaC1nRWpUSnJscEdWQ3lYY2FaYms0SU50Q1FKRlhrZm9yVk",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRWdtdVFsX2dTSDFTc0FPY2dHN0pUdm1vS2d4V2RyNzdqSDJEUWlXejRTSGFxZDF0VjZVSnE3WENjUXZ1a1RyU25Fd1ZOaC1nRWpUSnJscEdWQ3lYY2FaYms0SU50Q1FKRlhrZm9yVk5sOVdwMDlIMUdadlhRM0FRd0staVNDUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-08-04-015",
+    "date": "2026-08-04",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Miller Global Investments LLC Trims Position in Nokia Corporation $NOK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNUlRBeHdMTW0yUU9fZDR5dkFOUk85TWFnUVR6MW9qTFZtQzVfYmJmWFZQNDB6Wnlic1JuYjI0TFlKbzUyR0NxN3hTTG5JUVRRTjNlQTFiR3BtQllRLUpMa0VnNWNCY3FyQkQ2T0h2b1",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUlRBeHdMTW0yUU9fZDR5dkFOUk85TWFnUVR6MW9qTFZtQzVfYmJmWFZQNDB6Wnlic1JuYjI0TFlKbzUyR0NxN3hTTG5JUVRRTjNlQTFiR3BtQllRLUpMa0VnNWNCY3FyQkQ2T0h2b1pYa3pSamJOTEVaNi1GajFqUm5OM1NPZHhDM1BseE14bVFjeWRnaFBncEp2NWNfUXZ2UVJuMDJCY0E3Z3JucUxRbktJZDFKalloNEZMWlE3aVVJeFBkUktXSjFB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-08-04-016",
+    "date": "2026-08-04",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nokia Stock Jumps As AI Orders And Upgrades Fuel Rally - timothysykes.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQbHRyd19LckFLbkVvbzd6ZHgzVmpxT1JaRjVYZVRWNXo0MTJvSUJtNDhLTTE3Yk9TWkF3dTlzalRWcmV3VVh0cm4tanV0WlJyMU10NHktMTgzUl9sVG4yQkxTX0tHZUtMeFpkaWdmMX",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbHRyd19LckFLbkVvbzd6ZHgzVmpxT1JaRjVYZVRWNXo0MTJvSUJtNDhLTTE3Yk9TWkF3dTlzalRWcmV3VVh0cm4tanV0WlJyMU10NHktMTgzUl9sVG4yQkxTX0tHZUtMeFpkaWdmMXc1SkJSN1V4ME91Z2dqTk0xUE4zakhVNGs?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-08-04-017",
+    "date": "2026-08-04",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Quantum Corridor, Ciena, and Toshiba Complete World’s First 1.6 Tb/s Quantum-Safe Optical Encryption Milestone on Live Commercial Network - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxPa1hnWTNNcDJoQ2dWaTZrbFhPQXpBNlRGWWN6czEtNUtGREpBSktsbm5HUXlhdzhXbzUxOV9waGktS1lHUTY3NDZnbEt1d3ZpN1FNLWk2TEdiWmNTZzNVQnlBUllYNVlzUmdlaXBHNk",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPa1hnWTNNcDJoQ2dWaTZrbFhPQXpBNlRGWWN6czEtNUtGREpBSktsbm5HUXlhdzhXbzUxOV9waGktS1lHUTY3NDZnbEt1d3ZpN1FNLWk2TEdiWmNTZzNVQnlBUllYNVlzUmdlaXBHNktyQkQ3ZXRyWkFHdFdETWZBSTZ5US1USGt6MVF4bE1UazBvYnVKa0p4Q215U0ItOHg0NUtLdEZCRnBScXJHUV9KSGF5VWZlVVZURjNHb1J2bWlIS3lEMXpLVE9ZNTFUUnpVYUVvR20wQXRtekNrUGZpYWxzRmp6bzh5SDgyUlIwR0VrVVcwQS1YOXlXQ0dfZmxfWnpITXlKZnFmTXFUTmU4MUxPT0VkNWh1clE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-08-04-018",
+    "date": "2026-08-04",
+    "companies": [
+      "deutsche_telekom",
+      "tmobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dodging Deutsche Telekom: T-Mobile's Strategic Win - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPNV9haGtnZ2JmeXkyVFpGbWJTQkduS0FZb2V5V1VEM2w2Sm10MFZCOGJWSnJEQ1YwcEtMNFpoVVNWZHZOWjQ0ekE4NE9iN2gtSGVNazc5MEJQeU9nNmdtaHJ1UURWZlB3S0F1akZJVl",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNV9haGtnZ2JmeXkyVFpGbWJTQkduS0FZb2V5V1VEM2w2Sm10MFZCOGJWSnJEQ1YwcEtMNFpoVVNWZHZOWjQ0ekE4NE9iN2gtSGVNazc5MEJQeU9nNmdtaHJ1UURWZlB3S0F1akZJVlBmenFTZ1c5VUgtd21OVVlWZ3ZqWmhUX2ZBLWQxWjJB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-08-04-019",
+    "date": "2026-08-04",
+    "companies": [
+      "deutsche_telekom",
+      "tmobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "T-Mobile shareholders unconvinced on Deutsche Telekom merger proposal - report - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSktoeWUyOFd2Yi0yVXBxUjYteFl0dW5LREFRU1JvUk05ZHJrQmpoWnRfbW52YXo0eXJsSnJlbERtYWdUYlBDYmt3SzM5OURFYWd4X3JjbXgtSkVBdHhxdEFaS3daZU1jVHQ3MmZUek",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSktoeWUyOFd2Yi0yVXBxUjYteFl0dW5LREFRU1JvUk05ZHJrQmpoWnRfbW52YXo0eXJsSnJlbERtYWdUYlBDYmt3SzM5OURFYWd4X3JjbXgtSkVBdHhxdEFaS3daZU1jVHQ3MmZUekhQdmpMZ3ZMc0FycmVaLVB5dW54YWZHLWU1UnZOeDVKa0otc2FyeVhfUTg0T1FHWEwxTGZJdUN3cWotVTEybWtYaTdsWDV3SWNvRlRV?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-08-04-020",
+    "date": "2026-08-04",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cloud, AI revenue jumps 31% in SoftBank Corp's fiscal Q1 - Fierce Network",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOODlISmRpcWtpMmhnMVVScGZwTFZYRW5Gbi1NcVdMb2xtd1U2S2laekRxcG5JWkRpY3NfN2VuZ3pqalJRM0I0Q1pZUXhQWXJGd0FxWU5FODVJR2w1VEJRX3hUazIyOWpQNEhubEpjY3",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOODlISmRpcWtpMmhnMVVScGZwTFZYRW5Gbi1NcVdMb2xtd1U2S2laekRxcG5JWkRpY3NfN2VuZ3pqalJRM0I0Q1pZUXhQWXJGd0FxWU5FODVJR2w1VEJRX3hUazIyOWpQNEhubEpjY3VsNXpESzRJeXZSNTNTWHhFTGNlSEpna0k1dEROWmlzdjNVaEhp?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-08-04-021",
+    "date": "2026-08-04",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SoftBank builds out AI sphere with stake in 7-Eleven owner - Nikkei Asia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0hMdlFKVjdyWGtFLWhJWmFkTm1lQWdjbTJJeFF1UG5OcnRMQVljQlhNcWFkbGdGMHpBUV8xRXk2MTVJcFBWaEFHR21HSTU1LW5GdzFuMF9adTFjZ3kwYy05T1FjMXpZOXlWS0xyV0",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPT0hMdlFKVjdyWGtFLWhJWmFkTm1lQWdjbTJJeFF1UG5OcnRMQVljQlhNcWFkbGdGMHpBUV8xRXk2MTVJcFBWaEFHR21HSTU1LW5GdzFuMF9adTFjZ3kwYy05T1FjMXpZOXlWS0xyV0VwdHZyRW1vU1kzRFl0MEV1aGFkS2JuVHBONXJQdmpTOGl4aGw1bG8zU2tkS0FNVjZTVWNQbzYyS1gyOGZyTWp6QmlhYW52THNsbExQQWJJTmYteENO?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-08-04-022",
+    "date": "2026-08-04",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank Corp. Bond-Type Cumulative Pfd Registered Shs Series 2 Revenue Breakdown – TSE:94346 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFAtNlR5Z3B4VjhaeDMzZjU2QkpXXzM4WFVwaWRsTkdzSl9iVUtaUS0yT2lacFF3ZzlrMTM3aS1tNHRIYjlsaDMzZHRSREMwV0VPaVlyZXBYc2wtVDIxalJQcUFFWnc5azdJZTFrcDFBMz",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtNlR5Z3B4VjhaeDMzZjU2QkpXXzM4WFVwaWRsTkdzSl9iVUtaUS0yT2lacFF3ZzlrMTM3aS1tNHRIYjlsaDMzZHRSREMwV0VPaVlyZXBYc2wtVDIxalJQcUFFWnc5azdJZTFrcDFBMzZrZzU0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-08-04-023",
+    "date": "2026-08-04",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "SoftBank Corp. Q1 FY2026 Earnings: Increased Revenue and Profits, Accelerating Growth Initiatives - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUTBKOVpiS1lrMzdNZzlsQUxJUG1ZbWxVSl80MFN5dm5QaXVrMGpoSVNVQ2lnYXgtT09sMXBGUVlPV2R3bTgxTFdpd3puNTlYUHNJa0xJaTRhZzhCeXYtZHNNS0FFNXE0bXBhMEo4NE",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUTBKOVpiS1lrMzdNZzlsQUxJUG1ZbWxVSl80MFN5dm5QaXVrMGpoSVNVQ2lnYXgtT09sMXBGUVlPV2R3bTgxTFdpd3puNTlYUHNJa0xJaTRhZzhCeXYtZHNNS0FFNXE0bXBhMEo4NE9wbEl0WmlEMFZpYXNGdUEyQUE5MDN6aEk4XzJ4ekx2TGhmR01vckRtTl9IcTZPMVJyRXVpT21BaUlJUDR0V3RrRGo2WnFvNnc2eGhrWlJmeGotck1zVTVLaWhYWGMydndzNVZEYlFTa3UwVEV6RjNZTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-08-04-024",
+    "date": "2026-08-04",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Earnings call transcript: SoftBank Corp posts solid Q1 2026 growth as AI push deepens - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQM2RERFZIcWM1UXR4WjRrcC1Rbk9SSF9IbW5jdlZKbi1BeUpjZ2lfRTAxWnBIZEVFZDVhUTRlSHdscVpSa0VXWUNRbnFkY0tiZDBSN2V3enZVSWItcE5FNVRIZU1pZW1ISGxXN2RKQk",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQM2RERFZIcWM1UXR4WjRrcC1Rbk9SSF9IbW5jdlZKbi1BeUpjZ2lfRTAxWnBIZEVFZDVhUTRlSHdscVpSa0VXWUNRbnFkY0tiZDBSN2V3enZVSWItcE5FNVRIZU1pZW1ISGxXN2RKQkN2bHFIcDFPd0dWNS1LejF2bnMyd2tpS3RXMmNhbzFraDlHS1M5NlFDWi1EZjlqNW9pT19uRmNKUll1bUc3YWFZR1FfLU84WTdmbk5VSWlmT2trNGxHSjc1MmdPb0dibEk2bV9UVklBWDRUdktFMHpFN2hR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-08-04-025",
+    "date": "2026-08-04",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Earnings call transcript: SoftBank Corp. lifts cloud outlook in Q1 2026 - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQcTh3azdFcF9sYms1NGhmejdaMmY3Zklrb0ZWVHF0U3JzNXdNQ3JtNUx6RkZrcTQzM3VwUzkyRjJ3d05yU0llWkxlZ0NpMHk4cGw5SThTTmo1V0lmendOd0drOFB3SFI0RzBnbzhWY3",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcTh3azdFcF9sYms1NGhmejdaMmY3Zklrb0ZWVHF0U3JzNXdNQ3JtNUx6RkZrcTQzM3VwUzkyRjJ3d05yU0llWkxlZ0NpMHk4cGw5SThTTmo1V0lmendOd0drOFB3SFI0RzBnbzhWY3ZNcFVadEZqOXFRa2tROEpibV9tQ0hQSHpyNUNkNDRPUG1XY1ZRd3BWejZRM3dZWHVpVEFvVXdrSVJPLXh2V0RacThPb0xvMFY1ZTJhNTdRYmM3ZUo5UG9pXzdkNVU0QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-08-04-026",
+    "date": "2026-08-04",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "positive",
+    "title": "SoftBank Corp Q1 revenue hits record, beats estimates - Tech in Asia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPYU1IN19wYzNFQkNHdUE0QURfRUlrdGJHZFZOaENQeUR2Mzh3bTRQdThkbENJdGsxZ1JQLVdEbWxfTHN1cEg1OTBsUWM2dGdKYVBhRWtpUTR4dXlKNTFmM2UxVEhSQ2pweDFsZE1GRk",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYU1IN19wYzNFQkNHdUE0QURfRUlrdGJHZFZOaENQeUR2Mzh3bTRQdThkbENJdGsxZ1JQLVdEbWxfTHN1cEg1OTBsUWM2dGdKYVBhRWtpUTR4dXlKNTFmM2UxVEhSQ2pweDFsZE1GRktTNFlwYnJvM1F4T3lYUjk2WExMazk5dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-08-04-027",
+    "date": "2026-08-04",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "SoftBank: Pursuing AI-led growth, record profits, and top ESG ratings with strong governance and dividends - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxORUxVQ3BycWQzZ0lvOFZManB0UmxId1lqekFrdHhqa09CRUFPdVIwSFBfT3dSSFJlVE5laUc2dzh4VWY2ZF9ZOERTWndRYTNnMDc2X01oYVdjUVhvb0pYMDFUTm9sLWZaWHRGZ2JCM0",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxORUxVQ3BycWQzZ0lvOFZManB0UmxId1lqekFrdHhqa09CRUFPdVIwSFBfT3dSSFJlVE5laUc2dzh4VWY2ZF9ZOERTWndRYTNnMDc2X01oYVdjUVhvb0pYMDFUTm9sLWZaWHRGZ2JCM003YnpCMGl0NnFIbHdXWWljT0xmQnllY1NpVS1tczZBRnBlbmRZOTkxVUJwczBLRGVMMTUxOElWOFV4a2RSTzRTSmFYYlBoeWcxbUs1eHZWV3RRMUoyMlJ5Y2JPNDM5MmpGcF9xWlQ4OW5GX1JqQkdicllab09LWlhLSU1DMmFtMU1tZWFLWmZOd2tRT3FFUDhEeXFqWnFtRVZmVkFIQnc1b1hna0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-08-04-028",
+    "date": "2026-08-04",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [],
+    "impact": "positive",
+    "title": "SoftBank: Strong Q1 growth driven by AI, cloud, and financial services, with disciplined capital allocation - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgJBVV95cUxPNklKRHZES2ltZTA3Rkt5al8tVHRTdnFOcmMzM09tY21TMDB4N3oxNmpqelBSMGsxY0RhalhZV3BOOVhtazFaZGotNVlCdVJ6ODVud21DZ3ZJbnZ1X1BVYjZ4ZzhlcEI5LXBERGh3Z3",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPNklKRHZES2ltZTA3Rkt5al8tVHRTdnFOcmMzM09tY21TMDB4N3oxNmpqelBSMGsxY0RhalhZV3BOOVhtazFaZGotNVlCdVJ6ODVud21DZ3ZJbnZ1X1BVYjZ4ZzhlcEI5LXBERGh3Z3ZxeDlfcUVyYUhZcURpUnk5NWNkcVFSV0lZcmxHY3J3eUF2dTFUUzNRMDNRcmZoNm5JM3laQ1Z2MnhPZlNybmFBbnhjNmlNNlZZekFBVnVSbzBuNXNDSThDNjBLRWZncXFJbWRxa0tfN1h2MS1WVVJORmlPZHRLUVQ1SHdsbU5tMndEMlBabTh1XzNES0M2dmluT3ZETUhvM185N25UUXFaWWZjNzFzLXZ6Tnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-08-04-029",
+    "date": "2026-08-04",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Tower to Present at the TD Cowen 12th Annual Communications Infrastructure Summit - Business Wire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPb2dQUkJ5bUpHeUs2cGV4LUFKZWJ3bGZJUTJKVmY4YnFuVzRSZk5JcFdHMEZVLW9oRkVwcWVkWFpiblVMWnZVakdMN1prZms1blBQbV9PVDdmRUxPZDhDWXU0amZHeE04SlRIMEg2Uk",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPb2dQUkJ5bUpHeUs2cGV4LUFKZWJ3bGZJUTJKVmY4YnFuVzRSZk5JcFdHMEZVLW9oRkVwcWVkWFpiblVMWnZVakdMN1prZms1blBQbV9PVDdmRUxPZDhDWXU0amZHeE04SlRIMEg2Ukt6TWw1Z0VnZ3pVZVdOQTR0TnlEdVpQVDBHeFlqSDRxNmkyNi14REx3bUxsZ0NiWC13dkYxSXVlMl9HWnZUaDFyZW5Bd05LQ0hMazc3UURfQzNIY1QxZEdWUnNBQkI3Yng2dDk1aE5nNjdZaVdRMnpyUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-08-04-030",
+    "date": "2026-08-04",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Tower's Aug. 11 presentation will be webcast live - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPY3pzNzY5ZzVTOVhpUkJGN3RuOHMxSHhJVTlwZDJEZWViMXRrMkwwOGxUSzBHVjFRdjdEbS0wSEZyOGdlelJJVXdOYXN5cXVmVS1NdGdkUW9iVDdkREY3QUVhdG45TXNIeXE0NEk3Nk",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY3pzNzY5ZzVTOVhpUkJGN3RuOHMxSHhJVTlwZDJEZWViMXRrMkwwOGxUSzBHVjFRdjdEbS0wSEZyOGdlelJJVXdOYXN5cXVmVS1NdGdkUW9iVDdkREY3QUVhdG45TXNIeXE0NEk3NkFiTjl2dUJNbi1EWlNCeENIZDF1UW5fajNHSDJxVmRFX3B1U1hneG1KeDJXUXBWVFBIR1NqRDBPQmtEZHN1TEdOQVByWmtKYTk3aEt0Z3RfOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-08-04-031",
+    "date": "2026-08-04",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "tower_consolidation",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Tower REIT stock rises Tuesday, still underperforms market - MarketWatch",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSGhDYkpiYnAwZU11VER3QjdHTkFvb0RXeDhRVWpHX0o2MGN2eUFrZVVYU3pRWE51SXR4cGlyYmtKSmhLdGtTU3JzZkw2MGdsTFpnTnFZV19sRjZ6ZVBoakZSbkNSMFpzSV9ZYWgwSH",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSGhDYkpiYnAwZU11VER3QjdHTkFvb0RXeDhRVWpHX0o2MGN2eUFrZVVYU3pRWE51SXR4cGlyYmtKSmhLdGtTU3JzZkw2MGdsTFpnTnFZV19sRjZ6ZVBoakZSbkNSMFpzSV9ZYWgwSHdHU0g2Sk9SSjFuM3I4NU9iamFSTzNZV2MtcUM3Y044ZDBaTy1QdGl2TkJwbzF1eUdxU1hmMlR1a2hjMDFpLXJCNVhka1ZFNUU4aXV3aFdUM1ppb0NOWGFNSk15UjdXYmlpb25pcmRKbFJ2T2lk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-032",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "spectrum_auction",
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Tower Companies Optimistic Amid Spectrum Auctions, Potential AI Deployments - Broadband Breakfast",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxObDhDZTBCN0hSTldmSnZOUzVyS2NQUFlDY3d0WmVXZXZEWkw3RElJVzgxTzFPbUJZZGFaSC1WTDB6OUlyVklHVzQxenRHc1QtS1lELW1LZXhVRTZSMEs4TVQ5dzRYbEktekJ4ai1DeH",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObDhDZTBCN0hSTldmSnZOUzVyS2NQUFlDY3d0WmVXZXZEWkw3RElJVzgxTzFPbUJZZGFaSC1WTDB6OUlyVklHVzQxenRHc1QtS1lELW1LZXhVRTZSMEs4TVQ5dzRYbEktekJ4ai1DeHd4Q0ljajE3aHdMZkctQ2xKMXBzeFQtTVNMYmJfSjRuV1o4a2l4ekdqM205S3RpNDBISzVtbFJpdWRudw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-08-04-033",
+    "date": "2026-08-04",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "JPMorgan Chase & Co. Issues Pessimistic Forecast for SBA Communications (NASDAQ:SBAC) Stock Price - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYVZDRGJzZVVCSGZsVU4xQ0x3T1NKQkFONUhfM0Z1d0E5bE8ydkNkNzJBaVFQV3VoTzVOMDlvb050NUVrZGpaS21FYkw1UllFZldVNlhkaU51Z2FhTl9BbThYdTN4U1k4dVhsc21WSF",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYVZDRGJzZVVCSGZsVU4xQ0x3T1NKQkFONUhfM0Z1d0E5bE8ydkNkNzJBaVFQV3VoTzVOMDlvb050NUVrZGpaS21FYkw1UllFZldVNlhkaU51Z2FhTl9BbThYdTN4U1k4dVhsc21WSFhMQzlMYUUtM0pFWWtPSVdxaUZNSG1uTmVVbTNYY0JuaWJkX2dkanJ1czZHUDY4ZWN3RE4zSS1pTDdyVE1oMUQ0ckhtY2VWa2ZzcFVqX0tvZTUtLWUtVnlhS0pQbl9MUldpVEw2aUFsd3BFWnlsRFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-08-04-034",
+    "date": "2026-08-04",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SBA Communications boosts site leasing revenue by 5% in Q2 - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPbTM2MTN0emJFNUNlNmZvdTcwWkV0Y2prRF8zaG9oRFlYNGJYdy00NXNQcV95VGpUeEtvbk9RVXlTMEtvNTVFc1lFa3ZhbmhrMzZFZHNUOVAtTzV1YjBucXlDZnRaRkhybE4yUkFqaz",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbTM2MTN0emJFNUNlNmZvdTcwWkV0Y2prRF8zaG9oRFlYNGJYdy00NXNQcV95VGpUeEtvbk9RVXlTMEtvNTVFc1lFa3ZhbmhrMzZFZHNUOVAtTzV1YjBucXlDZnRaRkhybE4yUkFqazU0NjlZWEVLVmk2ZUdBSmllOWxZVFBveFFwTXpNWDB1SDIzX0ZLamxBd0NpR1gyNDZKM2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-08-04-035",
+    "date": "2026-08-04",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SBA Communications Corporation (NASDAQ:SBAC) Declares Quarterly Dividend of $1.25 - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNWHN2Rnd0Z2ZXc3lPUnFIUWczLXZHejllRUE0cjFfekVpa3JvbXVvOTljMUZaWEJLcEdoTFg3am5pQkhOamNrZEM5c2hMd1ZzdkVMaUJpeUZ3T3pXOW81d3Ntal9TcU5rcWhGWVg4LV",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWHN2Rnd0Z2ZXc3lPUnFIUWczLXZHejllRUE0cjFfekVpa3JvbXVvOTljMUZaWEJLcEdoTFg3am5pQkhOamNrZEM5c2hMd1ZzdkVMaUJpeUZ3T3pXOW81d3Ntal9TcU5rcWhGWVg4LVpSRjBjajNYTWd1ZHdLNVhheW5RbVhjM2NpSWFBdk5reEhIQ09KeUpELUMzSXM0V3JOYjNJTXMtemk1endsZ0t4NEdZNGtweEdYRFZRMXBkUEc1aVBUVVFsS3hB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-08-04-036",
+    "date": "2026-08-04",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SBA Communications (NASDAQ:SBAC) Price Target Cut to $215.00 by Analysts at Morgan Stanley - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNN0RmSXVSSnE4MUJPS0t1ZVlmcWV0VzNvRDg0MEc2UmxaSnhfMUpMVlIzZTR6cWRNMXlvWjFaOXA4bzg5blNpb3ZyZUZYWi1sdmphZnJLNEdsOFpseE9oYmJlRy1wOHJIN2g1aFJCQ3",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNN0RmSXVSSnE4MUJPS0t1ZVlmcWV0VzNvRDg0MEc2UmxaSnhfMUpMVlIzZTR6cWRNMXlvWjFaOXA4bzg5blNpb3ZyZUZYWi1sdmphZnJLNEdsOFpseE9oYmJlRy1wOHJIN2g1aFJCQ3JNc1BSUVF5WGhoaXMzRld3QThVYVkzejMtWjRSYlA5ZDRzejNQZWJlMEs1LVVaZFNnanpleW1OOWNZcmZ6cUpEX1M3WG4zRGpKZnc1d3JjTmtraEF3ekZvX1JhVDQ3QWk0eU9fMVZB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-08-04-037",
+    "date": "2026-08-04",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why data center companies Equinix and Oracle are buying fuel cells - Trellis Group (formerly GreenBiz)",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQRUxjOXp0ZDc3LWNfY21Bb1I5RWtrR2luYUJJRWZfRzNkcFRpQmlBTHFfYWQ3eW9NamFtQTBxbEVCY3oybTctVGktQm9BZU04T0ttdzhNWHRvdklaUXpuN21OeFBQQTZvQkFlSFVYSm",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRUxjOXp0ZDc3LWNfY21Bb1I5RWtrR2luYUJJRWZfRzNkcFRpQmlBTHFfYWQ3eW9NamFtQTBxbEVCY3oybTctVGktQm9BZU04T0ttdzhNWHRvdklaUXpuN21OeFBQQTZvQkFlSFVYSmtDMzZINlZfbDJYVGtZYVBjR0tVVVo4Ym0xYV9penowNno?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-08-04-038",
+    "date": "2026-08-04",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Data Center REIT Equinix Still A Bull Case After Q2 Results Impress - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQZHV4QjZwRnlLOGtlNVM3bTF4RGgtaGQtS0Z5RGk5TVhuVnhaZnhKaVZWT1JpLWoyMGFONVVHMXE4U0ZoTmZkUUNSamVKdU1mWWN1RFh0VEFiNk1TTnlQdVdibVdSMXlaSHJfMTd5VT",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZHV4QjZwRnlLOGtlNVM3bTF4RGgtaGQtS0Z5RGk5TVhuVnhaZnhKaVZWT1JpLWoyMGFONVVHMXE4U0ZoTmZkUUNSamVKdU1mWWN1RFh0VEFiNk1TTnlQdVdibVdSMXlaSHJfMTd5VTRPRDZzMWJOVG9fZHhWSmY0QVpRVnpjaWxMRlFsaGpqNUN1OFhaUFRaOU5n?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-08-04-039",
+    "date": "2026-08-04",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Minooka Village Board Approved Creating a Special Service Area For Equinix Data Center Campus - WCSJ News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwJBVV95cUxPM0RPZU1KQ05CRUxKQXRiUkRBcGlnTnhWMXdYMHA4RXJ4b1NVeTNWeGRZQXU1cjNRZWZEZ1lUSG1mY0Z0SWhuMm9Ha3R2d1lUTzA4Um00TTBRWUdKOG5PaENMTkhKdUpWWmpRYl8zbG",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPM0RPZU1KQ05CRUxKQXRiUkRBcGlnTnhWMXdYMHA4RXJ4b1NVeTNWeGRZQXU1cjNRZWZEZ1lUSG1mY0Z0SWhuMm9Ha3R2d1lUTzA4Um00TTBRWUdKOG5PaENMTkhKdUpWWmpRYl8zbGdDUHo4V1Nka0xwMEVzY3dyWU8zZkRsSDJpZHg1WW5TY3hJVUdWczVoclpsS3VUOW1pZ1dkaVZTcXhreVNlY3dpNGxVc2R2MmNNSWdubTd2YkVkWTRoaTVSNEZ3VGhLZDhRTU5mUk9ITEdmMUpESGhPZzhrOXFiZTZuREgtUXN6UmRoVnNTR1R2OW0tbVVfa2FTdnd5N0RXcW85aFk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-08-04-040",
+    "date": "2026-08-04",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Minooka Village Board Approved Creating a Special Service Area For Equinix Data Center Campus - WSPYnews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxQVVZRTElsTGNxNkliZ1VzaE5ja29ucDlqZlhhWEM2Q2I1ZlpqSk1IeTJUdEZHbkhaUFdpRExTSURkYXlkYng1UjdISm8xSXRzSDJ0THkxYVJZQkg2ZXhxd0ZueWF4X2FHa1gwS1Y2Y3",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQVVZRTElsTGNxNkliZ1VzaE5ja29ucDlqZlhhWEM2Q2I1ZlpqSk1IeTJUdEZHbkhaUFdpRExTSURkYXlkYng1UjdISm8xSXRzSDJ0THkxYVJZQkg2ZXhxd0ZueWF4X2FHa1gwS1Y2Y3ZKV0dhZ3FPOVB1UEV5WnFkS3RBVXdTVHI0M3U3X2xEWHFVSmVXX2tnQzI3UGdmdWNfbEJzZVhJWVhMMWQwZVU2VjNQWGxrZVFMckxXa3UyVTFjSkRlTWlfam9ZXzFRZl95cUNQaWlnQjBWbmNnMWM4bVgwZlQtb1YtMU9ZdlloQVBhbHc1RmN2RzNrNlktRzM1c1N3WFo3Mnh4VXJpejJz?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-041",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Memory component shortages point to early Wi-Fi 8 introduction – Dell'Oro",
+    "summary": "Wi-Fi 7 revenues will peak higher than any prior Wi-Fi version. #pressrelease",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/wifi/memory-component-shortages-point-to-early-wi-fi-8-introduction-dell-oro",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-042",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "OCUDU Ecosystem Foundation welcomes Intel as a premier member",
+    "summary": "Premier membership brings Intel's cloud native, silicon and telecommunications expertise to the shared OCUDU software ecosystem. #pressrelease",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/open-ran/ocudu-ecosystem-foundation-welcomes-intel-as-a-premier-member",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-043",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "PON in data centers keeps growing – Dell’Oro",
+    "summary": "Analyst firm expects total cumulative spending on data center PON equipment from 2026 to 2030 to exceed $3 billion. #pressrelease",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/fttx/pon-in-data-centers-keeps-growing-dell-oro",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-08-04-044",
+    "date": "2026-08-04",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank boosts earnings with help from AI and cloud services",
+    "summary": "AI and cloud propel SoftBank's earnings to grow 3%, as the Japanese telco announces $634 million investment in 7-Eleven partnership to build 'next-gen lifestyle infrastructure.'",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/finance/softbank-boosts-earnings-with-help-from-ai-and-cloud-services",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-045",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lightcurve launches 8 Gigs in Tacoma",
+    "summary": "Lightcurve, which operates network infrastructure in Tacoma, Washington, via a lease agreement with Tacoma Public Utilities, is the first broadband provider to offer speeds of up to 8 Gbit/s in the Ta",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/fttx/lightcurve-launches-8-gigs-in-tacoma",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-046",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Astound debuts back-to-school deals",
+    "summary": "Available now through September 30, qualifying new Astound customers in eligible service areas can get 1-Gig broadband for $30 per month or choose from plans starting at $9.95 per month. #pressrelease",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/broadband/astound-debuts-back-to-school-deals",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-047",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China Mobile weighs sale of part of its True Corporation stake",
+    "summary": "In a stock exchange disclosure, True Corporation said that China Mobile is considering selling a small portion of its 7.8% stake in the company.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/finance/china-mobile-weighs-sale-of-part-of-its-true-corporation-stake",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ericsson-2026-08-04-048",
+    "date": "2026-08-04",
+    "companies": [
+      "ericsson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Eurobites: Ericsson recruited for South Korea's AI-RAN initiative",
+    "summary": "Also in today's EMEA regional roundup: Vodafone sells VodafoneZiggo stake; BT, EE shine in fixed and mobile network tests; CMA wants fair rankings from Google.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/ai-machine-learning/eurobites-ericsson-recruited-for-south-korea-s-ai-ran-initiative",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-049",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "spectrum_auction"
+    ],
+    "impact": "positive",
+    "title": "Wispa warns FCC of 'unsupported conclusions' in D2D proceeding",
+    "summary": "Wispa has asked the FCC to revise a draft notice of proposed rulemaking on unlicensed spectrum for D2D use, saying certain claims are 'not accurate, are not supported and are inconsistent with years o",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/satellite/wispa-warns-fcc-of-unsupported-conclusions-in-d2d-proceeding",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-050",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Comfone and VOX Solutions partner to strengthen A2P SMS monetisation for mobile operators worldwide",
+    "summary": "<a href=\"https://totaltele.com/comfone-and-vox-solutions-partner-to-strengthen-a2p-sms-monetisation-for-mobile-operators-worldwide/\" title=\"Comfone and VOX Solutions partner to strengthen A2P SMS mone",
+    "sources": [
+      {
+        "name": "total_telecom",
+        "url": "https://totaltele.com/comfone-and-vox-solutions-partner-to-strengthen-a2p-sms-monetisation-for-mobile-operators-worldwide/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-04-051",
+    "date": "2026-08-04",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tuesday Bytes: Sertex, Archtop, FLAG",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/yszsKPNVRv1nSDsO5MFYwuGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Tuesday Bytes: Sertex, Archtop, FLAG\" title=\"Tuesday Bytes: Sertex, Archt",
+    "sources": [
+      {
+        "name": "telecom_ramblings",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaWBgT5KGopO9tssrK73SFp0?utm_source=follow.it",
         "type": "rss"
       }
     ]
@@ -1242,6 +2262,85 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTXZHbnRXQ0wyWERLQTlZV3dJQmQxNksyVkdUa3dSTlhnYU1lVWwtNzRSVnFwSDRwei1IbEU2TExQdU0tR2V5QnJNdmg5eHd4LW1BSG91eUs3bUN4eHhpOEhoVXJMX3ZQRjVNVU9RVUxzY192b3RwQ1ZuaTV0dG1wR0VqeHNWd3JvN1E1eHRtdTZFWjljcEZBQ2o4SVg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-08-03-054",
+    "date": "2026-08-03",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SBA Communications Q2 Earnings Call Highlights - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGNsSVMzb3k3WlpJcFhkR09VU2VpMDdXMThZS0ZJd3VTUllOVklaN1BBbUgzNnh3VkpzU2h5QzYyLU1MR2Q0bmY1UXBFaDNpMlNieE1XM2hSTFlTZnMyREp6d2IxMUFZNkJKbUlnd1",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGNsSVMzb3k3WlpJcFhkR09VU2VpMDdXMThZS0ZJd3VTUllOVklaN1BBbUgzNnh3VkpzU2h5QzYyLU1MR2Q0bmY1UXBFaDNpMlNieE1XM2hSTFlTZnMyREp6d2IxMUFZNkJKbUlnd1lhRjVKajVEalI2VUp3QVN0OThHb3JpdXdWUFJfaUNndEw1YmQ0OHhUTUY5dGhFY2FDb1h0WEsxUTA0QXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-08-03-055",
+    "date": "2026-08-03",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "tower_consolidation",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "SBA Communications lifts annual forecast on strong demand for cell tower leasing - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcExWNER1QVpDRV9RYWMxOVBJaHJXSTJ4SkhRdy1QNTFzYThhWk1UWmE0OUE0T2puS2ZocTdiRlJRMjR6M1lxbkcwMlpreEx1WmpFakt0amdqRTR1bzVicHg5d01pMTlSWEVOWTRBOE",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcExWNER1QVpDRV9RYWMxOVBJaHJXSTJ4SkhRdy1QNTFzYThhWk1UWmE0OUE0T2puS2ZocTdiRlJRMjR6M1lxbkcwMlpreEx1WmpFakt0amdqRTR1bzVicHg5d01pMTlSWEVOWTRBOEFNRC1fSnNxb1hZQWVoVkFNeUNWdFFvZ1dvcDZtNGhGdzFEam03clhnYlpvZVlXQXc5NEpqUS1JaTZzR1k5dXhfc0RpdEl2SGdEbUIxQlk2ZW1XbTZPM1ZkUTlLc1BzYjFkQ0piSjEwMmdlOGVtUTAwX0swU08?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-08-03-056",
+    "date": "2026-08-03",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What Equinix’s Azure Push Means for Malaysia’s Data Centres - datacentremagazine.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxONFpOVXVEQU5RTjlpNGhsYXV4aDVUZkZfcUNzRVllLTRDa3V2RFE2dzRkcjBPdlRsTDFmZTl0WnQ2MXNjN2ZSQzFDc2dJTUt3dkFKUVJyenFGRVJNb21hY29iLUNPS0ZFcTFnak1LSX",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONFpOVXVEQU5RTjlpNGhsYXV4aDVUZkZfcUNzRVllLTRDa3V2RFE2dzRkcjBPdlRsTDFmZTl0WnQ2MXNjN2ZSQzFDc2dJTUt3dkFKUVJyenFGRVJNb21hY29iLUNPS0ZFcTFnak1LSXk4LS0wdi0wejVsRW9jUWdRdGNoNkNYTWs5NmhERDUzbm9LdG1NU2RLag?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-03-057",
+    "date": "2026-08-03",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HCLTech completes acquisition of HPE's Telco Solutions business - PR Newswire UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxORzNBQVRBN3cyQVo1OTlWRFo3ODd1WUo2dFNNZ0hZelgteWc2NzB2aTRyOFVTb3M1WUZGSjFycUVZdmRfak94ZWc3bDhIX29lUWRBM1p4NGFNM0VOTjdTaDBkQ2hYXzl6bHk1TUF5ZT",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORzNBQVRBN3cyQVo1OTlWRFo3ODd1WUo2dFNNZ0hZelgteWc2NzB2aTRyOFVTb3M1WUZGSjFycUVZdmRfak94ZWc3bDhIX29lUWRBM1p4NGFNM0VOTjdTaDBkQ2hYXzl6bHk1TUF5ZTRZeEptcjNoVXR3UVU1M09GU0JDZnY4ak00R3JZTzBiQUZ0THg0RVVyMlRwckxqaUVaU0IyaGdRMDNBNkp1UlBXbkVrMVVSbU5DMWhVNg?oc=5",
         "type": "rss"
       }
     ]
@@ -5644,6 +6743,24 @@
       {
         "name": "american_tower",
         "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVW5pYVY5cDRkLXFjVzZDVmVaYWEtdHR2QlRkdjFiMTRnU3l5MXlCSmdsLUFFMlJyR0VmejRFRmI5eG10djlVWG5FZ1pDOXRPOWxDakt3U2lWVDllQWF6Qk9TSklNWEdBdXdsWVJ4d0RqZlZCVVF4VzBzZGpVaWc4RFJUN0Q0MnZLWlBhQ1d1UGtuanZSUkxtUWo4LV8xYmhSMklIckRQa3RSUjR1N3lJTjIxdzkwUFNFcjlPbl9Kam5mTmQ2RVk1NUhB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-07-29-077",
+    "date": "2026-07-29",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Enterprise and Telecom Technology Industry News - Pipeline Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCeHFvdkRjUGlqR1ZlR1Z5Y2x4VlhLaXQwZ1JScFhxZG5tS01CUENKOFVRbkY3WFFLNTVfT0tJWHYwTHlnWFc5Xzc5WDlLRkQzUVVydEY2MzBtZw?oc=5\" target=\"_blank\">Enter",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBCeHFvdkRjUGlqR1ZlR1Z5Y2x4VlhLaXQwZ1JScFhxZG5tS01CUENKOFVRbkY3WFFLNTVfT0tJWHYwTHlnWFc5Xzc5WDlLRkQzUVVydEY2MzBtZw?oc=5",
         "type": "rss"
       }
     ]
