@@ -1,0 +1,16 @@
+{
+  "total_raw": 301,
+  "dup_title": 165,
+  "no_date": 0,
+  "too_old": 66,
+  "gate1_fail": 3,
+  "gate2_fail": 8,
+  "passed": 59,
+  "gate2_samples": [
+    "Who Owns Nokia? - bgr.com",
+    "VISN|Commscope Holding Ord Shs|Price:11.920|Chg%:+0.180 - TradingKey",
+    "Ciena and Boston Beer have been highlighted as Zacks Bull and Bear of the Day - TradingView",
+    "Bull of the Day: Ciena (CIEN) - The Globe and Mail",
+    "Deutsche Telekom AG: Deutsche Telekom increases 2026 share buy-back program by up to 3 billion euros"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-06",
+  "total_events": 23,
+  "by_company": {
+    "deutsche_telekom": {
+      "count": 16,
+      "sentiment_avg": 0.03
+    },
+    "tmobile": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "softbank": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "sba_comm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 9,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 10,
+      "sentiment_avg": 0.15
+    },
+    "fiber_buildout": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,238 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-06T10:31:46.651839Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "deutsche_telekom-2026-08-06-013",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Deutsche Telekom posts higher Q2 earnings, raises outlook on T-Mobile strength - Investing.com",
+      "companies": [
+        "deutsche_telekom",
+        "tmobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQOVkxWWtEZlRWNFJxNWlzUGxHMVh4OWI0Z2hPR2xFbTc3cnBjUERGYmF5bXQyY29mOUM4YThUZHpTUmNHQ2hCa2tpM0FRVVJIMGlFZ1BTUWlNVmpQSnZUNjlTbUU2MGIwQkNSUlJicHV0UXBqNW9CQXp4X2t6ZXJud0N1YWRrRU1uSk9xQnlRbGJLWnlIM0ZMT2NUTjlyQXdlUml0UHo5MFp6Q2lpU1N6dm1yemdobFlHdHdpcjJuUk94Zw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "deutsche_telekom-2026-08-06-011",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Deutsche Telekom records higher Q2 German revenues but lower cash capex - Telecompaper",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMFhNVmlDNVktUHpnZjdiZjVvRjZ6TVJkLXBnQmdIb1Vlbm0wekxBZkhTRF9OMzZPZGV5MmhKZ05oWmNfRVYzcS1IaDlfeVVZRWZYYk1GYmozSHpFakh3WjlnNzM1V1lxeGdLRWVTQ2xxemxhZDFkZTJsbWpsNUswQjh3V281NXYwWkE3RnN0S1JLb0hjQ0hfUGJmMTNPN0NjODlWUlY2Rm9xTl93QXpnSEx3WUM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "deutsche_telekom-2026-08-06-016",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Deutsche Telekom's H1 Profit Declines; Net Revenue Up - marketscreener.com",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcWRUUWZTNWFkakNORmpjTFE4c1QxQjBHZ3h6dlRoNUg0c0tseklTX0h3YmtZVy1OQ2xmaFA2UUUtZFNIZjVVRnBEcmE0bTZrTUQ0UDFONTR4bFJnRWRKVGJQQmZGcGRibXNpaHVLTWxCZFgzUEQ0Tnh1SWRldjlQV0pyZkR0S0VVSjREbmU4SmRNWWFiM29xQTdoaFFmRElSTEtXWHJyZzQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "deutsche_telekom-2026-08-06-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Deutsche Telekom continues to grow at a rapid pace and raises annual guidance for free cash flow - Deutsche Telekom",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOHJ1NEFRc0paVE4ySkc2Uy1mVHVtOFRFMlhaN2dxS2N6a2FSVDhaR0pXQS00dDUtRFZoUWtiU2dpNDlhaXFoOTNreE1pUG1iZ00xSnBpVjlsU0xaUEhnajgzM0ZiSTl4UmJoUlBUNTR2SHZKNzM1U192WkRNbDYwQk4wUXZ5aUpsVHIzVGhZZ28wS2l2YnRrUA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "deutsche_telekom-2026-08-06-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Deutsche Telekom Lifts Buyback by Up to $3.5 Billion, Raises Guidance for Key Metric Again - WSJ",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbzd2RFdkWWowa3VSem9DUWNfWDhLalE3QUhWdldHY3NudHUxQ0hnQU9DUlNnRWhUczB0bklMWFFBU0x3c21WT05CZ21sTmpneWdMYXNGX3JDQWRGdzgtTWdQZnVsS0tMdmpKeVhaVkZZaEpaV25Ba0JtbVRWd3B4clktUmVhZDB6U3l4clNOci1RWTBlLWdNeEp5Q3dJTHNjd0dqUkw3bXVkQVFxNkExY2NtTERwNUhPc3lLMEhubGgteG8?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.15,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 19,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "deutsche_telekom",
+        "count": 16
+      },
+      {
+        "id": "softbank",
+        "count": 3
+      },
+      {
+        "id": "tmobile",
+        "count": 1
+      },
+      {
+        "id": "sba_comm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "earnings",
+        "count": 9
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 301,
+    "dup_title": 165,
+    "too_old": 66,
+    "gate1_blocked": 3,
+    "gate2_blocked": 8,
+    "passed": 59,
+    "pass_rate": "43.4%",
+    "gate2_block_rate": "5.9%",
+    "gate2_samples": [
+      "Who Owns Nokia? - bgr.com",
+      "VISN|Commscope Holding Ord Shs|Price:11.920|Chg%:+0.180 - TradingKey",
+      "Ciena and Boston Beer have been highlighted as Zacks Bull and Bear of the Day - TradingView",
+      "Bull of the Day: Ciena (CIEN) - The Globe and Mail",
+      "Deutsche Telekom AG: Deutsche Telekom increases 2026 share buy-back program by up to 3 billion euros"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為德國電信、軟銀、T-Mobile相關動態：「Deutsche Telekom posts higher Q2 earnings, raises outlook...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Deutsche Telekom posts higher Q2 earnings, raises outlook on T-Mobile strengt...（法說會、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Deutsche Telekom records higher Q2 German revenues but lower cash capex - Tel...（法說會、產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
