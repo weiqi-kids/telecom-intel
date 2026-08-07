@@ -1,0 +1,16 @@
+{
+  "total_raw": 303,
+  "dup_title": 158,
+  "no_date": 0,
+  "too_old": 74,
+  "gate1_fail": 6,
+  "gate2_fail": 5,
+  "passed": 60,
+  "gate2_samples": [
+    "Who Owns Nokia? - bgr.com",
+    "Ciena and Boston Beer have been highlighted as Zacks Bull and Bear of the Day - TradingView",
+    "SBA Communications Down Over 7%, On Pace For Largest Percent Decrease Since April 2024 -- Data Talk ",
+    "Eurobites: Telefónica preps for eclipse-mania in Spain",
+    "Why Nokia's 5G Business Just Became an AI Story (and Who Wins) - The Motley Fool"
+  ]
+}
