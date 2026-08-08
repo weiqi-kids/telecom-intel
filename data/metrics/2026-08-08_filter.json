@@ -1,0 +1,16 @@
+{
+  "total_raw": 302,
+  "dup_title": 184,
+  "no_date": 0,
+  "too_old": 63,
+  "gate1_fail": 5,
+  "gate2_fail": 6,
+  "passed": 44,
+  "gate2_samples": [
+    "Who Owns Nokia? - bgr.com",
+    "Ciena and Boston Beer have been highlighted as Zacks Bull and Bear of the Day - tradingview.com",
+    "Deutsche Telekom and SphereNet Is Helping Build Payment Rails for AI Agents - Cryptonews.net",
+    "Deutsche Telekom and SphereNet Is Helping Build Payment Rails for AI Agents - Yahoo Finance",
+    "The Bull Case For SBA Communications (SBAC) Could Change Following Mixed Q2 Results And Capital Retu"
+  ]
+}

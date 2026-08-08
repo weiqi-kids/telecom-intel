@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-08T08:31:34.662955Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "commscope-2026-08-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Commscope Holding Ord Shs (VISN) Stock News Today - TradingKey",
+      "companies": [
+        "commscope"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xYnBLZEsydEVDMDdVa3VLbWpFR0Nlbmplel9reVRtQ0NRaDJmX2RZXzBnSDBFZ29FRDBCdXNnYXo0aHRENG9LMmVHUnVXOEtsT1ZPb1Rza3A2MmxIaFJHRA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "This Week's Top Five Stories in the Data Centre Industry - Data Centre Magazine",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbFZZSTF4UGhKMi1lRTFNT3JFNWhfSUt6MGhMbVhpSURPVlhmeENtbnYtT0ZjMDhLSkRLX1JlRThRRVRoMXlmNlZiZlcwdDBhMG5WNlNPeGdTLUR1aXhsQWwzOUEwTk9DWk1TdVM0RmEydndncjlybkxpTmRiQUlrMkJJRVJFSEtkYVd5elhndTZJZTAxWFhnYW1rUGcwekJZTTluVA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "commscope",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 302,
+    "dup_title": 184,
+    "too_old": 63,
+    "gate1_blocked": 5,
+    "gate2_blocked": 6,
+    "passed": 44,
+    "pass_rate": "37.3%",
+    "gate2_block_rate": "5.1%",
+    "gate2_samples": [
+      "Who Owns Nokia? - bgr.com",
+      "Ciena and Boston Beer have been highlighted as Zacks Bull and Bear of the Day - tradingview.com",
+      "Deutsche Telekom and SphereNet Is Helping Build Payment Rails for AI Agents - Cryptonews.net",
+      "Deutsche Telekom and SphereNet Is Helping Build Payment Rails for AI Agents - Yahoo Finance",
+      "The Bull Case For SBA Communications (SBAC) Could Change Following Mixed Q2 Results And Capital Retu"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為CommScope相關動態：「Commscope Holding Ord Shs (VISN) Stock News Today - Tradi...」。主要關注主題為產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Commscope Holding Ord Shs (VISN) Stock News Today - TradingKey（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "This Week's Top Five Stories in the Data Centre Industry - Data Centre Magazine（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
