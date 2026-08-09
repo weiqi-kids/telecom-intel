@@ -1,0 +1,76 @@
+{
+  "date": "2026-08-09",
+  "generated_at": "2026-08-09T08:33:49.170726Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nokia-2026-08-09-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Amundi Buys New Stake in Nokia Corporation $NOK - MarketBeat",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdzlPZzA2UmdVRHVaTHpqU1Z3SjVOMlZLNHIzU0lEVEtYdWE3YXc1RGNiallGSGpjV3NiQkhWdjlKcXJMcmVQNU96ZFJvX3JwZG1LbDJKdGRNOFRXZWd2OUZ1WFFodTFxZS0xWW52R1VQcklncUxJVldpY3pHVWhxRmE0RkNDLWhSOHd0d1FsdTZFNkxnbXFsRTUxOURzRFRtY3BPRFhpVjdXblE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {},
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nokia",
+        "count": 1
+      }
+    ],
+    "top_topics": []
+  },
+  "filter_audit": {
+    "total_raw": 302,
+    "dup_title": 206,
+    "too_old": 64,
+    "gate1_blocked": 5,
+    "gate2_blocked": 8,
+    "passed": 19,
+    "pass_rate": "19.8%",
+    "gate2_block_rate": "8.3%",
+    "gate2_samples": [
+      "Who Owns Nokia? - bgr.com",
+      "Ciena: Not The Best Photonics Idea - Seeking Alpha",
+      "Ciena and Boston Beer have been highlighted as Zacks Bull and Bear of the Day - TradingView",
+      "Deutsche Telekom and SphereNet Is Helping Build Payment Rails for AI Agents - Yahoo Finance",
+      "Deutsche Telekom, AIT Advance European Quantum Communication Infrastructure Development - The Fast M"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為諾基亞相關動態：「Amundi Buys New Stake in Nokia Corporation $NOK - MarketBeat」。市場情緒中性，暫無明顯方向。",
+    "signals": [
+      {
+        "text": "Amundi Buys New Stake in Nokia Corporation $NOK - MarketBeat",
+        "level": "green"
+      },
+      {
+        "text": "諾基亞為今日主要關注企業。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

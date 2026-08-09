@@ -1,0 +1,16 @@
+{
+  "total_raw": 302,
+  "dup_title": 206,
+  "no_date": 0,
+  "too_old": 64,
+  "gate1_fail": 5,
+  "gate2_fail": 8,
+  "passed": 19,
+  "gate2_samples": [
+    "Who Owns Nokia? - bgr.com",
+    "Ciena: Not The Best Photonics Idea - Seeking Alpha",
+    "Ciena and Boston Beer have been highlighted as Zacks Bull and Bear of the Day - TradingView",
+    "Deutsche Telekom and SphereNet Is Helping Build Payment Rails for AI Agents - Yahoo Finance",
+    "Deutsche Telekom, AIT Advance European Quantum Communication Infrastructure Development - The Fast M"
+  ]
+}

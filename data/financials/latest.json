@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T08:31:29.720456Z",
+  "updated_at": "2026-08-09T08:33:44.852451Z",
   "quarter": "2026-03-31, 2026-04-30, 2026-06-30",
   "companies": [
     {
@@ -109,9 +109,9 @@
       "name": "皇冠城堡",
       "ticker": "CCI",
       "currency": "USD",
-      "ar": 367000000,
-      "ar_prev": 339000000,
-      "ar_qoq": "+8%",
+      "ar": 370000000,
+      "ar_prev": 367000000,
+      "ar_qoq": "+1%",
       "ar_period": "QoQ",
       "inventory": null,
       "inv_prev": null,
@@ -119,24 +119,24 @@
       "inv_period": "QoQ",
       "inventory_applicable": false,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "deutsche_telekom",
       "name": "德國電信",
       "ticker": "DTE.DE",
       "currency": "EUR",
-      "ar": 16751000000,
-      "ar_prev": 16842000000,
-      "ar_qoq": "-1%",
+      "ar": 16710000000,
+      "ar_prev": 16751000000,
+      "ar_qoq": "-0%",
       "ar_period": "QoQ",
-      "inventory": 2891000000,
-      "inv_prev": 2866000000,
-      "inv_qoq": "+1%",
+      "inventory": 2872000000,
+      "inv_prev": 2891000000,
+      "inv_qoq": "-1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "equinix",
