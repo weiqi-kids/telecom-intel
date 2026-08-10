@@ -1,0 +1,121 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T09:10:28.489044Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "deutsche_telekom-2026-08-10-001",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "T-Mobile US has just cut more than 4,500 jobs in latest shakeup",
+      "companies": [
+        "deutsche_telekom",
+        "tmobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/business-transformation/t-mobile-us-has-just-cut-more-than-4-500-jobs-in-latest-shakeup"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Claro Brasil activates 5G network at Rio monument - Telecompaper",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcWcwRGZ0Vnc4T2JCZUtpMTNaX2tMZW83b3hFMFNsUDU5Z21Cbmd0N081OEJFT0lCdDVoemJvdmxuQWVCUDhtUGEycDBZMU9DN1FOZ3l3WlpyRXVpOUlFQ25IMnBoSTllallralg3QWZ2eC1qNmhJTEluLUNTcC14d3VKNHJXSlB6THhNWjN6VlJfM1U0UXJJ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      },
+      {
+        "id": "tmobile",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 305,
+    "dup_title": 213,
+    "too_old": 68,
+    "gate1_blocked": 6,
+    "gate2_blocked": 7,
+    "passed": 11,
+    "pass_rate": "12.0%",
+    "gate2_block_rate": "7.6%",
+    "gate2_samples": [
+      "Who Owns Nokia? - bgr.com",
+      "Polianta Ltd Invests $1.96 Million in Ciena Corporation $CIEN - MarketBeat",
+      "Ciena: Not The Best Photonics Idea - Seeking Alpha",
+      "Convert 1 CIEN (Ciena Corporation • Robinhood Token) to USD (United States Dollar) - Bybit",
+      "Deutsche Telekom and SphereNet Is Helping Build Payment Rails for AI Agents - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為德國電信、T-Mobile相關動態：「T-Mobile US has just cut more than 4,500 jobs in latest s...」。主要關注主題為產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "T-Mobile US has just cut more than 4,500 jobs in latest shakeup（產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Claro Brasil activates 5G network at Rio monument - Telecompaper（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

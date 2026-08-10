@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T08:33:44.852451Z",
+  "updated_at": "2026-08-10T09:10:24.352981Z",
   "quarter": "2026-03-31, 2026-04-30, 2026-06-30",
   "companies": [
     {
@@ -211,9 +211,9 @@
       "name": "SBA Communications",
       "ticker": "SBAC",
       "currency": "USD",
-      "ar": 161474000,
-      "ar_prev": 171256000,
-      "ar_qoq": "-6%",
+      "ar": 175976000,
+      "ar_prev": 161474000,
+      "ar_qoq": "+9%",
       "ar_period": "QoQ",
       "inventory": null,
       "inv_prev": null,
@@ -221,7 +221,7 @@
       "inv_period": "QoQ",
       "inventory_applicable": false,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "softbank",

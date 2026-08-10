@@ -1,0 +1,16 @@
+{
+  "total_raw": 305,
+  "dup_title": 213,
+  "no_date": 0,
+  "too_old": 68,
+  "gate1_fail": 6,
+  "gate2_fail": 7,
+  "passed": 11,
+  "gate2_samples": [
+    "Who Owns Nokia? - bgr.com",
+    "Polianta Ltd Invests $1.96 Million in Ciena Corporation $CIEN - MarketBeat",
+    "Ciena: Not The Best Photonics Idea - Seeking Alpha",
+    "Convert 1 CIEN (Ciena Corporation • Robinhood Token) to USD (United States Dollar) - Bybit",
+    "Deutsche Telekom and SphereNet Is Helping Build Payment Rails for AI Agents - Yahoo Finance"
+  ]
+}
