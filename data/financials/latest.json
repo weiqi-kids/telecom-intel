@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T09:10:24.352981Z",
+  "updated_at": "2026-08-11T08:46:27.718999Z",
   "quarter": "2026-03-31, 2026-04-30, 2026-06-30",
   "companies": [
     {
@@ -75,17 +75,17 @@
       "name": "中華電",
       "ticker": "2412.TW",
       "currency": "TWD",
-      "ar": 29146345000,
-      "ar_prev": 27396000000,
-      "ar_qoq": "+6%",
+      "ar": 25915124000,
+      "ar_prev": 29146345000,
+      "ar_qoq": "-11%",
       "ar_period": "QoQ",
-      "inventory": 17534330000,
-      "inv_prev": 15320000000,
-      "inv_qoq": "+14%",
+      "inventory": 20255186000,
+      "inv_prev": 17534330000,
+      "inv_qoq": "+16%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "ciena",

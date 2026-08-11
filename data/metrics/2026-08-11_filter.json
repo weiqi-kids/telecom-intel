@@ -1,0 +1,16 @@
+{
+  "total_raw": 299,
+  "dup_title": 170,
+  "no_date": 0,
+  "too_old": 70,
+  "gate1_fail": 6,
+  "gate2_fail": 9,
+  "passed": 44,
+  "gate2_samples": [
+    "Ciena Down 29% in Past 3 Months: Should Investors Buy, Hold or Sell? - TradingView",
+    "Convert 1 CIEN (Ciena Corporation • Robinhood Token) to USD (United States Dollar) - Bybit",
+    "Polianta Ltd Invests $1.96 Million in Ciena Corporation $CIEN - MarketBeat",
+    "Ciena: Not The Best Photonics Idea - Seeking Alpha",
+    "Is Deutsche Telekom (XTRA:DTE) Still A Bargain After A 78% Run? - Yahoo Finance"
+  ]
+}
