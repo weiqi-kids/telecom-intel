@@ -1,0 +1,29 @@
+{
+  "date": "2026-08-12",
+  "total_events": 6,
+  "by_company": {
+    "ceragon": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ciena": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "industry_general": {
+      "count": 6,
+      "sentiment_avg": -0.08
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

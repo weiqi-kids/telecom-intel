@@ -1,116 +1,116 @@
 {
   "ericsson": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-10",
-    "count": 6690,
+    "latest": "2026-08-11",
+    "count": 6691,
     "history_complete": true
   },
   "nokia": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-10",
-    "count": 6690,
+    "latest": "2026-08-11",
+    "count": 6691,
     "history_complete": true
   },
   "zte": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-11",
-    "count": 6571,
+    "latest": "2026-08-12",
+    "count": 6572,
     "history_complete": true
   },
   "ceragon": {
     "earliest": "2000-08-04",
-    "latest": "2026-08-10",
-    "count": 6541,
+    "latest": "2026-08-11",
+    "count": 6542,
     "history_complete": true
   },
   "ciena": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-10",
-    "count": 6690,
+    "latest": "2026-08-11",
+    "count": 6691,
     "history_complete": true
   },
   "calix": {
     "earliest": "2010-03-24",
-    "latest": "2026-08-10",
-    "count": 4120,
+    "latest": "2026-08-11",
+    "count": 4121,
     "history_complete": true
   },
   "att": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-10",
-    "count": 6690,
+    "latest": "2026-08-11",
+    "count": 6691,
     "history_complete": true
   },
   "verizon": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-10",
-    "count": 6690,
+    "latest": "2026-08-11",
+    "count": 6691,
     "history_complete": true
   },
   "tmobile": {
     "earliest": "2007-04-19",
-    "latest": "2026-08-10",
-    "count": 4858,
+    "latest": "2026-08-11",
+    "count": 4859,
     "history_complete": true
   },
   "chunghwa": {
     "earliest": "2000-11-15",
-    "latest": "2026-08-11",
-    "count": 6389,
+    "latest": "2026-08-12",
+    "count": 6390,
     "history_complete": true
   },
   "taiwan_mobile": {
     "earliest": "2002-08-27",
-    "latest": "2026-08-11",
-    "count": 5925,
+    "latest": "2026-08-12",
+    "count": 5926,
     "history_complete": true
   },
   "fareastone": {
     "earliest": "2005-08-24",
-    "latest": "2026-08-11",
-    "count": 5144,
+    "latest": "2026-08-12",
+    "count": 5145,
     "history_complete": true
   },
   "deutsche_telekom": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-11",
-    "count": 6799,
+    "latest": "2026-08-12",
+    "count": 6800,
     "history_complete": true
   },
   "softbank": {
     "earliest": "2018-12-19",
-    "latest": "2026-08-10",
-    "count": 1862,
+    "latest": "2026-08-12",
+    "count": 1863,
     "history_complete": true
   },
   "american_tower": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-10",
-    "count": 6690,
+    "latest": "2026-08-11",
+    "count": 6691,
     "history_complete": true
   },
   "crown_castle": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-10",
-    "count": 6690,
+    "latest": "2026-08-11",
+    "count": 6691,
     "history_complete": true
   },
   "sba_comm": {
     "earliest": "2000-01-03",
-    "latest": "2026-08-10",
-    "count": 6690,
+    "latest": "2026-08-11",
+    "count": 6691,
     "history_complete": true
   },
   "equinix": {
     "earliest": "2000-08-11",
-    "latest": "2026-08-10",
-    "count": 6536,
+    "latest": "2026-08-11",
+    "count": 6537,
     "history_complete": true
   },
   "etf_iyz": {
     "earliest": "2000-05-26",
-    "latest": "2026-08-10",
-    "count": 6589,
+    "latest": "2026-08-11",
+    "count": 6590,
     "history_complete": true
   },
   "etf_fivg": {

@@ -1,0 +1,199 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-12T09:04:27.112971Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ceragon-2026-08-12-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ceragon Networks (CRNT) Stock Gains As Revenue Climbs And Margins Tighten - simplywall.st",
+      "companies": [
+        "ceragon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWWxRNnlsVjM1RkNmWUV0Y19HZVFyTGxGMlhrZzVuRXU3dllEYzc5OGxMdUN6c2NVRDVzbTQ5bmNqNnBDSFQ1aEtPdGUzTndILUo5TWtJaVZNU0JoLWxwdW1ueWQ4OThXeXp5akM1ZUJHMjhpT1BvQmxRbmFObl85Si1RdEFlV1EwaG1aWWFzQUh3elJoclRfVDdTVFp0R19IdlZrTkVpVmhfUnZydDdvaFJvby16TjBxbzJOeEVubDFBMTljNXpCTUhsU0VWTkdm0gHQAUFVX3lxTFBZbFE2eWxWMzVGQ2ZZRXRjX0dlUXJMbEYyWGtnNW5FdTd2WURjNzk4bEx1Q3pzY1VENXNtNDluY2o2cENIVDVoS090ZTNOd0gtSjlNa0lpVk1TQmgtbHB1bW55ZDg5OFd5enlqQzVlQkcyOGlPUG9CbFFuYU5uXzlKLVF0QWVXUTBobVpZYXNBSHd6UmhyVF9UN1NUWnRHX0h2VmtORWlWaF9SdnJ0N29oUm9vLXpOMHFvMk54RW5sMUExOWM1ekJNSGxTRVZOR2Y?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ciena-2026-08-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "NewEdge Advisors LLC Acquires 6,132 Shares of Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb25fVWtLNjlucnU4dlAwWEFVOUJJRkw0Yk5sekUwODJtM1pKelF0NXdJVFQwQ0JqQXhFNmhRSVNIbVdUcWM1Mi04U1B3SGpVTXJiZFRmOEpjSjFCVHlhb2lUWTZ5bDdvZU5NNWMwT2hFU2JCQTU4QkJGZnF6dlpqLTkxc2ljbDRsR21VWUNXWENoYnlOV1QxYWlsX3g5MFdpcU5PTmd3NGstRzJIbkR4ZnpXRXF4MHJsdWRuNFB0Y1BLOWhSdTdV?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ciena-2026-08-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena: A Steadier Way Into The Optical AI Trade - Seeking Alpha",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOE1mb3lNOGNZenQ3NGJfdUxMRUt0YTZGbTVreXdjSVBXSldMODVZY19lbGl0Y1hxNUdrUjJqOHZ6clpEVlo2NkxCQy1oQndZeG1RODBGS3MyVWN4NkduemFCZnpkMnpmUjNfWUZpQWtSN3NFNXpkc0Y0eE1naHJxZ0VjQ0RXRUwyRG9iZnh4SkJxVExzMXZFSDZQZmlMbTJj?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-12-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Post-5G slowdown: AI and automation are reshaping India's telecom workforce, hiring trends - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaE52WGxBVlpsOTBBVl96M3dEUFprUy1KWU5VMjBwZEVYcENuM25DUVdwRG1JblpsR1JjSnhraXVkTlVjeVRJdnZwcFhNVEFRSmVJUzNjNlJ4RkJRejJjSWo2VEVNYnRyUVJBM3BFQUVjMVgxZ1MzNkExNFc4Ni1FWTNaeUVaaDdlMGRfRXNBenIyYVljWjhDQUIzUm0wTFBDMWM2blhlcm4xa2dnRFRIeFhYRnRRVTI2T0VtZWNVMHZNLWFJbFZNWG11OUZienVpWkZVNVJjWUVXWWxVTVE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-12-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lithuanian telecom market grows 5% in Q2 - Telecompaper",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNWJ0bjdnSnN4N2gyNzRKNjNIR2prQ3kzMzBwNkc2U0h1ckJ6a0VkeHp6dUNFWTY0N2lvZ0Q5SGdxY2t1Vy0yWXU2VEtSN0tEZUpSZEpwR19MY2Zna0lxbmd3Wk1XTjhDX1psbEd4MmxpVVotSGY2c0pJWExBZGVNZFhPODVvSThTQXc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.08,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 2
+      },
+      {
+        "id": "ceragon",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 307,
+    "dup_title": 183,
+    "too_old": 65,
+    "gate1_blocked": 6,
+    "gate2_blocked": 11,
+    "passed": 42,
+    "pass_rate": "33.9%",
+    "gate2_block_rate": "8.9%",
+    "gate2_samples": [
+      "Nokia Declines 28.7% in Three Months: Should You Buy the Dip? - TradingView",
+      "VISN|Commscope Holding Ord Shs|Price:11.430|Chg%:+0.490 - TradingKey",
+      "Ciena Down 29% in Past 3 Months: Should Investors Buy, Hold or Sell? - TradingView",
+      "Polianta Ltd Invests $1.96 Million in Ciena Corporation $CIEN - MarketBeat",
+      "Ciena: Not The Best Photonics Idea - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為Ciena、Ceragon相關動態：「Ceragon Networks (CRNT) Stock Gains As Revenue Climbs And...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Ceragon Networks (CRNT) Stock Gains As Revenue Climbs And Margins Tighten - s...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "NewEdge Advisors LLC Acquires 6,132 Shares of Ciena Corporation $CIEN - Marke...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
