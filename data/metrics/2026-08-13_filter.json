@@ -1,0 +1,16 @@
+{
+  "total_raw": 306,
+  "dup_title": 171,
+  "no_date": 0,
+  "too_old": 66,
+  "gate1_fail": 6,
+  "gate2_fail": 11,
+  "passed": 52,
+  "gate2_samples": [
+    "Nokia Declines 28.7% in Three Months: Should You Buy the Dip? - Yahoo Finance",
+    "VISN|Commscope Holding Ord Shs|Price:11.430|Chg%:+0.490 - TradingKey",
+    "Ciena Down 29% in Past 3 Months: Should Investors Buy, Hold or Sell? - The Globe and Mail",
+    "Convert 1 CIEN (Ciena Corporation • Robinhood Token) to USD (United States Dollar) - Bybit",
+    "Ciena: Not The Best Photonics Idea - Seeking Alpha"
+  ]
+}
