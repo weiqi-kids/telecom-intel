@@ -1,0 +1,37 @@
+{
+  "date": "2026-08-14",
+  "total_events": 6,
+  "by_company": {
+    "ceragon": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "deutsche_telekom": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sba_comm": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "equinix": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 298,
+  "dup_title": 157,
+  "no_date": 0,
+  "too_old": 75,
+  "gate1_fail": 7,
+  "gate2_fail": 8,
+  "passed": 51,
+  "gate2_samples": [
+    "Nokia Declines 28.7% in Three Months: Should You Buy the Dip? - TradingView",
+    "Ciena Down 29% in Past 3 Months: Should Investors Buy, Hold or Sell? - The Globe and Mail",
+    "Polianta Ltd Invests $1.96 Million in Ciena Corporation $CIEN - MarketBeat",
+    "Uniting Through Sport: Inclusion as Part of Deutsche Telekom’s Commitment - Sportfive",
+    "Is Deutsche Telekom (XTRA:DTE) Still A Bargain After A 78% Run? - Yahoo Finance"
+  ]
+}
