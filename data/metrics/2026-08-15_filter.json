@@ -1,0 +1,16 @@
+{
+  "total_raw": 307,
+  "dup_title": 181,
+  "no_date": 0,
+  "too_old": 72,
+  "gate1_fail": 4,
+  "gate2_fail": 9,
+  "passed": 41,
+  "gate2_samples": [
+    "Nokia Declines 28.7% in Three Months: Should You Buy the Dip? - TradingView",
+    "VISN|Commscope Holding Ord Shs|Price:11.448|Chg%:+0.098 - TradingKey",
+    "Ciena Down 29% in Past 3 Months: Should Investors Buy, Hold or Sell? - The Globe and Mail",
+    "Polianta Ltd Invests $1.96 Million in Ciena Corporation $CIEN - MarketBeat",
+    "Uniting Through Sport: Inclusion as Part of Deutsche Telekom’s Commitment - Sportfive"
+  ]
+}
