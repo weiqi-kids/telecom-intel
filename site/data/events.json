@@ -1,5 +1,65 @@
 [
   {
+    "id": "ciena-2026-08-16-001",
+    "date": "2026-08-16",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ciena Corporation $CIEN Shares Purchased by Empowered Funds LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR0wxZnhUNHRpQy1CWTh4UkkwVXJoa3kxRFl6WDhlNGJrbS1nM0xlcmxqSEI3dFhZc3RPajd2ZnBYbFl2Qk5uS293VVJxS2RkdGs4UmJZMEIzOUxtTDVaWkxyWkY4SVg2ZXhFRjU3eD",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR0wxZnhUNHRpQy1CWTh4UkkwVXJoa3kxRFl6WDhlNGJrbS1nM0xlcmxqSEI3dFhZc3RPajd2ZnBYbFl2Qk5uS293VVJxS2RkdGs4UmJZMEIzOUxtTDVaWkxyWkY4SVg2ZXhFRjU3eDJjSXpELVZGLTAyQkJfWHZqbllZWklDeFRrM2NyRmdxbXZ4R2x6aUZmdEpSZkpwTGh5ODFCT2ZtaTJFejd1V2dCdVI4UEpaLUtmSHI1TkZOajY?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-08-16-002",
+    "date": "2026-08-16",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SBA Communications (NASDAQ:SBAC) in focus as tower leasing tracks carrier densification - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOSWxQUTQtNWVER2QxYzRucHRrTDdPdGlqaGpObl9iQkJ0REQzTE5uM0djdm5lNW9seXNWSWhQdHQ4S2cxaW9aQnlhTDFpVlY5endIQTFOMnVnVlUxUE40TUt0WG9KVlF2aGNMd05qMT",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSWxQUTQtNWVER2QxYzRucHRrTDdPdGlqaGpObl9iQkJ0REQzTE5uM0djdm5lNW9seXNWSWhQdHQ4S2cxaW9aQnlhTDFpVlY5endIQTFOMnVnVlUxUE40TUt0WG9KVlF2aGNMd05qMTRHQUFDYXNQUldnNmpnNlA0LWFSazhqWGRDdnFtYW05NmVjNEFZNGdNNUVrVmNLVXY4RlFxV0Z5dmhTLXJrMjgtX0xINFVQSUtPWjdScjFyRjJ1eG5Hd1l3LUhsaVo5Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-08-16-003",
+    "date": "2026-08-16",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Equinix (NASDAQ:EQIX) raises full-year guidance on data-center demand surge - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbHZpSXJPSG9YakhjT1NXek5xVlVuZ01JU3NoSzROb0p5M3Fuam10YUpfUk9BQ3lfX29RYWhMR19OUFN3cWY4QVdacTl4TnRCbkFjT3lQbkFpS09xS1N5SXU5dDloM28wMWtzei1zTU",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbHZpSXJPSG9YakhjT1NXek5xVlVuZ01JU3NoSzROb0p5M3Fuam10YUpfUk9BQ3lfX29RYWhMR19OUFN3cWY4QVdacTl4TnRCbkFjT3lQbkFpS09xS1N5SXU5dDloM28wMWtzei1zTUxLb1JKcUVDcDJrWUNmc1lsQmsyN3gwLWNxMGZwaEl6Z2o3bkpyN0JRUnZ1b1pEY1YwUkROYm42SmtKSG1oLTZ3ZHN6VzlGb21RR3FUdnduQS02Skp0NjNGYUpEZG05WW8tYW5lSg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "ciena-2026-08-15-001",
     "date": "2026-08-15",
     "companies": [
@@ -33,6 +93,142 @@
       {
         "name": "american_tower",
         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSHhxSGthSTR6d3YtVUdlSkMyZ0thRFVZdGVRaWl1SmVqamthcGFva09KUERTMVR4WThZT0kwemxreGhYTm1scDJVLXdhTGI0Q0JYNFFRYzVOWmY1bndNOGFfTExqSFdFNHYyNjJsQkRxNTJma190RW1Nd3BrNXZnZk1tdS1vV1Jqd0tZWjIyelFjTnBickM4RzV6d29xNXFseXdqR09sbTBPSVdFMUloZEVWdTRscEVXS3VQSzE4M0JyMkJIQl9wUURTY2xQZWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ceragon-2026-08-15-003",
+    "date": "2026-08-15",
+    "companies": [
+      "ceragon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ceragon Networks (NASDAQ:CRNT) Downgraded by Wall Street Zen to Buy - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNalJyT3hJaW42eWtfdkFPWmRrMUEzVTRZRGRUVzNta2d0QW5QX3hDNm50ZlJyaU5uWlZMZHlkZ2ZVNFJwSkZHT29Ra1g4LUgwbmExeWgtZG9scXpWN3hxTzdDdHgtdVNNLW8tTUxzX2",
+    "sources": [
+      {
+        "name": "ceragon",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNalJyT3hJaW42eWtfdkFPWmRrMUEzVTRZRGRUVzNta2d0QW5QX3hDNm50ZlJyaU5uWlZMZHlkZ2ZVNFJwSkZHT29Ra1g4LUgwbmExeWgtZG9scXpWN3hxTzdDdHgtdVNNLW8tTUxzX2U4MHJDeXNvenNMYjlaMmpKYjI3Q25WeHVaYmZQWXVhYmRTY2pYdElSRHB6bk40dDAyUWJWeVlzYmM3M2h3Z0dOSkVVYlYwUVM2Z0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-08-15-004",
+    "date": "2026-08-15",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mill Capital Management LLC Purchases Shares of 118,842 American Tower Corporation $AMT - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMHREcDVZNWVfNm96ZW1DaGxrVHdFNFhVb2RLTjFPczBsNE5rbEc3RVNwSzZ4b3dzUXcwaUlmRkZ5MjZtdjdReDJuaHhEMEM4QzBvdnVzeDFuX3Z2ZEZWQmNzalp5eFREYk9XVGlSR2",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMHREcDVZNWVfNm96ZW1DaGxrVHdFNFhVb2RLTjFPczBsNE5rbEc3RVNwSzZ4b3dzUXcwaUlmRkZ5MjZtdjdReDJuaHhEMEM4QzBvdnVzeDFuX3Z2ZEZWQmNzalp5eFREYk9XVGlSR2Jncl96RjI3ZjZCLWhQYUJaXzRBZ0RMRW4yNGh0WTF6WC0zUkE0aHhoOWFSUXlMV2ljbzhhVUtRUnVKZVhpdWJlYXlfMEJUYkZQZjhQSzkzVHFMQllOYU01N0RFclFXU29OWUE2OXdaU0UyNlpTVTRj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-08-15-005",
+    "date": "2026-08-15",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Oppenheimer Asset Management Inc. Takes $21.77 Million Position in American Tower Corporation $AMT - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZXZacnllSHN1S0NUUWNKVUVhMEJtY2k4X05MaFIzc2FrcU5uT3dSSVRIUnNQa1pUSEdYZ2ZDSUhrYmFDZzFLUFVpcEFNWWJXdHBJTzR6U2pFaGhQWFo1WWR5V1VUN2IzQm5EOHZweU",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZXZacnllSHN1S0NUUWNKVUVhMEJtY2k4X05MaFIzc2FrcU5uT3dSSVRIUnNQa1pUSEdYZ2ZDSUhrYmFDZzFLUFVpcEFNWWJXdHBJTzR6U2pFaGhQWFo1WWR5V1VUN2IzQm5EOHZweUhnZFZKTVFwR1hDRUV0VU9KVWpqX3A3aFFpVUNGNUFwX19FV2tlMUZ3aXlieWlhb0YxZEl0MEhTZkh6RFRFTFhhVXBaSnM2SnhFcy1kUUpXcE5OUEljUzEyZklFb2tJYlU3TDV2RjR3REV3T3dBb3lEREhKMnBTSldkNEVB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-08-15-006",
+    "date": "2026-08-15",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Walleye Capital LLC Acquires Shares of 176,101 American Tower Corporation $AMT - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNa056SHBYVjJTZlBTWkxDeFRXcE9tZENqX0tXc2ZSek1tcndRQ0U0U3JKcG9tRThsNjlrUTd1QTNXek5nUXFDVkoweExYOEY3WjNrZ2tLWlNmRUlKdF9RV29QOEpfMEpSYjcxck1KTm",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNa056SHBYVjJTZlBTWkxDeFRXcE9tZENqX0tXc2ZSek1tcndRQ0U0U3JKcG9tRThsNjlrUTd1QTNXek5nUXFDVkoweExYOEY3WjNrZ2tLWlNmRUlKdF9RV29QOEpfMEpSYjcxck1KTmJVMVl5dlRtMFVOSXFNQTdIVDhyRUdxR2tScWpCYVN6Y3U5LTJWQU5pQjlVeEZ1WWhacGZmSHdFQ2RfdVJIQjhiMjRnTWc3T2hRWnJiUHM0SWVGOVpJVkxfcDZMM2Y4bWlURWZJ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-08-15-007",
+    "date": "2026-08-15",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Dockside LLC Purchases New Position in American Tower Corporation $AMT - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOejRlbExWOGdTUlFYX19XS3FMWU14cnJ3YXByNkRoMEJJZXI2SXRrU3lqQi1nNjJFUldfa2p3eFB2dGhtRE9aMWY3THZGa3BVdHJqWXRUWFhWR05SRURqNnlMWk1aM1JCN2dEbkctNU",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOejRlbExWOGdTUlFYX19XS3FMWU14cnJ3YXByNkRoMEJJZXI2SXRrU3lqQi1nNjJFUldfa2p3eFB2dGhtRE9aMWY3THZGa3BVdHJqWXRUWFhWR05SRURqNnlMWk1aM1JCN2dEbkctNUpXeHlkM19ySlVJcE0tYXc0b3FpNWYxS2VEa3Q2cXExMlBCZk4tcGh1VUJIb3VwVFBCVy1melNldWkydzVZYTFKZXZNaXNHT1BneDZYUk9RNklIbU1EYXFob3VR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-15-008",
+    "date": "2026-08-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "China accelerates next-generation telecom network development - news.cgtn.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOLVU0OElBWXB1NEFSQzNuZ0ZzV3hCblFMaEhIbGdwQndmOUNUc2J2T2lfelFCSmlZTTVBNUpnd195Rzg2dGpJaDBESXJsWi1Sd0xid0VrVlhOQjVsZ3p1TXNqYnBDTFloakVXTTZxV0",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLVU0OElBWXB1NEFSQzNuZ0ZzV3hCblFMaEhIbGdwQndmOUNUc2J2T2lfelFCSmlZTTVBNUpnd195Rzg2dGpJaDBESXJsWi1Sd0xid0VrVlhOQjVsZ3p1TXNqYnBDTFloakVXTTZxV0hrNUdOWXN6UmFtZWxlOFJjY25VSkJjTDQzNjlrUzk1SXFNR3kwcVc1cERUY1dwNThoakxENWY5YThmQnNGX1NZVWlfeXhySGI2N0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-15-009",
+    "date": "2026-08-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What The World's Oldest Telecommunications Company Looks Like Today - Engadget",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOck44Q1lhQXdFTjN5bnNCT0RWSkI3RGhIdldHZWc1bnZUQ3lYeWsxUU5PNnYtcDZuaDkyUjRYcFhIZU5OMUZhTXp2NmpfbnQxWHZaMjRCVjhmMWFPWFJ1aXhaQ21TTVRiME5GcmNRSH",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOck44Q1lhQXdFTjN5bnNCT0RWSkI3RGhIdldHZWc1bnZUQ3lYeWsxUU5PNnYtcDZuaDkyUjRYcFhIZU5OMUZhTXp2NmpfbnQxWHZaMjRCVjhmMWFPWFJ1aXhaQ21TTVRiME5GcmNRSHRrcTFpaktkS3NTZ3g4RVdpc0JlQmxxbXZhaTcwaVZDYkZTNzMzNGpwc2NSMng?oc=5",
         "type": "rss"
       }
     ]
@@ -696,6 +892,65 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSU85MUlsSmszRWF6djlfWThQWnFZTkgwWUZnY2J1UHRsa2lQWlIzZDV6d1kzaXVrNUh2X2tTLWt5Q3VLamRpdzFLaWZMd0NDSzBXSTFjcXdNT01weGgza3RIQWh1SGpvX0x4YllHd0lub2xIWEpOTFQ0MHBzQ2p5SmZqZ1pmekFvTTM1R19wZVdKM0FDRi1r?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-08-14-035",
+    "date": "2026-08-14",
+    "companies": [
+      "nokia",
+      "verizon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Verizon vs. Nokia: Which Telecom Stock is the Better Buy Now? - theglobeandmail.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZmRpamFOS1ZBRlhsWDBkVkxnanQ0bXJCRWNKalZOUkVzQnVMXzhNbkNZZXpJX295MkNMUXBDY25iNFhEcFNMdU5vOTFfMHZBZ2ctdkJKNUFwQ2QtVGoxejdFNU9lUkZaUFJCbVpnRE",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZmRpamFOS1ZBRlhsWDBkVkxnanQ0bXJCRWNKalZOUkVzQnVMXzhNbkNZZXpJX295MkNMUXBDY25iNFhEcFNMdU5vOTFfMHZBZ2ctdkJKNUFwQ2QtVGoxejdFNU9lUkZaUFJCbVpnRERoY1RyallUWVZDSU43d0loajFkZjdHYTNreExzMTJ3b2w5YVhxQUxQR0JrLXZnYmc0MTVqTVltT2xRRGI5RzUxRDA5ajRVbjFiOVh0Y2JIT2xmTlJBZjZCUDl2OFRsbHhSWUxmWDFOOG05bzg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-08-14-036",
+    "date": "2026-08-14",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nokia Corporation - Managers' transactions (Sahgal) - manilatimes.net",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVkdnMjZDeU1QQ1dDdW15M3pkMmpjX3JfVFhHaTVzNTZBb0tJZkFPMjk5MW5jMzU5V1ZydnJlVkRyVnFWY0l2eHRIYjFYZ3JVNTVoczNsY1Z6Z1pTSTEyZzJYdGQtSU5OLUpoR1RuX2",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVkdnMjZDeU1QQ1dDdW15M3pkMmpjX3JfVFhHaTVzNTZBb0tJZkFPMjk5MW5jMzU5V1ZydnJlVkRyVnFWY0l2eHRIYjFYZ3JVNTVoczNsY1Z6Z1pTSTEyZzJYdGQtSU5OLUpoR1RuX2Jfc3FDd3Fta2lVWU9Lczdta1ZUQTV0eUJqNGZJX0JhWjN6WUI4ZkFwSFotZUVpeWZNc3lsRlY3cFRZbGpDak1PS25jS0hQLWp5NktmbklBRWQtQdIBwgFBVV95cUxPVkdnMjZDeU1QQ1dDdW15M3pkMmpjX3JfVFhHaTVzNTZBb0tJZkFPMjk5MW5jMzU5V1ZydnJlVkRyVnFWY0l2eHRIYjFYZ3JVNTVoczNsY1Z6Z1pTSTEyZzJYdGQtSU5OLUpoR1RuX2Jfc3FDd3Fta2lVWU9Lczdta1ZUQTV0eUJqNGZJX0JhWjN6WUI4ZkFwSFotZUVpeWZNc3lsRlY3cFRZbGpDak1PS25jS0hQLWp5NktmbklBRWQtQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-14-037",
+    "date": "2026-08-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GCT advances 5G chipsets for satellite and terrestrial networks - Telecoms Tech News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQeWV5dmRZZ3ZZa1g4V2ljQkh4QU1GRXpkNlpFTlEzNWJ4WnZEZDRkdEZTeGluWFdvX0ZzWVp0U1ZzSUtXYXZkUmhfbEJaLWNOUDZkckgwNEVmYmk0R2N0Ylo3ckVBQUNwT09XM3NMRU",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQeWV5dmRZZ3ZZa1g4V2ljQkh4QU1GRXpkNlpFTlEzNWJ4WnZEZDRkdEZTeGluWFdvX0ZzWVp0U1ZzSUtXYXZkUmhfbEJaLWNOUDZkckgwNEVmYmk0R2N0Ylo3ckVBQUNwT09XM3NMRUpzNlhkSXpka0ZwcXY3Vno2Qjd0Zko0dGpSNE5pQ0pR?oc=5",
         "type": "rss"
       }
     ]
@@ -2317,6 +2572,27 @@
     ]
   },
   {
+    "id": "ceragon-2026-08-12-049",
+    "date": "2026-08-12",
+    "companies": [
+      "ceragon"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Ceragon Networks Q2 2026 Revenue Rises 14% as India and Private Networks Drive Growth - theglobeandmail.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAJBVV95cUxPMlBFZzdTM2FWMlB5SlpnWnRaSlIxOGRJVWx5b0NBb1hoeVZXQmNqQTlORkZCWUlyb2JTQ3lEVGtOb0FCY0lMSWhNWEhIUjBLMUNPX2JMcmJvMmZ0dHZ5MngwQS1UQ293TmNWV29aYm",
+    "sources": [
+      {
+        "name": "ceragon",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPMlBFZzdTM2FWMlB5SlpnWnRaSlIxOGRJVWx5b0NBb1hoeVZXQmNqQTlORkZCWUlyb2JTQ3lEVGtOb0FCY0lMSWhNWEhIUjBLMUNPX2JMcmJvMmZ0dHZ5MngwQS1UQ293TmNWV29aYmZWeXlVSG9zN1BDUlNRdzFIdFRCSnByZ3lCVE9TdE91RGw4OHpWZXBJaWxKUllDQ194ZWk0dnZLM0dRVFNoQVB6aW4wN3dKT2FmTkF2dkVOM0FZS21Db2gxMGJxck16ekNOcFoyMGVsMzNyVDkwaU13SFo3S0UxSU9ROUJrNG5XblRCOUxmMzJSaERrRGNZeW15?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "ciena-2026-08-11-001",
     "date": "2026-08-11",
     "companies": [
@@ -3431,6 +3707,66 @@
       {
         "name": "ciena",
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTEJkYVFVV04xdnNYb212eVljOFEzZENUeFpGNXZlVi1IUlgzRkRrZk8xbTVLeFhyUTg5MWY1c21ncDNKMmZZYWdnOGVDeDJTdWJTMkExU0daZml4U08wdnFqSU5aMEFsUFNWcDZTaVVyZDd5eGZCS0lnWjB4VjNaTWpXZFdDTThkdWZ2dHY2VVRxWUttX19aUHZha2xlSlJObWd6SlFZQ2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ceragon-2026-08-11-058",
+    "date": "2026-08-11",
+    "companies": [
+      "ceragon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ceragon Networks Releases Q2 2026 Financial Results - news.alphastreet.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU3dkUUdwNDVwNGtXQTk5ZnhLU1c0b0xCVWs0ODl5bEFRYVA0OE9aZ1R4MGxiWUQxMTFjTmxxZ0N2dnNGdXA2bTdkSjBFRzRIOHM1bHJoa1BtNXFocGZYMkYxQ0MtTWZINDI4UDBGNk",
+    "sources": [
+      {
+        "name": "ceragon",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU3dkUUdwNDVwNGtXQTk5ZnhLU1c0b0xCVWs0ODl5bEFRYVA0OE9aZ1R4MGxiWUQxMTFjTmxxZ0N2dnNGdXA2bTdkSjBFRzRIOHM1bHJoa1BtNXFocGZYMkYxQ0MtTWZINDI4UDBGNko4NGQ2RTE4WXEyVXEtV3JnOWtJcWsyU2ds0gGIAUFVX3lxTE9Td2RRR3A0NXA0a1dBOTlmeEtTVzRvTEJVazQ4OXlsQVFhUDQ4T1pnVHgwbGJZRDExMWNObHFnQ3Z2c0Z1cDZtN2RKMEVHNEg4czVscmhrUG01cWhwZlgyRjFDQy1NZkg0MjhQMEY2Sjg0ZDZFMThZcTJVcS1Xcmc5a0lxazJTZ2w?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-08-11-059",
+    "date": "2026-08-11",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Tower SVP Sells 5,000 Shares for $894,450 - fool.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOWi1HeXdMT0ZLN053WmstUVNPc0preXlkODdETFZ3cWQ3NnBITTFMWHlSd3paUDBPOEtka2o5Q0RyRWFqVF94MjR4UFR6aG1EUjRFWDZ2c3VMaWlyNE40WUJzN2JpdzZkMlBsTzBrZj",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWi1HeXdMT0ZLN053WmstUVNPc0preXlkODdETFZ3cWQ3NnBITTFMWHlSd3paUDBPOEtka2o5Q0RyRWFqVF94MjR4UFR6aG1EUjRFWDZ2c3VMaWlyNE40WUJzN2JpdzZkMlBsTzBrZjJmSnp5eG5obHFhRWZzRUtBREFPU0c5bVJ2TXZtSDlsNUpDZkNIcndnaGptdHU2QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-08-11-060",
+    "date": "2026-08-11",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Scotiabank Maintains SBA Communications Corp(SBAC.US) With Hold Rating, Maintains Target Price $230 - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNMGVDRlYwT3doM25qWWNaaU5lZlFWYXZ3WVMxbE1fdHJwdkNfWXlqMFhUU0Fod3NCWVZKVUhDUW9ncTRLM0JEbFAzSWxSUTVBTy1HRU1VaHE2Y3JPcEFmWDRBbE1UM2NPTUtNaEhQdz",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMGVDRlYwT3doM25qWWNaaU5lZlFWYXZ3WVMxbE1fdHJwdkNfWXlqMFhUU0Fod3NCWVZKVUhDUW9ncTRLM0JEbFAzSWxSUTVBTy1HRU1VaHE2Y3JPcEFmWDRBbE1UM2NPTUtNaEhQdzNtV3pPNVJTLU45NUFfdHlld3BsQm1aMjdzY01GR2lSekZZZ2c4ZWdkaUVSQ3FlZUVzdjAwWkNqSzdJRjdPUUsxQ2h2WGZwV2YzTnN3Xw?oc=5",
         "type": "rss"
       }
     ]

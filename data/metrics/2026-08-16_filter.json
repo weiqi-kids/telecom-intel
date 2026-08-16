@@ -1,0 +1,16 @@
+{
+  "total_raw": 307,
+  "dup_title": 209,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 4,
+  "gate2_fail": 8,
+  "passed": 17,
+  "gate2_samples": [
+    "Nokia Declines 28.7% in Three Months: Should You Buy the Dip? - TradingView",
+    "VISN|Commscope Holding Ord Shs|Price:11.448|Chg%:+0.098 - TradingKey",
+    "CIEN to PHP: Ciena Corporation • Robinhood Token Price in Philippine Peso - CoinGecko",
+    "Short Interest in Deutsche Telekom AG (OTCMKTS:DTEGY) Decreases By 54.2% - MarketBeat",
+    "Uniting Through Sport: Inclusion as Part of Deutsche Telekom’s Commitment - Sportfive"
+  ]
+}

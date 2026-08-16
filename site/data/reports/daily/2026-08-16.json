@@ -1,0 +1,162 @@
+{
+  "date": "2026-08-16",
+  "generated_at": "2026-08-16T08:20:21.637136Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "equinix-2026-08-16-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Equinix (NASDAQ:EQIX) raises full-year guidance on data-center demand surge - Kalkine Media",
+      "companies": [
+        "equinix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbHZpSXJPSG9YakhjT1NXek5xVlVuZ01JU3NoSzROb0p5M3Fuam10YUpfUk9BQ3lfX29RYWhMR19OUFN3cWY4QVdacTl4TnRCbkFjT3lQbkFpS09xS1N5SXU5dDloM28wMWtzei1zTUxLb1JKcUVDcDJrWUNmc1lsQmsyN3gwLWNxMGZwaEl6Z2o3bkpyN0JRUnZ1b1pEY1YwUkROYm42SmtKSG1oLTZ3ZHN6VzlGb21RR3FUdnduQS02Skp0NjNGYUpEZG05WW8tYW5lSg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ciena-2026-08-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Corporation $CIEN Shares Purchased by Empowered Funds LLC - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR0wxZnhUNHRpQy1CWTh4UkkwVXJoa3kxRFl6WDhlNGJrbS1nM0xlcmxqSEI3dFhZc3RPajd2ZnBYbFl2Qk5uS293VVJxS2RkdGs4UmJZMEIzOUxtTDVaWkxyWkY4SVg2ZXhFRjU3eDJjSXpELVZGLTAyQkJfWHZqbllZWklDeFRrM2NyRmdxbXZ4R2x6aUZmdEpSZkpwTGh5ODFCT2ZtaTJFejd1V2dCdVI4UEpaLUtmSHI1TkZOajY?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sba_comm-2026-08-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SBA Communications (NASDAQ:SBAC) in focus as tower leasing tracks carrier densification - Kalkine Media",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSWxQUTQtNWVER2QxYzRucHRrTDdPdGlqaGpObl9iQkJ0REQzTE5uM0djdm5lNW9seXNWSWhQdHQ4S2cxaW9aQnlhTDFpVlY5endIQTFOMnVnVlUxUE40TUt0WG9KVlF2aGNMd05qMTRHQUFDYXNQUldnNmpnNlA0LWFSazhqWGRDdnFtYW05NmVjNEFZNGdNNUVrVmNLVXY4RlFxV0Z5dmhTLXJrMjgtX0xINFVQSUtPWjdScjFyRjJ1eG5Hd1l3LUhsaVo5Zw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 1
+      },
+      {
+        "id": "sba_comm",
+        "count": 1
+      },
+      {
+        "id": "equinix",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 307,
+    "dup_title": 209,
+    "too_old": 69,
+    "gate1_blocked": 4,
+    "gate2_blocked": 8,
+    "passed": 17,
+    "pass_rate": "17.3%",
+    "gate2_block_rate": "8.2%",
+    "gate2_samples": [
+      "Nokia Declines 28.7% in Three Months: Should You Buy the Dip? - TradingView",
+      "VISN|Commscope Holding Ord Shs|Price:11.448|Chg%:+0.098 - TradingKey",
+      "CIEN to PHP: Ciena Corporation • Robinhood Token Price in Philippine Peso - CoinGecko",
+      "Short Interest in Deutsche Telekom AG (OTCMKTS:DTEGY) Decreases By 54.2% - MarketBeat",
+      "Uniting Through Sport: Inclusion as Part of Deutsche Telekom’s Commitment - Sportfive"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Ciena、SBA、Equinix相關動態：「Equinix (NASDAQ:EQIX) raises full-year guidance on data-c...」。主要關注主題為產業通用、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Equinix (NASDAQ:EQIX) raises full-year guidance on data-center demand surge -...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Ciena Corporation $CIEN Shares Purchased by Empowered Funds LLC - MarketBeat（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
