@@ -1,5 +1,23 @@
 [
   {
+    "id": "unknown-2026-08-17-001",
+    "date": "2026-08-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lynk and Omnispace merger creates D2D challenger Elveo Mobile",
+    "summary": "D2D satellite operators Lynk and Omnispace complete merger and rebrand as Elveo Mobile, with plans for 320 LEO satellites and services starting in early 2028.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/satellite/lynk-and-omnispace-merger-creates-d2d-challenger-elveo-mobile",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "ciena-2026-08-16-001",
     "date": "2026-08-16",
     "companies": [

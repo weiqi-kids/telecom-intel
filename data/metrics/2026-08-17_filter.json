@@ -1,0 +1,12 @@
+{
+  "total_raw": 42,
+  "dup_title": 35,
+  "no_date": 0,
+  "too_old": 0,
+  "gate1_fail": 5,
+  "gate2_fail": 1,
+  "passed": 1,
+  "gate2_samples": [
+    "Nokia quits R&amp;D facility in China and cuts 1,600 jobs"
+  ]
+}

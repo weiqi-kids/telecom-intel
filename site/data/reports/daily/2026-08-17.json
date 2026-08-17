@@ -1,0 +1,83 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T08:36:46.063436Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-08-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Lynk and Omnispace merger creates D2D challenger Elveo Mobile",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/satellite/lynk-and-omnispace-merger-creates-d2d-challenger-elveo-mobile"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 1,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 1,
+      "negative": 0
+    },
+    "top_companies": [],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 42,
+    "dup_title": 35,
+    "too_old": 0,
+    "gate1_blocked": 5,
+    "gate2_blocked": 1,
+    "passed": 1,
+    "pass_rate": "14.3%",
+    "gate2_block_rate": "14.3%",
+    "gate2_samples": [
+      "Nokia quits R&amp;D facility in China and cuts 1,600 jobs"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 1 則事件，焦點為產業通用相關動態：「Lynk and Omnispace merger creates D2D challenger Elveo Mo...」。主要關注主題為產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Lynk and Omnispace merger creates D2D challenger Elveo Mobile（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "建議持續監控後續發展動態。",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
