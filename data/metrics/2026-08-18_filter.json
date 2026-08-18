@@ -1,0 +1,16 @@
+{
+  "total_raw": 304,
+  "dup_title": 157,
+  "no_date": 0,
+  "too_old": 64,
+  "gate1_fail": 3,
+  "gate2_fail": 9,
+  "passed": 71,
+  "gate2_samples": [
+    "VISN|Commscope Holding Ord Shs|Price:11.448|Chg%:+0.098 - TradingKey",
+    "Ciena (NYSE:CIEN) Trading Up 4.3% - Should You Buy? - MarketBeat",
+    "Convert 1 CIEN (Ciena Corporation • Robinhood Token) to KZT (Kazakhstani Tenge) - Bybit",
+    "CIEN to PHP: Ciena Corporation • Robinhood Token Price in Philippine Peso - CoinGecko",
+    "Is Deutsche Telekom (XTRA:DTE) Still A Bargain After A 78% Run? - Yahoo Finance"
+  ]
+}

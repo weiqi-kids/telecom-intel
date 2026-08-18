@@ -1,0 +1,212 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-18T08:27:23.289956Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_tower-2026-08-18-005",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Who’s Better Positioned for Higher Rates: American Tower or Crown Castle? - Yahoo Finance UK",
+      "companies": [
+        "american_tower",
+        "crown_castle"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUXBBbzhXNkIweGhDSUptWXoyeVZSZVVlTVRQYzJPdWI4ZHQwZmZHb2plX0pKWng3eWx6ZWh4WV9lRS1GUnBjWjdlbXI5T0xhcld2X2dzeTNwUGNVcllGU1p4T3hCelh1UDBrREZfTGVmV0pVT1FrLTJRNFczVzhKUTJrR3RMVWl4YWNMWHdTTHRsdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "deutsche_telekom-2026-08-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom to Buy Polish Fiber, TV Networks for $1.2B - Briefs Finance",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVndydEEzYVhEcUx1eFFQbGl4aGZhNTlNNC1aaTdwVzMxU0JfR0hRczc0M0oyVTN2OE9yV094OERnRnE4eEVzTHEwZ0xnVUpkYmJkU1pFd0hqaEJrU2FmcElWV3dPbmhvb0ZzVUVMeWEwSlVQeWhkb21JLUFHeHFXRjRhaTVTOVBMYmZYMHJ1SDRfQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "deutsche_telekom-2026-08-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom to Acquire Fiberhost and Inea for €1 Billion in Poland - The Fast Mode",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZkF1N2NfU200S0F1RElYcTdkT1o1MFl6X21iOVV4N0RMbm11MFprejZkRXFQVnMtbDBVbWhlbEJOYk9Ca0NTMGNtblMxTEFkN3ZkOVZFRWFWMkt1MG8xRWtMem14WUJEd1VMN1BjRVQ4UmVvMHFrR2pMSWx3cnMtUWhJMHhKWDhkQk96UXdSZkR2VGdONC00cGFEZlhiTmwtbm8xanlpd1BvNklIN0V2T1JXb3BTQUQ0YkhQaE5pZVJqUkxnZDNUTFFpSHgxQQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "deutsche_telekom-2026-08-18-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom moves to strengthen T‑Mobile Polska with €1B acquisition of Fiberhost and Inea - Broadband TV News",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fiber_buildout",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLUl4aEoxRnRiNTcyME9XWVRBUUFMWk5NaFlvbEN2WHJDUHB1R2ZqRHJBZHNGZ3NhZjJjOWZsWnN0aTF4X3U1U3haSk9aWkU3bjRQRmRnUVNUYXBkVTRrTFdPTkpOcVZ3S21QeHh4a3k1YWdrYXVUbmNvSWdxRHhKdEdwa3RrN3R2TVdOTHVMcHQ1NnlMZm1RYXVzcnZCbUtxT01fdk9jVVdkcjNIRzNaTTFOcnA1Y1hmbU5iXzZXMlB1U0c0NVQxTGVzTnpzSUNxbXhmN2Z3?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "deutsche_telekom-2026-08-18-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Macquarie Group to Divest Fiberhost, INEA to Deutsche Telekom - marketscreener.com",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMHhoUG80dVp4bzQtSDNmREh0dUtGRmNsNW1DZlhtdVo3THNMZl9hZmJpWXhna0QyM0tHaGI2SkRXX3ZjSFZ5UWVIX19velJydG9XdGdaZFFMTzBGekU2U2c5UXZBNG9UZXk0Vl9sY0JRMy1XRVZwQ3dhVnFWQnRPOGxoUmVjNFdxLXU0a2pQRmFDUmFYeUptZFBBbjgzdVdhQ0FoTUR1YUJjYlF5RHczRUlnaw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "deutsche_telekom",
+        "count": 4
+      },
+      {
+        "id": "american_tower",
+        "count": 2
+      },
+      {
+        "id": "equinix",
+        "count": 2
+      },
+      {
+        "id": "crown_castle",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 304,
+    "dup_title": 157,
+    "too_old": 64,
+    "gate1_blocked": 3,
+    "gate2_blocked": 9,
+    "passed": 71,
+    "pass_rate": "48.3%",
+    "gate2_block_rate": "6.1%",
+    "gate2_samples": [
+      "VISN|Commscope Holding Ord Shs|Price:11.448|Chg%:+0.098 - TradingKey",
+      "Ciena (NYSE:CIEN) Trading Up 4.3% - Should You Buy? - MarketBeat",
+      "Convert 1 CIEN (Ciena Corporation • Robinhood Token) to KZT (Kazakhstani Tenge) - Bybit",
+      "CIEN to PHP: Ciena Corporation • Robinhood Token Price in Philippine Peso - CoinGecko",
+      "Is Deutsche Telekom (XTRA:DTE) Still A Bargain After A 78% Run? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為德國電信、AMT、Equinix相關動態：「Who’s Better Positioned for Higher Rates: American Tower ...」。主要關注主題為產業通用、光纖建設，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Who’s Better Positioned for Higher Rates: American Tower or Crown Castle? - Y...（產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Deutsche Telekom to Buy Polish Fiber, TV Networks for $1.2B - Briefs Finance（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
