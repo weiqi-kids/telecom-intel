@@ -1,0 +1,16 @@
+{
+  "total_raw": 295,
+  "dup_title": 171,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 2,
+  "gate2_fail": 8,
+  "passed": 45,
+  "gate2_samples": [
+    "VISN|Commscope Holding Ord Shs|Price:11.448|Chg%:+0.098 - TradingKey",
+    "Convert 1 CIEN (Ciena Corporation • Robinhood Token) to USD (United States Dollar) - Bybit",
+    "Ciena (NYSE:CIEN) Trading Up 4.3% - Should You Buy? - MarketBeat",
+    "Deutsche Telekom returns to sterling with long end sale - Global Capital",
+    "Engineers Gate Manager LP's SBA Communications Corp(SBAC) Holding History - GuruFocus"
+  ]
+}
