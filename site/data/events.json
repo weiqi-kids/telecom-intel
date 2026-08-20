@@ -1,5 +1,23 @@
 [
   {
+    "id": "unknown-2026-08-20-001",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Surviving the bear pit of European telecom",
+    "summary": "Low-cost challengers like Iliad and Digi are thriving in a European mobile market hooked on phones. Things are less positive for the vendors.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/5g/surviving-the-bear-pit-of-european-telecom",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nokia-2026-08-19-001",
     "date": "2026-08-19",
     "companies": [
@@ -96,6 +114,150 @@
       {
         "name": "light_reading",
         "url": "https://www.lightreading.com/6g/ericsson-and-nokia-shed-thousands-of-china-jobs-at-likely-6g-cost",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-006",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Relativity raises $22M, scores $40M hyperscaler deal",
+    "summary": "Relativity Networks, a maker of hollow-core fiber, said it has raised $22 million from investors that include Rhapsody Venture Partners, Bell Ventures and Faster Than Glass LLC, and notched a $40 mill",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/ai-machine-learning/relativity-raises-22m-scores-40m-hyperscaler-deal",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-007",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Amazon Leo's D2D plan set to run the regulatory gauntlet",
+    "summary": "The FCC has accepted Amazon Leo's application to build a D2D system comprised of 5,000-plus LEO satellites, setting up a three-part comment and reply period.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/satellite/amazon-leo-s-d2d-plan-set-to-run-the-regulatory-gauntlet",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-008",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Protecting spectrum for the 2028 Wi-Fi Olympics",
+    "summary": "Carriers and vendors will likely use the Games to showcase new solutions and services. LA28 should be celebrated as the Wi-Fi Olympics.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/6g/protecting-spectrum-for-the-2028-wi-fi-olympics",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-009",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Telcos squeezed, vendors soar in China's optical boom",
+    "summary": "Chinese optical vendors are riding the AI wave, but rising costs are impacting telcos, forcing them to reissue tenders.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/optical-networking/telcos-squeezed-vendors-soar-in-china-s-optical-boom",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-010",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Eurobites: Openreach expands fiber speed upgrade",
+    "summary": "Also in today's EMEA regional roundup: Telefónica delivers construction digitalization; Apple caves to EU rules; telcos prep smartwatch offers for schools to restart.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/optical-networking/eurobites-openreach-expands-fiber-speed-upgrade",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-011",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Satellite D2D dealmaking: SpaceX, Amazon, Rocket Lab and the spectrum they're after",
+    "summary": "Mobile satellite spectrum with potential to connect directly to smartphones is at the heart of recent M&amp;A moves following SpaceX's EchoStar spectrum buy.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/satellite/satellite-d2d-dealmaking-spacex-amazon-rocket-lab-and-the-spectrum-they-re-after",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-012",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Beyond the lab: How Linksys is redefining real-world Wi-Fi testing",
+    "summary": "<a href=\"https://totaltele.com/beyond-the-lab-how-linksys-is-redefining-real-world-wi-fi-testing/\" title=\"Beyond the lab: How Linksys is redefining real-world Wi-Fi testing \" rel=\"nofollow\"><img width",
+    "sources": [
+      {
+        "name": "total_telecom",
+        "url": "https://totaltele.com/beyond-the-lab-how-linksys-is-redefining-real-world-wi-fi-testing/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-19-013",
+    "date": "2026-08-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Int’l Bytes: NTT Docomo, euNetworks, Vantage",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/2eLHL9nlgz6ArcKdiCJ4heGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Int’l Bytes: NTT Docomo, euNetworks, Vantage\" title=\"Int’l Bytes: NTT Doc",
+    "sources": [
+      {
+        "name": "telecom_ramblings",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaVOJQcC8b-C4fzy_tylMsyZ?utm_source=follow.it",
         "type": "rss"
       }
     ]
@@ -993,6 +1155,43 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQTk5U25hS1h1N1RRYjZlbzhISllnUi1kSTI3REZZempvRlJjVVFjUEN2Xy1ubUxZS0oyVDk1OTdhTk1BWnU4SWpSdGRDYmRiZWNkdXFYOVJCcXk2ZVBQTFBRc3Y3NkIwVjRaQ2FzUTBOT3VMSWhzR1FLM1pOZDFGdGxzTTZ3RWFiLWFjQTF4R0ZZS2xyY2JRXzNZbEVvQS0xLUNsWjRzR2tyS0s1?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-047",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "RAN market growth continues in 2Q 2026 – Dell'Oro",
+    "summary": "Third consecutive quarter of modest growth reinforces stabilization trend. #pressrelease",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/open-ran/ran-market-growth-continues-in-2q-2026-dell-oro",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-18-048",
+    "date": "2026-08-18",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "AI buildout maintains momentum as data center capex surpasses $3T by 2030 – Dell'Oro",
+    "summary": "Hyperscalers, neoclouds and sovereign AI enter a new phase of infrastructure expansion. #pressrelease",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/ai-machine-learning/ai-buildout-maintains-momentum-as-data-center-capex-surpasses-3t-by-2030-dell-oro",
         "type": "rss"
       }
     ]

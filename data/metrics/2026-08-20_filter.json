@@ -1,0 +1,12 @@
+{
+  "total_raw": 50,
+  "dup_title": 34,
+  "no_date": 0,
+  "too_old": 2,
+  "gate1_fail": 2,
+  "gate2_fail": 1,
+  "passed": 11,
+  "gate2_samples": [
+    "The build is over, but can you operate what you built?"
+  ]
+}
