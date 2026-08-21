@@ -1,0 +1,15 @@
+{
+  "total_raw": 307,
+  "dup_title": 159,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 5,
+  "gate2_fail": 4,
+  "passed": 70,
+  "gate2_samples": [
+    "VISN|Commscope Holding Ord Shs|Price:11.448|Chg%:+0.098 - TradingKey",
+    "Ciena Corporation Price Today | xCIEN Live Price, Chart & Market Cap - OKX",
+    "Equinix signs fourth Singapore solar PPA with Flo Energy - Reuters",
+    "The build is over, but can you operate what you built?"
+  ]
+}
