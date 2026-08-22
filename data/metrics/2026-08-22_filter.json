@@ -1,0 +1,16 @@
+{
+  "total_raw": 307,
+  "dup_title": 201,
+  "no_date": 0,
+  "too_old": 66,
+  "gate1_fail": 5,
+  "gate2_fail": 6,
+  "passed": 29,
+  "gate2_samples": [
+    "Ciena (NYSE:CIEN) Trading Up 4.3% - Should You Buy? - MarketBeat",
+    "Wet Leg Cover The Cardigans For Deutsche Telekom’s New Gen Z Campaign - Stereogum",
+    "SBA Communications Marketing Manager Salaries in Gulfport-Biloxi, MS - Comparably",
+    "SBA Communications Sales Manager Salaries in Iowa City, IA - Comparably",
+    "Equinix signs fourth Singapore solar PPA with Flo Energy - Reuters"
+  ]
+}

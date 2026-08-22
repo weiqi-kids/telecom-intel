@@ -1,5 +1,66 @@
 [
   {
+    "id": "ciena-2026-08-22-001",
+    "date": "2026-08-22",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bank of New York Mellon Corp Acquires Shares of 825,480 Ciena Corporation $CIEN - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSlNfejc4cGhDVFFzbGJncjJwUVowSU1QcWtJTzZwN0pjQVU3T1NtNGstRFZIVHhETzc3LUt4NVh4SG1vbVFCWm1QS2s5YnVIUnhmeklyM0YydFZ4cDlvRGhCX0pPd1FDZmJRc09SQ0",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSlNfejc4cGhDVFFzbGJncjJwUVowSU1QcWtJTzZwN0pjQVU3T1NtNGstRFZIVHhETzc3LUt4NVh4SG1vbVFCWm1QS2s5YnVIUnhmeklyM0YydFZ4cDlvRGhCX0pPd1FDZmJRc09SQ09fVFFHbjF3OEM1Sm91QkkzNk5XX1RDUnN1NkJ0Z1QzNjNMZXNjM0VSUjBxeFFZcjhJX25zZFpBd3lVYV85R0tjRDkzZ1hweS1FVV9RTXFSeFhaR1Fmb2x2TDhNbVhTV2NGNVdVaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-08-22-002",
+    "date": "2026-08-22",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Telekom (XTRA:DTE) Earnings Upgrade Fuels The Case For Undervalued Shares - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNTFtY2JURHNwaGFHYkdjNy0zRWpOcGF4UUk4dGo5bGF1ZHo1eDdhU0dxd3E0NW1TSVJKaE9QQzJSc2MzVGhya0JUdGdZem4xc0lpMzZkODJHSC1rRVVEUUR4RlU1X2thY1dOb0Q5cF",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNTFtY2JURHNwaGFHYkdjNy0zRWpOcGF4UUk4dGo5bGF1ZHo1eDdhU0dxd3E0NW1TSVJKaE9QQzJSc2MzVGhya0JUdGdZem4xc0lpMzZkODJHSC1rRVVEUUR4RlU1X2thY1dOb0Q5cFZmOE9RS2JpRm9Edm9iZnVBTC1PclNiM3k5M2NwemRQaHZoZy1UTVNnTGVkVFp6MDE5czhvc0VwRVBSQ196bVFndlRkVW9ybXhweUpEbXZraTBIZllmdmJZMjAxWmU3N0szUV9N0gHYAUFVX3lxTFBPN2dQT3pvamRWSm4wTzAzd1VoUDNIdEtmZW5UVGxBTmNUeTk1Z3VGSE4yeWNiWFNUbE5Ic1JOZDRFMmUxSTZGQW91Rk5ieF9VUV9uN2JlcDBUa3p0d0kzQVhOVnNtajZtR0JHWW9ETnhSSTJCNDNQMmVEaEs0UDlRZ3lXcVFsQ0FiS1YycDktMjd5QVhYT2xaNEtoeURQeHBfSkFaUE1Fa0I2QmtHc3BNcEUwdVctLUJ1cm5JUEVTOWtBU1YxY29QV3JXc2FBcER6cUJCcWl1UA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-08-22-003",
+    "date": "2026-08-22",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bank of New York Mellon Corp Purchases New Stake in American Tower Corporation $AMT - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTGdQWVJ3RWFzV2llVjhENmxXM2h4YWdBdWF5WTZRajNlVzlDS1NkS0RyQ1dNTnhma3RPMG9BamRycjVlYmxZRVVHWlRidVlteDJVckFUeVV0N19FeXZWSXlIbk5BV3dxbGc3T1ZRNT",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTGdQWVJ3RWFzV2llVjhENmxXM2h4YWdBdWF5WTZRajNlVzlDS1NkS0RyQ1dNTnhma3RPMG9BamRycjVlYmxZRVVHWlRidVlteDJVckFUeVV0N19FeXZWSXlIbk5BV3dxbGc3T1ZRNTZHazB6aXRyYWp5ZFFzLTVtR1p2bkZMYWJaUlRXVW0wb01fazFaVmw4QXBMYlRDUzlUWWltbHB0RGF4UW8zYlFGR2xyX3M2NTBGUUF3WGR0elc2YWtsM1BHY3ExRlRKZFp6SEdMSGJaWU9OeHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "softbank-2026-08-21-001",
     "date": "2026-08-21",
     "companies": [
@@ -191,6 +252,408 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fcTZ4NDUtZ2ZRVDd5VTVXVzVvaGN3VnJ3c3NuUHp6cXp0UnhYMmdNUTdTRzBXRjJ4YjVSU1R3SDhpVjNBbVYtNHlqVGVNdzY2?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-08-21-011",
+    "date": "2026-08-21",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Telekom Says Gen Z Is Not A Passenger With New INGO Campaign - BM Outdoor",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE5pcGNWUmM0V253aDUyMWJnWFhwN3lkM0dwdXUzOWJwMnpZUFQwa0tIOThlYnNlcS1OZUR0WTBiZUFORUtudldjR1d5d21fLWlRSTBvU3RrRlA1bEpQVE84bVpqb3dFY3VOZWpF?oc=5\"",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pcGNWUmM0V253aDUyMWJnWFhwN3lkM0dwdXUzOWJwMnpZUFQwa0tIOThlYnNlcS1OZUR0WTBiZUFORUtudldjR1d5d21fLWlRSTBvU3RrRlA1bEpQVE84bVpqb3dFY3VOZWpF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-08-21-012",
+    "date": "2026-08-21",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Deutsche Telekom launches ‘NOT A PASSENGER’ campaign by INGO starring Rhian Teasdale of Grammy-winning band Wet Leg - Roastbrief US",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeURkLUJkeUhyeFBZOWdQNGdxamREdFU0RXAta1M0aTdITWxQcjFQcUVhdzEwcncwSkNzZHB5a0c2c1BoT01lUG5WMUZ2Q182QlgwWW1Kc1VwTk5vQjR4U0lhYlV3TUY0UmhWV2FvS1",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeURkLUJkeUhyeFBZOWdQNGdxamREdFU0RXAta1M0aTdITWxQcjFQcUVhdzEwcncwSkNzZHB5a0c2c1BoT01lUG5WMUZ2Q182QlgwWW1Kc1VwTk5vQjR4U0lhYlV3TUY0UmhWV2FvS1VxZUN4QkZIUXJPcU1IMjJuMVl0TzM3dFN2aFBiSldldWdWemFfc09JRUdrV0lFOW8zSVNoR284ZlJhV2tsazB0OWFfaGpoam96WVpGUGo2TU1FVFVOMUJNcUpiTmRQNGdpaXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-08-21-013",
+    "date": "2026-08-21",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Tower (AMT) Wins A Barclays Upgrade, Does The Valuation Still Look Cheap? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxObTdLX3JpS25NeUotbTlzNDBVUzFOaDBBLUVHcHFHbm5KR1hDZTJfaHUtXzNBME1STnBqTEhPcEZtVHgyNC1JeGI5YlQ1U2dsRDdDNHVVNHktSWxEZHliQ1daS2FwWmR4OTlSbE55YX",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObTdLX3JpS25NeUotbTlzNDBVUzFOaDBBLUVHcHFHbm5KR1hDZTJfaHUtXzNBME1STnBqTEhPcEZtVHgyNC1JeGI5YlQ1U2dsRDdDNHVVNHktSWxEZHliQ1daS2FwWmR4OTlSbE55YXFJOXowRHpJWFBLM0J1QmRiWTBFbF9pRkxBUTk1akZhaUNSMkVvYTZUV3hXSm5odw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-08-21-014",
+    "date": "2026-08-21",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Has American Tower (AMT) Fallen Far Enough to Look Undervalued? - simplywall.st",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPaU4tSElpWWpOMEQtRTNiVkxTMVp5dTlRWWwzWGl1bmlmcHl6dC1FclBINkVkRjhRbWIzazdkbmxScEhObmVRUk1hdjV0c1lrVFM2VEhTdEt3aGRVZlFHQzVOQ1ZNb3VsZ0NadDVpa1",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaU4tSElpWWpOMEQtRTNiVkxTMVp5dTlRWWwzWGl1bmlmcHl6dC1FclBINkVkRjhRbWIzazdkbmxScEhObmVRUk1hdjV0c1lrVFM2VEhTdEt3aGRVZlFHQzVOQ1ZNb3VsZ0NadDVpa1JJMHpfWHNaRzJBeG9rR092ZXFtRzZPV2FScW9DbTlFOW5kZElBRXlRQ2JvcEVhaEFnaDhCSVZKaWUzelBxclk1SURkX3lEd015aDhCS19fdUtmMkVOdldVQ3pLNHN1d9IB0wFBVV95cUxOODVKdzNSaUJqZFBRY08zMWV0THdkUXF5YU9pRDRQLTRfTEYxMWxDeDJCdzV3SVhBZl9UQ2dDUWZDcjN2bDVnZHJ3WS1FM0pkZFZVb1VaT3NVWDVxcVBQN0lnSnYzNUZOYUtzVG5zYTBELUYzUTVHTTZZLVh2dmhBOWNNeGJVOG1nZ0hwV1N4QXhMUXFjTHY1OElwRTdfbXNiaTZPMllDTWhzV2twOFJJMk5rV2JfdnItRVJFOWt1Vml3bkI5Z0NJTjVQZlRremJoTlUw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-08-21-015",
+    "date": "2026-08-21",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The Bull Case For American Tower (AMT) Could Change Following Barclays’ Upgrade And CoreSite Momentum – Learn Why - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOVVpRZkMwNlRxQVc4cnZwNE9KTTQwTkNVejRuaUN6MVhIM0FuQTZiX3pZRUJTaUNnb1JLY29xWUZqNk5KY3RtU21rNmZvRUgtQVgxM3NtcGJpUldSWWVaNG9WYklWc3NVaWV5UU9IcX",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVVpRZkMwNlRxQVc4cnZwNE9KTTQwTkNVejRuaUN6MVhIM0FuQTZiX3pZRUJTaUNnb1JLY29xWUZqNk5KY3RtU21rNmZvRUgtQVgxM3NtcGJpUldSWWVaNG9WYklWc3NVaWV5UU9IcXIycXZTX0w5aWJVUzF5RjV4SFdTXzBfWGZGUWJETVh5dE1CMzJmMV8yNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-08-21-016",
+    "date": "2026-08-21",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "spectrum_auction",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Impax Asset Management Group plc Has $3.54 Million Stake in American Tower Corporation $AMT - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxQamJOcjVfdThjRG9hZzJZLTFJQVhQcGt6djdwV0stbXJjZUNPSWpveDFfMHFxTlRacF92eTlXX0VlTElxempocm9NTS1hLVFkdkxNb213azduZnNBU0JvTzFfSjhfaXdaWFhpVHVjaE",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQamJOcjVfdThjRG9hZzJZLTFJQVhQcGt6djdwV0stbXJjZUNPSWpveDFfMHFxTlRacF92eTlXX0VlTElxempocm9NTS1hLVFkdkxNb213azduZnNBU0JvTzFfSjhfaXdaWFhpVHVjaENqQlZFS2xIT3JsakMtWGNCcWZXTDhnZFZlbTdCUW12UmtrV3UxWC1WRFB1cDRaeXdPT3A0b2NQNEtNSlo3NzJIbW01SFFRVWlWSnA0VExzOVNBNkx2cXpYN0YxZjhDZ2w1WE9sbUtTeGJucjhLWTB6aTk4OA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-08-21-017",
+    "date": "2026-08-21",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ninepoint Partners LP Takes $1.86 Million Position in American Tower Corporation $AMT - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMjdQRy1tNG1ha01aYW1vT2hFajhzbEZoNWF1czJTY2djQVlGNjNGTWhzZVlVeHRmdUhNSEk5azlZeE9Hb2hxVmkyUHRUSnFOU00tRHA4cGpVd0ZzbzJUeWtvT0liZE5obnZ4WkdpUk",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMjdQRy1tNG1ha01aYW1vT2hFajhzbEZoNWF1czJTY2djQVlGNjNGTWhzZVlVeHRmdUhNSEk5azlZeE9Hb2hxVmkyUHRUSnFOU00tRHA4cGpVd0ZzbzJUeWtvT0liZE5obnZ4WkdpUkoyaEdaaFdQQjBXYnI4SGd0TzJGSjZQTmJ0ZzU2MS1wcVpZUzZPMDRGQkhqa3lhQ2pGSmNudW1pMV9lOWdaYTN1ZTB3LUVDUl9zaC1tV0IzTkVlcmNxWWc1UUZ0N1hNb2hoMVBQN09rMlptRWc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-08-21-018",
+    "date": "2026-08-21",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SBA Communications stock holds steady as dividend stream supports long-term tower story - Ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOZjJKMU9XNXpzSTNiTlJBLTZpQklKeko3VW1rREJwRnJJSGZUTk1QYS1lWVhveElBcUI4Qi05STl2NUNoQjJBZkNrSXI4VEdjRUcxbmdZUVFkOWdyRUNvNGhGbXVFbzlKWXpiZS1RNV",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZjJKMU9XNXpzSTNiTlJBLTZpQklKeko3VW1rREJwRnJJSGZUTk1QYS1lWVhveElBcUI4Qi05STl2NUNoQjJBZkNrSXI4VEdjRUcxbmdZUVFkOWdyRUNvNGhGbXVFbzlKWXpiZS1RNVVkU21VcmdyRHQwNDdjMVdNbUNpcm9iem1zeXlmT1JrbUU3RmRtTnZTMC0tRzh0aWVvTWJCZ2VhaV9iR1lHWmZLRzJ5cDdScWoxYmRUMkxmTW1DZEk4TzVF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-08-21-019",
+    "date": "2026-08-21",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Equinix expands Colombia data center, lifts investment to US$73mn - BNamericas",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNVzVWNzRUcENSV29NOGJ3MzhYMWJ0YWdzb19fMEIzQ1BNai1PLVlfZVJ3SWNsTERSVnZYbXlTalpQc1lMcm1sT056bk42TXNFSnZzVklBeFFkT215QjU5Zm9CcFVWcndwN1RYTWNHOV",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVzVWNzRUcENSV29NOGJ3MzhYMWJ0YWdzb19fMEIzQ1BNai1PLVlfZVJ3SWNsTERSVnZYbXlTalpQc1lMcm1sT056bk42TXNFSnZzVklBeFFkT215QjU5Zm9CcFVWcndwN1RYTWNHOVJFbGcyLTUtNFZ3eXFUODRJSWh1YkszMFJDLW12NzVDSjdmRVh2UGMtMzJWUDdQLXc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-020",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AST SpaceMobile's 800MHz tests 'milestone' for D2D, says AT&amp;T",
+    "summary": "AST SpaceMobile won the FCC's temporary approval to test satellite direct-to-device in 800MHz spectrum, with AT&amp;T's Jeff McElfresh calling it a 'milestone' to fill 'connectivity gaps.'",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/satellite/ast-spacemobile-s-800mhz-tests-milestone-for-d2d-says-at-t",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-021",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "AI networks face a triple threat: Capacity, permits and supply chains",
+    "summary": "Policy experts from Lumen, AT&amp;T and other groups highlight rising capacity requirements, permitting issues and supply chain constraints as AI traffic increases.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/ai-machine-learning/ai-networks-face-a-triple-threat-capacity-permits-and-supply-chains",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-022",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Eurobites: France's SFR falls prey to cyberattack – report",
+    "summary": "Also in today's EMEA regional roundup: Comsol has a 5G plan; Turkcell shows off 6G prowess; Telefónica gets into surveillance; Subex expands in Europe; Digi Slovakia prepares to go offline.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/security/eurobites-france-s-sfr-falls-prey-to-cyberattack-report",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-023",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EE joins Europe's growing 5G slicing cohort with consumer offer",
+    "summary": "EE has jumped into the 5G network slicing race with its Fast Lane offer, available for both consumers and small businesses.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/5g/ee-joins-europe-s-growing-5g-slicing-cohort-with-consumer-offer",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-024",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The 800-Volt Shockwave: Why Data Centers Are Betting Big on &quot;Strategic Over-Engineering”",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/k7w_sIGycnmdeosQxcf17OGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"The 800-Volt Shockwave: Why Data Centers Are Betting Big on \"Strategic Ov",
+    "sources": [
+      {
+        "name": "telecom_ramblings",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaXH70QhJRp0jbzHazzVaGnc?utm_source=follow.it",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ericsson-2026-08-21-025",
+    "date": "2026-08-21",
+    "companies": [
+      "ericsson",
+      "softbank"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank and Ericsson test AI scheduler on live Japan 5G network - Telecoms Tech News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQaEtMd2xna2JvSGFsVlNBUWd0c01nTmQ3dEY4aEw3WWVDRkRSZXJDV3NvYVdpYW9WZHBQRW5YRmpGcGVTUGtUVTN6blFjYlNQZlp4Q09tY1laekppY3djZG5Ia29laHotT01OVkdWcG",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaEtMd2xna2JvSGFsVlNBUWd0c01nTmQ3dEY4aEw3WWVDRkRSZXJDV3NvYVdpYW9WZHBQRW5YRmpGcGVTUGtUVTN6blFjYlNQZlp4Q09tY1laekppY3djZG5Ia29laHotT01OVkdWcGNULUdlV1dQYU5aWENzNV9vMUdrQlNvanY2YjEwM2llc1U3T0dhU2hvQXVRN1NDWTFL?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-026",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "QMC Telecom reaches 200 indoor 5G networks in development - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPdkQ0UHl3RTl1MVo3cGRQaVFaNGtPbldHZ2VyOWxCRkZMT20wRDRJTE9QeWJITGowNjJNMFZfNFRwOTBkTUFRRG9PNFEwQkZyRW15NE9IemNqYldxbkQxNWZNTGJMbXVYNUpVbzFaWV",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdkQ0UHl3RTl1MVo3cGRQaVFaNGtPbldHZ2VyOWxCRkZMT20wRDRJTE9QeWJITGowNjJNMFZfNFRwOTBkTUFRRG9PNFEwQkZyRW15NE9IemNqYldxbkQxNWZNTGJMbXVYNUpVbzFaWVRhVXZtOF9WRVhfcWtWY1NZNlQweXFHVGQ5SDJETHJ6c0FERjBBYVdKem00SVBRNms3bHc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-027",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Development of 5G networks and telecommunications cooperation in BRICS countries - KBC Digital",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxObElhZnlqRGM3a1E5c2xLdElxekNhSTF4ZVNlOFlTb2tXc0MwWWwtcTQ1X0tzTTJVZ1ZKR3BiNUl2cGNaVmtCTUFYQUpQdzI1UjZjeFhSWWxRampaSTR5VS1QVTdiYjR2U245cExQQn",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObElhZnlqRGM3a1E5c2xLdElxekNhSTF4ZVNlOFlTb2tXc0MwWWwtcTQ1X0tzTTJVZ1ZKR3BiNUl2cGNaVmtCTUFYQUpQdzI1UjZjeFhSWWxRampaSTR5VS1QVTdiYjR2U245cExQQnhFT0o5SE0xRFVEXzNScGZCTUgyZGYxdUtYZmFYN3pXU3BiTE1wVTZqRi1uMzRsUkNhRlloT2tn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-028",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "US authorizes new investment in Venezuela’s telecom sector By Investing.com - Investing.com South Africa",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQLXNFU1pXOXVIRUdaUWFnbTFkWjNJWDNUcUxWYmI4TEpLZ3NBSTl0MkNJTll2SkpvZHItVDVUWVk4Mkxna3FMVDJpeGlpaUdhUkw1MFdIVmdubGlMSU5rZmNPZGJUaHJWOE8xeVpqQT",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLXNFU1pXOXVIRUdaUWFnbTFkWjNJWDNUcUxWYmI4TEpLZ3NBSTl0MkNJTll2SkpvZHItVDVUWVk4Mkxna3FMVDJpeGlpaUdhUkw1MFdIVmdubGlMSU5rZmNPZGJUaHJWOE8xeVpqQTBnLVZRTkYybVlBdlJzTnZqZTdhamdzME5IUDhHZ0ZRNzRsT3AtaFVUS0NXSUpGUFhjc2tCRjFRdEVfMXE2TlY1Vm82VGgtTWVjdEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-029",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Viettel enters 11th international market, eyes telecom investment in Caribbean - Vietnam+ (VietnamPlus)",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzlMM3kxZUR2czNxYy1XazFZVEVodVFONm9VX3FoVl9xcnd0QzB2cE9yWlo5UlhkZUtGaTdoNlJKYW16RnZjNlVncjJJRnlTcGRHX1VIbHZzUTdEZmQ5VnlkX2VaazlWVDNzaUJWek",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNzlMM3kxZUR2czNxYy1XazFZVEVodVFONm9VX3FoVl9xcnd0QzB2cE9yWlo5UlhkZUtGaTdoNlJKYW16RnZjNlVncjJJRnlTcGRHX1VIbHZzUTdEZmQ5VnlkX2VaazlWVDNzaUJWekFIWFZvVUJ2TWl6a19TMjVLeGIzdVRzN25aVlNLZWk4T1JyQjZqQW4tRTEzQUx0MWVpZWdLdDl2T1JxbV9xb2Z5bXF1UlRNZFp1TFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "att-2026-08-21-030",
+    "date": "2026-08-21",
+    "companies": [
+      "att",
+      "verizon"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "AT&T Could Gain Ground as Verizon Faces Customer-Related Setback - Earnings Quality Score - vinanet.vn",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPbF83NVlTaWdqb1RIVUhmNV82ckgta0hvb1dndUhsczlzRERDU1ZHZ1NJOUdER1JpX0IyTFVETnRTaFp3OGVNSTZrWDhjOXBCSWZpYUFlTTRMbS1BeUJTWWx6M185NFd0R2pyYkNxb1",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbF83NVlTaWdqb1RIVUhmNV82ckgta0hvb1dndUhsczlzRERDU1ZHZ1NJOUdER1JpX0IyTFVETnRTaFp3OGVNSTZrWDhjOXBCSWZpYUFlTTRMbS1BeUJTWWx6M185NFd0R2pyYkNxb1hSeUFaeEs4RGVPMWt1OHhTSlJMVFpaMzc5RXotMHQwSXpiY1V2dWFqX0NvY0FIV2t4MEtuY1NfUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-21-031",
+    "date": "2026-08-21",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Integrated telecom policy draft unveiled with target to reach high-speed broadband to 80 percent population in five years - Nepalnews.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwJBVV95cUxQdUc3elRTOUtjdmxrRkhLNmxuaHpsUUE5R0xicFBJVWNuT0Fyb2NCSC1YaHF3NTV6c05XMm50djcyaXkzWUhYazd3WDdYcVhGLWVSd01wQWs4RlhMdFFFZmNxN0QtQ0J6a2ItVGlVYn",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQdUc3elRTOUtjdmxrRkhLNmxuaHpsUUE5R0xicFBJVWNuT0Fyb2NCSC1YaHF3NTV6c05XMm50djcyaXkzWUhYazd3WDdYcVhGLWVSd01wQWs4RlhMdFFFZmNxN0QtQ0J6a2ItVGlVYnJuSXNKR2w0V3FDWHJrcWlBYWU2RWdkRERMN1pkVXphdkFIMVFpdWV6Z1IwLWlmcFRncE5xWG1vcncyV2Z5VFJ2M0hiRWxtVUZxWjNVcXdVQnd5WWFyU2ZuUXBnMDVMTVdSNV9tdzMtNmdQeFhzcHVsWnZPZEpudmsyV25iVUp5a2xMZ3pXNlNFOWxIQm11WkczVHlR?oc=5",
         "type": "rss"
       }
     ]
@@ -927,6 +1390,83 @@
     ]
   },
   {
+    "id": "deutsche_telekom-2026-08-20-039",
+    "date": "2026-08-20",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Deutsche Telekom launches ‘Not a Passenger’ campaign starring Rhian Teasdale of Grammy-winning band Wet Leg - Deutsche Telekom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxPWUVleTZYZDdDQklfUFhQa08wQ1g3YTRSYTdFY0VSVmlQbktoN0FIRmRsY1l5MDUxUXJIR3dfRDQ4TkVVa3o2dlNHbzE5d2lXQ0NkdWZuUHBKUmtJU2FCWjhFQXdpLTR3RjZUNDcwdD",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWUVleTZYZDdDQklfUFhQa08wQ1g3YTRSYTdFY0VSVmlQbktoN0FIRmRsY1l5MDUxUXJIR3dfRDQ4TkVVa3o2dlNHbzE5d2lXQ0NkdWZuUHBKUmtJU2FCWjhFQXdpLTR3RjZUNDcwdDFaelBHTndRU010cVRUNGpFV2gxZU5ZcmFkUnYwcV84X0hxcENqeTBnWEZkN3NpZG1ZY1MwMnRlMUtOY0h5QlkySS1pelZFWUlFcEJ0Wm02WVJ4OERUdk54c3BrZjNhYmpidFJ1T1VWWU14dmdrb3o4ZUs0ZHJ2NFBxLVIzQk4xVTFLNUU4ZXBLOVlCUkZzUUpmMFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ericsson-2026-08-20-040",
+    "date": "2026-08-20",
+    "companies": [
+      "ericsson",
+      "softbank"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank Corp. and Ericsson Conduct Japan’s First Trial of Ericsson AI in RAN on a 5G Commercial Network - ソフトバンク",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE45b0x1bEpNUzFrY0ZSWDhNQk5Xc0hTMW5UUFVwYl91R2tHbmYxLVBvYVlkOGUtZHU0VnB2M2JhM0g1a2J0MkpaZDJNNE1GUHNrbXhac1lvbFRQTGltVDN6d3YyaGdrRzZ1RlR2YmpVal",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE45b0x1bEpNUzFrY0ZSWDhNQk5Xc0hTMW5UUFVwYl91R2tHbmYxLVBvYVlkOGUtZHU0VnB2M2JhM0g1a2J0MkpaZDJNNE1GUHNrbXhac1lvbFRQTGltVDN6d3YyaGdrRzZ1RlR2YmpValUwY2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-08-20-041",
+    "date": "2026-08-20",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mizuho Securities Maintains American Tower Corp(AMT.US) With Buy Rating, Raises Target Price to $208 - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQakhLdGRuRV9jUDJtYTJ2Nk9nbTE0SVZYalpfSFIwYU9GRUFLMkx5UEVYOVNGUkFiY1RnZElqek50cGtxVm9ETUVoZVVxMzlTM1dDRkgwYl92bnF6NnZBTmx0eFNEOThuSUtTWFFiWW",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQakhLdGRuRV9jUDJtYTJ2Nk9nbTE0SVZYalpfSFIwYU9GRUFLMkx5UEVYOVNGUkFiY1RnZElqek50cGtxVm9ETUVoZVVxMzlTM1dDRkgwYl92bnF6NnZBTmx0eFNEOThuSUtTWFFiWWdxQ2NEc2hGa2pOTU5ER21XaDhDaklsbjBsMGVtN1o3eHVULVM4c29GaG1idmZTVmZnWkRtQll2ODV3eGVVN3BFTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-08-20-042",
+    "date": "2026-08-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Telecom – Driven by digitisation and deleveraging - Upstox",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNcmk4b04xS1B1dUdzNTBMck1XemZfdGM3OFZoRUFrX0tjS0twMmFLRGhlWHBtOXFYdkFFLUhicDJhVkNySlk0bnRicG5TNnBWcGtZZWNUNlE5cUdIUHM1UkZVMm5RSTRYTWpZUFk3Vl",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcmk4b04xS1B1dUdzNTBMck1XemZfdGM3OFZoRUFrX0tjS0twMmFLRGhlWHBtOXFYdkFFLUhicDJhVkNySlk0bnRicG5TNnBWcGtZZWNUNlE5cUdIUHM1UkZVMm5RSTRYTWpZUFk3Vlh5bjhQcm9HZVJWS3R1T0FVNDdrUkRqaDZYbjR4WEdHVktsZmpHeWY1cXIzN3pMOU1iNlNVM1VpTlhLM1hWNFFORVVXbGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nokia-2026-08-19-001",
     "date": "2026-08-19",
     "companies": [
@@ -1497,6 +2037,26 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWVFMelMtU3BZUWVMcGRHdlhyOEc5QlVGLUNEX0pfRnhva1V1TV9FWEI4NWM2MGRUYk1MYzZGdE1rWVI5STBvNUI0ZE4xQnR5WG5Cc3NBcWlLQW9WNmwwdF81aUppUzNwYWVRN0JOQUZqRUFzcmdrZEVRcVJ0Q0lwN0FFem5kVzJ3T0hyQnVXQ3hxQndTUllobzc4aw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-08-19-031",
+    "date": "2026-08-19",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "CIENA CORPORATION : NORTHLAND CAPITAL RAISES TO OUTPERFORM FROM MARKET PERFORM; RAISES TARGET PRICE TO $500 FROM $450 - Bitget",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE45Y3NsRE9oM0NvcmUtUVVmd3RFaURvbWZmM3Vubk1XQzV3RGo2QjRYVU9JaTJMNkI1b0FGM3lCREFXNTNwcjNRbGREYVJ1eDZRZVNFcUVjV1NrRGJXdEdza0lPZ9IBY0FVX3lxTE45Y3",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE45Y3NsRE9oM0NvcmUtUVVmd3RFaURvbWZmM3Vubk1XQzV3RGo2QjRYVU9JaTJMNkI1b0FGM3lCREFXNTNwcjNRbGREYVJ1eDZRZVNFcUVjV1NrRGJXdEdza0lPZ9IBY0FVX3lxTE45Y3NsRE9oM0NvcmUtUVVmd3RFaURvbWZmM3Vubk1XQzV3RGo2QjRYVU9JaTJMNkI1b0FGM3lCREFXNTNwcjNRbGREYVJ1eDZRZVNFcUVjV1NrRGJXdEdza0lPZw?oc=5",
         "type": "rss"
       }
     ]

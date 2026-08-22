@@ -1,0 +1,163 @@
+{
+  "date": "2026-08-22",
+  "generated_at": "2026-08-22T08:20:19.475682Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "deutsche_telekom-2026-08-22-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Deutsche Telekom (XTRA:DTE) Earnings Upgrade Fuels The Case For Undervalued Shares - simplywall.st",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNTFtY2JURHNwaGFHYkdjNy0zRWpOcGF4UUk4dGo5bGF1ZHo1eDdhU0dxd3E0NW1TSVJKaE9QQzJSc2MzVGhya0JUdGdZem4xc0lpMzZkODJHSC1rRVVEUUR4RlU1X2thY1dOb0Q5cFZmOE9RS2JpRm9Edm9iZnVBTC1PclNiM3k5M2NwemRQaHZoZy1UTVNnTGVkVFp6MDE5czhvc0VwRVBSQ196bVFndlRkVW9ybXhweUpEbXZraTBIZllmdmJZMjAxWmU3N0szUV9N0gHYAUFVX3lxTFBPN2dQT3pvamRWSm4wTzAzd1VoUDNIdEtmZW5UVGxBTmNUeTk1Z3VGSE4yeWNiWFNUbE5Ic1JOZDRFMmUxSTZGQW91Rk5ieF9VUV9uN2JlcDBUa3p0d0kzQVhOVnNtajZtR0JHWW9ETnhSSTJCNDNQMmVEaEs0UDlRZ3lXcVFsQ0FiS1YycDktMjd5QVhYT2xaNEtoeURQeHBfSkFaUE1Fa0I2QmtHc3BNcEUwdVctLUJ1cm5JUEVTOWtBU1YxY29QV3JXc2FBcER6cUJCcWl1UA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ciena-2026-08-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bank of New York Mellon Corp Acquires Shares of 825,480 Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSlNfejc4cGhDVFFzbGJncjJwUVowSU1QcWtJTzZwN0pjQVU3T1NtNGstRFZIVHhETzc3LUt4NVh4SG1vbVFCWm1QS2s5YnVIUnhmeklyM0YydFZ4cDlvRGhCX0pPd1FDZmJRc09SQ09fVFFHbjF3OEM1Sm91QkkzNk5XX1RDUnN1NkJ0Z1QzNjNMZXNjM0VSUjBxeFFZcjhJX25zZFpBd3lVYV85R0tjRDkzZ1hweS1FVV9RTXFSeFhaR1Fmb2x2TDhNbVhTV2NGNVdVaw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "american_tower-2026-08-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Bank of New York Mellon Corp Purchases New Stake in American Tower Corporation $AMT - MarketBeat",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTGdQWVJ3RWFzV2llVjhENmxXM2h4YWdBdWF5WTZRajNlVzlDS1NkS0RyQ1dNTnhma3RPMG9BamRycjVlYmxZRVVHWlRidVlteDJVckFUeVV0N19FeXZWSXlIbk5BV3dxbGc3T1ZRNTZHazB6aXRyYWp5ZFFzLTVtR1p2bkZMYWJaUlRXVW0wb01fazFaVmw4QXBMYlRDUzlUWWltbHB0RGF4UW8zYlFGR2xyX3M2NTBGUUF3WGR0elc2YWtsM1BHY3ExRlRKZFp6SEdMSGJaWU9OeHc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 1
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      },
+      {
+        "id": "american_tower",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 307,
+    "dup_title": 201,
+    "too_old": 66,
+    "gate1_blocked": 5,
+    "gate2_blocked": 6,
+    "passed": 29,
+    "pass_rate": "27.4%",
+    "gate2_block_rate": "5.7%",
+    "gate2_samples": [
+      "Ciena (NYSE:CIEN) Trading Up 4.3% - Should You Buy? - MarketBeat",
+      "Wet Leg Cover The Cardigans For Deutsche Telekom’s New Gen Z Campaign - Stereogum",
+      "SBA Communications Marketing Manager Salaries in Gulfport-Biloxi, MS - Comparably",
+      "SBA Communications Sales Manager Salaries in Iowa City, IA - Comparably",
+      "Equinix signs fourth Singapore solar PPA with Flo Energy - Reuters"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為Ciena、德國電信、AMT相關動態：「Deutsche Telekom (XTRA:DTE) Earnings Upgrade Fuels The Ca...」。主要關注主題為產業通用、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Deutsche Telekom (XTRA:DTE) Earnings Upgrade Fuels The Case For Undervalued S...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Bank of New York Mellon Corp Acquires Shares of 825,480 Ciena Corporation $CI...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
