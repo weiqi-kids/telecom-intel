@@ -1,0 +1,15 @@
+{
+  "total_raw": 299,
+  "dup_title": 204,
+  "no_date": 0,
+  "too_old": 72,
+  "gate1_fail": 6,
+  "gate2_fail": 4,
+  "passed": 13,
+  "gate2_samples": [
+    "Ciena (NYSE:CIEN) Trading Up 4.3% - Should You Buy? - MarketBeat",
+    "Wet Leg Cover The Cardigans For Deutsche Telekom’s New Gen Z Campaign - Stereogum",
+    "Equinix signs fourth Singapore solar PPA with Flo Energy - Reuters",
+    "The build is over, but can you operate what you built?"
+  ]
+}
