@@ -1,0 +1,14 @@
+{
+  "total_raw": 308,
+  "dup_title": 199,
+  "no_date": 0,
+  "too_old": 78,
+  "gate1_fail": 6,
+  "gate2_fail": 3,
+  "passed": 22,
+  "gate2_samples": [
+    "Wet Leg Cover The Cardigans For Deutsche Telekom’s New Gen Z Campaign - Stereogum",
+    "Equinix signs fourth Singapore solar PPA with Flo Energy - Reuters",
+    "The build is over, but can you operate what you built?"
+  ]
+}

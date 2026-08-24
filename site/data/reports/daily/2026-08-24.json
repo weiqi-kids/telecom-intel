@@ -1,0 +1,208 @@
+{
+  "date": "2026-08-24",
+  "generated_at": "2026-08-24T08:39:21.775364Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "softbank-2026-08-24-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Fitch Affirms SoftBank Corp. at BBB+ with Stable Outlook - marketscreener.com",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYzc3M3Q1aTIxTjVMdHNVWHJ0TUd6WnFTN2Zpd0ViU0hCcjRRc25XYnM0ejZhNllSNjlvMTNsWjBuTnM0RUJQanlSWjd0WHFmamN6NGZXcDBTRGJOaGdodFdsWlFGZmhvVnh1WGpsU2NiY1VqNVNKbXZHTGZGQkdVWFRtS0VCMTFNR1VpR3NaWnN3RXhsalZfSnl6NmpYTk93c0hla1pjZldkNjQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ciena-2026-08-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Globeflex Capital L P Buys New Holdings in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVVo0V2xiQXdEOHR1WExyTmxFTExuTjYxMVF6UVhuMkRXcHA0bTJZZk94WGx5c3FrQnMyRDFCMkdaRTZZZHJPZlJzRUlITlE4a1NoS1JxNU9nVGlLVVk1VXZFVEhlYUFVcWw0b29UV2JpaHVEdm5aX3JiOGM1Q0g5dFpEdWV5S0pCTWZ3QURPWm5oTGlkX2lkTGpJUkxOOTFSNDdocVlvekhadlNLdnA0MlJXY0p5NElMX0hQN2o0cjlXdFhF?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "american_tower-2026-08-24-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "American Tower Corporation $AMT Shares Sold by Bank of Nova Scotia - MarketBeat",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMTlSRU5mX2JJZ1Q0U0VpQnZLR0duXzdIVlV6aVBxcEhSOXgzdUNMTndSbWhobkM4a0tsWUdGdmFEcHEwNE1SYUk2VDBYQVFVZzVnTFhLa1lFVTdjdEdPTGxyLXh2TFF3VVZwQnp0TjFXUWhodWt4SFI5V2F4VVZKZU14c3l1OUdudkFPMVNOR180YzdhVkNxWDJueTZoMFI0SjFwTnlLUUVCTm9UYnREaUtpbEFfR2t2RllVRDEyS2hfWFR0?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "american_tower-2026-08-24-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Allstate Corp Has $8.24 Million Position in American Tower Corporation $AMT - MarketBeat",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTVZMVU53azdwNHVLNWV4SVd2Qkh0RFJhc09jaEg2YjZCVlZMMi1jRUd4ZnA2U0wyN2hGWUVpRm1yLWdLNDJQWVRKZllobTVkOFJ4MWpnZXlOTi1VbGp5T2JpbDhiRl9VdEJOenFHV29wR2NSUi12RmdzXy1zVDBtbEZJcFJjV1NvdFZtc1ZpYjFfVGtQTFlRZVJ3aWhxLWlFdG9EbW41WlJ2UW5nZmRMU1NBRkZ3MlpsTHRHZEh0YnJXRl81N2VKZFVLcUpmdw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "american_tower-2026-08-24-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Daiichi Life Insurance Co. Ltd. Sells 6,200 Shares of American Tower Corporation $AMT - MarketBeat",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUFJxWWNXd1JMclRDdENLM1hqVGhLbzJvMDZ6U2pqbkhYbVRlSTBjTGdwWk5Za1FudnhSM2ViZ0FkTkRDRjVGNGViTmh4SkpaR1JBVk9GbENMRmYzVXRMZWk3NzFteGhsaEh0VWtlVVZpVVRsVWh3YUVBdzJ1aTRRREQxUk90cm1TVWR0elpELXFUQlkwR2Nkb251UTBlNnhUTlAwNUQwZ1JDLXVZY0JZNThpcEpBVVpoR0tYcHJrSDI3TTFXMkxGdEZaa255VnFVOEhnU1ZPT0ZVZw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 11,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_tower",
+        "count": 4
+      },
+      {
+        "id": "ciena",
+        "count": 1
+      },
+      {
+        "id": "softbank",
+        "count": 1
+      },
+      {
+        "id": "nokia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 308,
+    "dup_title": 199,
+    "too_old": 78,
+    "gate1_blocked": 6,
+    "gate2_blocked": 3,
+    "passed": 22,
+    "pass_rate": "20.2%",
+    "gate2_block_rate": "2.8%",
+    "gate2_samples": [
+      "Wet Leg Cover The Cardigans For Deutsche Telekom’s New Gen Z Campaign - Stereogum",
+      "Equinix signs fourth Singapore solar PPA with Flo Energy - Reuters",
+      "The build is over, but can you operate what you built?"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 11 則事件，焦點為AMT、Ciena、軟銀相關動態：「Fitch Affirms SoftBank Corp. at BBB+ with Stable Outlook ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Fitch Affirms SoftBank Corp. at BBB+ with Stable Outlook - marketscreener.com（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Globeflex Capital L P Buys New Holdings in Ciena Corporation $CIEN - MarketBeat（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
