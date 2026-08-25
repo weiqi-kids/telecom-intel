@@ -1,0 +1,120 @@
+{
+  "date": "2026-08-25",
+  "generated_at": "2026-08-25T08:33:27.580807Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sba_comm-2026-08-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SBA Communications Corporation (NASDAQ:SBAC) Receives Consensus Rating of \"Hold\" from Brokerages - MarketBeat",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOd3RPU2tlMXh0NGo5cS1aN3hERllLaDNBLXA1QVNIVEFERzBYbnZVRWNzSmFid0tUS2FFb0piMUYydnVFUHB1WVVSWEcwWmo5anhkRGlnZ0FibFp2enhqS3NBLTNwYUhuNVEtSVpfQXFTZVgxb24yQXFmY25KRUJxSl9UOGROeGV0TWJuRHZXRTVIMlE4V0RiX0szZ2hXOEJ1bF80R1V0T2taQ3AtbzZuaTlycXhKVS1wN2k1ckctTHE3NjJJelMyaGhhTURpbTRvNU81NU5nRmJrWGZGZGJTdGl2NlNLUE1NTlJuRA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "chunghwa-2026-08-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Chunghwa Telecom Earns Frost & Sullivan's 2026 Recognitions for Telecom Market Leadership and 5G Technology Innovation - Yahoo Finance Singapore",
+      "companies": [
+        "chunghwa"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQS2J6UmRyZVhDeW1BT1hkQlMxRXBkQ040c2E1R1MyY2J1VXNhQm9yM1psQjAwZ1VpaDh4UlRmQjJDYTllbmhWdC1WM1I5T1VpUmNpTk5weHkwRlRNM05oVHpiZklQZTYxcE1obG1jT3d2dmw3M3RZNUJqWTRqWEtUdW51cXFTUHcydURuS0FLcUY?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 2,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 2,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "sba_comm",
+        "count": 1
+      },
+      {
+        "id": "chunghwa",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 309,
+    "dup_title": 184,
+    "too_old": 77,
+    "gate1_blocked": 6,
+    "gate2_blocked": 6,
+    "passed": 36,
+    "pass_rate": "28.8%",
+    "gate2_block_rate": "4.8%",
+    "gate2_samples": [
+      "Ciena Drops 6.4% Amid Sector-Wide Selling - AlphaStreet",
+      "Rhian Teasdale turns off the noise with Deutsche Telekom - shots.net",
+      "The Best Work You May Never See: INGO, Rhian Teasdale and Director Charlie Engman Take The Wheel For",
+      "Equinix signs fourth Singapore solar PPA with Flo Energy - Reuters",
+      "Verizon taps into Google Cloud to bring AI to the enterprise"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 2 則事件，焦點為SBA、Chunghwa Telecom相關動態：「SBA Communications Corporation (NASDAQ:SBAC) Receives Con...」。主要關注主題為產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "SBA Communications Corporation (NASDAQ:SBAC) Receives Consensus Rating of \"Ho...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Chunghwa Telecom Earns Frost & Sullivan's 2026 Recognitions for Telecom Marke...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

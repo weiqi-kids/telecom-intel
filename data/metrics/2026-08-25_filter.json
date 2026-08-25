@@ -1,0 +1,16 @@
+{
+  "total_raw": 309,
+  "dup_title": 184,
+  "no_date": 0,
+  "too_old": 77,
+  "gate1_fail": 6,
+  "gate2_fail": 6,
+  "passed": 36,
+  "gate2_samples": [
+    "Ciena Drops 6.4% Amid Sector-Wide Selling - AlphaStreet",
+    "Rhian Teasdale turns off the noise with Deutsche Telekom - shots.net",
+    "The Best Work You May Never See: INGO, Rhian Teasdale and Director Charlie Engman Take The Wheel For",
+    "Equinix signs fourth Singapore solar PPA with Flo Energy - Reuters",
+    "Verizon taps into Google Cloud to bring AI to the enterprise"
+  ]
+}
