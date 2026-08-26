@@ -1,0 +1,180 @@
+{
+  "date": "2026-08-26",
+  "generated_at": "2026-08-26T08:34:42.803405Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "softbank-2026-08-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SoftBank unit BBIX, OEC Launch OCF Connection Point at Oita Data Center in Japan - marketscreener.com",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZFFVRm84X25mMHkyems2WnJYZmNJYkhtejg1MEl5S2Jxa2FVbGNhd2RJalhNSmN1Z055TW5TTDU3ZElfR0dyUGZXOURTenBsS1VHbDJPalN6Skc4M3pLbFczYzBtaGRRUkRTRWtJcTNuR05GaWJ3LUZwbjlwRmhVbEgzSmNSdTV2NEF4Y3llTzRDMFpRTkkzZURmQ1ZuS3JJNGlOOWY4TlljRUR4NU5DdWhZREFGYWRmQXNraGNQVGJqWkVxckFXYjNFLWI?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "american_tower-2026-08-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Canada Pension Plan Investment Board Has $291.37 Million Holdings in American Tower Corporation $AMT - MarketBeat",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPT2ZZcFctV0FzY09YQWs1STFiTTdGbjRzNjd2NmJRSzNhSFlOWWJlVmhfdy1uRW1qaDFXaDV5QWVaaDJMNmRjV3QyMDduQV82eWp6Q1d3dk5FRXNCWmVGcGxZTXFaTDBDeTZ1QU1aanozT0VWU2I1VzZsR2UwMVBubHF4eFJ1czk4aTZuaUZtSDMwUDZ0NFIxWGpWMVM2bTFyeTRBUU1uMnpNNjJHNjZrWkgyaDN5X1NBNWF0UFhhd3BtZFpOWUpaWm9uV1J0VWV2YW1TWmlYVTd6YTBOUm9FMzVYUlNjT1U2YjhodDNGQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "We need to understand how data centers really work - Inquirer Technology",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPV0RRWDgtNmJXXzNoQVlLQlB3d3l6TmhrcjFCMFZKWXMzeGw4aXZGTjFHcS1iTkRtWEZfOUtfYl9yblljZVZnc29vaUppTjRaUER1VFAyOU16ZEJqT2ZyN01Xdl9VbXlZUHhCc29YenpUdGVsNmhYZ05IQVJELVc1SE91aTVTSUVCay1JYkd3ekExSnPSAZgBQVVfeXFMUHhpQ2NYUEJ0ZDdzc29UQks0eExfOURDUkRsR0ZYWkNRb0I1WktyeVhUdlZGMm8yeGVoaE9qeXYxT3V3ZWRtYjI3SWxKVVNrZDJhRXVWMVVXdDRXcHdPZDBfQTBkMmNScERheUJWNDZwYUFGeVJ6Tk55UFJGZW9wbFhmV0NKVWRjYUlDbFFGc1V4czZZNmtBWUU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "EE has flown the Ryanair model into 5G",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/5g/ee-has-flown-the-ryanair-model-into-5g"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-08-26-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Telefónica said to mull sale of insurance unit for €100M",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/finance/telef-nica-said-to-mull-sale-of-insurance-unit-for-100m"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "softbank",
+        "count": 1
+      },
+      {
+        "id": "american_tower",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 6
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 305,
+    "dup_title": 171,
+    "too_old": 77,
+    "gate1_blocked": 6,
+    "gate2_blocked": 6,
+    "passed": 45,
+    "pass_rate": "33.6%",
+    "gate2_block_rate": "4.5%",
+    "gate2_samples": [
+      "Ciena Drops 6.4% Amid Sector-Wide Selling - AlphaStreet",
+      "Convert 1 CIEN (Ciena Corporation • Robinhood Token) to EUR (EUR) - Bybit",
+      "Convert 1 CIEN (Ciena Corporation • Robinhood Token) to USD (United States Dollar) - Bybit",
+      "Rhian Teasdale turns off the noise with Deutsche Telekom - shots.net",
+      "Wet Leg Cover The Cardigans For Deutsche Telekom’s New Gen Z Campaign - Stereogum"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為軟銀、AMT相關動態：「SoftBank unit BBIX, OEC Launch OCF Connection Point at Oi...」。主要關注主題為產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "SoftBank unit BBIX, OEC Launch OCF Connection Point at Oita Data Center in Ja...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Canada Pension Plan Investment Board Has $291.37 Million Holdings in American...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

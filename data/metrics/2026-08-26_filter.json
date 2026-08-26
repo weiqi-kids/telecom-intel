@@ -1,0 +1,16 @@
+{
+  "total_raw": 305,
+  "dup_title": 171,
+  "no_date": 0,
+  "too_old": 77,
+  "gate1_fail": 6,
+  "gate2_fail": 6,
+  "passed": 45,
+  "gate2_samples": [
+    "Ciena Drops 6.4% Amid Sector-Wide Selling - AlphaStreet",
+    "Convert 1 CIEN (Ciena Corporation • Robinhood Token) to EUR (EUR) - Bybit",
+    "Convert 1 CIEN (Ciena Corporation • Robinhood Token) to USD (United States Dollar) - Bybit",
+    "Rhian Teasdale turns off the noise with Deutsche Telekom - shots.net",
+    "Wet Leg Cover The Cardigans For Deutsche Telekom’s New Gen Z Campaign - Stereogum"
+  ]
+}
