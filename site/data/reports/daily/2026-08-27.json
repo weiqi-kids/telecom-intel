@@ -1,0 +1,248 @@
+{
+  "date": "2026-08-27",
+  "generated_at": "2026-08-27T18:41:55.243719Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_tower-2026-08-27-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Tower (AMT) Down 2% Since Last Earnings Report: Can It Rebound? - Yahoo Finance",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUUU1U3BQcGV3Y25ybXU5cVFWNmhhbmI1MFBoQVpyM29YOWVpOHB3MXRsWnRiekRrdWpVRnNMa2hLMkcxSlpGbG5hV29vR09lSWl2WjRnU0J5d05QZWZLcmJrNVhibTJadjRqOEJmaldfbjBsUFcxazZELVNLQXhVdEd1ZmItQXUwdDl1Nk4wZjhWcUhk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sba_comm-2026-08-27-018",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SBA Communications stock holds firm after earnings beat - Ad-hoc-news.de",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaFk4aEJwaUxPakFaUjZLSi1CSlltb0VXUEkxbnBSZjZ5UlAyeG1iVWFQN0RucTVUVE8zaVJhUWsxcjR3REREcUwtVWhXZ1Z1R0RiTEdxZEpMYnJINWJpV2N1MlVhV2xLUk56V1hveU9EM1NBU2tieEZ4dmRXQ0VYLWNtYkhnQlhKWnktZksyTFM2Ym1aZlJrZ1czWlRNZzBYYTkxdWFrYTVNQlMzTHRQTzVYdmp0WGZNVXc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-27-023",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "China Broadnet misses 5G subscriptions target as growth levels out",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "5g_deployment",
+        "arpu",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.lightreading.com/5g/china-broadnet-misses-5g-subscriptions-target-as-growth-levels-out"
+    },
+    {
+      "rank": 4,
+      "event_id": "nokia-2026-08-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia transfers 3.64 million shares without payment to plan participants - Stock Titan",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObi02SkRYM3NabUtaUVFjenBMWVBFOVdwT2J6dUEwVlF1UndfNVVSQ2lFWXg0QjRXcmVtdHEtSTZta1BJel9BYmhEZ3ZKMmVJQmhkRW5PTFFrREh4aVZpbWZBYWpWN2EzOUo3SzdUcExpaXUxd0YyQ0c5VU5LOXVaU19OM1NRYzBiQ2FzX1EzWGJvQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nokia-2026-08-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia (NYSE: NOK) uses 3.6M own shares for incentive awards - Stock Titan",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcnVxdmp1el8zVU9mUmFSWGVPVG5sT05vVl9nSmFWcjB5RThtakwySFZPa3BuWF9CcV9peWRoS01pZENoZXpwczBMMktPUlV5SFlRTUZacl9UWnFSYkJUMkt4VUcwWjJvQVR6NDZrX01EVFVhRDAyeXRjeGxYc2RjSXpXc3V1aXRrWkpGM3FsZUg4UXd2VUcxZy1OaURWclJjb0ZNRkpTa0k?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 34,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.01,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "5g_deployment": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "arpu": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 36,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 33,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "american_tower",
+        "count": 10
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 4
+      },
+      {
+        "id": "equinix",
+        "count": 3
+      },
+      {
+        "id": "nokia",
+        "count": 2
+      },
+      {
+        "id": "sba_comm",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 34
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "5g_deployment",
+        "count": 1
+      },
+      {
+        "id": "arpu",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 310,
+    "dup_title": 167,
+    "too_old": 79,
+    "gate1_blocked": 7,
+    "gate2_blocked": 4,
+    "passed": 53,
+    "pass_rate": "37.1%",
+    "gate2_block_rate": "2.8%",
+    "gate2_samples": [
+      "Ceragon to Participate in the 10th Annual Lake Street Best Ideas Growth Conference - PR Newswire",
+      "Ciena Drops 6.4% Amid Sector-Wide Selling - AlphaStreet",
+      "Convert 1 CIEN (Ciena Corporation • Robinhood Token) to EUR (EUR) - Bybit",
+      "Balls don't lie: Ericsson and Nokia's big 5G bet meets multibeam threat"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 36 則事件，焦點為AMT、德國電信、Equinix相關動態：「American Tower (AMT) Down 2% Since Last Earnings Report: ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "American Tower (AMT) Down 2% Since Last Earnings Report: Can It Rebound? - Ya...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "SBA Communications stock holds firm after earnings beat - Ad-hoc-news.de（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,15 @@
+{
+  "total_raw": 310,
+  "dup_title": 167,
+  "no_date": 0,
+  "too_old": 79,
+  "gate1_fail": 7,
+  "gate2_fail": 4,
+  "passed": 53,
+  "gate2_samples": [
+    "Ceragon to Participate in the 10th Annual Lake Street Best Ideas Growth Conference - PR Newswire",
+    "Ciena Drops 6.4% Amid Sector-Wide Selling - AlphaStreet",
+    "Convert 1 CIEN (Ciena Corporation • Robinhood Token) to EUR (EUR) - Bybit",
+    "Balls don't lie: Ericsson and Nokia's big 5G bet meets multibeam threat"
+  ]
+}

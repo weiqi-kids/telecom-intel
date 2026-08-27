@@ -1,0 +1,57 @@
+{
+  "date": "2026-08-27",
+  "total_events": 36,
+  "by_company": {
+    "nokia": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "deutsche_telekom": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "american_tower": {
+      "count": 10,
+      "sentiment_avg": 0.0
+    },
+    "sba_comm": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "equinix": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "tmobile": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "calix": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 34,
+      "sentiment_avg": 0.01
+    },
+    "earnings": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "5g_deployment": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "arpu": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
