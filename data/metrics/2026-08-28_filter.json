@@ -1,0 +1,16 @@
+{
+  "total_raw": 309,
+  "dup_title": 193,
+  "no_date": 0,
+  "too_old": 79,
+  "gate1_fail": 6,
+  "gate2_fail": 8,
+  "passed": 23,
+  "gate2_samples": [
+    "Nokia Rides on Portfolio Diversification: Can it Boost Growth? - TradingView",
+    "Ceragon to Participate in the 10th Annual Lake Street Best Ideas Growth Conference - PR Newswire",
+    "Ciena Drops 6.4% Amid Sector-Wide Selling - AlphaStreet",
+    "SBA Communications Corporation to Speak at Citi’s 2026 Global TMT Conference and the BofA Securities",
+    "Is Equinix (EQIX) Still Undervalued After Its PJM Reliability Backstop Filing? - simplywall.st"
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "date": "2026-08-28",
+  "generated_at": "2026-08-28T19:49:58.220884Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ciena-2026-08-28-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ciena Stock Ahead of Q3 Earnings: Buy, Sell, or Wait for the Results? - TradingView",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVmR3UjBQdkN3aFkxS2lvdzVNTFhFVTFnaWNHcENzS1p4OXdUOXdxazI2cWw3aWhCQUdRTDEzYTBhNWdWd1FnS3ZUaW5mQm5KVEpiYllHcFNnNk45TjM5Z2U1aURDVFpjaWZudE9VTHlmbTJ6ZmgyaFJ0QWZieEpNWlRrMUVCNTlmNF9veUNlSXlWaGE5SnNCSnJyRjZoNHY4Nm9jS2VVNkhCNnViR25Nck03TndSX3BpUm5LckxR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-28-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Eurobites: Copper decline dents Denmark's TDC Net in H1",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.lightreading.com/finance/eurobites-copper-decline-dents-denmark-s-tdc-net-in-h1"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-28-016",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Beyond the Killer App: How 5G and 6G Are Redefining Network Value",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaWZnZYTbIWJ9IskOxlkEWtA?utm_source=follow.it"
+    },
+    {
+      "rank": 4,
+      "event_id": "nokia-2026-08-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia Stock Slides As China Exit Plan Rattles Traders - StocksToTrade",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeUNPZGtyc0Z0ZlZkVDhxWFprQTFScnRFb1phZ0N6V3VPUmRsR2MxUVFFYkI1NVdXY3V2ZFBaSTR4TTh1YTd2WmlOOHZaY2FfUnFyamoteGNDcUpna3E1TC1JUE5vVlBta0oxMnp5aHFONlhRTjZ4eVBEOEJUakoxcFJNeW5jUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "deutsche_telekom-2026-08-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom (XTRA:DTE) Stock May Be Below Fair Value After An 85% Gain - Yahoo Finance",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPelB2S09rVkY0cGNwM2NDc19ScngySldhUWhSVXpGeE0wcGZXS0RjZF9Wb3VfcnZhM1dDa2MzdnVOc3AxNk8zbktTN3BXbEpVTjVjUm5iNFk5eEpOa0Y3RzFQZ3hteDJ5aFE0WXBWVmRvaFhDNkEyVGxTVnRIT3pybW5LX1dYd253NHdxcW85Y212M0JrdVhVTVczQW4?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "arpu": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 14,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "american_tower",
+        "count": 5
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 3
+      },
+      {
+        "id": "nokia",
+        "count": 1
+      },
+      {
+        "id": "ciena",
+        "count": 1
+      },
+      {
+        "id": "softbank",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "arpu",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 309,
+    "dup_title": 193,
+    "too_old": 79,
+    "gate1_blocked": 6,
+    "gate2_blocked": 8,
+    "passed": 23,
+    "pass_rate": "19.8%",
+    "gate2_block_rate": "6.9%",
+    "gate2_samples": [
+      "Nokia Rides on Portfolio Diversification: Can it Boost Growth? - TradingView",
+      "Ceragon to Participate in the 10th Annual Lake Street Best Ideas Growth Conference - PR Newswire",
+      "Ciena Drops 6.4% Amid Sector-Wide Selling - AlphaStreet",
+      "SBA Communications Corporation to Speak at Citi’s 2026 Global TMT Conference and the BofA Securities",
+      "Is Equinix (EQIX) Still Undervalued After Its PJM Reliability Backstop Filing? - simplywall.st"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為AMT、德國電信、諾基亞相關動態：「Ciena Stock Ahead of Q3 Earnings: Buy, Sell, or Wait for ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Ciena Stock Ahead of Q3 Earnings: Buy, Sell, or Wait for the Results? - Tradi...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Eurobites: Copper decline dents Denmark's TDC Net in H1（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
