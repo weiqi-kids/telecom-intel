@@ -1,0 +1,16 @@
+{
+  "total_raw": 308,
+  "dup_title": 199,
+  "no_date": 0,
+  "too_old": 76,
+  "gate1_fail": 8,
+  "gate2_fail": 9,
+  "passed": 16,
+  "gate2_samples": [
+    "Nokia Rides on Portfolio Diversification: Can it Boost Growth? - Yahoo Finance",
+    "Nokia Rides on Portfolio Diversification: Can it Boost Growth? - TradingView",
+    "Ceragon to Participate in the 10th Annual Lake Street Best Ideas Growth Conference - PR Newswire",
+    "Ciena Drops 6.4% Amid Sector-Wide Selling - AlphaStreet",
+    "SBA Communications Corporation to Speak at Citi’s 2026 Global TMT Conference and the BofA Securities"
+  ]
+}

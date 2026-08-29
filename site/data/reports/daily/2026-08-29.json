@@ -1,0 +1,223 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T13:31:41.310842Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sba_comm-2026-08-29-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SBA Communications stock holds above $190 as tower demand supports outlook - Ad-hoc-news.de",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPczFYY0ZFcFo3QzVST25RNWszUXJmazV1czloZGt4VGZvMUxuT2oxQmNYSEhTTjd3S0FQNUU0WDhsMXNfLThfd0xEdWtoVFhSeGREN2xVU3lWdFJKbThPWERlTE05WVpIaTNfNmh3MDhrVzJNZ0IzeEtwTU1xQV9Jd0NLcUFrQ2R0Qk5LVjhGTE8wYkRtQTBGaHBlNkNfLXByWWlYNXlpemZsa2NVUnpKV3Nkb1VmZEZCaFU3TndSNmk4b1dlTDhfckZaYzR5SjllcUE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ciena-2026-08-29-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Public Employees Retirement System of Ohio Makes New $28.27 Million Investment in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNd1djb0lzR1hIamhORnFxalRPS3gwQ3FlZmI1QlVPSFdkbFNMSWFvakF2d25IdFU0QXZ2dU5ROTdmM3V2dzh5YW5lYUJGS0tQd3N1NU9wUUw3MVA4Z3lZWVgzZEJpWDQ0WTNneXdmSXJEdzhaZjVFTmpnUzVYdThWRmduUWh5QmQ2dkRyM2lNWWlYTDBMU0lMa1R4YlNDdXQ0dkJmcmtLejRZdmk2LWVkcm5JVG5UZ01DRjFZWjZKOFdZb2R3YXFMQlJYWkhhenVKX2llVkhtaWMyTm0wb215Q3VZWk1UcFB6ZThYQjhPeWE5bGpNQlE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "deutsche_telekom-2026-08-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "How Investors Are Reacting To Deutsche Telekom (XTRA:DTE) Zacks Upgrade And Valuation Re‑Rating - Yahoo Finance",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVXVzVzZCd2xTWmpERmc2WHFIY1ZMeU1EblEtRTRQVmJaTV9DWmIzdkpXRV9JNUQzS3haU3ZlcjlFZnFMczgtMGhjVlRueXozRXg1QVdyWE1TalNZR3ZIbDNsMDJFb2lEcUFoQ0hWNlc4a0hMT0M2ZUx6YkhfU29uSDZjS0dKa0VEMHhjdFFzc0pwWXc1aDQzNEx5Q2ZwX3dzbFFzbGJKR2M?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "american_tower-2026-08-29-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Rakuten Investment Management Inc. Buys Shares of 76,213 American Tower Corporation $AMT - MarketBeat",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMHc3NzhkQnlIV2hKM2lZMFRhNXZ3dkRPYnR2Q2hUcVlLZ3BvcVo4SHV1aGVneDlfUmE4N0FiWVJ1WDR3dVZSLTRqR3BGZDhQZWpWamZCV1dGeTZndlBWN1gyQm9BalkwUWJnX0ZWYTJjbTRGVzhtR3FXZkhWOUxzb0g1YlZFRVB5UTFtdzFJOWxnVFNRcGc1cWR0NWVKY3V5TE0zVHpVY295aDFwQ2ZRMUxNZHdQQ2YybVZtT1lkbnY5YTdPY3hJR0Q3RnRSSzRVRzRxQzhOM2FDUTFER1dn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "american_tower-2026-08-29-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Public Employees Retirement System of Ohio Purchases New Holdings in American Tower Corporation $AMT - MarketBeat",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQSC05dVRPanExbnFJdVcyYUxtNHg4OVdDd2VCWUZycmJrenZPMVVMY05WVkV6ZzBJZ29yUmF4UlkxcEpTMU1ySy1zM0Q2aldJOXZZMkVFUGFGMUU4Q2RMVTQ0Q2Raai1BRDJlR1lPZldsczdBX3JQZkRnd2p4ZWRtYmVsX0k5RWlVNk90bllhREt3Q080YVBQc2ZPclhaQ0dlVk1MZTRyQU4xX05kRk5QdzZYUUVuMklCZ1hpYUhudHZnMWxOYWp0UW85N2FaUUYzc0dENmNaYldha2dwY0Foc09KMGZGV3FDbVRWSDU3MWp1dw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "arpu": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 7,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_tower",
+        "count": 3
+      },
+      {
+        "id": "ciena",
+        "count": 1
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      },
+      {
+        "id": "sba_comm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "arpu",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 308,
+    "dup_title": 199,
+    "too_old": 76,
+    "gate1_blocked": 8,
+    "gate2_blocked": 9,
+    "passed": 16,
+    "pass_rate": "14.7%",
+    "gate2_block_rate": "8.3%",
+    "gate2_samples": [
+      "Nokia Rides on Portfolio Diversification: Can it Boost Growth? - Yahoo Finance",
+      "Nokia Rides on Portfolio Diversification: Can it Boost Growth? - TradingView",
+      "Ceragon to Participate in the 10th Annual Lake Street Best Ideas Growth Conference - PR Newswire",
+      "Ciena Drops 6.4% Amid Sector-Wide Selling - AlphaStreet",
+      "SBA Communications Corporation to Speak at Citi’s 2026 Global TMT Conference and the BofA Securities"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為AMT、Ciena、德國電信相關動態：「SBA Communications stock holds above $190 as tower demand...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "SBA Communications stock holds above $190 as tower demand supports outlook - ...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Public Employees Retirement System of Ohio Makes New $28.27 Million Investmen...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
