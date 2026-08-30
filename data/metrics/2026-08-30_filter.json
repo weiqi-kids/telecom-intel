@@ -1,0 +1,16 @@
+{
+  "total_raw": 308,
+  "dup_title": 195,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 6,
+  "gate2_fail": 8,
+  "passed": 18,
+  "gate2_samples": [
+    "Nokia Rides on Portfolio Diversification: Can it Boost Growth? - Yahoo Finance",
+    "Ceragon to Participate in the 10th Annual Lake Street Best Ideas Growth Conference - PR Newswire",
+    "Ciena Drops 6.4% Amid Sector-Wide Selling - AlphaStreet",
+    "Deutsche Telekom (XTRA:DTE), Why Is It Back In The Spotlight? - simplywall.st",
+    "SBA Communications Corporation to Speak at Citi’s 2026 Global TMT Conference and the BofA Securities"
+  ]
+}
