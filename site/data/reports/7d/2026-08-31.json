@@ -1,0 +1,173 @@
+{
+  "date": "2026-08-31",
+  "date_range": {
+    "start": "2026-08-25",
+    "end": "2026-08-31"
+  },
+  "generated_at": "2026-08-31T15:43:53.335597Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ceragon-2026-08-25-008",
+      "date": "2026-08-25",
+      "title": "Transcript: Ceragon Networks Q2 2026 Earnings Conference Call - Benzinga",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 89,
+      "last_week": 39,
+      "week_over_week_change": "+128%",
+      "sentiment_this_week": 0.03
+    },
+    "earnings": {
+      "this_week": 8,
+      "last_week": 2,
+      "week_over_week_change": "+300%",
+      "sentiment_this_week": 0.06
+    },
+    "5g_deployment": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "arpu": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.5
+    },
+    "fiber_buildout": {
+      "this_week": 3,
+      "last_week": 4,
+      "week_over_week_change": "-25%",
+      "sentiment_this_week": 0.17
+    },
+    "spectrum_auction": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "sba_comm": {
+      "event_count": 7,
+      "sentiment_avg": 0.07,
+      "rank": 3
+    },
+    "chunghwa": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "softbank": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "american_tower": {
+      "event_count": 30,
+      "sentiment_avg": 0.03,
+      "rank": 1
+    },
+    "nokia": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "deutsche_telekom": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "equinix": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "tmobile": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "calix": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "ciena": {
+      "event_count": 3,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 171,
+        "last": 237,
+        "change_pct": -27.8
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-25",
+      "event_count": 36,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-08-26",
+      "event_count": 22,
+      "sentiment_avg": 0.07
+    },
+    {
+      "date": "2026-08-27",
+      "event_count": 44,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-28",
+      "event_count": 28,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-29",
+      "event_count": 11,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-08-30",
+      "event_count": 11,
+      "sentiment_avg": 0.14
+    },
+    {
+      "date": "2026-08-31",
+      "event_count": 19,
+      "sentiment_avg": -0.03
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-25 ~ 2026-08-31）共 171 則事件，重點為「Transcript: Ceragon Networks Q2 2026 Earnings C...」。產業通用、法說會、ARPU為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "SBA",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "AMT",
+        "reason": "本週出現 30 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "諾基亞",
+        "reason": "本週出現 3 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,228 @@
+{
+  "date": "2026-08-31",
+  "generated_at": "2026-08-31T15:43:53.191772Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ciena-2026-08-31-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ahead of Ciena (CIEN) Q3 Earnings: Get Ready With Wall Street Estimates for Key Metrics - Yahoo Finance",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQckVRWi1wUlotV0Vrd29MUjU5bk9ySktRTnRRWENiTm1JQWZVSC0xM0Y1amZjMVBBRVFsWmpyNHJGMExsWGctcHdDbnhWX3p4TEdtQWZZNHdFdklOMXY1VGtadnJBdThrQk05V0xSTHZCZG51bmx4U0hnb2FMVmZoY1Zhb1pmRTdxeVQ3Mm9IcG53Ykt2dm9IbA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-08-31-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Weekly Recap: AI revenue expectations and sector weakness, rate-hike odds - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNV0tfMk1jX3lEVkxBbjhkVVcwQ1UtWTFnMXlKWW5xN24xV2UzVEFBMjVEcDZfZjVuRDFKT3NrX2xBWVM3aVAtNlY2NEhkcGN1eklodlJnVDdiOU9ubVoyNnNGNGJlTjdhU2RyMksyNV9LamFjNU9URjl2cWQzSkdBbFBZTW5xZFhBR0UwSWpCM21zbGFxY3BjN0s4MU1YZUszN0Y5bTd4M0w1YktqNkNXd21IY1RpOFN5MnpCNmFjQTY1Y0pEanB6M3hoeF9MQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-08-31-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Huawei net profit drops as R&amp;D spending soars",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.lightreading.com/5g/huawei-net-profit-drops-as-r-d-spending-soars"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-08-31-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Four subsea cable faults hit Vietnam's Internet",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.lightreading.com/cable-technology/four-subsea-cable-faults-hit-vietnam-s-internet"
+    },
+    {
+      "rank": 5,
+      "event_id": "american_tower-2026-08-31-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "American Tower Exits Canada with Tower Sale to CVC DIF - Inside Towers",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd3lWY3JDeEhkbjFjbHU4R3V0OWYtRG5jbjNTc1lfcENXQ0EteGk4M0tmY0tTTjVJWW1CRFFvam9Xa01Eek4xQWpxTUs3SGxIUHd6M3o5RUFac0V1Um1DaTM5YUN0UjRhMzlVOG5uV2JmUnJIclNIYW1iMktUTFdpcG1EUXNuSHc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "spectrum_auction": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 15,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "american_tower",
+        "count": 5
+      },
+      {
+        "id": "ciena",
+        "count": 1
+      },
+      {
+        "id": "sba_comm",
+        "count": 1
+      },
+      {
+        "id": "equinix",
+        "count": 1
+      },
+      {
+        "id": "tmobile",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "spectrum_auction",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 308,
+    "dup_title": 197,
+    "too_old": 78,
+    "gate1_blocked": 6,
+    "gate2_blocked": 6,
+    "passed": 21,
+    "pass_rate": "18.9%",
+    "gate2_block_rate": "5.4%",
+    "gate2_samples": [
+      "Nokia Rides on Portfolio Diversification: Can it Boost Growth? - Yahoo Finance",
+      "Ceragon to Participate in the 10th Annual Lake Street Best Ideas Growth Conference - PR Newswire",
+      "Deutsche Telekom (XTRA:DTE), Why Is It Back In The Spotlight? - simplywall.st",
+      "Is Equinix (EQIX) Still Undervalued After Its PJM Reliability Backstop Filing? - simplywall.st",
+      "Nokia's former CTO rages at 'shocking' Bell Labs cuts"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為AMT、Ciena、SBA相關動態：「Ahead of Ciena (CIEN) Q3 Earnings: Get Ready With Wall St...」。主要關注主題為產業通用、法說會、頻譜拍賣，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Ahead of Ciena (CIEN) Q3 Earnings: Get Ready With Wall Street Estimates for K...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Weekly Recap: AI revenue expectations and sector weakness, rate-hike odds - T...（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

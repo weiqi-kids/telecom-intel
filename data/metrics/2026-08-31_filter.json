@@ -1,0 +1,16 @@
+{
+  "total_raw": 308,
+  "dup_title": 197,
+  "no_date": 0,
+  "too_old": 78,
+  "gate1_fail": 6,
+  "gate2_fail": 6,
+  "passed": 21,
+  "gate2_samples": [
+    "Nokia Rides on Portfolio Diversification: Can it Boost Growth? - Yahoo Finance",
+    "Ceragon to Participate in the 10th Annual Lake Street Best Ideas Growth Conference - PR Newswire",
+    "Deutsche Telekom (XTRA:DTE), Why Is It Back In The Spotlight? - simplywall.st",
+    "Is Equinix (EQIX) Still Undervalued After Its PJM Reliability Backstop Filing? - simplywall.st",
+    "Nokia's former CTO rages at 'shocking' Bell Labs cuts"
+  ]
+}
