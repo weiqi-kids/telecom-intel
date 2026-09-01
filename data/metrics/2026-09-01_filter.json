@@ -1,0 +1,16 @@
+{
+  "total_raw": 309,
+  "dup_title": 150,
+  "no_date": 0,
+  "too_old": 102,
+  "gate1_fail": 7,
+  "gate2_fail": 7,
+  "passed": 43,
+  "gate2_samples": [
+    "Nokia Rides on Portfolio Diversification: Can it Boost Growth? - finance.yahoo.com",
+    "Ceragon to Participate in the 10th Annual Lake Street Best Ideas Growth Conference - PR Newswire",
+    "Ciena (NYSE:CIEN) Target Cut Puts AI Growth Story In Focus - Kalkine Media",
+    "Deutsche Telekom (XTRA:DTE), Why Is It Back In The Spotlight? - simplywall.st",
+    "Diraq to deploy silicon spin quantum computer at Equinix Sydney - StreetInsider"
+  ]
+}

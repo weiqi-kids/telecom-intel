@@ -1,0 +1,211 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T12:56:00.554079Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sba_comm-2026-09-01-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SBA Communications stock stays resilient as tower outlook improves - AD HOC NEWS",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOWtNdU15c0F1OHJLcmtSWXlwN3F4S000TnNqQ3g4M0g3NXRtbVViWVdFOExMUy1UVXlRVHlrZDRrLVlQdWk4aXJ4enl0ZHZRNXBWSU1rXzhzV0ttMW5VOVMyQl9KdzRIaERJcEUwYThXeDJlM3ZsdDhCU29MWE1KbEw1ZXpUNWd6Ylp1OXp5NUlHRV8tR2Y3ZnpmZHVyRkszd2ZhS01FXzVld1Bpa0pVTEQ3NlFWWFBwY250V2xVNjVleDBDaDcwOA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-01-016",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Tata Tele stock trades in a volatile telecom sector as investors weigh legacy losses and digital gro - AD HOC NEWS",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbTFmNVE1RHREWUtuek8wbG95V2NiaVItdnJVakRvZVVYTXdwY001WjVSeWFlaW9kTDdid043V0NHYTZEdlB6OGRvTkxrd2NLOEJnSGRLUnpLTms2X2RHaFdkRnZfdnBxbTB1R2VQWG16dWdOQkF1YlhlbXZnNnRWOEJONDlReE1BX0MxZjJDUFJQYjE4Ni1jTVpVT2V3MDNvOTgxNDFPRXVrcS00bDI4bF9Kang1U2c5VE5NTTFQYVYyZjBJV3RxMQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ciena-2026-09-01-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Quantitative Investment Management LLC Invests $2.12 Million in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWHlSUDRpTnUxZUdDcFJQRjlaTzYwX05adjQyWEJsbWU4YTJyOEU0OXJWaHVuNFBBazJ1dzBnMVRHZ2F5RnVJVWVZLW9jRi1waWdfRUxMUUl4ZVNfcGxjXzdKTHR3Nk50dFlEQ090THJTZ3JJX0hwcjg2ZWVKZ1FkMDVDMmEtQTJCX21nQjBMLUxVZVA0U0h1OUhiVnR6RlgtV0NIcFkxa2UxdlVmZHRNZkFkQzVrb2htZEdiSVFLQXFlZU5nenpud2M1a1lYcFdWV3JrRVl5NmNGUDAyb1E?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "deutsche_telekom-2026-09-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom CEO saw 'fair share' was dead. Now what? - Light Reading",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTWRRbS1JVjRSWjZPU1VwWFNfYnhkSVFXMWRJQXVQMWJESVlKWlBCcWRUZWYwbnF6WmFmVFFVbHY2eUhOYThLajZIaGt2Qzk0OVo3NjFsR2prSkRLU0dDb29mdTVlLWstRy1mTTM5cnQ0em4yU0d3LXFlT2ZGcjR2UTh0dDlTM2tEalpDM21vYUNNemZZZFAzTlpKZ2Y0aFhlNWx0ZUJn?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "american_tower-2026-09-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Susquehanna Fundamental Investments LLC Purchases New Shares in American Tower Corporation $AMT - MarketBeat",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYmFoUGRubUEwMGpUc09TU3NXbkN5UE9abVlxYWZIOTFhdlFseUlsbXowcFhlRWdrWjNMSFJRT0dlWll4X0xlV3dsc1hQVEdVNEtZQzhVY1ItZV9ERWtyRDdJdUpXamhaNnA0aTkxMFhEck1fTUNjWFhRajE5MmZZWmFIRWVFZHpuRjJxQzhMdkVNY2RSaXE0dDhrS0Z6TlNWYVJnZnlkQmVsMERkdExUT0R3UHVSaUVrUDJBVTltZkdleUVXaVprV0NPZHhCaXVjd0QyeDR1MFhLRWxUNDdTc1BmWUhFZWlidEg0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 14,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "equinix",
+        "count": 4
+      },
+      {
+        "id": "american_tower",
+        "count": 3
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 2
+      },
+      {
+        "id": "sba_comm",
+        "count": 2
+      },
+      {
+        "id": "ciena",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 309,
+    "dup_title": 150,
+    "too_old": 102,
+    "gate1_blocked": 7,
+    "gate2_blocked": 7,
+    "passed": 43,
+    "pass_rate": "27.0%",
+    "gate2_block_rate": "4.4%",
+    "gate2_samples": [
+      "Nokia Rides on Portfolio Diversification: Can it Boost Growth? - finance.yahoo.com",
+      "Ceragon to Participate in the 10th Annual Lake Street Best Ideas Growth Conference - PR Newswire",
+      "Ciena (NYSE:CIEN) Target Cut Puts AI Growth Story In Focus - Kalkine Media",
+      "Deutsche Telekom (XTRA:DTE), Why Is It Back In The Spotlight? - simplywall.st",
+      "Diraq to deploy silicon spin quantum computer at Equinix Sydney - StreetInsider"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為Equinix、AMT、德國電信相關動態：「SBA Communications stock stays resilient as tower outlook...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "SBA Communications stock stays resilient as tower outlook improves - AD HOC NEWS（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Tata Tele stock trades in a volatile telecom sector as investors weigh legacy...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
