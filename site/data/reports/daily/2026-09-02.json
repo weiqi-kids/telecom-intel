@@ -1,0 +1,195 @@
+{
+  "date": "2026-09-02",
+  "generated_at": "2026-09-02T12:26:39.912856Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nokia-2026-09-02-011",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Eurobites: Fairphone opens Series C funding round after happy H1",
+      "companies": [
+        "nokia",
+        "ericsson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/smartphones-devices/eurobites-fairphone-opens-series-c-funding-round-after-happy-h1"
+    },
+    {
+      "rank": 2,
+      "event_id": "deutsche_telekom-2026-09-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom CFO Christian Illek To Leave Company In April 2027 - TradingView",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN1J4THJTQUhjaHlfYXRPYnpDb0NPTU0yZHBBLWJST3pIaVhIYmE1dGFlZU5IdHNjSGozWUdIWk1SQ3F5SGNWOENQekN6OEE0LThyWjIwdjZBcG9UUWlSaW9DYkhkVnZaSTB6cjVNSzlrclFGZlVOM0F6VkMtVG1SWV9QcWxrUWctdDhoaGlBSzBSMEFtcTNFTFhBMmNaelZoS2JKSFRKOFJnclIwNmlmcnVqSVNkYXZnYTBkU0NrTFctdElWbWdNRFZxdTdLYXp5NHJz?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "deutsche_telekom-2026-09-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom CFO to Leave in 2027; Successor Named - marketscreener.com",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUnQ4Zmh3TzMzVWlSRnhXU0VXemlESjV3MVdDTEdtNG0ta2Z5X212ajZydjVtS3pWTlNTY0pXQngwRVlaTF81cDZaUGh3QlhaM0JyUXZVSElRTi1sLTM1dmxJR1EyakZJNDhtdVRobDhPRndwV1NIUTBfdWk4eTMydFN5RlZWLTkwcWZ1eUNCNXhidUV4clVKOXNuenp1MXZHVk9IY2NuS0o2Zw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "deutsche_telekom-2026-09-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom CFO Christian Illek to Step Down in April - marketscreener.com",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdXdNRVJJajVFaGtpNjdwX1pLRjZGSFRDWmxXMDMwLWNIMGZHckk3dUdRa3RuVEUyYTZNcndZTlF4MWc3RUZ6d0V1MHpuNGU0RDlwQmh4Sk42ZW1yWTB6bV9fcUwxVThQYVQzMTJGOUtyVFZYQjNTdmhDaFRXZVBxQ0JBWFV2aktILVFEendidTNRN19oYU1KSFgtQ2ludV96ekZpS083X1dYZXVELWkzQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "softbank-2026-09-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Sceye and SoftBank Corp. Complete Stratospheric Connectivity Demonstration in Japan, Advancing Towards HAPS Commercialization - PR Newswire",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcGJEb3V4SVp5alo0aks1U3JCanV0ZlAwQzdvOE1UbnhkYk9ncUp3Rkx4TDNYSnh6RnZfdVJXcEt4VmRvcTE2dUdoZWN1eFYzQ2liRXNEemZreldBTVBrODNJMDE4azRNRlo0ZnM5YUJ2S2VadkEybW9pY1pjcW9CY0Fma18tNTRaRFYwLXNaN0pfNlZLTWF6RkRjRmFZQnZ1VWtoRjkxRi1fNjBDbWYtNnRZNW9nSmtwQkdLX0dNSFozZXNZMzFUbmxZUWJjdHB1NEh1d3IyOFgtNlI5b0k3VUZlUnBqVjZVdC1ER3o5NzNSOTFBdG5OTlNMTkt5TTg0Uy1aTEdEQWlmM2M?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 16,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "softbank",
+        "count": 4
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 3
+      },
+      {
+        "id": "equinix",
+        "count": 2
+      },
+      {
+        "id": "ericsson",
+        "count": 2
+      },
+      {
+        "id": "american_tower",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 307,
+    "dup_title": 171,
+    "too_old": 75,
+    "gate1_blocked": 7,
+    "gate2_blocked": 8,
+    "passed": 46,
+    "pass_rate": "33.8%",
+    "gate2_block_rate": "5.9%",
+    "gate2_samples": [
+      "Nokia Rides on Portfolio Diversification: Can it Boost Growth? - TradingView",
+      "Ceragon to Participate in the 10th Annual Lake Street Best Ideas Growth Conference - PR Newswire",
+      "Deutsche Telekom reorganizes management functions - Deutsche Telekom",
+      "Deutsche Telekom (XTRA:DTE), Why Is It Back In The Spotlight? - simplywall.st",
+      "Equinix Accelerates AI Inference for Enterprises with NVIDIA and Together AI - Equinix Newsroom"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為軟銀、德國電信、Equinix相關動態：「Eurobites: Fairphone opens Series C funding round after h...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Eurobites: Fairphone opens Series C funding round after happy H1（產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Deutsche Telekom CFO Christian Illek To Leave Company In April 2027 - Trading...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

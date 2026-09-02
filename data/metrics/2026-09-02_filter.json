@@ -1,0 +1,16 @@
+{
+  "total_raw": 307,
+  "dup_title": 171,
+  "no_date": 0,
+  "too_old": 75,
+  "gate1_fail": 7,
+  "gate2_fail": 8,
+  "passed": 46,
+  "gate2_samples": [
+    "Nokia Rides on Portfolio Diversification: Can it Boost Growth? - TradingView",
+    "Ceragon to Participate in the 10th Annual Lake Street Best Ideas Growth Conference - PR Newswire",
+    "Deutsche Telekom reorganizes management functions - Deutsche Telekom",
+    "Deutsche Telekom (XTRA:DTE), Why Is It Back In The Spotlight? - simplywall.st",
+    "Equinix Accelerates AI Inference for Enterprises with NVIDIA and Together AI - Equinix Newsroom"
+  ]
+}
