@@ -1,0 +1,14 @@
+{
+  "total_raw": 119,
+  "dup_title": 52,
+  "no_date": 0,
+  "too_old": 34,
+  "gate1_fail": 4,
+  "gate2_fail": 3,
+  "passed": 26,
+  "gate2_samples": [
+    "Nvidia Taps Equinix, Together AI for AI Inference Push - The Tech Buzz",
+    "Nvidia Partners with Equinix and Together AI to Target Enterprise AI Inference Market - finance.bigg",
+    "Deutsche Telekom taps AWS' Jan Hofmeyr as next CTO"
+  ]
+}

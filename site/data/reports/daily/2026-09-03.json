@@ -1,0 +1,189 @@
+{
+  "date": "2026-09-03",
+  "generated_at": "2026-09-03T12:25:25.544866Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "equinix-2026-09-03-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Equinix & CPP Investments Have Acquired AtNorth - Data Centre Magazine",
+      "companies": [
+        "equinix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcS1iUVRvN0RQTE9MN2M0SWFQYzZTWjZSVTBPemhVZGJyOGo3OEU4azBMeW9Tc3F5Um8yWWptNDFPVlp0b3dFVlBtYUNaSzdsNTJENWJoc3d4b3J4dTlsMzBtVzZGTkVsZGo1ckFualZYQ2Zfd3RUZURTTnhGVmYweGpnUU9BRVZsUG1aQXFR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "equinix-2026-09-03-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Partners Group reinvests in atNorth after sale to CPP Investments, Equinix - IPE Real Assets",
+      "companies": [
+        "equinix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWlNxSFE3aFQxT3hnR3pUcXlScmlhbFI4UE5UMjlTYXJkS2pnQmZCTDUwZXBBNWwyZ3pNbDlTVGstb2FGcGRZeFpoZ2R2SFpnWEoxTGE3b21od2owT3dIZ19jcTNnZHpNTnpjMnJ4WXFna1Q3OFJwYVpUMy1PV1h6Sy1QWndrWGpDVEVaUEZqSDg3TEZGS3pXbUYteE1laW5DWnlwMzJzZVlDZ2FNQnZjOUlNanJnV2o1Ym5WaW1aQQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "equinix-2026-09-03-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Citi Reaffirms Their Buy Rating on Equinix (EQIX) - theglobeandmail.com",
+      "companies": [
+        "equinix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd3RZLVp4U0FPTHBMQjd6S3VmRGh1OEdVWVRMU3JEcWJPaDdsU2VaazFPYVJJQzhaYjFLRVh1UEJxeXppSmktVGRSRHJtUm5lOWxKVEZSOGJUam40WTgyZ2ZYSDdSUzlmZ0JoTHZ5NzFtTFRtc29wbDJpTGcxaG5xTFVuSG1NekMzZUZTZ0NzcmdHZEZOeWNwQkhpelJjQ0VXMklNakFzMjQyTkI1NDdJR3ZtM2I4QklQZ0ZSbHNBamFZdkpzMEUxVXNjSmdkekU?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-03-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "GAO issues broadband program to-dos for FCC, NTIA",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fiber_buildout",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/broadband/gao-issues-broadband-program-to-dos-for-fcc-ntia"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-03-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "VodafoneThree declares 5G network slicing war on BT",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/5g/vodafonethree-declares-5g-network-slicing-war-on-bt"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 8,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "equinix",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 119,
+    "dup_title": 52,
+    "too_old": 34,
+    "gate1_blocked": 4,
+    "gate2_blocked": 3,
+    "passed": 26,
+    "pass_rate": "38.8%",
+    "gate2_block_rate": "4.5%",
+    "gate2_samples": [
+      "Nvidia Taps Equinix, Together AI for AI Inference Push - The Tech Buzz",
+      "Nvidia Partners with Equinix and Together AI to Target Enterprise AI Inference Market - finance.bigg",
+      "Deutsche Telekom taps AWS' Jan Hofmeyr as next CTO"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 8 則事件，焦點為Equinix相關動態：「Why Equinix & CPP Investments Have Acquired AtNorth - Dat...」。主要關注主題為產業通用、光纖建設，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Why Equinix & CPP Investments Have Acquired AtNorth - Data Centre Magazine（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Partners Group reinvests in atNorth after sale to CPP Investments, Equinix - ...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-03",
+  "date_range": {
+    "start": "2026-08-28",
+    "end": "2026-09-03"
+  },
+  "generated_at": "2026-09-03T12:25:25.662333Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "ciena-2026-08-28-002",
+      "date": "2026-08-28",
+      "title": "Ciena Stock Ahead of Q3 Earnings: Buy, Sell, or Wait for the Results? - TradingView",
+      "importance_score": 0.75
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 82,
+      "last_week": 66,
+      "week_over_week_change": "+24%",
+      "sentiment_this_week": 0.04
+    },
+    "earnings": {
+      "this_week": 6,
+      "last_week": 5,
+      "week_over_week_change": "+20%",
+      "sentiment_this_week": 0.08
+    },
+    "fiber_buildout": {
+      "this_week": 5,
+      "last_week": 3,
+      "week_over_week_change": "+67%",
+      "sentiment_this_week": 0.1
+    },
+    "arpu": {
+      "this_week": 2,
+      "last_week": 1,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": 0.5
+    },
+    "spectrum_auction": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "nokia": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "ciena": {
+      "event_count": 4,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "deutsche_telekom": {
+      "event_count": 9,
+      "sentiment_avg": 0.06,
+      "rank": 3
+    },
+    "softbank": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "american_tower": {
+      "event_count": 23,
+      "sentiment_avg": 0.04,
+      "rank": 1
+    },
+    "equinix": {
+      "event_count": 11,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "sba_comm": {
+      "event_count": 6,
+      "sentiment_avg": 0.17,
+      "rank": 4
+    },
+    "tmobile": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "ericsson": {
+      "event_count": 2,
+      "sentiment_avg": 0.25,
+      "rank": 8
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 176,
+        "last": 216,
+        "change_pct": -18.5
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-08-28",
+      "event_count": 35,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-08-29",
+      "event_count": 14,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-08-30",
+      "event_count": 12,
+      "sentiment_avg": 0.12
+    },
+    {
+      "date": "2026-08-31",
+      "event_count": 41,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-09-01",
+      "event_count": 34,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-09-02",
+      "event_count": 32,
+      "sentiment_avg": -0.01
+    },
+    {
+      "date": "2026-09-03",
+      "event_count": 8,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-08-28 ~ 2026-09-03）共 176 則事件，重點為「Ciena Stock Ahead of Q3 Earnings: Buy, Sell, or...」。愛立信表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Ciena",
+        "reason": "本週出現 4 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "德國電信",
+        "reason": "本週出現 9 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "軟銀",
+        "reason": "本週出現 5 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
