@@ -1,0 +1,53 @@
+{
+  "date": "2026-09-04",
+  "total_events": 18,
+  "by_company": {
+    "ciena": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "deutsche_telekom": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tmobile": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "softbank": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "american_tower": {
+      "count": 5,
+      "sentiment_avg": 0.3
+    },
+    "equinix": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 16,
+      "sentiment_avg": 0.19
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    },
+    "fiber_buildout": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "arpu": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
