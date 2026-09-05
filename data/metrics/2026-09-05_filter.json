@@ -1,0 +1,16 @@
+{
+  "total_raw": 307,
+  "dup_title": 179,
+  "no_date": 0,
+  "too_old": 65,
+  "gate1_fail": 3,
+  "gate2_fail": 10,
+  "passed": 50,
+  "gate2_samples": [
+    "Deutsche Telekom taps AWS' Jan Hofmeyr as next CTO - lightreading.com",
+    "Deutsche Telekom reorganizes management functions - Deutsche Telekom",
+    "Deutsche Telekom Names New CFO, CTO in Management Reshuffle - Bloomberg.com",
+    "SBA Communications (SBAC) Could Be 19% Below Fair Value As Spectrum Growth Beckons - Yahoo Finance",
+    "/C O R R E C T I O N -- Equinix, Inc./ - PR Newswire"
+  ]
+}
