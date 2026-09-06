@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T11:32:12.586497Z",
+  "updated_at": "2026-09-06T11:54:55.794742Z",
   "quarter": "2026-03-31, 2026-04-30, 2026-06-30",
   "companies": [
     {
@@ -7,9 +7,9 @@
       "name": "美國電塔",
       "ticker": "AMT",
       "currency": "USD",
-      "ar": 718900000,
-      "ar_prev": 650300000,
-      "ar_qoq": "+11%",
+      "ar": 650900000,
+      "ar_prev": 718900000,
+      "ar_qoq": "-9%",
       "ar_period": "QoQ",
       "inventory": null,
       "inv_prev": null,
@@ -17,7 +17,7 @@
       "inv_period": "QoQ",
       "inventory_applicable": false,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "att",
@@ -58,17 +58,17 @@
       "name": "Ceragon Networks",
       "ticker": "CRNT",
       "currency": "USD",
-      "ar": 94421000,
-      "ar_prev": 99673000,
-      "ar_qoq": "-5%",
+      "ar": 101283000,
+      "ar_prev": 94421000,
+      "ar_qoq": "+7%",
       "ar_period": "QoQ",
-      "inventory": 56456000,
-      "inv_prev": 61587000,
-      "inv_qoq": "-8%",
+      "inventory": 59459000,
+      "inv_prev": 56456000,
+      "inv_qoq": "+5%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "chunghwa",
@@ -177,17 +177,17 @@
       "name": "遠傳",
       "ticker": "4904.TW",
       "currency": "TWD",
-      "ar": 12883909000,
-      "ar_prev": 14616660000,
-      "ar_qoq": "-12%",
+      "ar": 13806842000,
+      "ar_prev": 12883909000,
+      "ar_qoq": "+7%",
       "ar_period": "QoQ",
-      "inventory": 3443324000,
-      "inv_prev": 3292058000,
-      "inv_qoq": "+5%",
+      "inventory": 2692943000,
+      "inv_prev": 3443324000,
+      "inv_qoq": "-22%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2026-03-31"
+      "alert": true,
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "nokia",
@@ -245,17 +245,17 @@
       "name": "台灣大",
       "ticker": "3045.TW",
       "currency": "TWD",
-      "ar": 9945345000,
-      "ar_prev": 9867873000,
-      "ar_qoq": "+1%",
+      "ar": 10655080000,
+      "ar_prev": 9945345000,
+      "ar_qoq": "+7%",
       "ar_period": "QoQ",
-      "inventory": 6913204000,
-      "inv_prev": 8633656000,
-      "inv_qoq": "-20%",
+      "inventory": 6771906000,
+      "inv_prev": 6913204000,
+      "inv_qoq": "-2%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-06-30"
     },
     {
       "id": "tmobile",
@@ -296,17 +296,17 @@
       "name": "中興",
       "ticker": "000063.SZ",
       "currency": "CNY",
-      "ar": 24848541000,
-      "ar_prev": 21670066000,
-      "ar_qoq": "+15%",
+      "ar": 30619910000,
+      "ar_prev": 24848541000,
+      "ar_qoq": "+23%",
       "ar_period": "QoQ",
-      "inventory": 51959114000,
-      "inv_prev": 47017122000,
-      "inv_qoq": "+11%",
+      "inventory": 54645606000,
+      "inv_prev": 51959114000,
+      "inv_qoq": "+5%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2026-03-31"
+      "alert": true,
+      "quarter_date": "2026-06-30"
     }
   ]
 }
