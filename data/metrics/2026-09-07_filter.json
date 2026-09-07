@@ -1,0 +1,16 @@
+{
+  "total_raw": 310,
+  "dup_title": 194,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 3,
+  "gate2_fail": 7,
+  "passed": 33,
+  "gate2_samples": [
+    "Ciena appears 'primed for growth,' dip is a buying opportunity: BNP (CIEN:NYSE) - Seeking Alpha",
+    "Ciena Corporation, Docusign, Snowflake - TradingView",
+    "Deutsche Telekom reorganizes management functions - Deutsche Telekom",
+    "Deutsche Telekom taps AWS' Jan Hofmeyr as next CTO - Light Reading",
+    "SBA Communications (SBAC) Could Be 19% Below Fair Value As Spectrum Growth Beckons - Yahoo Finance"
+  ]
+}

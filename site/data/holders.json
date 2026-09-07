@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T11:54:59.463743+00:00",
+  "updated_at": "2026-09-07T13:51:27.328895+00:00",
   "companies": {
     "ericsson": {
       "name": "Ericsson",
@@ -210,43 +210,43 @@
         {
           "holder": "FMR, LLC",
           "shares": 19113538,
-          "pct_held": 13.5,
+          "pct_held": 13.48,
           "value": 6135445698
         },
         {
           "holder": "Blackrock Inc.",
           "shares": 12718494,
-          "pct_held": 8.98,
+          "pct_held": 8.97,
           "value": 4082636574
         },
         {
           "holder": "JPMORGAN CHASE & CO",
           "shares": 11206209,
-          "pct_held": 7.92,
+          "pct_held": 7.9,
           "value": 3597193089
         },
         {
           "holder": "Vanguard Capital Management LLC",
           "shares": 9233803,
-          "pct_held": 6.52,
+          "pct_held": 6.51,
           "value": 2964050763
         },
         {
           "holder": "Vanguard Portfolio Management LLC",
           "shares": 7680665,
-          "pct_held": 5.43,
+          "pct_held": 5.42,
           "value": 2465493465
         },
         {
           "holder": "State Street Corporation",
           "shares": 6680578,
-          "pct_held": 4.72,
+          "pct_held": 4.71,
           "value": 2144465538
         },
         {
           "holder": "Price (T.Rowe) Associates Inc",
           "shares": 4071401,
-          "pct_held": 2.88,
+          "pct_held": 2.87,
           "value": 1306919721
         },
         {
@@ -546,31 +546,31 @@
           "holder": "Pacer Advisors, Inc.",
           "shares": 3198765,
           "pct_held": 0.07,
-          "value": 90844924
+          "value": 90045233
         },
         {
           "holder": "Generali Investments Cee, Investicni Spolecnost, A.s.",
           "shares": 404544,
           "pct_held": 0.01,
-          "value": 11489049
+          "value": 11387913
         },
         {
           "holder": "Gamma Investing LLC",
           "shares": 8457,
           "pct_held": 0.0,
-          "value": 240178
+          "value": 238064
         },
         {
           "holder": "Meyer Handelman Co",
           "shares": 9759,
           "pct_held": 0.0,
-          "value": 277155
+          "value": 274715
         },
         {
           "holder": "Paradigm Asset Management Company, LLC",
           "shares": 83200,
           "pct_held": 0.0,
-          "value": 2362879
+          "value": 2342079
         }
       ]
     },

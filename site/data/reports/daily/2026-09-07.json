@@ -1,0 +1,217 @@
+{
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T13:51:27.992884Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sba_comm-2026-09-07-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SBA Communications (SBAC) Wins Investment Grade While Profits Slide - Yahoo Finance",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLWRjWGd4QzRfak5jZDkxcXlGdnFLUGU4OEExTTJPQmhERC11b0dBOWdyS1VXbTc1Z0Ntd2o1ZUxKc2Z6Mld0alNGS0FKekFobUZwSDFHdEZxbUpmbHktVzJqeW5Nd3o0ZF9EMGxodXdieVByZjRyYlRhaGt3Ny1KX1dfNnExdHhOdElfb0hib2dOVXVWMTdQeGptUGt3aDVTQnloQ3lnSQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "deutsche_telekom-2026-09-07-004",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Weekly Recap: Deutsche Telekom–T-Mobile US, Inc. talks stall and Uhl CFO - TradingView",
+      "companies": [
+        "deutsche_telekom",
+        "tmobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWV9tMTBSaDR0RENia2U5bE5sYXdnelRSTGVkeWhzMU42X3FRakxjTkpMbjJWQ21xaXNWcG56cUhid1BlWUlYOU5KY2tZVDFYR0VobU5uX1lqdENwY3ViV2x0WmJZSi1lMXNNWG15WHB0YmFnV0ZBd1U2RlRtWG0wWXd0bU1aeldOSjJkUmNwS2tTWko0WWRNVG1ZclRjUmNYc2ltcE95eC01a1d3Y3l3dlFjNDl5bkJlS19HVDIyVXc4SEIzaXRXQ0E1WQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ciena-2026-09-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Saudi Central Bank Grows Holdings in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY1BNSzJwUGxvbEVpWkk4dDAxTjVRSUtZU3RIaEVkVVdURVdJNFhtOERSOFRvY2xKVnYtdFo1NWNBakltQkFsOUh0SW5VZ3RGZmZqUm9VU3dMNnhySkM5TFMxaHMwWWF6RkQyUkd4UWdkLXV5LThOdU5YMldTbDh1Q2JxQVZjQWREeFJkSDBlWEhMcmxKODFIc0otUFRubmRyb2k2aE1qd0VmUVBLYjkyNUR5RUdBOUNJWWRHVg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ciena-2026-09-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "24,275 Shares in Ciena Corporation $CIEN Acquired by Groupe la Francaise - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTXFXaUhUbDdfUkZSb3d0NUhXS1Zjb0Y3c09FTDFKWDJBY1NrdGhxZzFvUnYtb2xtejh2aDNPZ19UWTNMSXJqU3JzTlNTemRJckJaZDBEZ3RkbFV4MmZ0QmVRZ3V4eGtvaHJ3SGNtWWhMeld2TUxsWlZobUstMElvdTBmYXVkYmh4dWJHbkh1cGlHNmkxWW90V2VROHFseW1MYWdsa0FsallMSm9DMEotWmR6Z2oyaTlRNTBoNlZ3em5YVXpOVjF6MU9xOA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ciena-2026-09-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "California State Teachers Retirement System Acquires 104,538,607 Shares of Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOVZWbkM0N05lM1hPS25LVHRwdWJsaXpLTWkybDFySVJDTlBKVzNpX0l3Y0xyMWxJeTk3VU9vQ3ZyM3lGWWQ0SENOaG51aEROZVBHaHQzTF9HeUxDVDN6bV9CVHhfclA4Y1VGRU1VWFhsSUVSWjdOSE9aMW54OHF3RDJTYTJKTXkzRGlDSXhmRjBhOGR0Y1FzT19xSFJLaGVCNVM4MVJVNzVWTWM5WkVDWXUzVmw2cW13T2U3QjlsQVg4SGJPUnU4ZHhvQTBxZDR0anViQlhUeFR2X3ZsRS1WZDI1dlpJUlVXWnhXZg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 17,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 17,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 3
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 2
+      },
+      {
+        "id": "american_tower",
+        "count": 2
+      },
+      {
+        "id": "sba_comm",
+        "count": 2
+      },
+      {
+        "id": "tmobile",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 310,
+    "dup_title": 194,
+    "too_old": 73,
+    "gate1_blocked": 3,
+    "gate2_blocked": 7,
+    "passed": 33,
+    "pass_rate": "28.4%",
+    "gate2_block_rate": "6.0%",
+    "gate2_samples": [
+      "Ciena appears 'primed for growth,' dip is a buying opportunity: BNP (CIEN:NYSE) - Seeking Alpha",
+      "Ciena Corporation, Docusign, Snowflake - TradingView",
+      "Deutsche Telekom reorganizes management functions - Deutsche Telekom",
+      "Deutsche Telekom taps AWS' Jan Hofmeyr as next CTO - Light Reading",
+      "SBA Communications (SBAC) Could Be 19% Below Fair Value As Spectrum Growth Beckons - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 17 則事件，焦點為Ciena、德國電信、AMT相關動態：「SBA Communications (SBAC) Wins Investment Grade While Pro...」。主要關注主題為產業通用、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "SBA Communications (SBAC) Wins Investment Grade While Profits Slide - Yahoo F...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Weekly Recap: Deutsche Telekom–T-Mobile US, Inc. talks stall and Uhl CFO - Tr...（產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
