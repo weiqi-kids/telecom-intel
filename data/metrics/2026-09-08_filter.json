@@ -1,0 +1,16 @@
+{
+  "total_raw": 302,
+  "dup_title": 160,
+  "no_date": 0,
+  "too_old": 79,
+  "gate1_fail": 5,
+  "gate2_fail": 8,
+  "passed": 50,
+  "gate2_samples": [
+    "Benzinga Bulls and Bears: Palo Alto, Ciena, Lululemon - Benzinga",
+    "Ciena Corporation, Docusign, Snowflake - tradingview.com",
+    "Ciena appears 'primed for growth,' dip is a buying opportunity: BNP (CIEN:NYSE) - Seeking Alpha",
+    "Deutsche Telekom reorganizes management functions - Deutsche Telekom",
+    "SBA Communications (SBAC) Just Gave Investors Something To Think About - simplywall.st"
+  ]
+}
