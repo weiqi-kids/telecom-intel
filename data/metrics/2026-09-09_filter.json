@@ -1,0 +1,16 @@
+{
+  "total_raw": 308,
+  "dup_title": 172,
+  "no_date": 0,
+  "too_old": 76,
+  "gate1_fail": 7,
+  "gate2_fail": 7,
+  "passed": 46,
+  "gate2_samples": [
+    "Ciena Corporation, Docusign, Snowflake - TradingView",
+    "Ciena appears 'primed for growth,' dip is a buying opportunity: BNP (CIEN:NYSE) - Seeking Alpha",
+    "Deutsche Telekom reorganizes management functions - telekom.com",
+    "SBA Communications (SBAC) Just Gave Investors Something To Think About - simplywall.st",
+    "SBA Communications (SBAC) Could Be 19% Below Fair Value As Spectrum Growth Beckons - Yahoo Finance"
+  ]
+}

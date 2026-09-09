@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-08T12:29:12.983184Z",
-  "quarter": "2026-03-31, 2026-04-30, 2026-06-30",
+  "updated_at": "2026-09-09T12:38:03.022377Z",
+  "quarter": "2026-03-31, 2026-06-30, 2026-07-31",
   "companies": [
     {
       "id": "american_tower",
@@ -92,17 +92,17 @@
       "name": "Ciena Corporation",
       "ticker": "CIEN",
       "currency": "USD",
-      "ar": 1052569000,
-      "ar_prev": 967408000,
-      "ar_qoq": "+9%",
+      "ar": 1233610000,
+      "ar_prev": 1052569000,
+      "ar_qoq": "+17%",
       "ar_period": "QoQ",
-      "inventory": 808447000,
-      "inv_prev": 845823000,
-      "inv_qoq": "-4%",
+      "inventory": 871987000,
+      "inv_prev": 808447000,
+      "inv_qoq": "+8%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-04-30"
+      "quarter_date": "2026-07-31"
     },
     {
       "id": "crown_castle",
