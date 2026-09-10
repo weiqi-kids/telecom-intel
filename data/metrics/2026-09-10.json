@@ -1,0 +1,53 @@
+{
+  "date": "2026-09-10",
+  "total_events": 33,
+  "by_company": {
+    "nokia": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "ciena": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "american_tower": {
+      "count": 9,
+      "sentiment_avg": 0.0
+    },
+    "sba_comm": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "tmobile": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ericsson": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 31,
+      "sentiment_avg": 0.05
+    },
+    "5g_deployment": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "arpu": {
+      "count": 3,
+      "sentiment_avg": 0.33
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

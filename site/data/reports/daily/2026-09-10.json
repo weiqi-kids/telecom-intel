@@ -1,0 +1,242 @@
+{
+  "date": "2026-09-10",
+  "generated_at": "2026-09-10T12:34:44.530965Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-10-030",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Telecom sector revenue seen growing 12-14% in FY27 as ARPU rises 10%: Report - ANI News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "arpu",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVWx0bHFqU1BjZk5SMXZ4R1laYmJXWDVraWtpV3JXZVEtcjNGUVd2TmZlTk0wa3lJY1dzUXZIVFZ1ZDRKaENYRUMxVDVXSVh3dEdibkNqUTR3SHY4NkhsempscklJVzhORHZPY2JKSF9HM1hNS1otY250aFNZVVlDTWRFcWVSXzRqTVJHUDZyRkViX3NBNnp4N1B1Si0tQWgxQUZmajhWeTJFTWwwLVEtZGY3VzlqYkxBNTZQTFFDaVUyQQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-10-033",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India's Telecom Revenue Surge Anticipated in FY27 Amidst ARPU Growth - Devdiscourse",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "arpu",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQ1lad0JTS3RoUlRFaHN6WDFHdXNBemJEVnRIWGRodVJYZ0xha3JvcHY1dEJsOU9SWlRTRkVkZjhDRGVEcTZsYUdkTEh2cnlaWlY4TVJFV1Z2ZGZfTjlYdlFuOW5jOFd2RGhITDY5VER2TkxzWm9XNU5uV2RMdnlETkpCTlNGdHY5SElqS2JTam9ndGh1UHB3QUJXNmdldHZ1TU1UYXhCaGJzN3FEN0d5Smd0N3Q1RDZYek9BOE5B0gHDAUFVX3lxTE9ZNTRDZFI1RnUzY1hUQWVFdU1VUVBubndhU1hhNXZUX2ZFVEVWQUZUa2VDenVvWHpGRXZMLXQxMFUxcmw2SGRlQWJfSnNkVVByZFVwd2dhYnJrdWNRV0V2OUpzNXA5aHVjTGFIeUE4cGNhZzBCalduQVRnbjB3TTBiNzUyUV9OZjNtWThZZ3MxaGxIWElMTXFMdHFTbVdjWlM3UDg2OUhCT3ZscHBrdmw4Q3d1bm54Z1kwZkJzM0hYZEF6cw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nokia-2026-09-10-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia puts AI in mine sites, emergency vehicles and battlefields - Stock Titan",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc1lCdVVLa1M2bmNvcExJWENlZUhSc2xlTnpSWnZjeEZkQ1ZCcmN3S1kxZkFuem5qSGlGRm55eEE4YjdPdDhOLUxZNFp1WkNGSzVFR2l2dEgtRE1LZEJTRUlmMUdQdnZiTFlRZTd3RXZRUlQ2UFFaSEJiN1d4LUxFcE1FMWtMazZGNjU4MkY0UHJKNU5YRm5pZXJBcl95ZnlzOExhMTlORV9yeWZyNlFLQWVXUUcxd2xoSTJtQlRn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nokia-2026-09-10-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia Unveils Cognitive Operations To Bring AI Intelligence Into Fields - Benzinga",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdUI2aUpEN2ZWOTRramNteExNQm5qX3ZNa3YtVEFjT0JPNGVtazh5dDQ5dllTZHpKVGliczBYcWRWb1ctcDYwb1JXd0NZNHdhdlM1N0prQklLYXVwOTQzaGpwbkJld2hJY0p5b2VJTUV0cF9FUk8tbWFMR2FveHh4emlqSURPc1g5THp3Y0RVaTZ5SXpEcXdGeVJ5WVpuX3JKMXdvcWt4UDB5eW9fY1NJcU1Hc0JDVVVMRWwyRXJGcWFRcEdwMkMwSA?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ciena-2026-09-10-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Gemmer Asset Management LLC Takes Position in Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNam1fN2dlRHFQOVAydmR4cEd0Nko2YVg5ajlod2F1SXRmTlFfUjRpSkNaeHpDMHNvYnkzT3VoOVA1WHpvSTd0clJwZGc2Ty04cGpONS1Ycll6RWFsQm5BMTFLUzlMSm82WTRORllWdkdzeDh1aGlUWHN6VEFKekFJcVhVWVBlaHE3WjlnT2NJbmVzMGdCMVFyYVE0WmVmbEd1NHFlZFFwMUthWHMwWWZISUc4RTdYRHFFeHJHSXd0XzAyNy14WVFoWA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 31,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "5g_deployment": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "arpu": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.33,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 33,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 29,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_tower",
+        "count": 9
+      },
+      {
+        "id": "ciena",
+        "count": 3
+      },
+      {
+        "id": "sba_comm",
+        "count": 3
+      },
+      {
+        "id": "nokia",
+        "count": 2
+      },
+      {
+        "id": "ericsson",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 31
+      },
+      {
+        "id": "arpu",
+        "count": 3
+      },
+      {
+        "id": "5g_deployment",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 308,
+    "dup_title": 161,
+    "too_old": 68,
+    "gate1_blocked": 9,
+    "gate2_blocked": 6,
+    "passed": 64,
+    "pass_rate": "43.5%",
+    "gate2_block_rate": "4.1%",
+    "gate2_samples": [
+      "Deutsche Telekom : Flexible multicloud use - marketscreener.com",
+      "SBA Communications at Citi conference: eyes 2028 growth inflection - Investing.com",
+      "SBA Communications (SBAC) Just Gave Investors Something To Think About - simplywall.st",
+      "SBA Communications (SBAC) Could Be 19% Below Fair Value As Spectrum Growth Beckons - Yahoo Finance",
+      "Equinix Names DD Dasgupta as Chief Marketing Officer - Equinix Newsroom"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 33 則事件，焦點為AMT、Ciena、SBA相關動態：「Telecom sector revenue seen growing 12-14% in FY27 as ARP...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Telecom sector revenue seen growing 12-14% in FY27 as ARPU rises 10%: Report ...（ARPU、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "India's Telecom Revenue Surge Anticipated in FY27 Amidst ARPU Growth - Devdis...（ARPU、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
