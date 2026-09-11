@@ -1,0 +1,16 @@
+{
+  "total_raw": 308,
+  "dup_title": 166,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 8,
+  "gate2_fail": 7,
+  "passed": 54,
+  "gate2_samples": [
+    "Nokia Targets Mining and Defense With New AI Platform for Field Operations - finance.biggo.com",
+    "SBA Communications (SBAC) Just Gave Investors Something To Think About - simplywall.st",
+    "SBA Communications at Citi conference: eyes 2028 growth inflection By Investing.com - Investing.com ",
+    "SBA Communications at Goldman Sachs conference: growth tied to spectrum By Investing.com - Investing",
+    "Beyond Raw Compute: Equinix’s Strategic Bet on AI Infrastructure - The Futurum Group"
+  ]
+}
