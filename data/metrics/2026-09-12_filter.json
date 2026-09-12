@@ -1,0 +1,16 @@
+{
+  "total_raw": 307,
+  "dup_title": 196,
+  "no_date": 0,
+  "too_old": 65,
+  "gate1_fail": 10,
+  "gate2_fail": 6,
+  "passed": 30,
+  "gate2_samples": [
+    "Nokia Targets Mining and Defense With New AI Platform for Field Operations - finance.biggo.com",
+    "SBA Communications at Goldman Sachs conference: growth tied to spectrum By Investing.com - Investing",
+    "SBA Communications (SBAC) Just Gave Investors Something To Think About - simplywall.st",
+    "Equinix Names DD Dasgupta as Chief Marketing Officer - Equinix Newsroom",
+    "Beyond Raw Compute: Equinix’s Strategic Bet on AI Infrastructure - futurumgroup.com"
+  ]
+}
