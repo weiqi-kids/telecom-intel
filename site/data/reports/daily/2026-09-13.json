@@ -1,0 +1,162 @@
+{
+  "date": "2026-09-13",
+  "generated_at": "2026-09-13T13:01:40.234534Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_tower-2026-09-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "American Tower Sees 5G, AI and CoreSite Demand Fueling Growth - Yahoo Finance",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeHRGdmF4em54UFZ5SThUT2Z5S3NzWDRNdVpLaU5IVl9GOVFyWXlDS1g0eEszUnNMOUxEZElzSW1CWGJSWW4yRk1HNTE0YjkxbENBa1otRHdTek0zVDNIU1dEaGx3TkFKdXNpRWlfZzU0ZXRVamliUUoyNkthYzZLSHdsUEVBU1RFMDlwbUppaw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "equinix-2026-09-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US-listed Equinix faces challenge over South African hyperscale data centre - Financial Times",
+      "companies": [
+        "equinix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU1FKLV95WG5oQk9sZjFSamM4ZXVGUkQxR01xWVB3bVdDdVZ0WHFHX2ZSUlFzRGpsLUZpRVd2ZU9KcGFqZlFCQUtVb3dKT1pQc3ZNZjhEUlZkMTBXZjR5TVA3dXZzY2p2NHQtYzQ0Z0hOS0x6UzdxR0VscnJIR05oTUxDQTk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "equinix-2026-09-13-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Equinix faces challenge over South African hyperscale data centre- FT - TradingView",
+      "companies": [
+        "equinix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTmdvWG1vUEZ5SVZyZlJRdDZYZ1hiQ0dJNlNzc2ExTTVNTUhvTWRTS1Vtb1hLN1VDQ0tneDh4bUxjTFNSU0JCSF83MWdPby1YQkZ2dFdNWVhpb2NxOF95MUlPYmJ0UlROWTBwY1ZCYnlWeEVJblA0WTNoWGpISE9sN1p6QnFiTGhfMlVQYm5hSHljZFM1T0txN0JYdUtZQnYzVEVWeUlmUzhqUXRaZ2RTc29VRzYyb1k0UGxBMjN6aURXbVRueEI0WjRIamxFd1dJa2JLLQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-09-13-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "‘Took 5G plan, got poor 4G’: UP villagers take telecom technician hostage - The Indian Express",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbjlJNFNFOVYxWG5fcU5FcnVYVmN2M2hPWk1NMVQweWQ3dUItMHltV2ZVcmQzYlB6ajhTUlQ3NGZ1M01jeWJ2bU5BVlhxSk5IaE9hTmp5OXlxSFVLVkRyVWtUNjBNUkMwTE94ZjhvcEdtSjU3RzBIbjNlZG9NQW9oMnVtcC1RZmhIZ3ZqOG1IbGFRbnlhTXV3YkVneEhfeWdlZjVxRDhMaEoxcDltdm5GaHprMkpYTzFrbTBlZTA2YjZFTnhM0gHLAUFVX3lxTE5CY2txTzZId29JVWRxMnpyTjFzcnNFektCQUlfOXlQWS1nVHI3elFJTmhHNWhqV2F0M2t3WTUyakN1SExVTldWOTFQUVdqeG5vUXRYcUtVdVNTTlFGbm5ZWlpocVN4dFZEcF8zOFZGTkZUTm9xMUlpSHhXTVppR1BKaGxfX21xbXl2SkdaUV9vdUlndVl1RjhSUEVDMm5HMUJYd3RwMFI2RFVyU2czTzQxaGZRLVluTThUZHBqd2o2MnNEbFV4TnNPdDc0?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "equinix",
+        "count": 2
+      },
+      {
+        "id": "american_tower",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 306,
+    "dup_title": 198,
+    "too_old": 72,
+    "gate1_blocked": 9,
+    "gate2_blocked": 6,
+    "passed": 21,
+    "pass_rate": "19.4%",
+    "gate2_block_rate": "5.6%",
+    "gate2_samples": [
+      "Nokia Targets Mining and Defense With New AI Platform for Field Operations - finance.biggo.com",
+      "SBA Communications at Citi conference: eyes 2028 growth inflection - Investing.com",
+      "SBA Communications (SBAC) Just Gave Investors Something To Think About - simplywall.st",
+      "SBA Communications at Goldman Sachs conference: growth tied to spectrum By Investing.com - Investing",
+      "Beyond Raw Compute: Equinix’s Strategic Bet on AI Infrastructure - The Futurum Group"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為Equinix、AMT相關動態：「American Tower Sees 5G, AI and CoreSite Demand Fueling Gr...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "American Tower Sees 5G, AI and CoreSite Demand Fueling Growth - Yahoo Finance（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "US-listed Equinix faces challenge over South African hyperscale data centre -...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
