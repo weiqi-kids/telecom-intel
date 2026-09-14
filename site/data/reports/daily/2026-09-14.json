@@ -1,0 +1,245 @@
+{
+  "date": "2026-09-14",
+  "generated_at": "2026-09-14T14:38:36.271334Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_tower-2026-09-14-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Tower stock holds steady as investors eye recent earnings and dividend yield - ad-hoc-news.de",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ2prSF9CVGpJTHA4ZTVNaG52YTBGbElGS0R4Q3N5ZUJWNEJPNzkzeEIzd1NFMUs5TTR6UXBTSkttZVNJdnc1Z1VBRVhndnduYzdvRWM2TUUySHhWc3BjVDJBSVMzenVkUndXWUc4LUFsVHNpVldWeGJDWlJnMEg2MmR3ZHQ5WmdoT2gtY0p0MnVsbkZ2S05KZkx2Tk1nZmZSdFd1b3lnVjV4Vlh5ZE0yY1AyRWZKbE1pOXZQYzFERmM0SzFBeWk5NzhrTHY4Zw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ericsson-2026-09-14-025",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nex-Tech Wireless selects Ericsson in four-year deal to modernize rural Kansas network and launch 5G Standalone - PR Newswire",
+      "companies": [
+        "ericsson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQVB0ZFZmVXpCT2I1dFM5Y2I0a1o3ZzFRdWlOSS1rYUlBcFdqNFFpdnhfWFdwTjNFdjV3U21LREp0YVZZdmZacTM0eW9reXNLMDJLenFRQWc3eEJLejJPbkJ1a1h6eXcybHp3bDZNSVdqOGg1SnlLdEo2VjBlVUE3OXBQZkxtazNscmw2dTZBc29uMXJfRUE0a0tRM3hDSnh2ZjAxOS05akU3RlYtZU1UNWVHbnAtcHhzclIxbE5BZUt6YUVmXzgtaHZUVW4yUXl4amtlYTBiU1U0ZVBDQ3cxRGs3bU5ULVZKNlMtNzRVSVRjTGZXbm5vb1A1bw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nokia-2026-09-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why is Nokia stock sliding today? - Investing.com",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORTFVWW91OVdjdTVBcDRMQmNzTTVtb29xSFFNOWYyci1Dek5SbUtFVVMwQTBHV2hvRG95bW9HR1BWVjZwdzR5ZkVXaUZZZkd6bzFWUGlDeVM3Rk5ROTd6UTJRLWY5VzF3QWh5aEJtR1FIbkM4VWk3Uy0wNFBFNlZlNDBGcXA1a29ib2MxRlEtM0t3aUI3dmplLWVn?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nokia-2026-09-14-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia enables more than 200 networks to get internet-attack protection inside Spain - Stock Titan",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONldNV2hHSDhiaG5sMk52d2NBNVcyNEwwYW4ydFFVenNDNVBOMHQ4NFU5UFM5R0JYUGpKeHBsbG1ybVZGQmJEenlDZ2tCYkhQako5WGt1SVZzVUY5Z0tLUnREeXN4OWpwR1RqdVNaVmY4S25KZnBiME5XaHNDc0F5UXp6T2FsV1BYb28waDlSZ1BzWktoMVFHcjVaNXNiYm9CWG5tUmF6VWdGclVjMDBfMTVCZzY?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nokia-2026-09-14-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia stock gains index spot as investors digest AI-driven volatility - ad-hoc-news.de",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTXVxVHdIRE5GYktEaWc4d3FqYjJxTmd6UVpLLU5aenFmQ1BQSlBZSWU0TERUekpLbmw0UExSQzc5NkpHcFg0OUg5NzdGUk9mRGJXRFdCMGlvN25NUnhTYmZZUlp4ZkJhMEtMZmFTSzZtZVZvTWdsQ0V4MkV6U2txUV9uUG43TWZWaGVlX1lhcm5kQVoxa2dLT3pLaUMtakJzZUZudUhFc0V6Q1hKcDk4djV0YW80Vkowd0FYa2p3SjY3dHZaY1Y0bkVSOGg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "5g_deployment": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 30,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 23,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "nokia",
+        "count": 6
+      },
+      {
+        "id": "ciena",
+        "count": 3
+      },
+      {
+        "id": "american_tower",
+        "count": 2
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      },
+      {
+        "id": "softbank",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 29
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "5g_deployment",
+        "count": 1
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 304,
+    "dup_title": 162,
+    "too_old": 73,
+    "gate1_blocked": 6,
+    "gate2_blocked": 7,
+    "passed": 56,
+    "pass_rate": "39.4%",
+    "gate2_block_rate": "4.9%",
+    "gate2_samples": [
+      "Nscale’s Funding Talks Put Dell and Nokia’s AI Supply Relationships to the Test - Yahoo Finance",
+      "SBA Communications at Citi conference: eyes 2028 growth inflection - Investing.com",
+      "SBA Communications (SBAC) Just Gave Investors Something To Think About - simplywall.st",
+      "SBA Communications at Goldman Sachs conference: growth tied to spectrum By Investing.com - Investing",
+      "Beyond Raw Compute: Equinix’s Strategic Bet on AI Infrastructure - The Futurum Group"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 30 則事件，焦點為諾基亞、Ciena、AMT相關動態：「American Tower stock holds steady as investors eye recent...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "American Tower stock holds steady as investors eye recent earnings and divide...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Nex-Tech Wireless selects Ericsson in four-year deal to modernize rural Kansa...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 304,
+  "dup_title": 162,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 6,
+  "gate2_fail": 7,
+  "passed": 56,
+  "gate2_samples": [
+    "Nscale’s Funding Talks Put Dell and Nokia’s AI Supply Relationships to the Test - Yahoo Finance",
+    "SBA Communications at Citi conference: eyes 2028 growth inflection - Investing.com",
+    "SBA Communications (SBAC) Just Gave Investors Something To Think About - simplywall.st",
+    "SBA Communications at Goldman Sachs conference: growth tied to spectrum By Investing.com - Investing",
+    "Beyond Raw Compute: Equinix’s Strategic Bet on AI Infrastructure - The Futurum Group"
+  ]
+}
