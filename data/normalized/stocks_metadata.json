@@ -13,8 +13,8 @@
   },
   "zte": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-14",
-    "count": 6595,
+    "latest": "2026-09-15",
+    "count": 6596,
     "history_complete": true
   },
   "ceragon": {
@@ -55,32 +55,32 @@
   },
   "chunghwa": {
     "earliest": "2000-11-15",
-    "latest": "2026-09-14",
-    "count": 6413,
+    "latest": "2026-09-15",
+    "count": 6414,
     "history_complete": true
   },
   "taiwan_mobile": {
     "earliest": "2002-08-27",
-    "latest": "2026-09-14",
-    "count": 5949,
+    "latest": "2026-09-15",
+    "count": 5950,
     "history_complete": true
   },
   "fareastone": {
     "earliest": "2005-08-24",
-    "latest": "2026-09-14",
-    "count": 5168,
+    "latest": "2026-09-15",
+    "count": 5169,
     "history_complete": true
   },
   "deutsche_telekom": {
     "earliest": "2000-01-03",
-    "latest": "2026-09-14",
-    "count": 6823,
+    "latest": "2026-09-15",
+    "count": 6824,
     "history_complete": true
   },
   "softbank": {
     "earliest": "2018-12-19",
-    "latest": "2026-09-14",
-    "count": 1886,
+    "latest": "2026-09-15",
+    "count": 1887,
     "history_complete": true
   },
   "american_tower": {

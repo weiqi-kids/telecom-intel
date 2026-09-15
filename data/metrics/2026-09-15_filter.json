@@ -1,0 +1,16 @@
+{
+  "total_raw": 304,
+  "dup_title": 171,
+  "no_date": 0,
+  "too_old": 66,
+  "gate1_fail": 7,
+  "gate2_fail": 8,
+  "passed": 52,
+  "gate2_samples": [
+    "Nscale’s Funding Talks Put Dell and Nokia’s AI Supply Relationships to the Test - Yahoo Finance",
+    "SBA Communications Corporation to Speak at RBC Capital Markets 2026 Global Communications and Infras",
+    "SBA Communications at Citi conference: eyes 2028 growth inflection - Investing.com",
+    "SBA Communications at Goldman Sachs conference: growth tied to spectrum By Investing.com - Investing",
+    "Texas and Cape Town Are Tightening the Data-Center Gate. Digital Realty and Equinix Could Still Bene"
+  ]
+}

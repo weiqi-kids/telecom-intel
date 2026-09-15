@@ -1,0 +1,232 @@
+{
+  "date": "2026-09-15",
+  "generated_at": "2026-09-15T13:03:26.027026Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-15-019",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "LOGIX Fiber Networks Names Dane Bray Chief Revenue Officer - PR Newswire",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQWxaT1FwMjUweFFJelpJc0R5YkJtbDFtZWZhT2hjSndhcjRTQ0FmZUwyakJXYTNaY1pNQndhSmJJcXZWQklFZmxiVTREaUprd1RNcHJ2VGt2ek95NVczUUNhQXZzWEJMZGM5R2kwMnlxa3pHU1EtUnhmaUdVajUtYWhuMkRCZlliMGlFY3h2QlUzVTNEbTN0YjhfUlZIRVlOU3d5c3ZfMThGOEg3ZnBVaXJWUzA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ericsson-2026-09-15-015",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Tuesday Bytes: Telxius, Nokia, Macquarie, Ericsson",
+      "companies": [
+        "ericsson",
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaWlQPogpLoiScek8dPn3ySr?utm_source=follow.it"
+    },
+    {
+      "rank": 3,
+      "event_id": "nokia-2026-09-15-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "A Nokia-Telxius undersea trial set an industry record, carrying 400 gigabits per second over 5,600+ km. - Stock Titan",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVlF0YTlSN21ManZpRjBUaXd4a0YwTElNT0dWWXlXNUlRdUxPejVYTkNIdU82YjB3NElpWkNwbkVtYjlxdzdTUzFmWEgwbDBmU1JrQzBNOEVFeUdFMmZaZkVxWWczOGRqNmRIcHpuS3FJd2s0UWI2bjhJbkh4eVN1SlAwV0xaLXJsX1Ffc1lLOTdTdWNCVUNiVXpZd2JGcjJiQUJlOWpWTVM5SzJnWGN4OU5nSGJnWVl2cWc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nokia-2026-09-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "NOK Stock Rises Overnight: Analyst Calls Nokia AI Optical Dark Horse Trading At 'Conservative Valuation' - Yahoo Finance",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTk5TR195Qlc2dG5pOWF1Vkphcjl2WU1lZ1ZQY2ZGYUhfWlpjUUdhelZRX1VlNy1MQkhhRURLSnBBT3dVQ0VrZmNCY2dnZ052d2hnX3F4eUh0alVESHMyU1g3YzhDWkYwLXQ2bzFXeXZqZ2N1bFQtZXh1Vk5ZUkZWV3dWNElLNGpyWUlaUHlmMWFSTy1Vbk81RGFEYTRXLWM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "deutsche_telekom-2026-09-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom stock rises on 2026 buyback lift - ad-hoc-news.de",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb3dieW1Bbi1xaC11RnVHWTBwRmdhT1VmZW9LUWxvWVBRY2VoNXIxb200blhIQm5aQzJhcF81MmVIOUt1TldpcW9qWEU2a3dpS2V2ak1iaHVkSXJsaFRWUmUtOG8tNFRTSDVBUERoREtxb3hiYlhKdmJLOTVGMUJ6SzBZSE5MUWQwX2VfRDEtX1Y1c3NfVFppLVdzWmV6cHJOVTZqYVBMb09zc2cybEZBMEhn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "spectrum_auction": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 15,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "american_tower",
+        "count": 5
+      },
+      {
+        "id": "nokia",
+        "count": 3
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 2
+      },
+      {
+        "id": "equinix",
+        "count": 1
+      },
+      {
+        "id": "ericsson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "spectrum_auction",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 304,
+    "dup_title": 171,
+    "too_old": 66,
+    "gate1_blocked": 7,
+    "gate2_blocked": 8,
+    "passed": 52,
+    "pass_rate": "39.1%",
+    "gate2_block_rate": "6.0%",
+    "gate2_samples": [
+      "Nscale’s Funding Talks Put Dell and Nokia’s AI Supply Relationships to the Test - Yahoo Finance",
+      "SBA Communications Corporation to Speak at RBC Capital Markets 2026 Global Communications and Infras",
+      "SBA Communications at Citi conference: eyes 2028 growth inflection - Investing.com",
+      "SBA Communications at Goldman Sachs conference: growth tied to spectrum By Investing.com - Investing",
+      "Texas and Cape Town Are Tightening the Data-Center Gate. Digital Realty and Equinix Could Still Bene"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為AMT、諾基亞、德國電信相關動態：「LOGIX Fiber Networks Names Dane Bray Chief Revenue Office...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "LOGIX Fiber Networks Names Dane Bray Chief Revenue Officer - PR Newswire（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Tuesday Bytes: Telxius, Nokia, Macquarie, Ericsson（產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
