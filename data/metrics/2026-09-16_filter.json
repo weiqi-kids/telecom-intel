@@ -1,0 +1,16 @@
+{
+  "total_raw": 305,
+  "dup_title": 174,
+  "no_date": 0,
+  "too_old": 63,
+  "gate1_fail": 9,
+  "gate2_fail": 5,
+  "passed": 54,
+  "gate2_samples": [
+    "Ciena Corporation • Robinhood Token (CIEN) Preț Azi - Bybit",
+    "SBA Communications Corporation to Speak at RBC Capital Markets 2026 Global Communications and Infras",
+    "SBA Communications at Goldman Sachs conference: growth tied to spectrum - Investing.com",
+    "Texas and Cape Town Are Tightening the Data-Center Gate. Digital Realty and Equinix Could Still Bene",
+    "Samsung and Verizon test ISAC capabilities in Dallas"
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "date": "2026-09-16",
+  "generated_at": "2026-09-16T13:00:39.506433Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-09-16-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Harmonic's path will be paved with a lot more fiber and AI at the edge",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.lightreading.com/broadband/harmonic-s-path-will-be-paved-with-a-lot-more-fiber-and-ai-at-the-edge"
+    },
+    {
+      "rank": 2,
+      "event_id": "american_tower-2026-09-16-006",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "American Tower stock heads into the open after a modest decline - ad-hoc-news.de",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUkNaSWVFdGI4SHNBS05IaTZhWkFDb01BejdyX2Z0SWl4bjd1MG5INjFqUC1BV3Jod0lGVlhDcUpsT1FTLW03Q196bkZuUFpkdkRHTE9MaXFNdEVISjg5bFdRTnF1eW1VR1BBRzZ2ZEh6UXdMWEV5dml1YW4wZWxZUEdXbmtiZ1B3RWVpX21pRFdnSnJxWi1xYWt2RTFWQmFPdTlNUUZHUHFhWjhuQjZ1OHA4djNjWXF5Xzl6b09mVVpfS0FT?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sba_comm-2026-09-16-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "SBA Communications stock heads into the open after a modest September 15 loss - ad-hoc-news.de",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLWVvbnJEYjFsa3RpVVN6Vm9IcVhtaVplc2wxSGFYdlZJLVdDUjlkV3NwSk1pZTZLcEw5MjRNYzZXekRBSEpXQi1tMnoyTmRFSXkyNU5xNkVNSFBERGowTk9uOXYxN0hxUHVIbXJTN3JoM3JpSmVfR1gtUTNnYkc5M1VJeFR4MlpRRWdMakcwUmZVNl9ZdmN5SlBHYXZBa2dLM3lHSWp0RnVYbFltZnplVlF2bXZkWVRQYldSZVBqSldvSldkaC1FUXlQcUhvbGVV?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "deutsche_telekom-2026-09-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom stock edges higher as investors digest latest figures - ad-hoc-news.de",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTEtHOFFrOU5URDBVRXNCVXJVbVptb245d0NibEVJa09LbzlIX1EtekJaUHp1ZmNiNGxsUm8xNUJQbUZzckk5Y2NNcmRXY1RoWGhCeGN3QVUwVHJ3M3pkdkFydm45aUJEekJkRnZXSjZWa0l5dUtrc2VZNWxUOUd1SzZCd3J1NnpmSVdselBuRUZlejc0U3l1OUJYQ2hVM1pqanZZelhGdE9HVm5zYzNKYXNxUEE3dTVhNjQ2WDYwcXdzQ0x4UTJUczBjUjVrZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Cross-Operator Joint Study on 5G Millimeter-Wave Infrastructure and Technical Architectures for Coverage Expansion - docomo.ne.jp",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5aMWtmVEF0cVF5SzB2SF9DVUFYaThHS3J4Y3NYajdYMW9USkJPQWRjdS05QmVpY0dhWDZ2ZDRXZlRYTERscERqa3ZERkUzUktNV0ctWE9qN2MzZmxRbDcydUZOSkF1b3dXa0MyQ1VtUjlhVUtLSm9NellWSQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "arpu": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 16,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "american_tower",
+        "count": 4
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      },
+      {
+        "id": "sba_comm",
+        "count": 1
+      },
+      {
+        "id": "nokia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      },
+      {
+        "id": "arpu",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 305,
+    "dup_title": 174,
+    "too_old": 63,
+    "gate1_blocked": 9,
+    "gate2_blocked": 5,
+    "passed": 54,
+    "pass_rate": "41.2%",
+    "gate2_block_rate": "3.8%",
+    "gate2_samples": [
+      "Ciena Corporation • Robinhood Token (CIEN) Preț Azi - Bybit",
+      "SBA Communications Corporation to Speak at RBC Capital Markets 2026 Global Communications and Infras",
+      "SBA Communications at Goldman Sachs conference: growth tied to spectrum - Investing.com",
+      "Texas and Cape Town Are Tightening the Data-Center Gate. Digital Realty and Equinix Could Still Bene",
+      "Samsung and Verizon test ISAC capabilities in Dallas"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為AMT、德國電信、SBA相關動態：「Harmonic's path will be paved with a lot more fiber and A...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Harmonic's path will be paved with a lot more fiber and AI at the edge（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "American Tower stock heads into the open after a modest decline - ad-hoc-news.de（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
