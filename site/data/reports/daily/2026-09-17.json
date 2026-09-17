@@ -1,0 +1,233 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T12:56:57.481119Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nokia-2026-09-17-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nokia stock gains as AI-RAN trials and index return bolster outlook - ad-hoc-news.de",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQd2ZpeWZGa29IaVBqUi1LSE5XeDdGeUkybkxhUFFlNUdEZk1HLTFXM1lnRWlUS3JrYzUzQ0tiZ0FMNzNIT0x0ZXh1eV9RTlRVTE1VZlpRR2YxdXlCMVdtblVHTDVra21LT3VxOWp0MEFtX1RRanUwcElyZnBGLUlUZm1oajRKV2l0OUdqVmRGVDc0WjROcXdLNmJLVllmQ2R5aVB3emRSNTJyUk1KRTJaNkRLM3RnZ3IwU3Fkal9UQUNpRGJoNzNLRk53?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ciena-2026-09-17-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Morgan Stanley raises Ciena stock price target on cloud demand outlook - Investing.com UK",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcEdneVJmQnlxQmc1N1lvcHBhUjFIV3Y4RngwbmV3MWFtcmM1alo5U3BzWl9aNmNiZ2V1N0RtWHg5U1RsX2RKSTZNMG5uNVFaVXg0ekJYRlc1aUxYRWJSd2F2LTZqaXgwWEVhZ2tvWHlkd3NDMGZNdVE0MTA2STNiN0J1dWRyT0tWOGhWbjhJYTVjNWpLYTFKWTR2VnlGLUE2UDJ4M0tyQkY2YmdJdml2ZlpuS0ZoVFlheWtoNFZyaHk0M1VYU0FsY2xmWQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-17-017",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "US broadband investment hit $92.6B in 2025 – study",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fiber_buildout",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/broadband/us-broadband-investment-hit-92-6b-in-2025-study"
+    },
+    {
+      "rank": 4,
+      "event_id": "nokia-2026-09-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Is Nokia Stock Trading Higher Today? - Microsoft (NASDAQ:MSFT), Nokia (NYSE:NOK) - benzinga.com",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNajFIT1YxYk9OVDR1ckZ6R0o5V1VGS3dSek1JVEpZVjVtUnlVeXF1LUJQZmN1VWxhekZCUm04NEdWRGpINDg0SGlzSVdSUXkxLWZwa3BRTTMtTVhZOUdncjdDYWpTOVRSZDA1TEpxUkpiR1p5TzBudEMzWnNTZE54M0xaWl92SFZrNXdtcEJRZGgzaGtSWDdEc0V4UzVWa1loVm45QWZYNDRrdDdFM0dENGJVWXo2ZUl2b2lIU3FjeUVGZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nokia-2026-09-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia Corporation And Microsoft Corporation Accelerate Network Automation Through Agentic, Unified Data Foundation - marketscreener.com",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOEFXQTFmdmFyUlE3c2Q2c01FeE1pMndIZGpLOXJTVUh1N3I1WHoydnJWSm12NC1meW5SbGdLdkZramJvcXBTUVdxY201VkJPLWlfRm0yeF92aXlIcTdyUWNKUy0zNTF6SGg5OW0wNjZJbkp5bVY2NXhYMXdfRXV3TmRnME5mQjBIUjJUSTlJSWFFY1B3Zk1DQVF5RlVNTlBlSHYydUJ5bHh4eHZHVW8weW5uVVNzSTR0MzdxOVRaRmdOMm5XcTJSTkgxT08zWk9oX2gwWUoyT3VwYno2MWJuZ1l6WmxnZmM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 22,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nokia",
+        "count": 3
+      },
+      {
+        "id": "ciena",
+        "count": 2
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 2
+      },
+      {
+        "id": "american_tower",
+        "count": 2
+      },
+      {
+        "id": "sba_comm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 305,
+    "dup_title": 150,
+    "too_old": 84,
+    "gate1_blocked": 6,
+    "gate2_blocked": 4,
+    "passed": 61,
+    "pass_rate": "39.4%",
+    "gate2_block_rate": "2.6%",
+    "gate2_samples": [
+      "SBA Communications: The Turnaround Setup Is Getting More Interesting (SBAC) - Seeking Alpha",
+      "SBA Communications Corporation to Speak at RBC Capital Markets 2026 Global Communications and Infras",
+      "Eurobites: Ericsson's 5G core goes live at VodafoneThree",
+      "Samsung and Verizon test ISAC capabilities in Dallas"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為諾基亞、Ciena、德國電信相關動態：「Nokia stock gains as AI-RAN trials and index return bolst...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nokia stock gains as AI-RAN trials and index return bolster outlook - ad-hoc-...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Morgan Stanley raises Ciena stock price target on cloud demand outlook - Inve...（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
