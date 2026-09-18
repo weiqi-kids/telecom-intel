@@ -1,0 +1,15 @@
+{
+  "total_raw": 305,
+  "dup_title": 166,
+  "no_date": 0,
+  "too_old": 67,
+  "gate1_fail": 5,
+  "gate2_fail": 4,
+  "passed": 63,
+  "gate2_samples": [
+    "SBA Communications: The Turnaround Setup Is Getting More Interesting (SBAC) - Seeking Alpha",
+    "SBA Communications Corporation to Speak at RBC Capital Markets 2026 Global Communications and Infras",
+    "Eurobites: Ericsson's 5G core goes live at VodafoneThree",
+    "Samsung and Verizon test ISAC capabilities in Dallas"
+  ]
+}

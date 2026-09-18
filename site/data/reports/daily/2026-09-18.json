@@ -1,0 +1,241 @@
+{
+  "date": "2026-09-18",
+  "generated_at": "2026-09-18T12:34:49.580402Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "commscope-2026-09-18-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "CommScope stock holds steady as investors weigh recent sales outlook - ad-hoc-news.de",
+      "companies": [
+        "commscope"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNGV0ejJGblpfRVJBUXVaQllmbDVVbkUxaEdrWllXdUxfOE5sUlByVkp2NklIUzRYaWJZWVZ5Qm9NOC1mVU5wUXdkUkoxVWpwNDJxNDBtbU9RbE9NS0hObVVwYWJ1czJiZlhwV2RsS1Aycm01Y0FUS3paN1JmU2ZEdUx0TWdqZzJueUxxTzBlbVBQSFdGTUpZQnQ2SXJvUnJZdFJTN3J6cVBuR0t2c3Fwb3lxZ3lwUjJTQkY3V08zU3hHSHFYdWc?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ciena-2026-09-18-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ciena stock gains on $30 billion outlook and analyst hikes - ad-hoc-news.de",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTTBIZTBhZmhEOU1xalNwdnBZUWxMOUtHZVQ5UXd6LUhzSWwxdEhhSVgwcVdqcG5PV2NtekZDM2JON0N5OUtKR0QySk0xa292Y0dMeFVuSEdQcW5mWnhkTE92dmV1QlYzMmotcWlINFJ0N1l2NGNuZk8tT2ZEbDJlbWEyT0VjRHZPZjR3UHZ5M2xnLWZyOHBvQW1KZWxXV3hqeThwVTZtS3VlTWM2NDhXUzJjMFpSdkU?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "softbank-2026-09-18-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SoftBank Corp stock dips as Arm-backed loan and rating upgrade reshape outlook - ad-hoc-news.de",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVU1oaXVrSy02LVdGYlNZTFFWMFVuQXVRd1F3bmRJamhWUTFmWG5wakNYMGtuVHkxZVFzWHZxYkJTNUNuWXNVd0pUTkdyOWEwSXpidHBxb053MEh1RmRBcUNUcW5ncGotZk5QU0hOMTlCbnZYd2JVQmpmOW9seGNOa0tOYzEwYmQ5Y1c0bnFqbVNIQV9haXcxVUU4SjVaNjBOWVdFMHNldzJoaHpLZERMTzN4NE1lcHA3cFhsMzVEZGxVWUhOWTVGZUpVYWtXdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nokia-2026-09-18-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Eurobites: Vodafone highlights network-shutdown epidemic",
+      "companies": [
+        "nokia",
+        "ericsson",
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "nokia",
+          "ericsson"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.lightreading.com/security/eurobites-vodafone-highlights-network-shutdown-epidemic"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-18-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Proposed telecom index puts diesel, fibre cuts and local content on record - Business News Nigeria",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWi1NclYwc2JfQi1uZTM2OVhTcnUybEFONGVJTU54QzJwYWNSSnZDQzJHeWxVYVE0ODFfb2pIbnRnMzZMTnBWYVgzQXRMVlRvMHZGbVgyMlpoRkl1amdrTjBaUTd5Ti1rb0lDYWVzWk10ZmRfdUUwWHN0Y1pyU1drLUtDNExGN0h4Wm1jRFJ5UkpYWk5uTk5fZ0E2NzhkZUdmQUpnVENub3JuTV9QWWZWeEZQcFRaOUU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.21,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 8,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "deutsche_telekom",
+        "count": 2
+      },
+      {
+        "id": "commscope",
+        "count": 1
+      },
+      {
+        "id": "ciena",
+        "count": 1
+      },
+      {
+        "id": "softbank",
+        "count": 1
+      },
+      {
+        "id": "nokia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 305,
+    "dup_title": 166,
+    "too_old": 67,
+    "gate1_blocked": 5,
+    "gate2_blocked": 4,
+    "passed": 63,
+    "pass_rate": "45.3%",
+    "gate2_block_rate": "2.9%",
+    "gate2_samples": [
+      "SBA Communications: The Turnaround Setup Is Getting More Interesting (SBAC) - Seeking Alpha",
+      "SBA Communications Corporation to Speak at RBC Capital Markets 2026 Global Communications and Infras",
+      "Eurobites: Ericsson's 5G core goes live at VodafoneThree",
+      "Samsung and Verizon test ISAC capabilities in Dallas"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為德國電信、CommScope、Ciena相關動態：「CommScope stock holds steady as investors weigh recent sa...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "CommScope stock holds steady as investors weigh recent sales outlook - ad-hoc...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Ciena stock gains on $30 billion outlook and analyst hikes - ad-hoc-news.de（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
