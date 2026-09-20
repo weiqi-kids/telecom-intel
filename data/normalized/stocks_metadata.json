@@ -55,20 +55,20 @@
   },
   "chunghwa": {
     "earliest": "2000-11-15",
-    "latest": "2026-09-18",
-    "count": 6417,
+    "latest": "2026-09-20",
+    "count": 6418,
     "history_complete": true
   },
   "taiwan_mobile": {
     "earliest": "2002-08-27",
-    "latest": "2026-09-18",
-    "count": 5953,
+    "latest": "2026-09-20",
+    "count": 5954,
     "history_complete": true
   },
   "fareastone": {
     "earliest": "2005-08-24",
-    "latest": "2026-09-18",
-    "count": 5172,
+    "latest": "2026-09-20",
+    "count": 5173,
     "history_complete": true
   },
   "deutsche_telekom": {

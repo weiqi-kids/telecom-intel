@@ -1,0 +1,14 @@
+{
+  "total_raw": 306,
+  "dup_title": 192,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 6,
+  "gate2_fail": 3,
+  "passed": 36,
+  "gate2_samples": [
+    "SBA Communications: The Turnaround Setup Is Getting More Interesting (SBAC) - Seeking Alpha",
+    "Eurobites: Ericsson's 5G core goes live at VodafoneThree",
+    "Samsung and Verizon test ISAC capabilities in Dallas"
+  ]
+}
