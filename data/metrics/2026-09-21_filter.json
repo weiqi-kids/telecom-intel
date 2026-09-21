@@ -1,0 +1,16 @@
+{
+  "total_raw": 297,
+  "dup_title": 182,
+  "no_date": 0,
+  "too_old": 70,
+  "gate1_fail": 4,
+  "gate2_fail": 5,
+  "passed": 36,
+  "gate2_samples": [
+    "Breakingviews - COMMENTARY: Deutsche Telekom's best M&A path may be in EU - Reuters",
+    "Eurobites: Deutsche Telekom targets travelers with eSIM platform - Light Reading",
+    "Deutsche Telekom's best M&A path may be in EU - TradingView",
+    "SBA Communications: The Turnaround Setup Is Getting More Interesting (SBAC) - Seeking Alpha",
+    "Eurobites: Ericsson's 5G core goes live at VodafoneThree"
+  ]
+}

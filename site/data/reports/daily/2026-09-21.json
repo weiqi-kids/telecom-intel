@@ -1,0 +1,236 @@
+{
+  "date": "2026-09-21",
+  "generated_at": "2026-09-21T14:45:44.656536Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nokia-2026-09-21-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Nokia stock gains as EURO STOXX 50 return and AI orders boost outlook - AD HOC NEWS",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWDE3V190cUNjSnN1LTJlYUI4WXVoVnNQX0RzMEhlU1puM2p2ZDJyQVFJWlNtbTVaSXBzUWlIU2JwbURCaEh6U3VQNVVtdmZobFZpcVYxdm1PZlc5TDBhdGMzd1l5T3FFMW9ITWZJVUN5bE1CNWpFd0labkpRczQxQVhTZzFlWDlYU2xpWlI5RGtxZjhEYjNMcXM1N2VRTV9YRThRNlRjZ3JPQTZ4Ym8xWkZScFZKcFRyQkh6eXZMQjVJWUQtaFZpZlg4OUU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-21-020",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Croatian telecom market revenues reach EUR 920 mln in Q2 - Telecompaper",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZTFLUTlENkJYY0RHSnVvRGVCUl9UOGJPRXlTX1R4QzZuM0k4dlRtSTdVU3NTS3BrN1pwLWg0SGwxSTEwaGtwZFRjS2F5RHE0cndwLUJJc0FJT25QYnlWS1A0ODJ2UWFQMGc0ZlNZZjVhbk9sSGIyblBHeFU3OGxKTF9WOGdib3RWWmNIb1BQMElta1BVb2NtTEZld3FqN2RK?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ciena-2026-09-21-015",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Eurobites: Deutsche Telekom targets travelers with eSIM platform",
+      "companies": [
+        "ciena",
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.lightreading.com/smartphones-devices/eurobites-deutsche-telekom-targets-travelers-with-esim-platform"
+    },
+    {
+      "rank": 4,
+      "event_id": "ciena-2026-09-21-005",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Ciena in spotlight as Evercore upgrades to Outperform (CIEN:NYSE) - Seeking Alpha",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNUtoU0JMX2pQOEQtS2lQSkc0RWNqNUhTcnNENVp2clYtRktITVh5WWItTHBwNkRiNjNsMTM4cXF4WGxQbFVBNUtVa2xRTVl2NEY1bjZQdnpMb0pjNzF3M0hLbUlPTXVPQ1pFakxnR01YWGZKcmZmZTVpczdnMXlVc00yaDJHRzZycGdlTkV6YVBvelhDZkE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-21-014",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nearly one-third of electric co-ops have declined BEAD awards – NRECA",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fiber_buildout",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.lightreading.com/broadband/nearly-one-third-of-electric-co-ops-have-declined-bead-awards-nreca"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 22,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 19,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 4
+      },
+      {
+        "id": "nokia",
+        "count": 3
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 3
+      },
+      {
+        "id": "softbank",
+        "count": 2
+      },
+      {
+        "id": "american_tower",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 22
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 297,
+    "dup_title": 182,
+    "too_old": 70,
+    "gate1_blocked": 4,
+    "gate2_blocked": 5,
+    "passed": 36,
+    "pass_rate": "31.3%",
+    "gate2_block_rate": "4.3%",
+    "gate2_samples": [
+      "Breakingviews - COMMENTARY: Deutsche Telekom's best M&A path may be in EU - Reuters",
+      "Eurobites: Deutsche Telekom targets travelers with eSIM platform - Light Reading",
+      "Deutsche Telekom's best M&A path may be in EU - TradingView",
+      "SBA Communications: The Turnaround Setup Is Getting More Interesting (SBAC) - Seeking Alpha",
+      "Eurobites: Ericsson's 5G core goes live at VodafoneThree"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為Ciena、諾基亞、德國電信相關動態：「Nokia stock gains as EURO STOXX 50 return and AI orders b...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nokia stock gains as EURO STOXX 50 return and AI orders boost outlook - AD HO...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Croatian telecom market revenues reach EUR 920 mln in Q2 - Telecompaper（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
