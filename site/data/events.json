@@ -1,5 +1,376 @@
 [
   {
+    "id": "ciena-2026-09-22-001",
+    "date": "2026-09-22",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ciena Corporation (NYSE:CIEN) Given Average Rating of \"Moderate Buy\" by Brokerages - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbXB3RFlVSnJHYUNWX3hGVkIzQ0pFX3NBYWlmcEhKVlViQnJSbkhEQUNZeDMzWmZaMEdSV1B6SkRURmFWdUZSNHV6ajNhWGZFTWsyYU1KYklscHBvX0xRMUtrQUNIUHplXzVBNk91OH",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbXB3RFlVSnJHYUNWX3hGVkIzQ0pFX3NBYWlmcEhKVlViQnJSbkhEQUNZeDMzWmZaMEdSV1B6SkRURmFWdUZSNHV6ajNhWGZFTWsyYU1KYklscHBvX0xRMUtrQUNIUHplXzVBNk91OHNXcDdXUzN2dDBILTZHRmowZDZKdHZpUjBOZVBGaGN6TGJyNHdmLUVvTm5URFR1MWkxTWp2V2lUZjA0MXVJUjRkd1JKeWNZRHkwYzZXV2JqcTJmWUtvY3hTcGRSeGo0YXNWcjd0QXo2SmItZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tmobile-2026-09-22-002",
+    "date": "2026-09-22",
+    "companies": [
+      "tmobile",
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Deutsche Telekom Expands Buyback as T-Mobile US Valuation Gap Persists - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcmxkLXdoYlFkUjRZLVZwR0FVcTU3Q2xYbVZOUzZJQjVEVEowRzF0cVpXRlYzT1hYcnJ4RGFfZjktZUlGcm1fTmU1SUdNWk1qeWozcHhpckVYc2hhMlJCOFdWNkV4UzFieENEeGd6dk",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcmxkLXdoYlFkUjRZLVZwR0FVcTU3Q2xYbVZOUzZJQjVEVEowRzF0cVpXRlYzT1hYcnJ4RGFfZjktZUlGcm1fTmU1SUdNWk1qeWozcHhpckVYc2hhMlJCOFdWNkV4UzFieENEeGd6dkNkTlluMm9hY1paVFpiTFJ6Y0tkbERTcklpWC1vOVlhUTJXX3NFaW9GQ1lRblFuazh1c25jbGZPemdGLXNLZXd3R1ltZGpBeElnVUVRdGYxWnpfaUYtVXFLNlJaYzA2bVVVM19uUndfNzh4Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-09-22-003",
+    "date": "2026-09-22",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Telekom stock gains 1.4 percent as valuation gap persists - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc0poNDBFaUx5X24tYnIwcmJVallrSWtWZ21pYU9HR0I2WFl6b19RcGZhOElsMDN6VExOdGMzNTFJZGM5aHYyeWNpZ0NzSUF5cjh0U0lNak5oVjZ3eWNrVzZpeFFYZlJjY1FUN3prMF",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc0poNDBFaUx5X24tYnIwcmJVallrSWtWZ21pYU9HR0I2WFl6b19RcGZhOElsMDN6VExOdGMzNTFJZGM5aHYyeWNpZ0NzSUF5cjh0U0lNak5oVjZ3eWNrVzZpeFFYZlJjY1FUN3prMFdPWDBvNWJGRzVkZTNDUXdKSUYxeGJIQnVMdmNLRTl1bnVZb3pqcTlzNVVYcDZFbWxXV1B5b2o4RF9XLTZSLTRBWXF3c1JNS05XeXBwZlIwSUlYSmJDSUEweQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-09-22-004",
+    "date": "2026-09-22",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank Corp stock holds near its yearly range - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOblFHT0VMSjF1MDFUQVFQaG41S2F6MkRaM2VMRVBYZWxRSkdyNEZQTXRsLUI0RHFXLU5Mc0gxQm1XbmRURGVUNUV1RTRBeWlPdFZIVWt6RGRQZG4yU3RNbWRqbG5QWk0xeEFCREVkeH",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOblFHT0VMSjF1MDFUQVFQaG41S2F6MkRaM2VMRVBYZWxRSkdyNEZQTXRsLUI0RHFXLU5Mc0gxQm1XbmRURGVUNUV1RTRBeWlPdFZIVWt6RGRQZG4yU3RNbWRqbG5QWk0xeEFCREVkeHZWQXoyQWNKQ1ZmQ2JOY3dFSTA1VXUyaWd3MVVua0FvYkhSS3locGtRY242Q21ab3V2NlRIN1ZCQ2hVRWpRR05j?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-09-22-005",
+    "date": "2026-09-22",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank Corp Stock Drops as Nikkei 225 Advances - suaragarut.id",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uX1BzT2tPVXl3ODBvZ21zdVREMnlYMkVSaEh1emhqZXM4dkJJWVp0bTdaYTgwdFNGdGJDTEFSakdEcDJPWm51WHp2R1VzLWlRQzBGNGR0NUNPTXVMN1B4eUgybGhSdHZ6?oc=5\" tar",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uX1BzT2tPVXl3ODBvZ21zdVREMnlYMkVSaEh1emhqZXM4dkJJWVp0bTdaYTgwdFNGdGJDTEFSakdEcDJPWm51WHp2R1VzLWlRQzBGNGR0NUNPTXVMN1B4eUgybGhSdHZ6?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-09-22-006",
+    "date": "2026-09-22",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank Corp stock gains 1.09 percent before the bell - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdURuMmtCRlQ0dzlPSmpaZWEyZkNRMmlBMXA4cFN5ZXJkZWNrbkV5OFRFLUJQdm1WaDR3MEtWRDd4TGxHSzRnSFF6YWJRaVRkbUc0QnN5T2xVR1NNZ3RPZ1NmREFWQTIyMnFXWWlnQW",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdURuMmtCRlQ0dzlPSmpaZWEyZkNRMmlBMXA4cFN5ZXJkZWNrbkV5OFRFLUJQdm1WaDR3MEtWRDd4TGxHSzRnSFF6YWJRaVRkbUc0QnN5T2xVR1NNZ3RPZ1NmREFWQTIyMnFXWWlnQWItTXlSSTRMNWFsT1c0eUstbHozTFlwM3pOakdha1Z1ZktWMHFkdk1XeXVYWHF2c0Q4cHcwQzdFS20wVVdNYmJMY1FtR2tBNWEw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-09-22-007",
+    "date": "2026-09-22",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Tower (AMT) Stock Could Be 41% Undervalued On Cash Flow - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNWkV3WkIxNUo5VHctSElTUEdtc1hfa2JuVHpWREhleVNyd3VuQnVOSW5wT3BMU29jcE9sSGh3Y19Od1I5REpfRTllUnI3djBqNVFjdTFsOEdkWENwR3hTb3Fvekg4MlhoYmlKNkhWT2",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWkV3WkIxNUo5VHctSElTUEdtc1hfa2JuVHpWREhleVNyd3VuQnVOSW5wT3BMU29jcE9sSGh3Y19Od1I5REpfRTllUnI3djBqNVFjdTFsOEdkWENwR3hTb3Fvekg4MlhoYmlKNkhWT2RYTF8ybkFtd1BBdjVvQzR3X3dFM2V0UDkxTFlSWTh4RTZPWGFCTFJnb29iQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-09-22-008",
+    "date": "2026-09-22",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Tower stock gains 0.6 percent on rising estimates - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPSHZJTllfeUFCUXhaYjZNV2NFZXJvWWtNWEd4MVNLVGtIQVc4dFJram5ETFJ5ajNNdVBkZTEwZlVmQ1psUS1PekVKbjNfMnlFOHoxcV9uWHJ6NHFuWlJFQmVHSXBsVXFsVVlEOTlVY0",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSHZJTllfeUFCUXhaYjZNV2NFZXJvWWtNWEd4MVNLVGtIQVc4dFJram5ETFJ5ajNNdVBkZTEwZlVmQ1psUS1PekVKbjNfMnlFOHoxcV9uWHJ6NHFuWlJFQmVHSXBsVXFsVVlEOTlVY0FlRXhpQUZ1ejNQSnVJNEpKbHpXQXZ3Q1lWeHhvYldTQWpmUS1DWmNQa092TVdrMmxsdkNNcFpuMkdjZDdYNFFfbWdmdXBVdU1YMXF2anB3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-09-22-009",
+    "date": "2026-09-22",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Tower stock rises 0.6 percent ahead of the open - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnZkNnJSMnJVRHJucW95VzgwYVBfMDJnQWJ3UHFPTnlxVV82akw2eGFXYTFsNFpFWkRzdDdPU1piMU5iNF92T1pRRWdiYW4zV0ZfVlY3SWxqVG1iT0NudTdDX1NGamt5Nm5nSjVmbE",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnZkNnJSMnJVRHJucW95VzgwYVBfMDJnQWJ3UHFPTnlxVV82akw2eGFXYTFsNFpFWkRzdDdPU1piMU5iNF92T1pRRWdiYW4zV0ZfVlY3SWxqVG1iT0NudTdDX1NGamt5Nm5nSjVmbE1HTnI2QlBHMGlCZ01NSmEtdGdnV0JxQ2xZUGYyZ1NXZXNoMFpRNWxNX2hBMG96eVoxVlBJQm1wcHF5SW5VMEJCR2JtVWxtLUVUcjA0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-09-22-010",
+    "date": "2026-09-22",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nykredit A S Buys New Holdings in SBA Communications Corporation $SBAC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPLTFMeVpmaWZXMHhQYllndW8zMGliMkk1cVVuYWJzT0Q0cUVIaENPT005OGRwbHo4dFVoNFJZTkxWMGY1ZjEwX3BxX0NYOE43c0JZaC15RkxjenA4NWRnT1cxZjZhTUF4NFBZZlZOT3",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLTFMeVpmaWZXMHhQYllndW8zMGliMkk1cVVuYWJzT0Q0cUVIaENPT005OGRwbHo4dFVoNFJZTkxWMGY1ZjEwX3BxX0NYOE43c0JZaC15RkxjenA4NWRnT1cxZjZhTUF4NFBZZlZOT3QxQVUwWnFrWUpJS0hmdi1yNU1ZNUdrMng2ZERXTWNtT0FGTlZpcDh5c3B5a3J1bVhWWDliekpQaVBSbVppV1IwRERhRVVnY3B4dnJYQXRBanZfb0JOYnlGZEFn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-09-22-011",
+    "date": "2026-09-22",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SBA Communications stock heads into the open after a 1.3% dip - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPT0RCMXBON2NSOEYzc2FaNXlRSTJGcko4WVUweFdoNzZJRGpPT05SSk1iOFFZNnRZOElLcDdEeE9tWlNTZlRZQzIyTVlQb3FNeU45dkN3bWJvTFFrN3AxMC00aWRRc1k3VS11WXRSTk",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPT0RCMXBON2NSOEYzc2FaNXlRSTJGcko4WVUweFdoNzZJRGpPT05SSk1iOFFZNnRZOElLcDdEeE9tWlNTZlRZQzIyTVlQb3FNeU45dkN3bWJvTFFrN3AxMC00aWRRc1k3VS11WXRSTkZlaE9SOW0wczNseVlveUNHb2xmc0VqQUcxRkswOUxTNk5Bampza3FXUXR0ZkJfSUlyQ0t3ckhCVDNlVExFUHN4ejRUX0pCMnhZYnJHMXA2T29zX25XaDFQcVItNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-09-22-012",
+    "date": "2026-09-22",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Equinix data centers - San Mateo Daily Journal",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmpqeVFBdjcwMVdvY2pvMTN6YjBTdlBSS3NsNzBIZERMUWxjTl8zUGpYc0w5eV8wRXhYU3Ytb0tzMkV1N1g1ZUF2cEtpeGdxY05raGo4NDNhYy1RUHdqRy1KNEJqSmRiY1FHWlVkR2",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMmpqeVFBdjcwMVdvY2pvMTN6YjBTdlBSS3NsNzBIZERMUWxjTl8zUGpYc0w5eV8wRXhYU3Ytb0tzMkV1N1g1ZUF2cEtpeGdxY05raGo4NDNhYy1RUHdqRy1KNEJqSmRiY1FHWlVkR2xlN3I0X2s4bWdvRXNGMjFISGxYUlJ0RVJLdzg2MTJMOC1pQjR1SHNnRFJucm1SMUhB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-013",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Private mobile networks pass 2,000 customer milestone – GSA",
+    "summary": "GSA's latest report hails a new milestone in private network deployments with 2,000 in operation, although the pace has slowed a bit compared with 2022.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/private-networks/private-mobile-networks-pass-2-000-customer-milestone-gsa",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ericsson-2026-09-22-014",
+    "date": "2026-09-22",
+    "companies": [
+      "ericsson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Eurobites: Vodafone, Ericsson combine on instant-translation AI for voice calls",
+    "summary": "Also in today's EMEA regional roundup: Eutelsat completes rail connectivity trial in Poland; increasing digital participation in Africa; EU proposes rating scheme for data centers.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/ai-machine-learning/eurobites-vodafone-ericsson-combine-on-instant-translation-ai-for-voice-calls",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tmobile-2026-09-22-015",
+    "date": "2026-09-22",
+    "companies": [
+      "tmobile"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "T-Mobile, Jio claim world's first 5G SA roaming connection",
+    "summary": "T-Mobile and Jio claim to have made a breakthrough with 5G SA international roaming connection, enabled through Syniverse's mediation platform.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/5g/t-mobile-jio-claim-world-s-first-5g-sa-roaming-connection",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-016",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Equatys has 'cure' for MNOs' dropped calls, says Space42 exec",
+    "summary": "Space42 and Viasat seek more partners to join Equatys, their shared satellite infrastructure venture for direct-to-device to fill mobile network coverage gaps.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/satellite/equatys-has-cure-for-mnos-dropped-calls-says-space42-ceo",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-017",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SUBCO to Build a Trio of APAC Cables",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/H12wDmfNPLWvBSB5cPCwI-Gkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"SUBCO to Build a Trio of APAC Cables\" title=\"SUBCO to Build a Trio of APA",
+    "sources": [
+      {
+        "name": "telecom_ramblings",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaWHlsSKAbmfq7wfiX2KKXal?utm_source=follow.it",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-018",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Hungary's telecom sector worth HUF 344 billion in sales in Q2 - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOSjNsLTdRY2k2N1NUZGlBWkN4V1BrSElrRjdVTGRQU3doQTZfT3Qzc2s2T1hVWUxtZzg3a0VWTTdSdF8yLXRJcU5xcWRMLUxnMmVBZ2wzV3QwZlRBN3pOdloyNTlCMW5iOXlkOERLVl",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSjNsLTdRY2k2N1NUZGlBWkN4V1BrSElrRjdVTGRQU3doQTZfT3Qzc2s2T1hVWUxtZzg3a0VWTTdSdF8yLXRJcU5xcWRMLUxnMmVBZ2wzV3QwZlRBN3pOdloyNTlCMW5iOXlkOERLVlc1b3lXT19qZFc4aHczWTQtVXF3U0hnb0dMTXBQUm15aVFJb1BhMHI3dThZZm1Qb0R4R3Y4RVlR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-22-019",
+    "date": "2026-09-22",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Business Remarks Convenes 7th Telecom Sector Sustainability Forum, Charges Stakeholders On Rethinking Nigeria’s Digital Infrastructure Strategy - Independent Newspaper Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUVNPRURlQ0VHQkRKcURsWU8tNlF3OUZQMzNSd0VVVzVrc09WMThiNW9vOHFmSVFoQ01SMElBSTZKWWZscDZRbDVBOFowWkdvVmdRVFpPNldIMDZPMU1oUHo4eWx2azBIaDBjTV9RZG",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUVNPRURlQ0VHQkRKcURsWU8tNlF3OUZQMzNSd0VVVzVrc09WMThiNW9vOHFmSVFoQ01SMElBSTZKWWZscDZRbDVBOFowWkdvVmdRVFpPNldIMDZPMU1oUHo4eWx2azBIaDBjTV9RZGZ4Q1lhNXNhYWczTnNySmxqQzJpdWdRWUJxYmZxTlpqTXRwZWNiTnVya2RBM0xUWm4tLVZMRUJqeGlodjA5bzE4SFFYNy0yZUJFQkZVaDQxM3M0UnRiRkhwblVKOEQwR19GS0ZZZVlSeHJGSjZVVzdtb2hFQm1ERkF6ZURkdEJpRVNuUy1oMU9sXw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nokia-2026-09-21-001",
     "date": "2026-09-21",
     "companies": [
@@ -428,6 +799,385 @@
     ]
   },
   {
+    "id": "nokia-2026-09-21-023",
+    "date": "2026-09-21",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nokia stock ends the day higher at the close on the NYSE - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmF1LUN5NXNaQm9ETzRWTEhlOGNHNnVtbkVtTWpUZElBZ2Y5VlREYmNhb0R5d3FaYkFEYVVvTks2dXZRdEJKVXlVcEtRN1NBSkR0MndROGpZWmZXbnc0VHhDcFFyNmdqX1FkRVl6UU",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmF1LUN5NXNaQm9ETzRWTEhlOGNHNnVtbkVtTWpUZElBZ2Y5VlREYmNhb0R5d3FaYkFEYVVvTks2dXZRdEJKVXlVcEtRN1NBSkR0MndROGpZWmZXbnc0VHhDcFFyNmdqX1FkRVl6UUF0eFFSWkNEeEFjT3QwSzE0bmhGQWxIQjQ4VWZCYUl2bVR6MF9RWDFESWtzaXhvS3Y3dWk5UFZJRFlvWVlIaUFvMlFlamg5UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-09-21-024",
+    "date": "2026-09-21",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Ciena (CIEN): Wall Street Cut Targets After Earnings, Then Raised Them on 2029 Outlook - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQUGFvZkZIZzZVU0xRTXktaEFVbGg2TVBIVl85UkVsb0VBbVNCTnVQaWJBdWFZTFAzUnh6MHYyel95MmN1NHJ3OENfZU80ZVlLRDE0ZG9CM0wwc1Mwb0JHQmVVR0xZMTlITV81TmNEMG",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUGFvZkZIZzZVU0xRTXktaEFVbGg2TVBIVl85UkVsb0VBbVNCTnVQaWJBdWFZTFAzUnh6MHYyel95MmN1NHJ3OENfZU80ZVlLRDE0ZG9CM0wwc1Mwb0JHQmVVR0xZMTlITV81TmNEMGF0ek9DSm9TbnBYTl9WV21CN0NZaFY5WkRmM0QyMVpsa1IzZTJfeGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-09-21-025",
+    "date": "2026-09-21",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Telekom AG (DTE) Buys 2.95M Shares; 14.01M Total Since Aug 10 - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaEVRMjZYSWx2RW5ZVVpqckd3VGthRS1XNkkyUGNBWmZUSkhJU2pRSVgzdUNCU0JzSFpWTVFBcW0wTmtiaTRVa1JPRmdaM1hPZXY2YVpzQzNuTnRLY1ZZRFNhdWhGWjk2NW1FTVdlcH",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaEVRMjZYSWx2RW5ZVVpqckd3VGthRS1XNkkyUGNBWmZUSkhJU2pRSVgzdUNCU0JzSFpWTVFBcW0wTmtiaTRVa1JPRmdaM1hPZXY2YVpzQzNuTnRLY1ZZRFNhdWhGWjk2NW1FTVdlcHJBQkk0d29pd21XalFtREZOdXZJZXBaQUJzMVhGT0ZGbjRZZW1sbnFsNXdRRlUxT05UT21pUEV2Uy1NbEdsY3JwcmRKWjEtRnA4Umh3amYtTzhkV2N1ZGpJMQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-09-21-026",
+    "date": "2026-09-21",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Telekom eSIM travel service takes flight - Mobile World Live",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPaU81UDd5QXRuRTJ6RC1ZcE43bjJxR0RlcnpSWWhEbHNxZjhMNENjNE1vLTJ0ZVJCVzBUVGRvVWxIdGMyel9Fem0xUFlHVE9ydDM5U3ItTWVNM0hRUnEtQ1p4Y1RlcTZyVlRId1IzNm",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaU81UDd5QXRuRTJ6RC1ZcE43bjJxR0RlcnpSWWhEbHNxZjhMNENjNE1vLTJ0ZVJCVzBUVGRvVWxIdGMyel9Fem0xUFlHVE9ydDM5U3ItTWVNM0hRUnEtQ1p4Y1RlcTZyVlRId1IzNmdycVk5YlNDUUlDMUo1Ny1tOXh1SkxwSEludXVSRjlqbFBKRFE3eWd5RFhJX0dfSUhB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-09-21-027",
+    "date": "2026-09-21",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SoftBank launches $11 billion bonds to fund OpenAI investment - Reuters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRFpJSWkxMGJsX2cyM3pnVGxFdi0yU3BIRHd0RUM0MUZwWE42WTJhVmwwLUNQUkNhakRLQW1xZWlSMTRWZElIZXNQWFZEbWdpX1Z0aXctRzkxT1VvdlhxZFBSclJNQzlFSUM1cXc4by",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRFpJSWkxMGJsX2cyM3pnVGxFdi0yU3BIRHd0RUM0MUZwWE42WTJhVmwwLUNQUkNhakRLQW1xZWlSMTRWZElIZXNQWFZEbWdpX1Z0aXctRzkxT1VvdlhxZFBSclJNQzlFSUM1cXc4by0yOU51bmZDYUxhdi1GS0RLbzB1VUpqMVRoeGpVTkRjSTltcEdtdldZVldpQ1RtcFJmdkl3VGowWll5cmxFSHE4SnVzOGVYWGEzZDhPOTNDSzNUZ2MxeExISmVyS1FwY01pc1dlcDdR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-09-21-028",
+    "date": "2026-09-21",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank Corp., Hitotsubashi University and NIPR Achieve World’s First Demonstration of Laser Ranging by Tracking a HAPS from the Ground - WebWire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pNkxxSFRfZnR5bnN0N3h3cm8tNm5qbFIybTE3SkdqTlY2TGxRWkZyY2FJMFZxVzd6MUVBZm81R1ZPSUVXcTNLY2JNX0V5V1FzT0lTTXNTMlo0Z3FCX21CLQ?oc=5\" target=\"_blan",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pNkxxSFRfZnR5bnN0N3h3cm8tNm5qbFIybTE3SkdqTlY2TGxRWkZyY2FJMFZxVzd6MUVBZm81R1ZPSUVXcTNLY2JNX0V5V1FzT0lTTXNTMlo0Z3FCX21CLQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-09-21-029",
+    "date": "2026-09-21",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank Corp stock ends the day higher after the bell - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOcXpVUjBIalFnQ29kREo4UFpia0h1Nm1rOXZVNHIyYUFiaHo1aWgxS2t6S3p5cXQzeWFUcWhIYUhpTDFMSXFWMnpvNWN5WmF3UmIyQ2QyWTJwOVp5T0wtMlk5eFVrX1lkdTZWODhDYk",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcXpVUjBIalFnQ29kREo4UFpia0h1Nm1rOXZVNHIyYUFiaHo1aWgxS2t6S3p5cXQzeWFUcWhIYUhpTDFMSXFWMnpvNWN5WmF3UmIyQ2QyWTJwOVp5T0wtMlk5eFVrX1lkdTZWODhDYkJmNmhjREdNX25PRVpKRWtfV3lrTDFuZXk0NVRaZzIyMThyd05wVzVyM2lUSkVRLVdGM3d5NEVnb2UzQmJpUzZNRFVrdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-09-21-030",
+    "date": "2026-09-21",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Tower (NYSE:AMT) Faces Wireless infrastructure demand and financing - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdjFNUkdNNExVU1lEeDNpcDVKcVRhWDQ1ZjFmdlRRc2ROaEpYOVJIdUUzTFZYWTdsNy0xejZyV0dueWs3elNnVGN0bHJGTmotaS1wSTRGWWVZY3lydXpjMUhZaWhpVnlGVlNPd3NlaE",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdjFNUkdNNExVU1lEeDNpcDVKcVRhWDQ1ZjFmdlRRc2ROaEpYOVJIdUUzTFZYWTdsNy0xejZyV0dueWs3elNnVGN0bHJGTmotaS1wSTRGWWVZY3lydXpjMUhZaWhpVnlGVlNPd3NlaE9pMWtqR1RKOXVDVFo5OWh2TTNqSURxWm5nNDM5cUxZMTZtSFlYdkRJMFByb1Bia3kxYVRacndpdDU1dUwtaEhDR0JCNGNCdm8tbzh1WnRySjNuZS1UNEdnMHV1eHpIWWNHN2hRZjVn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-09-21-031",
+    "date": "2026-09-21",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Tower (AMT) Upgraded to Buy: What Does It Mean for the Stock? - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPd2tuMkdLZS1CZ1kzZ3pqZzFTTjFhYk9IbW8wUWJfbHk0ZXRlZHphNE55ZjE5b2lmdGkxejR6ajJWb1Z4bzR6OWluc0VEcHFnbHFqek5SZHJTcjBFZEktdkVIbjlvLThVVTBtYXdtbG",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd2tuMkdLZS1CZ1kzZ3pqZzFTTjFhYk9IbW8wUWJfbHk0ZXRlZHphNE55ZjE5b2lmdGkxejR6ajJWb1Z4bzR6OWluc0VEcHFnbHFqek5SZHJTcjBFZEktdkVIbjlvLThVVTBtYXdtbGkzZ2VNcWZ3RURESi1LbFpVSkhTeGhJaEYwOFJhQlV2VmFJdUJBNGYtVjNtcXU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-09-21-032",
+    "date": "2026-09-21",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SBAC Maintained by Morgan Stanley -- Price Target Lowered to $20 - GuruFocus",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQUWtLcjl2SFN6UV82cHJNYkM3UUU4ZS0zVlVxN25kNDRTTXozQXVmLWNmQTBDQk1WWUNXb0RYbjk3NWZFenp6amdaaXFkUWNZbjRadHhQa21hUjR5ZkE5ZTBOZ1V2aUlUTTlsZlhkdz",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUWtLcjl2SFN6UV82cHJNYkM3UUU4ZS0zVlVxN25kNDRTTXozQXVmLWNmQTBDQk1WWUNXb0RYbjk3NWZFenp6amdaaXFkUWNZbjRadHhQa21hUjR5ZkE5ZTBOZ1V2aUlUTTlsZlhkdzREXzdFalcyU1pqRHdVclBGbFYtRHZISXRQdkdUaUNGdVdBbzk2TUpYNDRZRG9ac1hKOVE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-033",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Newsom clamps down on California data centers as voters turn against the industry - CalMatters",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdU12dnBZZTVNOEhMR3hFN21rdEZsRG12Z2VKUWZrSF9JVkh4OGlaUnBCOFFTaTZ2SUJUNWZTZ0FMZFc5SHlPMnFrWXQ0S2s3WEg3U291NUR1ejNrMGl3Zkw3ZnpJTEVCVGhBWlRnSV",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdU12dnBZZTVNOEhMR3hFN21rdEZsRG12Z2VKUWZrSF9JVkh4OGlaUnBCOFFTaTZ2SUJUNWZTZ0FMZFc5SHlPMnFrWXQ0S2s3WEg3U291NUR1ejNrMGl3Zkw3ZnpJTEVCVGhBWlRnSVBiYkFTRHgtaVVYSzJyOS1OYV9nbU1TQ1pHc2I0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-034",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vecima wraps buy of 'CableDiag' network analytics platform",
+    "summary": "Vecima Networks has completed the acquisition of Akleza's 'CableDiag' proactive network maintenance software platform, which is being deployed by more than 25 cable operators serving north of 5 millio",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/cable-technology/vecima-wraps-buy-of-cablediag-network-analytics-platform",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-035",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NCTA seeks second exemption from FCC's router ban",
+    "summary": "Amid ongoing supply chain constraints, NCTA has filed a second petition with the FCC seeking an expedited waiver on broadband routers that require minor hardware changes, including for components that",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/regulatory-politics/ncta-seeks-second-exemption-from-fcc-s-router-ban",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-036",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "JioStar taps SES to expand video distribution across India",
+    "summary": "SES has struck a multi-year deal to provide satellite distribution services for JioStar's lineup of TV channels across India and the Indian sub-continent via SES's IS-20 satellite. #pressrelease",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/satellite/jiostar-taps-ses-to-expand-video-distribution-across-india",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-037",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "EllaLink lays the branching units that will connect the Brazilian Amazon",
+    "summary": "<a href=\"https://totaltele.com/ellalink-lays-the-branching-units-that-will-connect-the-brazilian-amazon/\" title=\"EllaLink lays the branching units that will connect the Brazilian Amazon\" rel=\"nofollow",
+    "sources": [
+      {
+        "name": "total_telecom",
+        "url": "https://totaltele.com/ellalink-lays-the-branching-units-that-will-connect-the-brazilian-amazon/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-038",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "BT tech supporting police drones to monitor UK rail network",
+    "summary": "<a href=\"https://totaltele.com/bt-tech-supporting-police-drones-to-monitor-uk-rail-network/\" title=\"BT tech supporting police drones to monitor UK rail network\" rel=\"nofollow\"><img width=\"768\" height=",
+    "sources": [
+      {
+        "name": "total_telecom",
+        "url": "https://totaltele.com/bt-tech-supporting-police-drones-to-monitor-uk-rail-network/",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-039",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "The new 5G SA blueprint that is enabling telecom operators to provide the network backbone 24/7 industries need - Data Center Dynamics",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNGVtWm03UzBRMmhaMUdJTklubXFCdHZLX2Y5enJMcWp5VUF0bE5XaFNfTFNNLThKc2lqcDUtMlBQWlFCM3l5RktKS2VBd2p5QlpBS3gyMEtNTHVBVWp2NjF3U1hfbWhneEp6ZVhkR3",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNGVtWm03UzBRMmhaMUdJTklubXFCdHZLX2Y5enJMcWp5VUF0bE5XaFNfTFNNLThKc2lqcDUtMlBQWlFCM3l5RktKS2VBd2p5QlpBS3gyMEtNTHVBVWp2NjF3U1hfbWhneEp6ZVhkR3ZRUVhBbXF5UHRkSmlkYlU4eU5SbFRtRmhnanhKQTVlS1B0YTJzS2lLbzdha0doYmxzRkpWRTRhMUZIbzNMYjlTUmVjeC10aTJLRFBFM3BzZjhpNGFNZ3FYZEZ6dXlXcE9nSHFoSGJyejk0cnlXdHU5V2lLUERzUEJGLXMwbTRzNA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-040",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "8 Top Telecom Stocks to Buy With Healthy Dividends | Investing - US News Money",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPX0dzV0JjdlB2dl9rZzlsa0NDa21wSWs5MTducjAycnhacXl2cG5QSDFxT1hISFA3R0dzRzRZWm92RFM2Nmk3VklKaDlQZW1sWG9JMldTRVdScGhERk1ob1lNX1FIbi0xLVU0ZHBYRn",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX0dzV0JjdlB2dl9rZzlsa0NDa21wSWs5MTducjAycnhacXl2cG5QSDFxT1hISFA3R0dzRzRZWm92RFM2Nmk3VklKaDlQZW1sWG9JMldTRVdScGhERk1ob1lNX1FIbi0xLVU0ZHBYRnhKNU9pdlhRMFZ5eFY3cmRaeVVibTEyV2Y0cU02UA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-041",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Young Saudis see excellent returns in telecom sector jobs - Arab News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPV0xJSy1TWXpQMnlNaDJ4cTZ5V0xyR1dPckRVSUZCNHZ4cUp0T3Y4SWlWbkxKNHVBb1lyRHZ3Z0cyY25tYVVWSmRGLXNUSEdDa1pyUWtBamVkVnZQU2U2d1JlbTJHeHVXT01sTGxkdm",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPV0xJSy1TWXpQMnlNaDJ4cTZ5V0xyR1dPckRVSUZCNHZ4cUp0T3Y4SWlWbkxKNHVBb1lyRHZ3Z0cyY25tYVVWSmRGLXNUSEdDa1pyUWtBamVkVnZQU2U2d1JlbTJHeHVXT01sTGxkdmltU1hNZ2s0LWwxdzdlRVdWVFpQNVRwanNubmZBMnB3dk5OenlMelZNa0l1emh2RTRwOEwzSg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-21-042",
+    "date": "2026-09-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "MP govt to Hold Investor Talks in Bengaluru to Promote Telecom, Electronics Manufacturing - News On AIR",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNTjJuMGZWcEVkTkJPcm4wdHNzZDM5dE1jNlZFSUpRVmZrU2Y5S3ZVb1FiV211ZmpPTVlZc2RlSkR0VTVUcjlNNFdYY0w0QkRPb0Jsa0dSYldHQld6ZlhKNGc5VkdfRkJBbnVoemxjQm",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTjJuMGZWcEVkTkJPcm4wdHNzZDM5dE1jNlZFSUpRVmZrU2Y5S3ZVb1FiV211ZmpPTVlZc2RlSkR0VTVUcjlNNFdYY0w0QkRPb0Jsa0dSYldHQld6ZlhKNGc5VkdfRkJBbnVoemxjQmFraXM1VDRfcjJuQm5yQ01xZWhIQ3FUSnFqZDdVSEd5MzkzX2wwbWEzSWdSenRtdEdfRDBGdk9uQzN1bDVKYUtubG1oM0M?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nokia-2026-09-20-001",
     "date": "2026-09-20",
     "companies": [
@@ -740,6 +1490,104 @@
       {
         "name": "equinix",
         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbkI2STVQTGp0MW9uVzZjbmxWenJtWl9jN2ZHTWNQbGpQdElCR2N2cThFelhzdzZCeHZBSHQ3Y0lYUmtjTjBsNEZCb2h4VjZHMFpCbkV2bkNnM1YtZjlSUjU0VFZXanIyd2dDVGVvRi1zM19RTXJlZmg5dmQ5Mi05Z2pjZW9zODBwOWZ3QTlPZ0d1NEllUExyQnA1eW5NSlpJNzFHOTNnVVVxaWp6c2ROSHBRMEpfaUROaWFDbw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-09-20-017",
+    "date": "2026-09-20",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Inside Ciena’s 2029 Roadmap: Ambitious Targets Meet Bullish Analyst Ratings - Barchart.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxORUlkNjZ6endabHhDcmlUTVM5ZEYyRF9MSXltazFCQmp3VE9rSWsxUmhFVmFqUlE4bTFJN3ZqSFNOak42RnNxZDR1RDN0ZlZCSnRpWGdNdjZ3SHRxR2E4Vy1URkdKUk1sQTZnbTM3en",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORUlkNjZ6endabHhDcmlUTVM5ZEYyRF9MSXltazFCQmp3VE9rSWsxUmhFVmFqUlE4bTFJN3ZqSFNOak42RnNxZDR1RDN0ZlZCSnRpWGdNdjZ3SHRxR2E4Vy1URkdKUk1sQTZnbTM3enVQNE1KSnRZVDllU1l1QXB6dXkxa0hNeC02YUlHQmRZUGFBV0U4WjUtcTVkbTRwVVk5aEs4aGVPcDFQNHlwbFlEVFp3YURNWGZP?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-09-20-018",
+    "date": "2026-09-20",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Tower appoints new board member; confirms quarterly dividend - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNa3V5T0JIeDEzTm5DdVVlODREQ0tjWFVrbllXQ0NiSEMteGo1Mnk2cS1BOXJ4dGp1LXJuZ1FMd3V1eTQxNDZlckxqYWxzX3NWVlR0aEtfMklqRVpKWVZqcUtjWnEzVk9LeTM3V0tQSW",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa3V5T0JIeDEzTm5DdVVlODREQ0tjWFVrbllXQ0NiSEMteGo1Mnk2cS1BOXJ4dGp1LXJuZ1FMd3V1eTQxNDZlckxqYWxzX3NWVlR0aEtfMklqRVpKWVZqcUtjWnEzVk9LeTM3V0tQSWY1RnVBcnVuaTFsaEd5dVNDM2ctMm51cTN4b2l5QTNRaGJjZF9zMGVKNXQ5UkZhZmZNRklnNmZWRkpiNEw4STFEdQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-09-20-019",
+    "date": "2026-09-20",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Carrier Spending Cuts At SBA Communications Stock Have Changed Its Investment Story - webull.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQckR5U0JERFlxTXA0RmRRQTd0TWhfdjg0SzF5YkZJc2U5dGgxX0NKcUl3MUVYdzN1RHFCT0ROQ2VxN2hoOVdvOXRhV3VKc1NBQWZpOS13ZEo?oc=5\" target=\"_blank\">How Carr",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQckR5U0JERFlxTXA0RmRRQTd0TWhfdjg0SzF5YkZJc2U5dGgxX0NKcUl3MUVYdzN1RHFCT0ROQ2VxN2hoOVdvOXRhV3VKc1NBQWZpOS13ZEo?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-09-20-020",
+    "date": "2026-09-20",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Cape Town suspends decision on Equinix data centers — Daily Maverick - ua.news",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNSDU1elN6TGRZMzAwYUQzOF9CRWk5ano5SEtQczZEeG04djNEYWRmQ0czR3QyeVpaYUJoTFR4eWVsNG1WZk5QdFFkWEt3OVVPWDY3VEJjUmh5Y2VoWGNqN0xXVHlZVWlxUmoyNmVEWX",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSDU1elN6TGRZMzAwYUQzOF9CRWk5ano5SEtQczZEeG04djNEYWRmQ0czR3QyeVpaYUJoTFR4eWVsNG1WZk5QdFFkWEt3OVVPWDY3VEJjUmh5Y2VoWGNqN0xXVHlZVWlxUmoyNmVEWXhRMldwZDFwUGR6Wjl1cUVVMk55ZDJSWE9WRW5MNERJVGJUSG5DMnJ4cUkwd2RVUy1mM2tDOGMtbnhKSElKU293?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-09-20-021",
+    "date": "2026-09-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ooredoo Kuwait demonstrates 8x8 MIMO on 5G Advanced network - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPQWJ1TVVOMGY0N2hGZTVvX09PcWJ5VkNSYWRGQnI4ejZ5a3RZSmZUWUExVzJuc3U1TUJaMUZlVG43d1V0bE5kdE1VZVc2LWdhYTZuSG1LYlh6OTdrb1RFcWNZWlQtaW5Jcl9aQzZETV",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQWJ1TVVOMGY0N2hGZTVvX09PcWJ5VkNSYWRGQnI4ejZ5a3RZSmZUWUExVzJuc3U1TUJaMUZlVG43d1V0bE5kdE1VZVc2LWdhYTZuSG1LYlh6OTdrb1RFcWNZWlQtaW5Jcl9aQzZETVV5bGNBcGkxcEY0cEVPQ3BJeTFTbnBSOEd3aDl3TTFsQmNBMF9wWkpiOXZ5dTJqdjNyVjA3Ug?oc=5",
         "type": "rss"
       }
     ]
@@ -1953,6 +2801,27 @@
       {
         "name": "equinix",
         "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPck5ORGY2eDdmVFYyb2JGOXc2Zjg1R25NM2NhU0NfaW84QWR4UjFiUHpMbGZDdFNDRW9faU15ZERPZFNtbEppdzEwU3RTTk9kOXNERENfaUJVNzZUMGkwSktKTTN6OFozZ0UzcWtfLUtUR3dEQ0ZZQlJGOVJ0MXItMG1CTE04cVBCZDVnOWtnM3AwenRKU1ZIT25ORllrMVhSRklBdllFSVlUWkZ6blRfUE1ZbkNVdXM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-09-18-043",
+    "date": "2026-09-18",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ciena Targets $14B Revenue by 2029 as Optical Demand Outruns Supply - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQVWd0bmJYdUh5UVh5N01tWFE2OTVFRS0xMlBpeEFDamxvbEVXS21sYUdpQVNibEJJdndGSEk4T1BlRElWbFZhVHhSck1qQ3lyLW1NczJUekF2YVFLRXdCQ3ljYjVrWElLMDJtZUNFUW",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVWd0bmJYdUh5UVh5N01tWFE2OTVFRS0xMlBpeEFDamxvbEVXS21sYUdpQVNibEJJdndGSEk4T1BlRElWbFZhVHhSck1qQ3lyLW1NczJUekF2YVFLRXdCQ3ljYjVrWElLMDJtZUNFUWl2bU5NOENfX2xGUjlFbmtSM1F3VkZyeXktSjhBenlfbHZPSUtvZVVWVDVVVUdpWm95QTdfZDJnUzlWUE1JOE1QWUZJczZ3Y2FjOTVLSkJOQTFXczVmNkE?oc=5",
         "type": "rss"
       }
     ]

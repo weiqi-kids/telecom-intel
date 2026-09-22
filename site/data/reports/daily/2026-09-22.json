@@ -1,0 +1,201 @@
+{
+  "date": "2026-09-22",
+  "generated_at": "2026-09-22T13:00:29.253369Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "tmobile-2026-09-22-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Deutsche Telekom Expands Buyback as T-Mobile US Valuation Gap Persists - AD HOC NEWS",
+      "companies": [
+        "tmobile",
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcmxkLXdoYlFkUjRZLVZwR0FVcTU3Q2xYbVZOUzZJQjVEVEowRzF0cVpXRlYzT1hYcnJ4RGFfZjktZUlGcm1fTmU1SUdNWk1qeWozcHhpckVYc2hhMlJCOFdWNkV4UzFieENEeGd6dkNkTlluMm9hY1paVFpiTFJ6Y0tkbERTcklpWC1vOVlhUTJXX3NFaW9GQ1lRblFuazh1c25jbGZPemdGLXNLZXd3R1ltZGpBeElnVUVRdGYxWnpfaUYtVXFLNlJaYzA2bVVVM19uUndfNzh4Zw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "tmobile-2026-09-22-015",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "T-Mobile, Jio claim world's first 5G SA roaming connection",
+      "companies": [
+        "tmobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.lightreading.com/5g/t-mobile-jio-claim-world-s-first-5g-sa-roaming-connection"
+    },
+    {
+      "rank": 3,
+      "event_id": "ciena-2026-09-22-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Corporation (NYSE:CIEN) Given Average Rating of \"Moderate Buy\" by Brokerages - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbXB3RFlVSnJHYUNWX3hGVkIzQ0pFX3NBYWlmcEhKVlViQnJSbkhEQUNZeDMzWmZaMEdSV1B6SkRURmFWdUZSNHV6ajNhWGZFTWsyYU1KYklscHBvX0xRMUtrQUNIUHplXzVBNk91OHNXcDdXUzN2dDBILTZHRmowZDZKdHZpUjBOZVBGaGN6TGJyNHdmLUVvTm5URFR1MWkxTWp2V2lUZjA0MXVJUjRkd1JKeWNZRHkwYzZXV2JqcTJmWUtvY3hTcGRSeGo0YXNWcjd0QXo2SmItZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "deutsche_telekom-2026-09-22-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom stock gains 1.4 percent as valuation gap persists - AD HOC NEWS",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc0poNDBFaUx5X24tYnIwcmJVallrSWtWZ21pYU9HR0I2WFl6b19RcGZhOElsMDN6VExOdGMzNTFJZGM5aHYyeWNpZ0NzSUF5cjh0U0lNak5oVjZ3eWNrVzZpeFFYZlJjY1FUN3prMFdPWDBvNWJGRzVkZTNDUXdKSUYxeGJIQnVMdmNLRTl1bnVZb3pqcTlzNVVYcDZFbWxXV1B5b2o4RF9XLTZSLTRBWXF3c1JNS05XeXBwZlIwSUlYSmJDSUEweQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "softbank-2026-09-22-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SoftBank Corp stock holds near its yearly range - AD HOC NEWS",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOblFHT0VMSjF1MDFUQVFQaG41S2F6MkRaM2VMRVBYZWxRSkdyNEZQTXRsLUI0RHFXLU5Mc0gxQm1XbmRURGVUNUV1RTRBeWlPdFZIVWt6RGRQZG4yU3RNbWRqbG5QWk0xeEFCREVkeHZWQXoyQWNKQ1ZmQ2JOY3dFSTA1VXUyaWd3MVVua0FvYkhSS3locGtRY242Q21ab3V2NlRIN1ZCQ2hVRWpRR05j?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 19,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 16,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "softbank",
+        "count": 3
+      },
+      {
+        "id": "american_tower",
+        "count": 3
+      },
+      {
+        "id": "tmobile",
+        "count": 2
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 2
+      },
+      {
+        "id": "sba_comm",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 19
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 308,
+    "dup_title": 182,
+    "too_old": 69,
+    "gate1_blocked": 9,
+    "gate2_blocked": 3,
+    "passed": 45,
+    "pass_rate": "35.7%",
+    "gate2_block_rate": "2.4%",
+    "gate2_samples": [
+      "Breakingviews - COMMENTARY: Deutsche Telekom's best M&A path may be in EU - Reuters",
+      "Eurobites: Deutsche Telekom targets travelers with eSIM platform - Light Reading",
+      "SBA Communications: The Turnaround Setup Is Getting More Interesting (SBAC) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為軟銀、AMT、T-Mobile相關動態：「Deutsche Telekom Expands Buyback as T-Mobile US Valuation...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Deutsche Telekom Expands Buyback as T-Mobile US Valuation Gap Persists - AD H...（產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "T-Mobile, Jio claim world's first 5G SA roaming connection（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
