@@ -1,0 +1,203 @@
+{
+  "date": "2026-09-24",
+  "generated_at": "2026-09-24T13:05:34.257141Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "softbank-2026-09-24-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SoftBank Corp. R (3AG0.F) Q4 FY2025 Investor Call earnings call transcript - Yahoo Finance",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQlhEcVRVdVpYM1dUMzNEY2ttYmFsTzRkWWFja0dZRUtPTWdoby1oc1ZjTnlac3M0SVhDbTJTWTZiWHlOUU5sM2JWZEJmckxXUlF1RUQwVHRuMHl3aTk5RnhTdEd4VU91QnhNQzZfaFFNb2VFSXc5ZDZOMFhOb0I2VEgtekRPNGRWdTgwTXdSUFctOUk?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ciena-2026-09-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Zacks.com featured highlights include CareDx, Ciena, Celestica, Materion and MACOM Technology Solutions - Yahoo Finance",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSFZBYlZhdjJnWXp3NzcwSU41aUo2RGNvV0VNM2g2Si1KVlprbTdzU2lQNUNzUWxoMVZHSVV3MW5NQUZ5X2V4MTBGZENvdElGRnRLa1BrcEtOQjNpWW00RFl4SjNFV3g1dHYtaGx1RGhEcUZKWHY4MWV2TlZvd0ZmZTFNd3lfUkRWTTNQNWpRMGFjMlJCTVU3dXQ2TlNYdlh1NkhJ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-09-24-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "3 High Dividend Defensive Stocks For Steady Income In Uncertain Markets - simplywall.st",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOazFLMzhELUpLd0t6TXBra21jWDlETF9iTktTOXpDeW5hd0ZVWnFQdWJxUDZXdC1CZl9GS2dxcmp2Z0ltZW1xS0Z0U0I1aUhQM2pUQzZWVjR1aDBMYUFjVDVKaXFOeWF3bklwc0VhWWNJbHRhWW9mTVNXVTVFQmpPWGh5cGhLcHMyazJZOWdLeHd0cXctQWJjeV9BQkY2aWd4YWFCX1NPX0U4U3U5TERCN3hmZTkwRG40MjdpcGhDck5qUGhVWERYOEhLZEJXbE1LZE5F0gHYAUFVX3lxTE04NjNFRHpnYnJSWF9WS0lrMUVyZU1faWhhU1dxNmQySVprNkx3UUZYakhYSWJDR3g2TTRKcXJFbm5ETENCMUVaYTlTSzFyTjR0MnVPSU03R1N1djFHVmJHNkFlTkYxN04xSTFoZlNENFRYTjY3ZkpaTUhPYjRNVmE1V1RYNV9TVzZwMlQ0WHFxdlE2Y25pSEtsLUt5dDMtalRBejFhaWd1VjFmcFpVRTdKSDZzN0NDNXB5YUtZYlJBdnRINTNNODh6QTltVVN2VC12enJybUFZVA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "softbank-2026-09-24-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SoftBank Corp stock heads into the open after a 3.07 percent rise - AD HOC NEWS",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdFE4bmJDVGZwMmVhYkIzWENPdzRYekQxQmVtamxPVlVVUDZOWDdTMUo2VHhtbGpyb2lIVm1LV3I4a19fM3JtM1VYWXBSWWxISEt0ellwR0xxNktWZGdUUldqTnZuRXhhQTF0TnE5aHZNTkpHRFM2am1rQkxQZFZicHoxNTNKcGhJNTRQbjhJU2pxaWQ3cmgxYXRMQjg0MlZ0ek9jblJsc0lsX3FIYXZBbE9HeTRtSUFpYmdNQWxuOXYzTnpsNWZN?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "american_tower-2026-09-24-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "American Tower stock heads into the open after a 2.55 percent drop - AD HOC NEWS",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdmYtWV9feEZMbWxsX0MzZ2JYT1d5cnBNa0U2U0gwQy15d2s5bjUxQXpQeFQ0di1oZ3JtNHhEMDRwOEprUzNrbWxuZDg1cDdibFpvWXlNOUJPaDhvdHB5b2R2d2l0TU8tVFV6TFB6eTRpdm84dW1PLThaamFsaTRtTWdjT3Q5WTByVTlHTmxkQVNlQ0FPVDdadlNNbjBua2JjMlljVzFWSkJhWkxpQXZabkhLcXpkaFloZkFUR0JybElvTkxsb2h0QQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 9,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 10,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "softbank",
+        "count": 2
+      },
+      {
+        "id": "ciena",
+        "count": 1
+      },
+      {
+        "id": "american_tower",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 9
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 308,
+    "dup_title": 180,
+    "too_old": 72,
+    "gate1_blocked": 10,
+    "gate2_blocked": 7,
+    "passed": 37,
+    "pass_rate": "28.9%",
+    "gate2_block_rate": "5.5%",
+    "gate2_samples": [
+      "Form 144 CIENA CORPORATION For: 23 September By Investing.com - Investing.com UK",
+      "Breakingviews - COMMENTARY: Deutsche Telekom's best M&A path may be in EU - Reuters",
+      "Eurobites: Deutsche Telekom targets travelers with eSIM platform - Light Reading",
+      "Deutsche Telekom takes on the trolls - shots.net",
+      "What Is Behind the New Interest in SBA Communications (SBAC)? - Kalkine Media"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 10 則事件，焦點為軟銀、Ciena、AMT相關動態：「SoftBank Corp. R (3AG0.F) Q4 FY2025 Investor Call earning...」。主要關注主題為產業通用、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "SoftBank Corp. R (3AG0.F) Q4 FY2025 Investor Call earnings call transcript - ...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Zacks.com featured highlights include CareDx, Ciena, Celestica, Materion and ...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
