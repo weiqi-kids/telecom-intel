@@ -1,0 +1,16 @@
+{
+  "total_raw": 312,
+  "dup_title": 177,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 13,
+  "gate2_fail": 8,
+  "passed": 45,
+  "gate2_samples": [
+    "Form 144 CIENA CORPORATION For: 23 September By Investing.com - Investing.com Nigeria",
+    "Breakingviews - COMMENTARY: Deutsche Telekom's best M&A path may be in EU - Reuters",
+    "Eurobites: Deutsche Telekom targets travelers with eSIM platform - Light Reading",
+    "Deutsche Telekom takes on the trolls - shots.net",
+    "What Is Behind the New Interest in SBA Communications (SBAC)? - Kalkine Media"
+  ]
+}
