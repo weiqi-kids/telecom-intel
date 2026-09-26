@@ -1,0 +1,167 @@
+{
+  "date": "2026-09-26",
+  "date_range": {
+    "start": "2026-09-20",
+    "end": "2026-09-26"
+  },
+  "generated_at": "2026-09-26T12:37:28.742324Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "unknown-2026-09-25-014",
+      "date": "2026-09-25",
+      "title": "Vecima posts record sales, wins more vCMTS deals",
+      "importance_score": 0.9
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "deutsche_telekom",
+      "company_b": "tmobile",
+      "co_mention_count": 4,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 99,
+      "last_week": 115,
+      "week_over_week_change": "-14%",
+      "sentiment_this_week": 0.03
+    },
+    "earnings": {
+      "this_week": 8,
+      "last_week": 9,
+      "week_over_week_change": "-11%",
+      "sentiment_this_week": 0.12
+    },
+    "fiber_buildout": {
+      "this_week": 4,
+      "last_week": 6,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": -0.12
+    }
+  },
+  "company_7d_summary": {
+    "nokia": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "deutsche_telekom": {
+      "event_count": 14,
+      "sentiment_avg": 0.07,
+      "rank": 1
+    },
+    "softbank": {
+      "event_count": 14,
+      "sentiment_avg": -0.04,
+      "rank": 2
+    },
+    "american_tower": {
+      "event_count": 12,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "sba_comm": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "equinix": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 8
+    },
+    "ciena": {
+      "event_count": 7,
+      "sentiment_avg": 0.29,
+      "rank": 6
+    },
+    "tmobile": {
+      "event_count": 3,
+      "sentiment_avg": 0.5,
+      "rank": 7
+    },
+    "ericsson": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "zte": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "ceragon": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 230,
+        "last": 335,
+        "change_pct": -31.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-09-20",
+      "event_count": 21,
+      "sentiment_avg": -0.1
+    },
+    {
+      "date": "2026-09-21",
+      "event_count": 54,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-22",
+      "event_count": 47,
+      "sentiment_avg": 0.09
+    },
+    {
+      "date": "2026-09-23",
+      "event_count": 43,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-09-24",
+      "event_count": 26,
+      "sentiment_avg": -0.04
+    },
+    {
+      "date": "2026-09-25",
+      "event_count": 33,
+      "sentiment_avg": 0.08
+    },
+    {
+      "date": "2026-09-26",
+      "event_count": 6,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-09-20 ~ 2026-09-26）共 230 則事件，重點為「Vecima posts record sales, wins more vCMTS deals」。事件量較上週減少，市場進入觀望階段。",
+    "watchlist": [
+      {
+        "company": "Equinix",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "諾基亞",
+        "reason": "本週出現 7 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "德國電信",
+        "reason": "本週出現 14 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

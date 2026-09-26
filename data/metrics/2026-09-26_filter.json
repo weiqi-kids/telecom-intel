@@ -1,0 +1,16 @@
+{
+  "total_raw": 312,
+  "dup_title": 180,
+  "no_date": 0,
+  "too_old": 78,
+  "gate1_fail": 11,
+  "gate2_fail": 12,
+  "passed": 31,
+  "gate2_samples": [
+    "Convert 1 CIEN (Ciena Corporation • Robinhood Token) to KZT (Kazakhstani Tenge) - Bybit",
+    "Form 144 CIENA CORPORATION For: 23 September By Investing.com - Investing.com Nigeria",
+    "Deutsche Telekom acquires exclusive rights to the Basketball Champions League - championsleague.bask",
+    "Breakingviews - COMMENTARY: Deutsche Telekom's best M&A path may be in EU - reuters.com",
+    "Eurobites: Deutsche Telekom targets travelers with eSIM platform - Light Reading"
+  ]
+}

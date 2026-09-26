@@ -1,0 +1,184 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T12:37:28.649207Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "deutsche_telekom-2026-09-26-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom Adds Basketball Rights, Satellite IoT and 50 New Stores as Bernstein Trims Its Targ - AD HOC NEWS",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPekJvMS1Pa2hVbnhVYndUWnRLb3BLbjFmTVh0SXlLMXZMWDZrUlRuTGVhOXdaRzAtZkdwNHVHV0hSUTdnSnZzcURsMlpoUWdFS3UwVWVmUFBCT2ZHUS11ZjNzLXJqbkZaMmxJSkZZTy14U040NVNiY20wMlVSNHcyVmNRWk5LUDZVcnh5OFZDNGpRS0QtYkZWak1NQlh1MUpUZkplenVScjRMcDFETG5VNUQxa215V1ZMMWpocldmMmZaTklwNmw2S1Rnd2dVZEFCbkRzZ1hLcVJGYUU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "deutsche_telekom-2026-09-26-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom Bets on AI Call Agents, Satellite IoT and Basketball Rights as Bernstein Turns Caut - AD HOC NEWS",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYzRhYmFMaE1YT3QyOXlVa0VqVkY1cGhnak1GbUpydVJFamdmeV8yS3EwR2N2SDFFZFllUjRybUlTMEQ0d183ZzIyOG41WUhCWnlxbzdaclNvYlU2RFJPRy1hYWhvV25zOG0za0xMT2FZTEduTXc2bmVONlF1ZWlsbWlfQUhJUUV1VmxLbG1UU0xERkphRkE0WTd0VDZRV29tZjgtLWVJZ1pRZnpTV0pBTGRTUzAxLTZZbU9CZWpMU3hud0lhRmtrQnVSWGxXQzc4NUNQRlJJVQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "softbank-2026-09-26-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Just Two Days Till SoftBank Corp. (TSE:9434) Will Be Trading Ex-Dividend - simplywall.st",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNGYtVml4VVpKdm9NQ2lsajdIY0EzNFBZaDBlSlo3Z0Q3N3VXWXNhcHpmS3J1a1AwbXNXQnV3N29pOEJvUXY4ajk4RGxWUHV0SWdfMGNPd1FPOXM1cXZvQmtFZlFEV0pNOUQ4LV9rWmdwa01aRDFJUFpMemI5OVFKZ2FFcjhqOVFCUWloc3FRRmJKb0dDemFadUltMjZjUU1zZmd0Y2hlU056N192all0ZUFOVXpyOXlDNHVzYjYxVGRrWjRjMWlfLdIBzgFBVV95cUxNSkpycHRqdlVnYVBGa2ctU0dyWGVLcGhMZnRCYUVkTGpOSlpfTF9ma25uN0NwWFpVbjFDMWdPbFhMRklWdzZES1M5anJKQmtIX2dSV1k1cnA4ZWVsRVFkYmNiVUtHeTVNSFdTV2dPNy0xRExSeFdRTGJGZFRsdV9MeVBnSWhvZm5GLU5MaVE5SHRwWHpReGNNV00ySFVBVlFaTTh4MnZxUFdqdkNpR0tVREhvRW5qdkVGektkTGFvXzJtZ0hpVFJLUEJENk1uZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sba_comm-2026-09-26-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SBA Communications (SBAC) Launches $2.5 Billion Commercial Paper Program - GuruFocus",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTmNJaXJ1c1BaZXZjTnZ1dmloZDI2enBIQ05KektIRzNaVzlDRXNSVmVDMVU4Zkp0b3JsYVBkYXN1dUdNYVVGQnFPckNVbHlRU1ZaZWxacE9fcy1WbTdwZjV1MWJrTzJpQ0d6Z2Zzc093X1JYZDZzdEJPSW1nVnRFdUhOSzVSWlJSSG41c19tUGVrVk5xUmM3SksyLWxyUVptcVE1ZVp0WE5aQUU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-09-26-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Telecom Giants Accelerate 5G SA for Network Slicing - 조선일보",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdWxUbVYySFZTTkI1YWR2Q21fdnZzWnZYRnJBZWR6anZqZ0I1WE83dWdLdFB3UW1vWWJhQU9lR1BiU1h4aVh3OU9jR1lYODhyX3R1YXlOMU8wVUx1ektuTzl2OHlFX1h2bkNDTFE3cVVYVlpKY195a3FkTEhCWDV4OWM5bXk2UDJB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 6,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "deutsche_telekom",
+        "count": 2
+      },
+      {
+        "id": "softbank",
+        "count": 1
+      },
+      {
+        "id": "sba_comm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 312,
+    "dup_title": 180,
+    "too_old": 78,
+    "gate1_blocked": 11,
+    "gate2_blocked": 12,
+    "passed": 31,
+    "pass_rate": "23.5%",
+    "gate2_block_rate": "9.1%",
+    "gate2_samples": [
+      "Convert 1 CIEN (Ciena Corporation • Robinhood Token) to KZT (Kazakhstani Tenge) - Bybit",
+      "Form 144 CIENA CORPORATION For: 23 September By Investing.com - Investing.com Nigeria",
+      "Deutsche Telekom acquires exclusive rights to the Basketball Champions League - championsleague.bask",
+      "Breakingviews - COMMENTARY: Deutsche Telekom's best M&A path may be in EU - reuters.com",
+      "Eurobites: Deutsche Telekom targets travelers with eSIM platform - Light Reading"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為德國電信、軟銀、SBA相關動態：「Deutsche Telekom Adds Basketball Rights, Satellite IoT an...」。主要關注主題為產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Deutsche Telekom Adds Basketball Rights, Satellite IoT and 50 New Stores as B...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Deutsche Telekom Bets on AI Call Agents, Satellite IoT and Basketball Rights ...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
