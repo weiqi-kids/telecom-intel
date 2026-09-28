@@ -1,0 +1,16 @@
+{
+  "total_raw": 312,
+  "dup_title": 179,
+  "no_date": 0,
+  "too_old": 75,
+  "gate1_fail": 12,
+  "gate2_fail": 12,
+  "passed": 34,
+  "gate2_samples": [
+    "$1000 Invested In Ciena 10 Years Ago Would Be Worth This Much Today - Benzinga",
+    "Form 144 CIENA CORPORATION For: 23 September By Investing.com - Investing.com Nigeria",
+    "Deutsche Telekom expands basketball offering with BCL rights - Sportcal",
+    "Deutsche Telekom acquires exclusive rights to the Basketball Champions League - championsleague.bask",
+    "Deutsche Telekom takes on the trolls - shots.net"
+  ]
+}

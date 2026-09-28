@@ -1,0 +1,249 @@
+{
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T16:20:18.718822Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "softbank-2026-09-28-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SoftBank Corp stock trades at JPY 244.50 as Q1 revenue grows - AD HOC NEWS",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdFAzR3Y1Tlgtb2F1RjNMSlRLYjFlbC1BZEFGMUZQWEU2eDN0NXlTTWZZSnQ2RGlmbXI2YXVWQzM2OUhEVVM0ZXl0NFNKcWRKUFItYnJOcm01am5ZckNwZVR1Y0tUNGw0dHBxU3gzWFJvSzFnbGZ4VFFkb0llZEd6MWhsVDRaNTZieGZGNmU0Ukg3aERRaWpjRUlnOE0xQ3puMjM0clZEOVNsRWtaZVVmb21Hc000Q0lZOVpYRWhqWDI?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-09-28-026",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India Telecom Market 2026: Jio vs Airtel vs Vi vs BSNL on Subscribers, ARPU, 5G and Capex - TelecomLead",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "arpu",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZmZLLTJUMGlRUFlIdFFTZTJZU2p0NmpPSndMeTZzXzhuekF3aWpiNGctU0ZhQXpSOC1ycFZWNmo4ZmRUSTUyRE1Kdk5uTzA0Z1FxeXAwbF9IVnZESDN3WVRJdzJielE1UXdPZlBmQkhqMDNrR2dqd2dhTTQ4R1lsMnp4U0NZRmw2czFkeDBXMGp6NEJFOFhzR1Q2SWROdVU5bTFKUlFqR3haUEV3N3o2MENOalMxcFdqOVhRYjVKR1JOd9IBygFBVV95cUxPZ1Z0TVR2WURZTmJrcnVSYTdud2MxekhRaTQxdE9hNWxZa1V6cnlnUHFGSmZtVVdPaklPQnNjeEV2cjZlSkY5Z2w0LVNsdVBiZE94RXJlY0duN01oQ2V1Y0RmOWFnTUpGSFlTOVhCT2V6eHF0STluTDVqU2JxZC1FakhvRXQwRmc1OFBhYVRaYkdhaGZUYXdSTGxYck5iNEpQVVRiTGpxZHJoX2l5V2NOOHota0FUUjB3azNNTnM0QWcyZjA2c2RaUktR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ericsson-2026-09-28-016",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Nokia puts new open RAN tech in 5G revival bid as Ericsson demurs",
+      "companies": [
+        "ericsson",
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "5g_deployment",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/open-ran/nokia-puts-new-open-ran-tech-in-5g-revival-bid-as-ericsson-demurs"
+    },
+    {
+      "rank": 4,
+      "event_id": "ciena-2026-09-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Corporation (CIEN) Stock Forecasts - Yahoo! Finance Canada",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNS19xdzR6VVNqVFBxYWFLZ0hBeTJzbGZYeTRNUF83THZ6alUwSHM3c0lCbGhvU1Q4UzgzRFhBanVRVzlTRUE3QTd2UWJoWlRQRUJnb3pzbklVYlFVbU1XNHB4ZzhzYmRIbHlnYUNXNENSSXpzRkVYaEZDdVVwdnFaQ0ZVSXZXSDZ4M01zNUM5OWFaZzNzc1NIWHdnZ20?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "deutsche_telekom-2026-09-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom AG (DTE) Buys 3.29M Shares Sept 21–25 - TradingView",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeWQwOXdMTlpMVVlMMjNBMXV4dFpVQUFwS0VzR0M3eWRvVWZwTEVMc29YdEdVRWx3Ymd5VXp4anFKWks2eUsyUDI5aVo0NkI4elN3NFh6RlBXWnJUSkRXb0tYLURjVVkwVEFnU1dPbDlGZzUwS3lHZ1hRWGtZdEp4WGpsbTJTbGxSdjZEd2ZSOFVIVWRfcDhhX1dyQVJ1eHhsaGUzZ0czdW5VWHJBOUZJckJxSlE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "5g_deployment": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "arpu": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 29,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 29,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "softbank",
+        "count": 2
+      },
+      {
+        "id": "equinix",
+        "count": 2
+      },
+      {
+        "id": "ericsson",
+        "count": 2
+      },
+      {
+        "id": "ciena",
+        "count": 1
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 27
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "5g_deployment",
+        "count": 1
+      },
+      {
+        "id": "arpu",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 312,
+    "dup_title": 179,
+    "too_old": 75,
+    "gate1_blocked": 12,
+    "gate2_blocked": 12,
+    "passed": 34,
+    "pass_rate": "25.6%",
+    "gate2_block_rate": "9.0%",
+    "gate2_samples": [
+      "$1000 Invested In Ciena 10 Years Ago Would Be Worth This Much Today - Benzinga",
+      "Form 144 CIENA CORPORATION For: 23 September By Investing.com - Investing.com Nigeria",
+      "Deutsche Telekom expands basketball offering with BCL rights - Sportcal",
+      "Deutsche Telekom acquires exclusive rights to the Basketball Champions League - championsleague.bask",
+      "Deutsche Telekom takes on the trolls - shots.net"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 29 則事件，焦點為軟銀、Equinix、愛立信相關動態：「SoftBank Corp stock trades at JPY 244.50 as Q1 revenue gr...」。主要關注主題為產業通用、法說會、5G 部署，市場情緒中性。",
+    "signals": [
+      {
+        "text": "SoftBank Corp stock trades at JPY 244.50 as Q1 revenue grows - AD HOC NEWS（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "India Telecom Market 2026: Jio vs Airtel vs Vi vs BSNL on Subscribers, ARPU, ...（ARPU、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
