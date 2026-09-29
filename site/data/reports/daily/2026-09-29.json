@@ -1,0 +1,250 @@
+{
+  "date": "2026-09-29",
+  "generated_at": "2026-09-29T14:31:34.467695Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ciena-2026-09-29-001",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Ciena Has a Record Backlog and Raised Guidance — So Why Is the Stock Down 46% From Its High? - TOP1markets",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUURpazJhS0NveHlyclBuYlRmVFhYRUNVTEl1ZlY0aEU5WmlzSk1HQ1Z3Zmx1NDJ2UXh6OXZJaldoYjdSblprTHluZUJzZVJOMlh3T09OeHJlOWZfWE9VYU9iSEVqQzgtakhsejhKVlFoaTJoOEIzcmJDSDBTLW80MFhwdlVlSFZn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ericsson-2026-09-29-018",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Eurobites: Cellnex Poland turns to Ericsson for tower gear upgrade",
+      "companies": [
+        "ericsson",
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fiber_buildout",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/mobile-core/eurobites-cellnex-poland-turns-to-ericsson-for-tower-gear-upgrade"
+    },
+    {
+      "rank": 3,
+      "event_id": "ericsson-2026-09-29-019",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Massive MIMO attacked as Galtronics bets on multibeam 5G growth",
+      "companies": [
+        "ericsson",
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.lightreading.com/5g/massive-mimo-attacked-as-galtronics-bets-on-multibeam-5g-growth"
+    },
+    {
+      "rank": 4,
+      "event_id": "deutsche_telekom-2026-09-29-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Deutsche Telekom reaches record 57.7 TB data traffic in first Oktoberfest weekend - Telecompaper",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNno5N2lTbDd3ZENBOFh3UkV2WlJkalVlTU1XeXY3bFJjbUVNeGhyd2tndFhKOS1ZNjlXQTlvaC0xb1lsVUdiVzJWV1lDaUJwWVhuOUJLTnU5SXFaYVBJYmg1RERGcGtCSDNFeUluUDRGWmx0VUlaenNWUTJ4TDlZYzZlenFmRnpKTXZqeTFMdjBPTFpMNWw3bFoxcExzRGkxdDhKbDRZVkxldm1DTlhRandNLUp2MUVmX241a0FaZDQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ciena-2026-09-29-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Corporation (CIEN) Stock forecasts - Yahoo Finance Australia",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWjJFb3hlYk4weU1qMW1pYjJDamZQMVdHOWtva0JGRWVnaUFiUEpRdHV5dVZOaWFBTzRuVWRaNUZFU3lWcU50THJzVUpRMGFzX2xXM1k2a1BPNm8wQXVrLXFaWnoxSEFyYjZnY1NBRFhkY2c3UVV4SXRGWk1NMEEzVEdnYTlFYU1XRklPR0U1eDVqazM0R0pOcC15aFg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.13,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "ericsson",
+      "to": "nokia",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "fiber_buildout",
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 24,
+    "sentiment_distribution": {
+      "positive": 5,
+      "neutral": 18,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "deutsche_telekom",
+        "count": 6
+      },
+      {
+        "id": "ciena",
+        "count": 2
+      },
+      {
+        "id": "sba_comm",
+        "count": 2
+      },
+      {
+        "id": "equinix",
+        "count": 2
+      },
+      {
+        "id": "ericsson",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 302,
+    "dup_title": 170,
+    "too_old": 75,
+    "gate1_blocked": 8,
+    "gate2_blocked": 9,
+    "passed": 40,
+    "pass_rate": "30.3%",
+    "gate2_block_rate": "6.8%",
+    "gate2_samples": [
+      "$1000 Invested In Ciena 10 Years Ago Would Be Worth This Much Today - Benzinga",
+      "Inside Deutsche Telekom's Wet Leg Berlin Concert - Wonderland Magazine",
+      "Deutsche Telekom acquires exclusive rights to the Basketball Champions League - championsleague.bask",
+      "Deutsche Telekom partners with Cloudflare on security solutions By Investing.com - Investing.com Can",
+      "Deutsche Telekom expands basketball offering with BCL rights - Sportcal"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 24 則事件，焦點為德國電信、Ciena、SBA相關動態：「Ciena Has a Record Backlog and Raised Guidance — So Why I...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Ciena Has a Record Backlog and Raised Guidance — So Why Is the Stock Down 46%...（法說會、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Eurobites: Cellnex Poland turns to Ericsson for tower gear upgrade（光纖建設、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

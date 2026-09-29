@@ -1,0 +1,16 @@
+{
+  "total_raw": 302,
+  "dup_title": 170,
+  "no_date": 0,
+  "too_old": 75,
+  "gate1_fail": 8,
+  "gate2_fail": 9,
+  "passed": 40,
+  "gate2_samples": [
+    "$1000 Invested In Ciena 10 Years Ago Would Be Worth This Much Today - Benzinga",
+    "Inside Deutsche Telekom's Wet Leg Berlin Concert - Wonderland Magazine",
+    "Deutsche Telekom acquires exclusive rights to the Basketball Champions League - championsleague.bask",
+    "Deutsche Telekom partners with Cloudflare on security solutions By Investing.com - Investing.com Can",
+    "Deutsche Telekom expands basketball offering with BCL rights - Sportcal"
+  ]
+}
