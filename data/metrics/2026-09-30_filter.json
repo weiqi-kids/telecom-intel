@@ -1,0 +1,16 @@
+{
+  "total_raw": 309,
+  "dup_title": 168,
+  "no_date": 0,
+  "too_old": 64,
+  "gate1_fail": 8,
+  "gate2_fail": 11,
+  "passed": 58,
+  "gate2_samples": [
+    "Convert 1 CIEN (Ciena Corporation • Robinhood Token) to KZT (Kazakhstani Tenge) - Bybit",
+    "Eurobites: Deutsche Telekom connects with Cloudflare - Light Reading",
+    "Deutsche Telekom AG : Bernstein is Neutral - marketscreener.com",
+    "Cloudflare and Deutsche Telekom Join Forces for a Secure and Resilient Internet - Cloudflare",
+    "Deutsche Telekom Ag and Cloudflare, Inc. Expand Deutsche Telekom Enterprise Portfolio with Cloudflar"
+  ]
+}

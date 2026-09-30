@@ -1,0 +1,240 @@
+{
+  "date": "2026-09-30",
+  "generated_at": "2026-09-30T14:28:53.828482Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sba_comm-2026-09-30-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SBA Communications stock reports mixed tower growth as 2026 outlook firms - AD HOC NEWS",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTDJhZWJmZFNPejBSWDlnZ2FTQzgzM1lUcHlqZGxyTGluaXNsQy1MMFNFMVJYSTRsZ3BHSGo2S1dib0psV2I5b3Y2MkNKcVVfNDRRRHVES1E2ZWxmcE16dzlJaTF5S0lvTElFVXZ1Q2lETFhOSFlHN195QjM3cXNPVVljdVdiNk8zNDBDM1I1N3htQm9tVkYzMTlKWTRyTTEyVGdjd2tNOW41V1BYVFhsVFJXWUxRNk9KLVVaS2FnX0w3OWs5RTF3M3pZRXU?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nokia-2026-09-30-017",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Eurobites: Deutsche Telekom connects with Cloudflare",
+      "companies": [
+        "nokia",
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "nokia"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/security/eurobites-deutsche-telekom-connects-with-cloudflare"
+    },
+    {
+      "rank": 3,
+      "event_id": "ericsson-2026-09-30-018",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Ericsson and Nokia face 6G teething troubles and telco pushback",
+      "companies": [
+        "ericsson",
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/6g/ericsson-and-nokia-face-6g-teething-troubles-and-telco-pushback"
+    },
+    {
+      "rank": 4,
+      "event_id": "ciena-2026-09-30-020",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Wednesday Bytes: Orange Business, Nokia, Boldyn, Ciena, Angola Cables",
+      "companies": [
+        "ciena",
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaVRZNZBYw-vkiaFXCh3gpZL?utm_source=follow.it"
+    },
+    {
+      "rank": 5,
+      "event_id": "ceragon-2026-09-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Return on assets % of Ceragon Networks Ltd – HAN:GGN - TradingView",
+      "companies": [
+        "ceragon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUmdCaURhM0Y2ZHBKQjc4WnFSMmJ6WTI1NlRRQVJkOUtoSjh1a203a3lMUFJqdklnX0YtZXpGY0NRSWkybnpYeVU4VWF4TUJob0lETkpvZmNmQVpYanEzSjRXX29ManYzTWs1UXAxcEM1SXlmSjk1STlDXzNQSHVUTDBGYU94WWotQ1NUMmNKSENFU1ZwSzctYkp3?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 28,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 28,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 25,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "deutsche_telekom",
+        "count": 5
+      },
+      {
+        "id": "sba_comm",
+        "count": 5
+      },
+      {
+        "id": "ciena",
+        "count": 3
+      },
+      {
+        "id": "nokia",
+        "count": 3
+      },
+      {
+        "id": "ceragon",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 28
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 309,
+    "dup_title": 168,
+    "too_old": 64,
+    "gate1_blocked": 8,
+    "gate2_blocked": 11,
+    "passed": 58,
+    "pass_rate": "41.1%",
+    "gate2_block_rate": "7.8%",
+    "gate2_samples": [
+      "Convert 1 CIEN (Ciena Corporation • Robinhood Token) to KZT (Kazakhstani Tenge) - Bybit",
+      "Eurobites: Deutsche Telekom connects with Cloudflare - Light Reading",
+      "Deutsche Telekom AG : Bernstein is Neutral - marketscreener.com",
+      "Cloudflare and Deutsche Telekom Join Forces for a Secure and Resilient Internet - Cloudflare",
+      "Deutsche Telekom Ag and Cloudflare, Inc. Expand Deutsche Telekom Enterprise Portfolio with Cloudflar"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 28 則事件，焦點為德國電信、SBA、Ciena相關動態：「SBA Communications stock reports mixed tower growth as 20...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "SBA Communications stock reports mixed tower growth as 2026 outlook firms - A...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Eurobites: Deutsche Telekom connects with Cloudflare（產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
