@@ -1,0 +1,250 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T14:59:07.277050Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ciena-2026-10-01-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ciena raises revenue guidance and Ciena stock sits 44.81 percent below its high - AD HOC NEWS",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQb3Y2dzRoY1owdXJmZ3RYZWxoR2U2dmV6YUhrTmxKT0FGU0pMVTNRMHU4VjNOS19HeDBPMWd2UTY3RFpaV0pidm1MSGhVZUpYNFA5NnBlZW83MEZybUJ3LVZWNjJGdGhkTXN0dVYtYWFLSTNKY1JTYkhOWUlsaEpDYkhFTWN2VjR5RnlqUkNJaUFObEl6VkJNUC1udDlMUXJWRl9lOTFBWEtzRTFMY2VoWEp5b28xblpBMUZUWTN3OVJfZlp4UTF3Zm5vcjkyZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "equinix-2026-10-01-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Equinix Joins AI Capex Race, Consolidation Triggers Upgraded Buy Rating (NASDAQ:EQIX) - Seeking Alpha",
+      "companies": [
+        "equinix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "spectrum_auction",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVGxobklZR3pmcWRuZjhtcTBjMGFtVGU0R1NCckZvZ0l0MTVzb0xrcDdLTThuazloaUd1RE9lemtBZERNRjIzcVN1YmRWQ3Vjb0pjalFTdFVHRktTZzVCZDhMV2lTQXRyU3haWFkxOHliaE1xcGVFT0IzNXdBQ0l0clRZaUdTN3pNUVBidjFXSnhKX2xJNFBxMnhGb3JYVGdhbHlwUlhKMTROZ1JxMVhLMmlvQkdDMVU1?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "verizon-2026-10-01-011",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "AT&amp;T, T-Mobile and Verizon launch joint venture to end dead zones; name Paul Roth interim CEO",
+      "companies": [
+        "verizon",
+        "tmobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/satellite/at-t-t-mobile-and-verizon-launch-joint-venture-that-helps-end-dead-zones-name-paul-roth-interim-ceo"
+    },
+    {
+      "rank": 4,
+      "event_id": "deutsche_telekom-2026-10-01-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom AG : Receives a Buy rating from Berenberg - marketscreener.com",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ3ZJdzZMaGt4SF9zc2RMQmphbWM5Y1pMeGx5VXd1Wmx4ZHNFYXR2MndaaHMxbHhiejgycGZ2YkpRbi1XRDRON04yUFZGelJIanJ1dlBBb3RXTk5aalpTMTBSemRMM24tcXpybXdDRlE1Qy1MNzlBUXJpc2JRWGo3ZjQ5b1UzX1MzU0NqSEc0U2YyQmpGSGI3aVBlSnFOUTBOTGxwVlFla3ZyVEdpN1E?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "deutsche_telekom-2026-10-01-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Hrvatski Telekom secures EUR 40 m loan from Deutsche Telekom for refinancing - Telecompaper",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN2w3bDhPd25JRUluWkJfMzlmVWRHWXRxV3pONlRiMGxTeHdIdi15ZHltbHlkV2YzaW5xRVpabEpneF9mY3VzbFdSVEtXX185eFhuc0FxcHp1MUd2cXVBeWxCeWxaaWl5NGt3UGdaOC1IQndtRHBLamhKZkZZMUs1RlN3b3Z0MExwUHV1RGl6STZpOU5uOWZSQXV4VlJ6MkNMMHdlSUxBdUoydHZCejhUd0lHdHgydEJHLTFJ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "spectrum_auction": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 22,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "deutsche_telekom",
+        "count": 3
+      },
+      {
+        "id": "softbank",
+        "count": 3
+      },
+      {
+        "id": "equinix",
+        "count": 2
+      },
+      {
+        "id": "ciena",
+        "count": 1
+      },
+      {
+        "id": "american_tower",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "spectrum_auction",
+        "count": 1
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 311,
+    "dup_title": 179,
+    "too_old": 74,
+    "gate1_blocked": 6,
+    "gate2_blocked": 9,
+    "passed": 43,
+    "pass_rate": "32.6%",
+    "gate2_block_rate": "6.8%",
+    "gate2_samples": [
+      "Convert 1 CIEN (Ciena Corporation • Robinhood Token) to KZT (Kazakhstani Tenge) - Bybit",
+      "India Must Pay $132M Deutsche Telekom Award, Judge Says - Law360",
+      "Eurobites: Deutsche Telekom connects with Cloudflare - Light Reading",
+      "Cloudflare and Deutsche Telekom Join Forces for a Secure and Resilient Internet - Cloudflare",
+      "Deutsche Telekom, Cloudflare Partner to Boost Digital Infrastructure Security in Europe - marketscre"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為德國電信、軟銀、Equinix相關動態：「Ciena raises revenue guidance and Ciena stock sits 44.81 ...」。主要關注主題為產業通用、法說會、頻譜拍賣，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Ciena raises revenue guidance and Ciena stock sits 44.81 percent below its hi...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Equinix Joins AI Capex Race, Consolidation Triggers Upgraded Buy Rating (NASD...（頻譜拍賣、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

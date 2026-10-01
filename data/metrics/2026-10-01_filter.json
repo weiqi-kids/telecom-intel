@@ -1,0 +1,16 @@
+{
+  "total_raw": 311,
+  "dup_title": 179,
+  "no_date": 0,
+  "too_old": 74,
+  "gate1_fail": 6,
+  "gate2_fail": 9,
+  "passed": 43,
+  "gate2_samples": [
+    "Convert 1 CIEN (Ciena Corporation • Robinhood Token) to KZT (Kazakhstani Tenge) - Bybit",
+    "India Must Pay $132M Deutsche Telekom Award, Judge Says - Law360",
+    "Eurobites: Deutsche Telekom connects with Cloudflare - Light Reading",
+    "Cloudflare and Deutsche Telekom Join Forces for a Secure and Resilient Internet - Cloudflare",
+    "Deutsche Telekom, Cloudflare Partner to Boost Digital Infrastructure Security in Europe - marketscre"
+  ]
+}
