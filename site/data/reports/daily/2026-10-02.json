@@ -1,0 +1,216 @@
+{
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T14:22:08.023076Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "deutsche_telekom-2026-10-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Berenberg Bank Keeps Their Buy Rating on Deutsche Telekom (0MPH) - The Globe and Mail",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZzNtVXBGOUQyc0t0cU8yd0xVb1FuSlVjUGtfelR4ZVZ5OG5FcjBCTHpnc2dlSHdOWmMtaXZBV3RyaDZIb0lUdkZXVmEyWGpLU00yaVREYUlWY3VxcWhrQzYyN0hPRVhELXEtREtZNnVENzYtYVJTSWVYSUc0QWVwRkdmSEFubEMzclJmYTJ3b3pOYzVLQ3RpZnhaS3E0UUp6YTktMHNORzg0QXBYVDZqbVZ4VnI0LUxhenhGZzVQQ3BvUTR1Qmc2ZldPUVJRZXNGcS0xV2V1RVVHSms?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "deutsche_telekom-2026-10-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom Bets on AI Claims Processing While Buyback and Platform Strategy Carry the Story - AD HOC NEWS",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOS0Y0N3hFWVV2MU8wOG1sQS1FRGxIQmhDSWxlb25yNHBuN0ZCSlIwaDdTSnlUMEE1THNoemdWd2RlS3RvNE1ZZ0dsOENpRjF1Y1BNWjlRNjY5akc3TkFLNDRrWU55MjhxaG1rQUlsVEsxM0k5b2JpX1RmajBLNHRNUXdONWh0UWR3ZGU4WlJMWjduTERhYnJ1dy02T0VaVHlFcmFVeFZxQU0zY2tzYkJCcWhGS1h3NnpsbWk1NkZCa1FxRFVpa2xtZUl1Y1BWLXRGSEFkQ1BEUkFZX1ZE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "softbank-2026-10-02-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SoftBank Investors Look Past Credit Risks to Gauge AI Upside - Bloomberg.com",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZkpHSGZVamlOQW5JcnFmSldWVHEwMGtYdkpybXM0RVJXT1B2SEs1UWdPbktRT0lLa1I5THlSeU1YWmNXclcwWHc2SlJHU3hUem5VSlBJbGw4V19ZbzJDN3dLRmNGRDVRaFFGdjZ1V01kUXJ0VmE2cDJwdTA4UGRpanV6X19MWFVVejdqSVlUa25jQTFkcHI4bDZhcDJ1QnI0WWowdWdzUFo2YW9sVmRkcA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "softbank-2026-10-02-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "GA-ASI Demonstrates Disaster Relief Comms System With SoftBank Corp. - accessnewswire.com",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbnFfcDNrSlg3Y3d2WGRYZXo3a090MW9ONmJRR2NHZF95WkVLSmxxWTZZbkNwV3pYTzNucDY4RlZueUdJV2JqdFRXeTc3Vk81TVRGdDh4S0xFMXp4bHhRLWxOZjA2Z1M0a1I4LXktVjNfRkJBaENIN3VJU2Q0bTV2YVVFdkU5dmhzakFQU0xzZlF4MnBkQVNObjd4SjlhRjlfbkd5MXVCRC1hRGo2azZ1VHp2VmpVVlZrYlp4RkxWZ2RlZ2dibURfQmQ0RDRRTzUzbFlrQVZOQ0Q?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "softbank-2026-10-02-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SoftBank stock investors see past credit risks to AI returns - Moneycontrol.com",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdXZpNEF1TldLdVVIZlpyRkYtNVV4YktQYTlKYzBJVm10YnRfQkR4cEJjSlhSUUx0ZjB0eDg1bW9HXzBVTnhnTjF0VHBfVkNZc04xTUdpbDhKcGNNOVFldWFvWnZXRHVCVHFWYUU2NUlMZ09BQ3YzTzM2NG1XU3Q2MlJhNlR0aW1CSVZodWhVN2pLcTEwOFEzczQtZVh3NWc4U2JPcFdBdjNJeFoxVVN4Rnh2bWNNdjFp0gG-AUFVX3lxTE1VMW9laUcwN0d6ODhWMDFPQk1aa0FQdFNjbGdYY0lxb1ZqSHhPc2JYdTdfelZPZC1lNkN5Uk1oVENfWFgtNEx2TDRVMjdfVVZoUUNIVkNfbzBpR0JmUFRCOU02UDZiU3c4N0xUUTJMa3B5Q2Rob1dRT1B2OWdwczVPcjVyNjhyLXBRQ210dEkzdm1jZlZfeE5iNnZqUnc2NTEtSTFCSkNpa01LQmlrTWJkT2xPenBhTDlhQXhMa1E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 12,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "arpu": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 15,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 12,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "softbank",
+        "count": 3
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 2
+      },
+      {
+        "id": "american_tower",
+        "count": 1
+      },
+      {
+        "id": "sba_comm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 12
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      },
+      {
+        "id": "arpu",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 314,
+    "dup_title": 185,
+    "too_old": 72,
+    "gate1_blocked": 5,
+    "gate2_blocked": 9,
+    "passed": 43,
+    "pass_rate": "33.3%",
+    "gate2_block_rate": "7.0%",
+    "gate2_samples": [
+      "Convert 1 CIEN (Ciena Corporation • Robinhood Token) to KZT (Kazakhstani Tenge) - bybit.com",
+      "Why Deutsche Telekom (XTRA:DTE) Is Back In The Spotlight - Simply Wall Street",
+      "Eurobites: Deutsche Telekom connects with Cloudflare - Light Reading",
+      "Cloudflare and Deutsche Telekom Join Forces for a Secure and Resilient Internet - Cloudflare",
+      "Deutsche Telekom, Cloudflare Partner to Boost Digital Infrastructure Security in Europe - marketscre"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 15 則事件，焦點為軟銀、德國電信、AMT相關動態：「Berenberg Bank Keeps Their Buy Rating on Deutsche Telekom...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Berenberg Bank Keeps Their Buy Rating on Deutsche Telekom (0MPH) - The Globe ...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Deutsche Telekom Bets on AI Claims Processing While Buyback and Platform Stra...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

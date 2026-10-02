@@ -1,0 +1,16 @@
+{
+  "total_raw": 314,
+  "dup_title": 185,
+  "no_date": 0,
+  "too_old": 72,
+  "gate1_fail": 5,
+  "gate2_fail": 9,
+  "passed": 43,
+  "gate2_samples": [
+    "Convert 1 CIEN (Ciena Corporation • Robinhood Token) to KZT (Kazakhstani Tenge) - bybit.com",
+    "Why Deutsche Telekom (XTRA:DTE) Is Back In The Spotlight - Simply Wall Street",
+    "Eurobites: Deutsche Telekom connects with Cloudflare - Light Reading",
+    "Cloudflare and Deutsche Telekom Join Forces for a Secure and Resilient Internet - Cloudflare",
+    "Deutsche Telekom, Cloudflare Partner to Boost Digital Infrastructure Security in Europe - marketscre"
+  ]
+}
