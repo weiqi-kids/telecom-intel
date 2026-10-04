@@ -1,0 +1,188 @@
+{
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T13:36:49.219968Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "nokia-2026-10-04-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia (NOK) Has Doubled in a Year. Is the Turnaround Real or Just a Rerating? - Yahoo Finance UK",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNUNQdnRFeUdHSkRjYVNIRlAzbmZWLUVPb3FxY1dTZHhZR0dsN3lBdFNKaXRDU0ZCWlYteERIX2VPMXBHMlNMbkY4TTREd3pCUXZhRDNXdFNKd3dhVjdub3ljaTVNaVFEWXJYOGZpcmtuV3h3eXFFZXlWQW9WQlByc0s5cFNpRlhYTEE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "deutsche_telekom-2026-10-04-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom's AI, Sports and Fiber Push Meets a Wall of Analyst Caution - AD HOC NEWS",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOTJ3OVV4ck9uY2dDM1Jvd29iVjA5YzZWazRUU0dHVTdVMXJUdFRfNWcybERybDVGVW1NTGpkNFRURjhmYWJJSFRONUo5WDlZZnMxNWdzamtpRVdOWHV3clp3SWprOG5Qbmg4UUJBNTNMeDNxaVhfXzNqSHNZNWRVWmtiMS1yRXA1ZWJGa1Vma0pvRG1ydkhqN3dMU3FnT0xwTVl4emRaMVd2SUNfMWxfUGE4ZGtZQlRneEgzcHotZmloa05QTUFRZTNiUmxueTgwcDd5NWln?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "deutsche_telekom-2026-10-04-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom Expands Fiber, Cloud and Sports Reach as Analysts Remain Divided - AD HOC NEWS",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNODB6eWtNZDExY0h4UTBndzBGdHFROEV3bWlCS3dMTmQtdDRuckotdDd1X19IdUtaR3BkcG5PYlpnWTQtQm82VHJ1aHV5bjcxTHBfc1QxWEtwTS13X1hQazdVUUQtQy05TzdFM0tJSm9KSExqQ3dSeDRub0FDMU9xeDRJM3loa2ZEdkREWVdjVW1LdFI1LVpFNENPQ3NxMjBQQjQ1aW80Ukd4OWpNUGVTT2hSbzdzVjhQN0N0TTM0dnZhNkNXZEZncGoyLXlpcjhsdUtoVHN6LXpyQU9l?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "softbank-2026-10-04-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SoftBank offers AI service for teachers to help troubled children - 朝日新聞",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yQ2hDeThHZGxpOHdvVzdnNDhMY0Z0WUZqX3ZMVWxva19laE9JdGFMSGs3MF9weUdra1NneTZGc1FUZm9BbTVlYm1OTi1sRHl5SDA2a21NXzhfUnJDa2c?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "softbank-2026-10-04-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SoftBank stock fell as November results date approached - AD HOC NEWS",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNnlxMFh6VlZpTnhQYXN4ZVU1NDYtNmEyQTU0azV3WlBLZ2VielNYSWgzRVBMdFZBX214MGpXU3RjVnIyLWxVaW5SU3dDdGp6QU13ZEVWSjZJVHVGZFhBcDJEVlQwcktmYVE0aW4wb25OcXA1OGcxRURaa3dybnJwMU5ENWpnUGg3dUJuVFg5QUFGanBmMmNlYjliZ2Q5UzVPaHgzYTV2VXNKQzdJbjNHVzdlT08yQVBQanc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 6,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "softbank",
+        "count": 3
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 2
+      },
+      {
+        "id": "nokia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 302,
+    "dup_title": 201,
+    "too_old": 67,
+    "gate1_blocked": 5,
+    "gate2_blocked": 5,
+    "passed": 24,
+    "pass_rate": "23.8%",
+    "gate2_block_rate": "5.0%",
+    "gate2_samples": [
+      "Eurobites: Deutsche Telekom connects with Cloudflare - Light Reading",
+      "Cloudflare and Deutsche Telekom Join Forces for a Secure and Resilient Internet - Cloudflare",
+      "Deutsche Telekom, Cloudflare Partner to Boost Digital Infrastructure Security in Europe - marketscre",
+      "Why Deutsche Telekom (XTRA:DTE) Is Back In The Spotlight - Simply Wall Street",
+      "Why SBA Communications (SBAC) Is Back In The Spotlight - Simply Wall Street"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 6 則事件，焦點為軟銀、德國電信、諾基亞相關動態：「Nokia (NOK) Has Doubled in a Year. Is the Turnaround Real...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Nokia (NOK) Has Doubled in a Year. Is the Turnaround Real or Just a Rerating?...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Deutsche Telekom's AI, Sports and Fiber Push Meets a Wall of Analyst Caution ...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

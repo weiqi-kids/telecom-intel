@@ -1,0 +1,16 @@
+{
+  "total_raw": 302,
+  "dup_title": 201,
+  "no_date": 0,
+  "too_old": 67,
+  "gate1_fail": 5,
+  "gate2_fail": 5,
+  "passed": 24,
+  "gate2_samples": [
+    "Eurobites: Deutsche Telekom connects with Cloudflare - Light Reading",
+    "Cloudflare and Deutsche Telekom Join Forces for a Secure and Resilient Internet - Cloudflare",
+    "Deutsche Telekom, Cloudflare Partner to Boost Digital Infrastructure Security in Europe - marketscre",
+    "Why Deutsche Telekom (XTRA:DTE) Is Back In The Spotlight - Simply Wall Street",
+    "Why SBA Communications (SBAC) Is Back In The Spotlight - Simply Wall Street"
+  ]
+}
