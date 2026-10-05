@@ -1,0 +1,16 @@
+{
+  "total_raw": 309,
+  "dup_title": 180,
+  "no_date": 0,
+  "too_old": 71,
+  "gate1_fail": 3,
+  "gate2_fail": 14,
+  "passed": 41,
+  "gate2_samples": [
+    "Ciena Corporation • Robinhood Token (CIEN) Price Prediction for 2026 to 2031 - Bybit",
+    "Convert 1 CIEN (Ciena Corporation • Robinhood Token) to EUR (EUR) - Bybit",
+    "Germany's Deutsche Telekom targets €2.5 billion in AI savings by 2030 - Yahoo Finance",
+    "Deutsche Telekom wants to save 2.5 billion euros with AI - marketscreener.com",
+    "Deutsche Telekom sees AI driving €2.5 bln cost savings by 2030 - Investing.com"
+  ]
+}
