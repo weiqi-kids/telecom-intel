@@ -1,0 +1,244 @@
+{
+  "date": "2026-10-06",
+  "generated_at": "2026-10-06T14:38:18.177296Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "deutsche_telekom-2026-10-06-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "BofA Keeps Deutsche Telekom at Buy on Expected Revenue Growth, Cost Savings from AI - marketscreener.com",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY1pkS2FsbXo2RDhkZGFWd0JpSGd4cVpaeEUzU0FqMG5YdzNDcEN5UnZqVWt6Wml4TkVvTDZsNVlQdV94eWt6cjdEVjk5TmhVQ3VpTVU5d2NFS1RBb080SmJTZ01zd244SnY5ZUt2Mms2WXNMNEtNcjRhN2J4RmVWVklaRV9LdDRDdElLbk4wV2FMZXRhaUZUSXd2YlotZ0RjNEsycnpUMGxXQ1A5alhhWkgyN19jdTlkd2ZGVDZmZ2t5YnQ5d253MUVhVEdydWRW?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "deutsche_telekom-2026-10-06-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Deutsche Telekom Put AI Revenue Targets On The Table - Finimize",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbEpFQlpiQkFqaG9xYldqWVpybGVDVGRIUnZfYVpUcmwwUmJRMEdzQTlnRllCcUswbG4zanZwT1FKRkdMWU9nR1A2R3F0WVdwTjdETV9abGdpZGtJbGVic25LSlFVVklURWlFZy1icnp5d0RqWlZWdU81M1A2Wnd6aFQ4WXUxNDJB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nokia-2026-10-06-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia Corporation (NYSE:NOK) Stock Now Rated \"Moderate Buy\" by Wall Street Analysts - MarketBeat",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUF9IWm14bko4a0p4RXUxWUVlVkJ6VWluMi1Mb2lkUFc5V2dZUi1XLUhNSmJIMERQVmRFNy04NS00UTdOQm1paldzMzc5SHpMZVRuLXhPRnRqbUZ5aXpLckNoY0pXRDlOcGJ5YVVYWTdITlJmVHFiNDdleDFYUmlpcUNIcHFCR1d6aXNjMnoyR1VyaEVGbDRZc2pOUmhEUW5xMUlWWUg5NThKdVl6ZnJWYXY1dFpIVUxYMFJZbGdfeFQzNXhkOGUwV1ZPcjNHTlJ3RHVRNmpCUUVsQkk?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ceragon-2026-10-06-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ceragon Brings New E-Band Innovation and a Portfolio Built to Scale to India Mobile Congress 2026 - PR Newswire",
+      "companies": [
+        "ceragon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUGpNQVdCYmdRTW4xZm94TXNCMU1jd3JReWJqa1lUU2Rsb2JuWFVpX3RsUDlsZlFPUllGdzNFOXlsemxDRDd5bVU2cFB3aHpOeGU2c2NWd2JmdG5XQ1hfUnhvcDhfX2I3aU5tUDUxc1hXLWJXU3o0WmtwVldnTXpRV3NHYk5lM0pJWlpCYjBrRWxaUlRabmwtWjdLT1ZXdFhhOTNod0JRZVFfYUxIdTRRWjBLbzA2cjJjcGFDUDYzbmhSdVJUYU9odnhRbDBiVU41UnVITGtJZHM2Mnl0a29Cd1pmUnB2RVlR?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ceragon-2026-10-06-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ceragon Networks Ltd (GGN.HM) stock price, news, quote and history - Yahoo Finance Australia",
+      "companies": [
+        "ceragon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ESW52THJIZnF0OHBoNGFIdmRBQjY2aHdFbVRMeFVwckhWQ0NadWI5bEVXb2ZXc3JLN2Z6ZXg1a1hoWk5helJ5bENZSXhuS0JkOFduZQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "spectrum_auction": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "tower_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 23,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "deutsche_telekom",
+        "count": 7
+      },
+      {
+        "id": "ceragon",
+        "count": 2
+      },
+      {
+        "id": "nokia",
+        "count": 1
+      },
+      {
+        "id": "softbank",
+        "count": 1
+      },
+      {
+        "id": "american_tower",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "spectrum_auction",
+        "count": 1
+      },
+      {
+        "id": "tower_consolidation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 309,
+    "dup_title": 174,
+    "too_old": 75,
+    "gate1_blocked": 1,
+    "gate2_blocked": 13,
+    "passed": 46,
+    "pass_rate": "34.1%",
+    "gate2_block_rate": "9.6%",
+    "gate2_samples": [
+      "Ciena Corporation • Robinhood Token (CIEN) Price Prediction for 2026 to 2031 - Bybit",
+      "Convert 1 CIEN (Ciena Corporation • Robinhood Token) to EUR (EUR) - Bybit",
+      "Deutsche Telekom Targets €2.5B in AI Savings by 2030 at Investor Day - Yahoo Finance",
+      "Deutsche Telekom boss's 'AI optimism' isn't shared - Light Reading",
+      "Deutsche Telekom Sees a €5 Billion-a-Year AI Opportunity by 2030 - Sebastian Barros Newsletter"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為德國電信、Ceragon、諾基亞相關動態：「BofA Keeps Deutsche Telekom at Buy on Expected Revenue Gr...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "BofA Keeps Deutsche Telekom at Buy on Expected Revenue Growth, Cost Savings f...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Deutsche Telekom Put AI Revenue Targets On The Table - Finimize（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
