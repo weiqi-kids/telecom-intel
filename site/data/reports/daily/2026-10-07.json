@@ -1,0 +1,221 @@
+{
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T14:58:11.190632Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ciena-2026-10-07-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ciena stock carries a Strong Buy rank as AI demand lifts its outlook - AD HOC NEWS",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTjVuR0U1VjhDenJac0FXaEJGUGxSQjRQY1RWd3c4ZnByVTZxeS16Z05WVFROZzNxYXc2d0NucV9NazZ5LU0xWUhRcVV5NWZ5MjdnbFdZMXVCRi1ESlJmZ01Ya21jZmVab1B2NUh5YjZ6cVd1a0s0MUc0Tm5CdG1lQzUyZWlOQV9PNWVSczFEckRNUkkweFdFeGMtRVZOamtJY29mSnJzU3J2NHdYVmFwTHRybW9za0NFdksydGlxWTNrR2Y3cVVhYld2Zw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "american_tower-2026-10-07-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What Should We Watch for From American Tower (NYSE:AMT) Before Earnings? - Kalkine Media",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ09NeVpvb0xRc0xELWpEQU1yM1d3cU00UTl3bjh3bEhNVmkwamZTYU96Ml9EX0w3ajlVN2VCelVoN0dpTDdmb3VWcTRDYXlvVW5td0Exa21VY2htUWdYWnh0QlhhR3B1RlBjU1I4djI5MlpaNFoxNTkxSklRQlVYOHZZMWp6b0F0T3JjUkRacWM4YmM0dGhZaktGRUZHZExiSEVoQXRXUEhXVFEzNE1rWDBKOGVwVWpVc3ZMUFg5TjRtWVpCSk5QTW8wcGpRc3M?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ericsson-2026-10-07-022",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ericsson's 6G talk puts AT&amp;T in a tight spot",
+      "companies": [
+        "ericsson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/6g/ericsson-s-6g-talk-puts-at-t-in-a-tight-spot"
+    },
+    {
+      "rank": 4,
+      "event_id": "ciena-2026-10-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Stock at $443 After 14% Jump: $660 Bull, $390 Bear - FinanceFeeds",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcHBfWHRPd3hjdDlFSmlWQ2lMYl8zWDFFWi02X1Rya3NqWEhUWW40ZFFzS3pwVUZYdE05X01JNjk3Z2p2Q0FDWnJLX0IxY05GRHBIVmdqWTkyeU54aTRncm5GTVVpWFIzc29wOUgydjVkaXh5YWdHV09jNkdFRlhwaVRSbUU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ciena-2026-10-07-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena CFO Marc Graff Executes Sale of 97 Shares via Rule 10b5-1 Plan in October 2026 - Kalkine Media",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWHlNVWRTTjRrcnpiMThFZjFOTzJfY2M4SXBQLU1EdTg0UWp3SzBwTWtPYWl4cldJQkxqYUFhWlg2cnA4NE1CQ2JxVW9sOU1ucGs1dlk4U3kxMXZybF8zanJTN3RkMnZpdFBvb2FvNEJNd1FBS0owa3Zna1B6eHdOX1BqTkxtNXdVSjJFajFhY2V3a3B0NklPaFVVTElXMWhIWWExTm1vQXo0elNKMWZwR2pQY2kxcTdEMEgtdFI0RnFzQmdzcFJnLUVSRQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 29,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 27,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 6
+      },
+      {
+        "id": "american_tower",
+        "count": 5
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 4
+      },
+      {
+        "id": "softbank",
+        "count": 2
+      },
+      {
+        "id": "ericsson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 29
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 310,
+    "dup_title": 167,
+    "too_old": 71,
+    "gate1_blocked": 6,
+    "gate2_blocked": 10,
+    "passed": 56,
+    "pass_rate": "39.2%",
+    "gate2_block_rate": "7.0%",
+    "gate2_samples": [
+      "Deutsche Telekom sees €2.5 billion in savings from AI, automation by 2030 - Yahoo Finance",
+      "Deutsche Telekom targets €2.5 billion in savings from AI - AI News",
+      "Deutsche Telekom sees €2.5 billion in savings from AI, automation by 2030 - TradingView",
+      "Deutsche Telekom Sees a €5 Billion-a-Year AI Opportunity by 2030 - Sebastian Barros Newsletter",
+      "Deutsche Telekom Targets €2.5B in AI Savings by 2030 at Investor Day - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 29 則事件，焦點為Ciena、AMT、德國電信相關動態：「Ciena stock carries a Strong Buy rank as AI demand lifts ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Ciena stock carries a Strong Buy rank as AI demand lifts its outlook - AD HOC...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "What Should We Watch for From American Tower (NYSE:AMT) Before Earnings? - Ka...（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
