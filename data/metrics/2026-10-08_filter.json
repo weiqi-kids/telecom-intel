@@ -1,0 +1,16 @@
+{
+  "total_raw": 311,
+  "dup_title": 181,
+  "no_date": 0,
+  "too_old": 67,
+  "gate1_fail": 5,
+  "gate2_fail": 11,
+  "passed": 47,
+  "gate2_samples": [
+    "Deutsche Telekom : Sustainability has an impact in the core business - MarketScreener",
+    "Deutsche Telekom Targets €2.5B in AI Savings by 2030 at Investor Day - Yahoo Finance",
+    "Deutsche Telekom targets €2.5 billion in savings from AI - AI News",
+    "Deutsche Telekom sees €2.5 billion in savings from AI, automation by 2030 - TradingView",
+    "Deutsche Telekom Sees a €5 Billion-a-Year AI Opportunity by 2030 - Sebastian Barros Newsletter"
+  ]
+}

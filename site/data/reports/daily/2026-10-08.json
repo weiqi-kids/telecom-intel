@@ -1,0 +1,230 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T15:06:47.530083Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_tower-2026-10-08-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What to Expect From American Tower's Q3 2026 Earnings Report - Barchart.com",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbEROWWhpZVM4dUZuMXktLVFXdms4bG44ZC1wSkRpZ1RzUjlaeVdiNmpsdFFtSHI1X2p0NDNhV0RkbjhvRVR4N0prSC0xdGY1NEhkZkR4ZGFfOTFOSWR2SWRsTEpNaGNJaEVGVUFLZHJ4VzFJaElDenBEWmVmV3BneXJrZ3luOFJsdmg1cTkwQmpkS0NFOUtrdXY0MEd2QTdESGRlTU9kMA?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nokia-2026-10-08-016",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Ericsson and Nokia battle Huawei in 6G core clash over AI",
+      "companies": [
+        "nokia",
+        "ericsson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/6g/ericsson-and-nokia-battle-huawei-in-6g-core-clash-over-ai"
+    },
+    {
+      "rank": 3,
+      "event_id": "ciena-2026-10-08-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Openreach selects Ciena technology: Ciena stock falls 1.33 percent - AD HOC NEWS",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT2w1MUVlUS00RXBEV1FJeU01QU5BVG52Ym0ySkJoYmRFM1BGcXh2bHgzUHcwdlNxSll1ay02bVEwWFhxNzFNd2M2SFQtY2ZFbV93RFh2OVhURHI2V1NDMzRiNEwzTTFRMklxMlFKR3hSYkJyWVYzSHZ4WXFXVjVrOWVXdk9NOEpTLXQtV0h4cmRDc1hramRubVZ4YllFUFZTLTk4VW1KaURZX0tmNnlPUDJxcExCVUZoX0VJYzg0bGp5OFN3Vi1R?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "deutsche_telekom-2026-10-08-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom Appoints Robert Metzke as Chief Sustainability Officer - ESG Today",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeVpBX0hKNjJMLTZpYjhpZUtfcWdYMjRmNTNob1RXRTBDV3pCSkhpSFdnYTliTUpPV2VGNzhlNGY5eG9faUprc1NXTm1BR1ZMX1I2dk1wT2czWUc5d3J1MS1NSWgzMDNXcGkwclJvT3dzVHBMSUotWGt4RFplTllmaHJCc0lacmtzd01kNm4xckItQTNwY1V2ell5YmVmZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "deutsche_telekom-2026-10-08-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Exein and Deutsche Telekom IoT partner to secure the next generation of connected devices - IoT Now",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMGUzbHhONklaY3VKZjhCZHdZSjB6c3Q2OUVZZmt3VFNtSTJQR18xemdvdGZKN0lfM1NXVWd3aXV3VzV0ckJrM0lnenVsY29MckRkdXFWNG5YNk91ejdwLUxGcTlVSThOREkwdy1KTW1jVUNFMjhRMGVBS3ZpdFhCaDE0RmVHWjhaSVVja2xaVWZ2bUtKdHBUUzJtRS1rREdZN3Y4OHBn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "arpu": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 28,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 26,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_tower",
+        "count": 4
+      },
+      {
+        "id": "nokia",
+        "count": 4
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 2
+      },
+      {
+        "id": "ciena",
+        "count": 1
+      },
+      {
+        "id": "softbank",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 27
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "arpu",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 311,
+    "dup_title": 181,
+    "too_old": 67,
+    "gate1_blocked": 5,
+    "gate2_blocked": 11,
+    "passed": 47,
+    "pass_rate": "36.2%",
+    "gate2_block_rate": "8.5%",
+    "gate2_samples": [
+      "Deutsche Telekom : Sustainability has an impact in the core business - MarketScreener",
+      "Deutsche Telekom Targets €2.5B in AI Savings by 2030 at Investor Day - Yahoo Finance",
+      "Deutsche Telekom targets €2.5 billion in savings from AI - AI News",
+      "Deutsche Telekom sees €2.5 billion in savings from AI, automation by 2030 - TradingView",
+      "Deutsche Telekom Sees a €5 Billion-a-Year AI Opportunity by 2030 - Sebastian Barros Newsletter"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 28 則事件，焦點為AMT、諾基亞、德國電信相關動態：「What to Expect From American Tower's Q3 2026 Earnings Rep...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "What to Expect From American Tower's Q3 2026 Earnings Report - Barchart.com（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Ericsson and Nokia battle Huawei in 6G core clash over AI（產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
