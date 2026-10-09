@@ -1,0 +1,16 @@
+{
+  "total_raw": 301,
+  "dup_title": 163,
+  "no_date": 0,
+  "too_old": 64,
+  "gate1_fail": 5,
+  "gate2_fail": 8,
+  "passed": 61,
+  "gate2_samples": [
+    "Deutsche Telekom boss's 'AI optimism' isn't shared - Light Reading",
+    "Deutsche Telekom drops 7% on SpaceX competition fears - Breakingthenews.net",
+    "Deutsche Telekom, Cloudflare Partner to Strengthen Internet Security Across Europe - The Fast Mode",
+    "Deutsche Telekom Targets €2.5B in AI Savings by 2030 at Investor Day - Yahoo Finance",
+    "SBA Communications (SBAC) Could Be 25% Undervalued As Refinancing And Churn Stay In Focus - Simply W"
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "date": "2026-10-09",
+  "generated_at": "2026-10-09T14:50:30.588394Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_tower-2026-10-09-016",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is American Tower (AMT) A Bargain Following Its October 27 Earnings Setup? - Yahoo Finance",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTVpYZzRERW9ESy1Lc0twVG5uVVBwZWNZOGw0ZE9rZU5HT2hmeV9ERml4NHVVSjI1VDg3X3owVmpRcEUxUnRYTXMtWEtTWUx1WXBYM0V6Zm9RWXg2U3JCYzh0NUdqUTA2U2NEZ25uNDhSVTlqbG9YVlV4UFh2R2dIOXRKYzdQYUZPeDEtWHVubFZtRERkRkhPQ3dmck15SWhjeWZn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-09-041",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India’s Mobile Data Traffic To Surge 17% A Year, But Telecom Revenue Growth Seen At 2.7% - NDTV Profit",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbVVCSFpVRGUzY252d1BIU19CTHVvbG1ESENfOW55OU5ELVhOM29QOXBsOThnbnFQQzNBeTA2S3hUelY4WVQwbUEwdkxnR0RXRkxpYVNsQnJDSUlCUTRQRGhnNGdnSTZya0RIQlpJMmFPOUFaVDdobTJCdlBFTkxqM2lxdVRhd3dQYXlLYVV1RTd3cTNQTGJGUTg0UzZXTUx0bS1QanR3UktNdVY5YVpOUXg5SjczLWcxR0NOQ09HNTN0UDNIdVI3YVJn0gHSAUFVX3lxTE1yVUhOS1k1ZjNzUURmSWxMcHdDZWg4RXR0WTRqbVFEcGd3M3R4b3g0OWdjNjVxRHZ6RTBSWFNZb21WeGRRS1J5akhtRkg5NU9kcUt1Q240SDF3bWd2MDhFRzZCM3V0dmZJNUtaa2JrZWhtX2pfeXJUR3lia3o3ZzRfMEE4R3pIT0J6MjBhazBUQTVVVkRuZzVWSlRhQkx5SEFUd2VxMkJhbkJXV25jaDhOblVsVWRKUlNreklMaDU4U0o1UWtBNkZEQjYzMGtIc2pyZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tmobile-2026-10-09-011",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "SpaceX competition weighs on Deutsche Telekom, T-Mobile US - marketscreener.com",
+      "companies": [
+        "tmobile",
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZXNCaFJpV1FSMEhzNm9WTHc0NFRSTnhQTC11MkhzU19idVEyVEVzYVgwbllmMkhmWGRHeWVNbmZMS0dwdGZZekdiZnFGVTdsQUp1U2lQbWtBNk1URzd3dmFCd0RFLWpsYnhCYUw3OVo5X2VLSVc1dEU0eUpZdHdMX3JyOHQ2anVNQUtFZU9NZzVaU1lob0x3cGp2VHdZSlZTRGc1bFljTGc4eWsxRUVN?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "crown_castle-2026-10-09-017",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Why Are American Tower, Crown Castle And SBA Communications Stocks Surging Friday? - American Tower (NYSE - Benzinga",
+      "companies": [
+        "crown_castle",
+        "american_tower",
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdkZqNUJJdVJUM2pTczRibUZaQUdnVjRxbFNtRmN1YVJDNnBNaURrN1JIcmNnaEtsSmRaRUpiVlpocVhLOUZ5RFh6aUVzVjFka093N3J4MURDd2FpU3IzTkRETzJ4QUptcWEteDdQbjRjQTFwN1hrQzUta0x3cjVreDlWY0VubDBtRVFxd2o3NTExdHZ2YmZvbzB0M2lXemo2WVRwZEprOWl0MENETTNxbkNjV0JWY3NXQVFHYXJPZUVLU0NubU9TaHhSZnQ1WTF5Y016Yw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "crown_castle-2026-10-09-023",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "What Did the Spectrum Deal Mean for American Tower (NYSE:AMT), Crown Castle (NYSE:CCI), NextNav (NASDAQ:NN) and SpaceX (NASDAQ:SPCX)? - Kalkine",
+      "companies": [
+        "crown_castle",
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQTN5R1kybXgwbVlBMjA5NHFlUldMT29ER1VueXZRZUNFYXF4Rm1fRFRJYk9hMlFHaDFXMkNnRlZJSldsVUZ3RUI3eUlmeFNDVi1hdVd2cWE5Sm9sTVIzVW9LOXVEZ3d6cXBpQ215aGZmRjRoME9SLVU0cG96ZkZEZ1J0TVVlUGJsdm56Rmg4WVF5eGJqUjhvSjFhcFZRdXNfSTNBQXZfLWhSaVlyX1Nvemxmc3ctWHhReVM4Yk9mSkpJYjNRa3ZzOVk3eXlXRWR1ajdFUGdsckhHMGlGREFsQlpDalppc2dkT2ZuR2tHamlMUQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 41,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "arpu": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "american_tower",
+      "to": "crown_castle",
+      "relation": "co_mention",
+      "co_mention_count": 2,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 43,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 36,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "deutsche_telekom",
+        "count": 7
+      },
+      {
+        "id": "american_tower",
+        "count": 7
+      },
+      {
+        "id": "ciena",
+        "count": 3
+      },
+      {
+        "id": "softbank",
+        "count": 3
+      },
+      {
+        "id": "sba_comm",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 41
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "arpu",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 301,
+    "dup_title": 163,
+    "too_old": 64,
+    "gate1_blocked": 5,
+    "gate2_blocked": 8,
+    "passed": 61,
+    "pass_rate": "44.2%",
+    "gate2_block_rate": "5.8%",
+    "gate2_samples": [
+      "Deutsche Telekom boss's 'AI optimism' isn't shared - Light Reading",
+      "Deutsche Telekom drops 7% on SpaceX competition fears - Breakingthenews.net",
+      "Deutsche Telekom, Cloudflare Partner to Strengthen Internet Security Across Europe - The Fast Mode",
+      "Deutsche Telekom Targets €2.5B in AI Savings by 2030 at Investor Day - Yahoo Finance",
+      "SBA Communications (SBAC) Could Be 25% Undervalued As Refinancing And Churn Stay In Focus - Simply W"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 43 則事件，焦點為德國電信、AMT、Ciena相關動態：「Is American Tower (AMT) A Bargain Following Its October 2...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Is American Tower (AMT) A Bargain Following Its October 27 Earnings Setup? - ...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "India’s Mobile Data Traffic To Surge 17% A Year, But Telecom Revenue Growth S...（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
