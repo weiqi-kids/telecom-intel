@@ -1,0 +1,16 @@
+{
+  "total_raw": 310,
+  "dup_title": 218,
+  "no_date": 0,
+  "too_old": 64,
+  "gate1_fail": 4,
+  "gate2_fail": 11,
+  "passed": 13,
+  "gate2_samples": [
+    "Deutsche Telekom drops 7% on SpaceX competition fears - Breakingthenews.net",
+    "Robert Metzke Becomes Deutsche Telekom’s First CSO - Sustainability Magazine",
+    "Deutsche Telekom, Cloudflare Partner to Strengthen Internet Security Across Europe - The Fast Mode",
+    "Deutsche Telekom Targets €2.5B in AI Savings by 2030 at Investor Day - Yahoo Finance",
+    "Deutsche Telekom boss's 'AI optimism' isn't shared - Light Reading"
+  ]
+}
