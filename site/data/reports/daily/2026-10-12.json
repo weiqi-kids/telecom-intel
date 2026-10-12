@@ -1,0 +1,227 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T17:12:03.822637Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-12-030",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Tech Mahindra Shares Fall 4% As US Telecom Stocks Slide - NDTV Profit",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdUFOMTJuZ2RwaW1xVnVrVFI3QUE4X3F4emZ4eFJRYXpjUHZVYzgzX0doVXM4Y0swVWFJNXNaT0NGQ2ZGa0lueXAxa1VDeUlZRkxtLUEtRVZoakh0RXd5NWw3amRqOWR4Ynd3WnRKQ0g2ZnVDWktaRVc3d0JsdmNMWnVNbFJMT1oxSE1neWMtSUVKV0RxUEZRYTV1TloyTnPSAacBQVVfeXFMT1ZyVldHWjRXZmQxcXlSWU9uSTU3dDNkRi1GQ1JCTmN4WGNUY29FZzRpS0NLUzdJbU9JSk8zMkZBRTN2MURSM3hJVzNfRG9mVlFRbVVPTVMxWFA2UDdSaWdIZlYzQmc4WnU0aGd0R1RFUF8xeEY5d1JEakFOYktVUmhHd0dHaWQ0ZWdyOU13bEZkYXNGVTJqU1gwVVdXdXhuVXFQVXIxa1k?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-12-027",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "SK Telecom, KT Shares Plunge as Starlink-Driven U.S. Telecom Selloff Spreads — But Domestic Impact Seen as 'Limited' - BigGo Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1dWJ1b3NrODBKcDFsamlOenk5cmREeWx6c3BubDd3VW9PRnp5aDFzRWtmaWlLQzNoTVRBQlprMnJOZXdocnNPUkNmUU9OdHhrdGt4UGlWTnNXQ3NtNC13V0czVU5FSXNIQ0dEVUJjLXM1ZnYzN2c?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nokia-2026-10-12-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Nokia Corporation (NOK) Stock Is Down Today - Quiver Quantitative",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT3pyTHNNeXRYUVRVUGhmdkh5WWxmREdrWFphNWtOV3o5VUlEQ1pyZ0pISG01dXA5LVp1bzJ2OU1veTd0cjI2Z3oxTFk5VUJuM1g3R1ZiaFVDZUl1RW9YcjNJU216dG9YbzFJX0Y4T3RDMGZOVUtpRkZVOUk2N1IxNXZpU0pUaVdWR2xtRQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nokia-2026-10-12-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia Stock Is Falling Monday: What's Going On? - Benzinga",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOelJfZG5ZZVlNVUljb29oOWFaUUdMM1k2MHQ4UlQ3QVhIZXpkQVFMT0d4b1hPTUdIdnVJZmJabGx2a1ctbTlkTS1mUDBuY3Y4RXpqMXQ2cUpyWEU2WjQySFVfd3EwekM3cHNydHNUX1BXSUNaMWJRbk9hVVVLZy1vRVJ5MEtKQUhSeFk1WThhclhMY2ZHb21kanEwRG1DUQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nokia-2026-10-12-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What Is Nokia Stock (NOK) and the NOKon Tokenized Stock? - Pintu",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTnpmV2x3MGxuaktlVW9mck5ZbjhwakV3OXNDUnNJdFRvTTk1akw1czVYLWphNXdmYkt0eTd5VG9rbTU4bWpWN1EteUs1YTJZMWRXRTZyZXdTb0dVcXpKOHlTa2NXbzJXYVhjeGNDRGQ1STRtaFBtdFhmcFk0Z0VzU3VlWVZ0WE8zZzk0RHNMTDJTY00?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 30,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 33,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 30,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nokia",
+        "count": 5
+      },
+      {
+        "id": "ciena",
+        "count": 4
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 3
+      },
+      {
+        "id": "softbank",
+        "count": 2
+      },
+      {
+        "id": "american_tower",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 30
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 2
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 300,
+    "dup_title": 183,
+    "too_old": 63,
+    "gate1_blocked": 3,
+    "gate2_blocked": 8,
+    "passed": 43,
+    "pass_rate": "36.8%",
+    "gate2_block_rate": "6.8%",
+    "gate2_samples": [
+      "Ciena Appoints Monika Fahlbusch as Chief People Officer - Business Wire",
+      "Deutsche Telekom drops 7% on SpaceX competition fears - Breakingthenews.net",
+      "Deutsche Telekom Targets €2.5B in AI Savings by 2030 at Investor Day - Yahoo Finance",
+      "Robert Metzke Becomes Deutsche Telekom’s First CSO - Sustainability Magazine",
+      "What is SBA Communications’ (SBAC) Economic Moat, and is it Widening or Narrowing? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 33 則事件，焦點為諾基亞、Ciena、德國電信相關動態：「Tech Mahindra Shares Fall 4% As US Telecom Stocks Slide -...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Tech Mahindra Shares Fall 4% As US Telecom Stocks Slide - NDTV Profit（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "SK Telecom, KT Shares Plunge as Starlink-Driven U.S. Telecom Selloff Spreads ...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

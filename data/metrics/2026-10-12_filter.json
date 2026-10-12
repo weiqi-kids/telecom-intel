@@ -1,0 +1,16 @@
+{
+  "total_raw": 300,
+  "dup_title": 183,
+  "no_date": 0,
+  "too_old": 63,
+  "gate1_fail": 3,
+  "gate2_fail": 8,
+  "passed": 43,
+  "gate2_samples": [
+    "Ciena Appoints Monika Fahlbusch as Chief People Officer - Business Wire",
+    "Deutsche Telekom drops 7% on SpaceX competition fears - Breakingthenews.net",
+    "Deutsche Telekom Targets €2.5B in AI Savings by 2030 at Investor Day - Yahoo Finance",
+    "Robert Metzke Becomes Deutsche Telekom’s First CSO - Sustainability Magazine",
+    "What is SBA Communications’ (SBAC) Economic Moat, and is it Widening or Narrowing? - Yahoo Finance"
+  ]
+}

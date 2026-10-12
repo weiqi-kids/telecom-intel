@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-12",
+  "total_events": 33,
+  "by_company": {
+    "nokia": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "ciena": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "deutsche_telekom": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "softbank": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "american_tower": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "equinix": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ericsson": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 30,
+      "sentiment_avg": 0.0
+    },
+    "fiber_buildout": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
