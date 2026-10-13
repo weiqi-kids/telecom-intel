@@ -1,0 +1,261 @@
+{
+  "date": "2026-10-13",
+  "generated_at": "2026-10-13T15:28:13.564972Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "softbank-2026-10-13-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SOFTBANK CORP. (9434.T) Q4 FY2025 Investor Call earnings call transcript - Yahoo Finance",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkdfS2EtTVlHRnlYV1lTZEhnRmQwNW5VMUpWMGNHY1ZqdVIya0tuaERrTDlBWVllVTBFelltNTlDdnhtdG5oeGxRS0N5NjBFZGZ4aGUyaFZmdl9FbVFKeGpaTE9qenB1VE96YmlmM1pONjlpOG1FRmRLb3JZSURXSDJReURGRUM4NDZhMU1BckJMZw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ciena-2026-10-13-018",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Eurobites: Nokia sells private wireless unit to Aurelius",
+      "companies": [
+        "ciena",
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/private-networks/eurobites-nokia-sells-private-wireless-unit-to-aurelius"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-13-017",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Infiniti Mobile hemorrhaging subscribers – report",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "arpu",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.lightreading.com/wireless/infiniti-mobile-hemorrhaging-subscribers-report"
+    },
+    {
+      "rank": 4,
+      "event_id": "nokia-2026-10-13-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia shares fall on agreement to sell Campus Edge to Aurelius - Yahoo Finance",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQVk3MlVnZmh3X3I2azdDb2ZDZW9EVWdELWtfZlJHRE9IN0kxTDU3NnNHQnBld2NnQXdJY0Q2QzlYQnhwRUswOUkzd2RFNFc0Z0xvZ0FMYk5HU0Q5U3ZfeGVWTEFqa1hDaDNyTWZWLTVybW4zZmZKQlhHR0FtNVZWZFhxWmR5MWJ0UlJfcVU1Z3Y5X2MwcEdGTlVzV0s2UQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nokia-2026-10-13-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia Stock Is Falling Tuesday: What's Going On? - Nokia (NYSE:NOK) - Benzinga",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUUUwWjh5NUxlQUVlQW0zUEp5MWM0b0NlUVFfcnpBSVhUUE5vQjdIQ2k3V1dGS2l0ZzdEYXRPeXJVUmZtSkNWTkdiLVUwRG1ING9aYmRJSU10dG1LMEZIRGo0RG92d241RjhINGRkNGplV2FOOFdxQmd3Y1lEMllvUVFOdlVWZEFEQTk4Wk42Qk5qV2xqNFJ5bUZKZGNmazRJQTN6R3R2ZVFxVjRScW1Va3ZXbzM1c1RyaXdlNWtjRVRtX25ndmxjTkJONXNVUEU?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.04,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "arpu": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -1.0,
+      "sentiment_7d_avg": null
+    },
+    "5g_deployment": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 25,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 5
+      },
+      {
+        "id": "nokia",
+        "count": 4
+      },
+      {
+        "id": "american_tower",
+        "count": 3
+      },
+      {
+        "id": "softbank",
+        "count": 2
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      },
+      {
+        "id": "arpu",
+        "count": 1
+      },
+      {
+        "id": "5g_deployment",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 309,
+    "dup_title": 185,
+    "too_old": 65,
+    "gate1_blocked": 2,
+    "gate2_blocked": 12,
+    "passed": 45,
+    "pass_rate": "36.3%",
+    "gate2_block_rate": "9.7%",
+    "gate2_samples": [
+      "Ciena: Getting More Interesting, But Still A Bit Expensive - Seeking Alpha",
+      "Ciena Appoints Monika Fahlbusch as Chief People Officer - Rutland Herald",
+      "US court reconfirms Deutsche Telekom award against India - Global Arbitration Review",
+      "Deutsche Telekom AG: Release of a capital market information - MarketScreener",
+      "Deutsche Telekom drops 7% on SpaceX competition fears - Breakingthenews.net"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為Ciena、諾基亞、AMT相關動態：「SOFTBANK CORP. (9434.T) Q4 FY2025 Investor Call earnings ...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "SOFTBANK CORP. (9434.T) Q4 FY2025 Investor Call earnings call transcript - Ya...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Eurobites: Nokia sells private wireless unit to Aurelius（產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

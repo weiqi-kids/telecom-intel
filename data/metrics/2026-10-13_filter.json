@@ -1,0 +1,16 @@
+{
+  "total_raw": 309,
+  "dup_title": 185,
+  "no_date": 0,
+  "too_old": 65,
+  "gate1_fail": 2,
+  "gate2_fail": 12,
+  "passed": 45,
+  "gate2_samples": [
+    "Ciena: Getting More Interesting, But Still A Bit Expensive - Seeking Alpha",
+    "Ciena Appoints Monika Fahlbusch as Chief People Officer - Rutland Herald",
+    "US court reconfirms Deutsche Telekom award against India - Global Arbitration Review",
+    "Deutsche Telekom AG: Release of a capital market information - MarketScreener",
+    "Deutsche Telekom drops 7% on SpaceX competition fears - Breakingthenews.net"
+  ]
+}
