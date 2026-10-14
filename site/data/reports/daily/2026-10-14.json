@@ -1,0 +1,250 @@
+{
+  "date": "2026-10-14",
+  "generated_at": "2026-10-14T13:13:45.363054Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "softbank-2026-10-14-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Full Transcript: SoftBank Group Q1 2026 Earnings Call - Benzinga",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOEpfbVc2UDRDaFZmTUQ5YXpxb0tQOHMtRXpBNG93Wm55RVMwQm1WWDRxYk1uX2J0YjBNRGlxczJLdlE2dXl2b0dVNjFSYkRrYkdWQkhmU2dDSlBEdEZiS1gtZmNoSzA2bXMtWndwUThObFZqU3NnZEVoOXhoVmg1UWU0dlZDSGpsTk9xdzByVzFhXzJDaGRoemtPMzNpdw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sba_comm-2026-10-14-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SBA Communications Corporation Sets Date for Third Quarter 2026 Earnings Release - StreetInsider",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQXM0cVJaYlc1cS1uZ25PaHk2NnE0MTdsdEE1MUlUMldrbUtONG9OdGFkS0J3RU91Y1ZJQVltdFdhYlJjVDl0bF9NZ0w4cnVoUmh6ZjJEd3prX3ZBSGhJSHhnMVJqRVdQd3FzdWU2T2QxTzhXaEtIVFFTS3d3Q1VaUkNOdDNNY0EzUE50clpfejM0SElvNUd3N0V3RGhYLVpyVDRlOGp3MlJNTkRQWWp2VjZnNm5HMXg0U0JmRFpMSWJ6cWhLbHV0UlZyVnFjX01PREVFcw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tmobile-2026-10-14-003",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "SpaceX Starlink Mobile’s Biggest Hurdle? Deutsche Telekom CEO Says Elon Musk Must Match T-Mobile's 85,000 - Benzinga",
+      "companies": [
+        "tmobile",
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaHlIdlFzMzg0QklsSDEzRVVtLU41WE5NTWpsYU1JSThuWHdsdFU2a045dXFWV0tFUmQyNzhMUEVpUU0tcFJSR0xTckYxeVFub1RTSUtScFZRSEhTNnRwb25sWjYySE85WjdDbzc3amVHaW5jRTRmazdjQXF3eUJnalFDMkJ2bFdJblJWM28xcEp4TlJReThDQm9kMVJyNlBreXNXNFVUX256cnlseGVwbm9SeGVPUm1zSFNNRE9iSHFwdFQzeUo4ZzFGNmlqcmd1aUNRa2MzM0NCSkVtTVhmTHVGU0o3bHBqTXZad2dWRVNzOW5vTWc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "verizon-2026-10-14-019",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Verizon CTO: 6G needs a breakthrough for AI uplink demand",
+      "companies": [
+        "verizon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.lightreading.com/6g/verizon-cto-6g-needs-a-breakthrough-for-ai-uplink-demand"
+    },
+    {
+      "rank": 5,
+      "event_id": "ciena-2026-10-14-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena CEO sells 2,952 shares while analysts cite USD 506.11 for Ciena stock - ad-hoc-news.de",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWHpYWGMtRVRWM3d2ckJuQ1JIb2xrcDdJTUJaZnJ1S01GNTdZSk1sMVlhb2dadmNiSnRIaU5IcTBnRnNsckxnUk5kN1E3Ulo2NFVHRU96bnY4dHpFOHo1ODZPN3dpTGZsc05qVkZZQXh6LTJUcDBSVzFlX3A5NzAtcUJYSHRQRjBWRUYwSWpJNnFhLUhTUVdjdWVTNzBBNllaSU9IdUZDdkpoWXctRHd4czdqYmxaV2sxSlFuZEpaNmJJZHZvSjBTTlVhQkg?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "tower_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 25,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 23,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "softbank",
+        "count": 5
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 3
+      },
+      {
+        "id": "american_tower",
+        "count": 3
+      },
+      {
+        "id": "sba_comm",
+        "count": 3
+      },
+      {
+        "id": "ciena",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      },
+      {
+        "id": "tower_consolidation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 300,
+    "dup_title": 180,
+    "too_old": 66,
+    "gate1_blocked": 3,
+    "gate2_blocked": 8,
+    "passed": 43,
+    "pass_rate": "35.8%",
+    "gate2_block_rate": "6.7%",
+    "gate2_samples": [
+      "Ciena: Getting More Interesting, But Still A Bit Expensive - Seeking Alpha",
+      "Ciena Appoints Monika Fahlbusch as Chief People Officer - Morningstar",
+      "US court reconfirms Deutsche Telekom award against India - Global Arbitration Review",
+      "Deutsche Telekom AG: Release of a capital market information - MarketScreener",
+      "What is SBA Communications’ (SBAC) Economic Moat, and is it Widening or Narrowing? - Yahoo Finance"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 25 則事件，焦點為軟銀、德國電信、AMT相關動態：「Full Transcript: SoftBank Group Q1 2026 Earnings Call - B...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Full Transcript: SoftBank Group Q1 2026 Earnings Call - Benzinga（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "SBA Communications Corporation Sets Date for Third Quarter 2026 Earnings Rele...（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

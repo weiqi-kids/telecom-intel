@@ -1,0 +1,57 @@
+{
+  "date": "2026-10-14",
+  "total_events": 25,
+  "by_company": {
+    "ciena": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "tmobile": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "deutsche_telekom": {
+      "count": 3,
+      "sentiment_avg": 0.17
+    },
+    "softbank": {
+      "count": 5,
+      "sentiment_avg": 0.0
+    },
+    "american_tower": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "sba_comm": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "verizon": {
+      "count": 1,
+      "sentiment_avg": 1.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 23,
+      "sentiment_avg": 0.07
+    },
+    "fiber_buildout": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "tower_consolidation": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
