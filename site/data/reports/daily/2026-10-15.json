@@ -1,0 +1,212 @@
+{
+  "date": "2026-10-15",
+  "generated_at": "2026-10-15T13:00:28.741090Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sba_comm-2026-10-15-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SBA Communications' Q3 2026 Earnings: What to Expect - Barchart.com",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeVYwMG1FblR2M3ZGRWxjX1Y0Xy1venBMSURHT1JnWHRRQ09YN1NzSUp4S2kzOTd6dW15VTByWlBacDRncEdfajloNDlMWnhMdWRURUFDc2NvWmJlVzNnU2hmRndsOTBWWk90UXc2ckxQX2N3R2F1TGpCZVFnLTBIOVFac1ljR0dyd2JxWk5aZEdVVkFOYTdhVUh3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ciena-2026-10-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "What Would It Take For Ciena Stock To Do It Again? - Trefis",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY1Rjc1lzYV8ybjBzNUZ5NVVXYkxyYTM3c2R4RkE5bHB6MmNtaHFMZUdGRW94R20wdDVQWFVhWi13RVN1VTQ5LVhndmF0MXU0bndhcXpyYUUycnE2VTNnUGJxQXJLYjdjRzQ1RDFIbUN3TjRzOGNISmU0Vl9xLWVWdWFtaFJxNDgyMzljUkZERWtob0NmVnZqMWg3OExDM2xqUkN6Z1laYWtzQXZpYjJ3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ciena-2026-10-15-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena's optical tech gets CtrlS deployment while Ciena stock trades at EUR 308.20 - ad-hoc-news.de",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORWxoR2pFaGgtS3c5Uk8yZk1HQ1FFd3pfLUROV3BuZmtMWlFOQkZXSGhqdjM3ZFRQVkk4TmNGUzVfOVotUi1XUUVLdnZxR05QTkNMam5pUGNTTHFwRXBxd0xrU0duV3B5bzVGTG9DaUI0N0hwTmlnVVlXWmNwb0Z3czBmQmc3N255MlJaUGZ5dFAzWS1Vd0ZYV056RVZ5NkxoR1B0dklVdEdCQjF5UW1TXzZxN3UySmJmY0NiSFNaTmN6RXlZSVNNc2F6SWtRWTh6djUzbDNQWnNaazFQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "deutsche_telekom-2026-10-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom's Defensive Bid Masks an Unresolved US Question - ad-hoc-news.de",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPN2hEdFRWZHlEMkw2QUVRYXZFT3lmY3lWWFZWVExIUjVMRDdrSkc3ZWNEYldaejBZTWJpa2I5NzdNYWFRLUh6NEZxYktrX3ZvWTFsWWRKczdiNWtQLUp5dk8wbkZZTTQzVzhsT2d0WF9IaF9QVVRiTGM1cWhWUnJLSjYwazBISkxhcWR4ZjhTa01ZSkExQUxYeDNQUHFpVC15Y2pSdGxGd1ZnSzA3NnFSal9OZEp2aEpIYUQ2NlF3OUF6WU9Hc21uVVFacmJ3TGZrRUE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "softbank-2026-10-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SoftBank Corp schedules Q2 results as SoftBank Corp stock costs EUR 1.37 - ad-hoc-news.de",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdDBwX2V3VlAtZTR4VFpOTEFUc3hLbE9naXVrRUJScnp5ZjZVYzRTc1hjTXZIY3g4WG9YcW1qQlVxcjdZY3o0TmRXdEh6NkxkWUgxOTFkMTN4ZGphbFdObHFaaVdWaXJLdDZRd2ZsWU9iUy1NZnJmZjVUcF9LSnNDN05vYnNUaGdOYW1iY05fdmFaR0t3bmczY2pDRHhlZG03NmdpT0wxSDRqcjQ5SXVvMVF3SGM5NmVFdXpuaEZpXzNvTHlGNU9fTkV3a3BFX0lB?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.06,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 14,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 2
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      },
+      {
+        "id": "softbank",
+        "count": 1
+      },
+      {
+        "id": "american_tower",
+        "count": 1
+      },
+      {
+        "id": "sba_comm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 310,
+    "dup_title": 171,
+    "too_old": 66,
+    "gate1_blocked": 7,
+    "gate2_blocked": 12,
+    "passed": 54,
+    "pass_rate": "38.8%",
+    "gate2_block_rate": "8.6%",
+    "gate2_samples": [
+      "Ciena slides 10% amid multi-session losing streak (CIEN:NYSE) - Seeking Alpha",
+      "Ciena Appoints Monika Fahlbusch as Chief People Officer - Morningstar",
+      "Ciena: Getting More Interesting, But Still A Bit Expensive - Seeking Alpha",
+      "Deutsche Telekom : \"Today, we are measuring our circularity for the first time\" - MarketScreener",
+      "US court reconfirms Deutsche Telekom award against India - Global Arbitration Review"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為Ciena、德國電信、軟銀相關動態：「SBA Communications' Q3 2026 Earnings: What to Expect - Ba...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "SBA Communications' Q3 2026 Earnings: What to Expect - Barchart.com（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "What Would It Take For Ciena Stock To Do It Again? - Trefis（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

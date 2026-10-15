@@ -1,0 +1,16 @@
+{
+  "total_raw": 310,
+  "dup_title": 171,
+  "no_date": 0,
+  "too_old": 66,
+  "gate1_fail": 7,
+  "gate2_fail": 12,
+  "passed": 54,
+  "gate2_samples": [
+    "Ciena slides 10% amid multi-session losing streak (CIEN:NYSE) - Seeking Alpha",
+    "Ciena Appoints Monika Fahlbusch as Chief People Officer - Morningstar",
+    "Ciena: Getting More Interesting, But Still A Bit Expensive - Seeking Alpha",
+    "Deutsche Telekom : \"Today, we are measuring our circularity for the first time\" - MarketScreener",
+    "US court reconfirms Deutsche Telekom award against India - Global Arbitration Review"
+  ]
+}
