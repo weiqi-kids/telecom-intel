@@ -1,0 +1,219 @@
+{
+  "date": "2026-10-16",
+  "generated_at": "2026-10-16T12:54:54.521401Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ericsson-2026-10-16-010",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Verizon and Ericsson make first 6G call outside in 7GHz band",
+      "companies": [
+        "ericsson",
+        "verizon"
+      ],
+      "related": {
+        "customers": [
+          "verizon"
+        ],
+        "suppliers": [
+          "ericsson"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/6g/verizon-and-ericsson-make-first-6g-call-outside-in-7ghz-band"
+    },
+    {
+      "rank": 2,
+      "event_id": "deutsche_telekom-2026-10-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "US court upholds $101m Deutsche Telekom award over failed Devas-Antrix satellite deal - The Indian Express",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN2N2WXBLOUVCS1M5cWtOZExsTXhSUVowQ2YwSnhqN3pGdUpfYnRJa3drcFpDR3ktNWw5SEZBbUUxS3RmM1drOEZqNEFOc24zZlYxY1VvR0Rkdm10V0JlMElKUjlTVWlESnRYQ2EtV0RkdnZkMlJxcmEwSXdIck1EZWtJTGdMejZSaHZKY0RBTWgtYWN1V2U4azQ5a25SbENXN0wtZHgzMXU4dU9OR1V4MnVXVmVYd9IBvAFBVV95cUxNajJpcVRxRlF6V3hfV2h2dlp0T3Zrek9tTzBfdUhVbUowb1NkVzhKVTVJOUNYbEhsekFLRjBBSWp4bFljdlZ1bHpXcEdYUTVOa2tHRjlyZ3BHRzdnRG5jNjM1MlppMjQyZmdWVkR1SzdnN0lLWHViNG41MUZ4UExUd2lqMWxBQVdSRTVjLVlDNlJYay1QTmx6emQ2X0RkemtYbFBHa2g2VDk2UUVyR294WTY4aFFTa1I5NmdDdw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "deutsche_telekom-2026-10-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom's Fiber Order Book and AI Savings Face a SpaceX-Sized Question Mark - ad-hoc-news.de",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQU3QzM2hhLVMxVV9xZGpJbVlZWWxUZTh4aWVFNVdsd3R4TE9lQk9ZckZzVl91eENmY3RmMTd3LTE0SjU4NmRyTWdVc2kxSTBMSEpVeU5ZXzJTeFJtZVRtWVd1MUlqSExHdjlmWDhXM1RJZDRFdF9QeUFNLTcyLTdlUGZjWmw2N0lRRzlFMGc4dElMbDY4V2lzTVlqanF5ektyVk9JQ0dOUG91Slp5UlgyZ0NzeDZxLWZXZzRrY3R2dEo5OC1BV0pBdm03YTRwTWgwVFNwZE5Mal94QQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "american_tower-2026-10-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "NorthCrest Asset Manangement LLC Buys 5,615 Shares of American Tower Corporation $AMT - MarketBeat",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMmhaVlBOcnloQlByeWI3V1Q4emQwNWJ1bmVYM0JiaU9lcGpid2ppM0h4NHRsOHNSd0FTS0oxRVMyeEh5ajI0czBGM013bU5QSnJpZmMtdU5DS2diZEp1SmNicFFseHVmcGQzOWplZnR3c3BHMGU1cGlveTJDLVRIUWNxTHBmSXZvdFl1cEwteUozT002Rm1VUFlvRHc3REEwVjFVWExYaGxQOHNmcHVGT0ZKVVQ1d0tjbkhhWWhBaDRwTjhyMDlkOUl2bUJqWEZfVW81aXNDcjdTWm5q?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "american_tower-2026-10-16-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Wells Fargo Adjusts Price Target on American Tower to $195 From $200 - marketscreener.com",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX1hWNS1hUmR1dTJpNGNUQnR3ZG5rRW9XSm1rbEFyRS1tbmEyZWNrdnZYUHdCeVlfbFVWR0VoZm1NR0h2QTU5allQcmNBTUdPSUtmNjY1TXlSQkdNS2NPMElDTVVvZGdtc3UtMzNzWlJOMzhlSXpKMEowSFc1dFI0aldsRlgwQl9nbFdfS3VIdkswWXg1WGZCeEVsYjJpRDY2RUNLNkJJV0Z1U1ExMk5Td2l4anlwRjVqaFZZ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 16,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 16,
+    "sentiment_distribution": {
+      "positive": 4,
+      "neutral": 12,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_tower",
+        "count": 4
+      },
+      {
+        "id": "ericsson",
+        "count": 3
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 2
+      },
+      {
+        "id": "sba_comm",
+        "count": 1
+      },
+      {
+        "id": "verizon",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 16
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 310,
+    "dup_title": 169,
+    "too_old": 67,
+    "gate1_blocked": 6,
+    "gate2_blocked": 14,
+    "passed": 54,
+    "pass_rate": "38.3%",
+    "gate2_block_rate": "9.9%",
+    "gate2_samples": [
+      "Technical Analysis of Ciena Corporation (CRYPTOCOM:CIENUSD.P) - TradingView",
+      "Ciena: A Cyclical Business Priced Like A Compounder (NYSE:CIEN) - Seeking Alpha",
+      "Form 144 Ciena Corporation For: 15 October By Investing.com - Investing.com UK",
+      "Ciena Appoints Monika Fahlbusch as Chief People Officer - Morningstar",
+      "Ciena slides 10% amid multi-session losing streak (CIEN:NYSE) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 16 則事件，焦點為AMT、愛立信、德國電信相關動態：「Verizon and Ericsson make first 6G call outside in 7GHz band」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Verizon and Ericsson make first 6G call outside in 7GHz band（產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "US court upholds $101m Deutsche Telekom award over failed Devas-Antrix satell...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
