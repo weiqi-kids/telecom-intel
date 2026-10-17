@@ -1,5 +1,103 @@
 [
   {
+    "id": "nokia-2026-10-17-001",
+    "date": "2026-10-17",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Annex Advisory Services LLC Buys 4,221,629 Shares of Nokia Corporation $NOK - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPS1BjTXNJaTkwdnpTLXFyOEk1ZTBHWHNGcGp1SnFxYzYxM2hXSVM3WmVRSEtjaG1hRXhZZFNseFpjNXpxal9KV0xxNGxHWENJY1ZMQWhVNk9FZnVQcUJEQThNdThHMU9uUmxsajJsUi",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPS1BjTXNJaTkwdnpTLXFyOEk1ZTBHWHNGcGp1SnFxYzYxM2hXSVM3WmVRSEtjaG1hRXhZZFNseFpjNXpxal9KV0xxNGxHWENJY1ZMQWhVNk9FZnVQcUJEQThNdThHMU9uUmxsajJsUi15QUItckkyNnJXNXFmRlkxdGp0WDEyMDlyNWdOQU1UU1Q5MVE2UnRMdFBFUTU4aGtzYWcxMmJyWUJ0STg2Z3phREdDYUdGdDNhampPUWV5SkNaanBxRHo3T2txb3k4dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-10-17-002",
+    "date": "2026-10-17",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ciena Corporation $CIEN Shares Bought by Assenagon Asset Management S.A. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQeU1fTzZob2lrWEFrWDI0cnFhcWNBNUJ6UFYybExJU014NzA3UlVYdmt1TWt6SGkwUFFVT250OWpnb00yd0ZMUzY3SE1DeUVXZU1uVGNUSk54bERYbGJmSWZKRHdNMVkzQTc4Z2tYTD",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeU1fTzZob2lrWEFrWDI0cnFhcWNBNUJ6UFYybExJU014NzA3UlVYdmt1TWt6SGkwUFFVT250OWpnb00yd0ZMUzY3SE1DeUVXZU1uVGNUSk54bERYbGJmSWZKRHdNMVkzQTc4Z2tYTDJsQWpNd0daeTFualFOUjBTSWdXekQ5VGZ6dGZ2YTc2dWh5WVhuXzVCakJYUlN1Q0d1R0doZW9mcEVVWHl4QU9FaGxHVGpYWmtHZjk3NlVRREFBSW9heF81ZVFB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-10-17-003",
+    "date": "2026-10-17",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Telekom's US Engine Powers the Group, but Shareholders Capture Less of It Than They Think - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVW1tU3dVMmttc0dzZVBPOElmOWc5U2RHUmxzTmV0bTJfN1EzUFRycTI2bFBWTHJlOVlicklNakx5WWhneVJUX09jQWoyX211ZFlYRlBqaWRQMG9sUE4zdjNOVE1SZ0JCQUk1WUJzX2",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPVW1tU3dVMmttc0dzZVBPOElmOWc5U2RHUmxzTmV0bTJfN1EzUFRycTI2bFBWTHJlOVlicklNakx5WWhneVJUX09jQWoyX211ZFlYRlBqaWRQMG9sUE4zdjNOVE1SZ0JCQUk1WUJzX2Nhd1FKMjg0XzNJcHl2aFBET2JqZkdCR0RQN3Bsb251UkFXTndzVHdEWkdhNjNfeVdKU0gtbnZvMmlMb20zWWs0cW10WEo3dTJsM0tTNTQtTWRCVFRVVmJ3NGFYYVZVQVBTY1J5RU1VVEI3SUhhZTNWa25udkdiVmRWN2IwWjVoZmZxSU1iLVZ2eklLaHVxQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-10-17-004",
+    "date": "2026-10-17",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Deutsche Telekom's AI Ambitions Meet a US Reality Check - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOVnV6SjVyc3d2dHZVQ2JoQU9JSXNlZmxEYnhMOWIwcm9QeGlWXzloVzVKZHNxYWQ5YXZLWXZmVlZOdzFnM1RBdnVaUlpVcVduT2RySU40a0ZaZ0I1NGhiUmJ4NWVDU0hsQ1hodEp6ZV",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVnV6SjVyc3d2dHZVQ2JoQU9JSXNlZmxEYnhMOWIwcm9QeGlWXzloVzVKZHNxYWQ5YXZLWXZmVlZOdzFnM1RBdnVaUlpVcVduT2RySU40a0ZaZ0I1NGhiUmJ4NWVDU0hsQ1hodEp6ZVc5N1FhYWJRYVBnNWxFZVJzeG55elpOTXFjU2F2VDZnc3Nwa2huVm1hbHlFTEl4Z1NuTnVXOHl0WnFEakNYT3NPYVg0S29pWkx1enBfV0hMY2EwaTM5Vmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-10-17-005",
+    "date": "2026-10-17",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Tower schedules October 27 results. What it means for American Tower stock - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxObnFSS3dOa3FCa0dya1Y2bUxkREJfRWhYakxVcV9xM2laWnhiUkxMUWJxcHNhUDM0aHdBeFVtQTRsY3UtUWxEOFBjMzY4djl3NWFXNkRqOE5QZFJYMUdOX1Q2ZW16eXNZUVFzOTBiXz",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObnFSS3dOa3FCa0dya1Y2bUxkREJfRWhYakxVcV9xM2laWnhiUkxMUWJxcHNhUDM0aHdBeFVtQTRsY3UtUWxEOFBjMzY4djl3NWFXNkRqOE5QZFJYMUdOX1Q2ZW16eXNZUVFzOTBiXzVxUFpodUdubDVNYlVTLXZZd014YUZCVHMxZGdNNUw1bmU0eUkxb2JEd29fMGEtRlVKVUFKdG1aNTNPUkZWU3dEakJQaDN0SFFYLXBuSXAybUFydWQtdk5tOElOUkpIZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "deutsche_telekom-2026-10-16-001",
     "date": "2026-10-16",
     "companies": [
@@ -305,6 +403,298 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSS1tYTREay1zcGNhM1o5YUxtaXotS1NpbDBiYWwyYlozbDEwZ01RMVRaT3hubHZfV2I4RlBUcnlOVDFlVnUyNHNJM3JPUkc1bHF2XzlCbnRDc280QWJLTWJsYnFEMVpSNm5TUUNOMmZZZ2tQbXJtUGNMZEFFT2hoWjRlLXBRcG9aamlITzdFa2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-10-16-017",
+    "date": "2026-10-16",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nokia Corporation (NYSE:NOK) Stock Short Interest Report for September - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxONjFkQTRGMTVuX1UtX0ZwMXRGY2w5dXM5ZXVySGsxa3BrN0FyUG00NXF5TEVzUFNtWk1UcmpTamtDZTRBMG9sRm5nZ2Z4Nk9mUndlTzhjYTNsVWsxTmRaWkplWU42YnNIUFZNRzFBNW",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONjFkQTRGMTVuX1UtX0ZwMXRGY2w5dXM5ZXVySGsxa3BrN0FyUG00NXF5TEVzUFNtWk1UcmpTamtDZTRBMG9sRm5nZ2Z4Nk9mUndlTzhjYTNsVWsxTmRaWkplWU42YnNIUFZNRzFBNWtpdkF5UjZybVlISW1ibmNzNURuUWpub2FmZUplU2tjZjFZV1R0M1c3RnN0UHF4NEZEOW13bkhhczRaY0J6ZkZRNUJiQXRxTFlvQmpsUWVuZmw2ODJzMk1ZcEJ3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-10-16-018",
+    "date": "2026-10-16",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nokia Corporation Sponsored (NOK) Stock forecasts - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNT21qT0hrLWFTWTZnRDZHcTVMcElhZEpMVWFqQU5tMWszVm5KSVlQZkxja3o5UmhQQ1ByMTZLUnFMVUQ1d3d3eGpZVXBJWFZmdU1lNnJyQUhJanJ5cUtBYVZGSGhYV2J4WS1rWFNGRV",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT21qT0hrLWFTWTZnRDZHcTVMcElhZEpMVWFqQU5tMWszVm5KSVlQZkxja3o5UmhQQ1ByMTZLUnFMVUQ1d3d3eGpZVXBJWFZmdU1lNnJyQUhJanJ5cUtBYVZGSGhYV2J4WS1rWFNGRV9seFZjVG1WODl4LUVxZ2kzQjRFSm9HcjRxNHBNaWdvbXFvdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ceragon-2026-10-16-019",
+    "date": "2026-10-16",
+    "companies": [
+      "ceragon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ceragon Networks Ltd (GGN.HM) company profile and facts - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE04TV9CZjdpTkJDTzhmQWsyM2hJanJjT1REeng1eXQ5TkJaVlltYXdXR0pUMmtYOEZ3dnZBTTVpM05GOTduNERaYnVrSjJEN21HOW50dWR3ZENfUGs1cVJj?oc=5\" target=\"_blank\"",
+    "sources": [
+      {
+        "name": "ceragon",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04TV9CZjdpTkJDTzhmQWsyM2hJanJjT1REeng1eXQ5TkJaVlltYXdXR0pUMmtYOEZ3dnZBTTVpM05GOTduNERaYnVrSjJEN21HOW50dWR3ZENfUGs1cVJj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ceragon-2026-10-16-020",
+    "date": "2026-10-16",
+    "companies": [
+      "ceragon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ceragon Networks Ltd (GGN.HM) valuation measures and financial statistics - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wMUJ1S3ZVS1RRUW9FTWw5OTA0NGx5elF5NDJxbjg3cWN0VHNGektxX2sycHpwd3ZKeHV0LVZZX2dzenQtMmtfbTcwdWF0dzE1NVhCX29icHYxYUlxdmFQbHlNV0ZBdXZS?oc=5\" tar",
+    "sources": [
+      {
+        "name": "ceragon",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wMUJ1S3ZVS1RRUW9FTWw5OTA0NGx5elF5NDJxbjg3cWN0VHNGektxX2sycHpwd3ZKeHV0LVZZX2dzenQtMmtfbTcwdWF0dzE1NVhCX29icHYxYUlxdmFQbHlNV0ZBdXZS?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ceragon-2026-10-16-021",
+    "date": "2026-10-16",
+    "companies": [
+      "ceragon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ceragon Networks Ltd (GGN.HM) options chain - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE80b0N6cHV5ZEFVNUhqb2F5UEY3UFFJSlVFTjZiWHB3cFNnQ0xpLWFJb3FRVE9vTlBIRmNVZjNwcHd0R2FMQzhtWGFyWW1zNmVqbHhKWS1QYm8xLW5RM0Vj?oc=5\" target=\"_blank\"",
+    "sources": [
+      {
+        "name": "ceragon",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE80b0N6cHV5ZEFVNUhqb2F5UEY3UFFJSlVFTjZiWHB3cFNnQ0xpLWFJb3FRVE9vTlBIRmNVZjNwcHd0R2FMQzhtWGFyWW1zNmVqbHhKWS1QYm8xLW5RM0Vj?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-10-16-022",
+    "date": "2026-10-16",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Cloudflare and Deutsche Telekom Join Forces for a Secure and Resilient Internet - Cloudflare",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPc1habHV5ZFhkS1R4cnNRTnNxNWdHVE1NRXhEZUlNWlR5Mk5tTnBkaWg3TzRnSkVKNlVVZm5idkhjVU5xWHUzS0Iwd0llNHNpZmlKVFY4Rm1jcEVQZEI4dmNNZXlYSjFkLXZlbG5jND",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPc1habHV5ZFhkS1R4cnNRTnNxNWdHVE1NRXhEZUlNWlR5Mk5tTnBkaWg3TzRnSkVKNlVVZm5idkhjVU5xWHUzS0Iwd0llNHNpZmlKVFY4Rm1jcEVQZEI4dmNNZXlYSjFkLXZlbG5jNDRRTXRTeXhjU2xoOHVaQnlPUVJ4NHBUQW5nWWRMd0RaR1AxbHRnSlRxcXJCOW43bmI5UjBxeUU2VFRfd3I5a2NnUEhoNmVONmUyalBzS1A2MnAtb25fRDRkckEzNmRNU2lkVFNGdDhn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "verizon-2026-10-16-023",
+    "date": "2026-10-16",
+    "companies": [
+      "verizon",
+      "softbank"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "What’s up with… Verizon, SoftBank, Globe - TelecomTV",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdGFod2t4bzNLRDBTbnhZNm1XQXdiU0MyN3VWUHJERGxxR1h5N3hyRUV6dGx3LTZxMERIak81QWlvdTlIV1BkS1hTZng3by1ZcE9CWjZKeDRXZWZ4dlNyMzlhOHJOd3A3YmZobTBpSn",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdGFod2t4bzNLRDBTbnhZNm1XQXdiU0MyN3VWUHJERGxxR1h5N3hyRUV6dGx3LTZxMERIak81QWlvdTlIV1BkS1hTZng3by1ZcE9CWjZKeDRXZWZ4dlNyMzlhOHJOd3A3YmZobTBpSnQ4RUViNVpvb2xQbWt6NnZKY0dfTlpoRGcy0gGOAUFVX3lxTE9xa2JxVmNwbWtkVXFzajdja1RsMzA1d0NHRGFXVWRqcV9FUmh2RUZSR2RzVkVHSHZZeXpodTdZR1VzRDgzaGsyNUFIblhoYkRvbUhmdXBjZmYya1JSZFgwREx2dFNzM3JnRFZFdU1PR2Y2UnV5SFJTZXZMczBaUTRMS1ltbi1KQmE4NUJGWEE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-10-16-024",
+    "date": "2026-10-16",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank stock: At 21.60 times earnings, SoftBank stock is valued - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOU2o3V3B6SzgtMG9kZGR6SFRwclVsTnNwUDlUbTh3RWx2eks5RThtQzdLSEtoZ0VXaEJmVXJMcWpQajNFaVc5UjJrNlpDeFZHZjJCZjVwMzhKTU5BRF9KdFNwNG9nOHVjcFdpNldqUT",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOU2o3V3B6SzgtMG9kZGR6SFRwclVsTnNwUDlUbTh3RWx2eks5RThtQzdLSEtoZ0VXaEJmVXJMcWpQajNFaVc5UjJrNlpDeFZHZjJCZjVwMzhKTU5BRF9KdFNwNG9nOHVjcFdpNldqUTBpekRBOHRaMEotWVlZcUd6dzRSQVc5VEpNTDBsVFVIYTBld3p4SlFhODBpMUJaUmllSW1QMFc0eExocURVbFRkLTRPbTk4N2wxVlh3MmUwcTJyZjdt?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-10-16-025",
+    "date": "2026-10-16",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wells Fargo Adjusts Price Target on SBA Communications to $205 From $210 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQakc5Y3JpdVNfY0hWLVE3MHpuM1FrZXZEYzRuekVzRThKWHVQVFk5STEtSU9ocjlRNy14SXNNYzhjRjhaVFhZOHNlLXVZdXV4QWJ3Unl6Vi1RekRBNDE1V0N4cFlMOTRKZldoLWRJWX",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQakc5Y3JpdVNfY0hWLVE3MHpuM1FrZXZEYzRuekVzRThKWHVQVFk5STEtSU9ocjlRNy14SXNNYzhjRjhaVFhZOHNlLXVZdXV4QWJ3Unl6Vi1RekRBNDE1V0N4cFlMOTRKZldoLWRJWXgydTZHOENZSHBjMWJzQkxjSGUwaEFULTFpWjBTV29PWThuR1lQeUhxU3VablczYzlLYkJ6eGVUWlJjbi1sN2lESjBac0FLajF6elFBdlpqdFA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-16-026",
+    "date": "2026-10-16",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Gloomy handset outlook flattens Transsion IPO",
+    "summary": "Handset maker Transsion's IPO was weighed down by a difficult market, with global smartphone sales hitting lowest mark in 14 years.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/smartphones-devices/gloomy-handset-outlook-flattens-transsion-ipo",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-16-027",
+    "date": "2026-10-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Another 'Neutron' rocket delay slows Rocket Lab's SpaceX chase",
+    "summary": "Rocket Lab is delaying the first launch of its 'Neutron' rocket to sometime in 2027, a decision that will slow its ability to gain ground on SpaceX and amplify concerns about overall near-term launch ",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/satellite/rocket-lab-s-first-neutron-rocket-launch-delayed-to-2027",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-16-028",
+    "date": "2026-10-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Zayo is trying to keep its cool in an overheating data center market",
+    "summary": "Company has recently inked deals with Nvidia to build network capacity and with Corning for fiber-optic supplies.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/data-centers/how-zayo-is-trying-to-keep-its-cool-in-an-overheating-data-center-market",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-16-029",
+    "date": "2026-10-16",
+    "companies": [],
+    "topics": [
+      "arpu",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "RedCap Quietly Rewrites the Fixed Wireless Cost Equation — and the Fine Print Operators Should Read",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/cmbqfVpUyDsM4NMnpuFqEeGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"RedCap Quietly Rewrites the Fixed Wireless Cost Equation — and the Fine P",
+    "sources": [
+      {
+        "name": "telecom_ramblings",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaWnDJljEeimLUAjpzy0NvCI?utm_source=follow.it",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-16-030",
+    "date": "2026-10-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "TPG Telecom Says 5G Network Slicing Trial Delivered Reliable Connectivity for Payment Services - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYXhVVVNMQzktR2tVQ2NoS1ZVYS1ucU5SaHh0Y3FjeV9zRGxzcFhJZ1JkVjQxRTBfNUhoVWlpbzQ4cDVpN29SendxOENwelhTR1hfZERBX1V1S0JMdUFoLWlxeGlMek1BX3hWX0Ftdk",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYXhVVVNMQzktR2tVQ2NoS1ZVYS1ucU5SaHh0Y3FjeV9zRGxzcFhJZ1JkVjQxRTBfNUhoVWlpbzQ4cDVpN29SendxOENwelhTR1hfZERBX1V1S0JMdUFoLWlxeGlMek1BX3hWX0FtdkhDVUt0ZktSazNsbTdtOGoySDlFX3l3YWlhMGc3WmlMVzhtSzB6UVdlaldXQ0ZIOFUyblo0V3hnLUhLdXNZaGVicVI5cjZCaEpwZ2lmbTVHMU5xRmRxUzQweXRYMGNsTG9UazIzckt1V2J5NkgtdmZlMQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "att-2026-10-16-031",
+    "date": "2026-10-16",
+    "companies": [
+      "att"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mexico’s telecom sector shifts again as Televisa buys AT&T for US $2 billion - Mexico News Daily",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNYWdHMmU0aXdKV1dLbW5rdkFSdFFPendBTjh3WkRrblBTOTdlbWpXdGRGc25TRlg1cThMMmpRYXdNREh6SlFZbFZVdFItZWctUzA1bmNrMmd5SzdiQ0tJTUZfc1ZKUFlKQWRkSXRCQl",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYWdHMmU0aXdKV1dLbW5rdkFSdFFPendBTjh3WkRrblBTOTdlbWpXdGRGc25TRlg1cThMMmpRYXdNREh6SlFZbFZVdFItZWctUzA1bmNrMmd5SzdiQ0tJTUZfc1ZKUFlKQWRkSXRCQlZZcm9EZ3V2dDJGRzdHYVo0M1VIa1pFa3R5QnJHOUkzUngxNkJDNEVXb3BVcmwzWGVXZXNTQU12MEMwUUdjY2d3Zw?oc=5",
         "type": "rss"
       }
     ]
@@ -1249,6 +1639,62 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTFJJaHpOcGpuSEdzSjFjOGczRlE5SlY1TGszVFdadmRXTVVJSnk0azNxa3lVNEtmOTF2eUdESnJPNVc4a3ZybHJ4UEVhSVFTR3hCdXZkRnhYUVRPU0c4eGFtaDBFS0hyUDl1RnZSdzQ5dkx6c0d2ZWYxVlVzZnNBQmJIWFNETXFNdWtqVG9ER2Iwck50UHktRDNYamRqWWFlLWdmb3lOOWRiQmFuWUlndk1HVzJYRkRyYlV5dHo3WkxBaGYzTzdRTDMzZ1J3Z9IB1AFBVV95cUxQeEkxUkRnMW0zd1pFbVNPTDZzNXJSbWF5ZHp3YXhIUm5nTlpzcHBKSzVwRjJrZ296QU5kZTFNRGRJOFdCTWRpYzNMdlFsb0VpamRranJ0YjBVZ19FX25NeTlWRWYtVU5IQ2F2dC1IMHZNbXhraUJKWnZ1SDBMRjh2ZHJuNGd5SWFwNFRNUFBPcU81MkMyTG1hdFZabHl1R3FTbTNoYXVRZ2V1V09fOWZfXzctcGRIems0WkU1a2hvRXRxQ1BfZkFoTDk3TVlJZ2NWX3dBcQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ceragon-2026-10-15-050",
+    "date": "2026-10-15",
+    "companies": [
+      "ceragon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ceragon Networks Ltd (GGN.HM) insider ownership and holdings - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uYTA3dTEwUWtSbkZ6NlJHSVBtOU94b21oRGFXdWpuZGxOSXdRTkpORVdTblktN1Z4VUN4QW0telJCbVJtWjV4STl4YnFFLVEwam9aaHI4TFM1TmZRQ0tfZy14b1hNSUNw?oc=5\" tar",
+    "sources": [
+      {
+        "name": "ceragon",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1uYTA3dTEwUWtSbkZ6NlJHSVBtOU94b21oRGFXdWpuZGxOSXdRTkpORVdTblktN1Z4VUN4QW0telJCbVJtWjV4STl4YnFFLVEwam9aaHI4TFM1TmZRQ0tfZy14b1hNSUNw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-15-051",
+    "date": "2026-10-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Zayo ranks on Vertical Systems Group's US carrier ethernet leaderboard",
+    "summary": "Zayo's network spans 32 million fiber miles and 224,000 route miles across North America. #pressrelease",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/broadband/zayo-ranks-on-vertical-systems-group-s-u-s-carrier-ethernet-leaderboard",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-15-052",
+    "date": "2026-10-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "DC theme to drive telecoms sector play - The Star",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQcFRVeXh6NzlZa1VNZGJrQ1RpYXNWOU9FMlYxdHZNeWJ0SG85c0hFS0hPYWZDRS1pY2hTMkUzTlM5U3hLWkVmQVktWFcxV1R0V0FlWWhVOU1JbzJZaTR1cU15Z2xLYUVlX0FCN0M1VF",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcFRVeXh6NzlZa1VNZGJrQ1RpYXNWOU9FMlYxdHZNeWJ0SG85c0hFS0hPYWZDRS1pY2hTMkUzTlM5U3hLWkVmQVktWFcxV1R0V0FlWWhVOU1JbzJZaTR1cU15Z2xLYUVlX0FCN0M1VFNSR2k2VW1HT3JwajFxdmRGRDNGd1lWR1lBcFRkYVdOc2FBeHdsU0RzNl95MHp3Nnhy?oc=5",
         "type": "rss"
       }
     ]
@@ -2400,6 +2846,24 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQN3h0RE9iMDhfd080TnlmOXdmTGFIend3ZG1ROEVRUzFJZmJhOG80b2NjcXFvcGZUbHZ2VE1mSUxuaGllemZubW8xZXRnWmtXVkNyd2VSeHRwLTMzeGx3bXY1eVVFXy1idzFNUjZWLVExT0VfMk9iMFNya1RiSDl0RC1Ya1NTOWxEbWlxUm5UaFlMWDNMdk1PUktTZ2p1X0g1RGtXNDZxZlQ1elJZdkM5QU83NENlSlNxbV84WjRlN1M1TFBIcFl6akVCd1llZUR0eWQ3TF9zODZNX0w4d1dGMXR0c2RPa0VLc0tuSFFORkdkcTZPQlpDaGw4QnpaLUVteUFfTTJYSTTSAY4CQVVfeXFMUDJhZk1OaEdVV096T1lvZW5BNWJDZnVaTDRrbVk5VmtqbXJnakNsVkJEM1ZtV2s3RWV2RG9VMDBmMHZ6QUxOSTVHSFV4eC1VM3kyTXZjaXVjTnBmeVRlSEpTaFFfZWtEWlRNVnRiaXY2SkZ2U2V1N0VkdGQ0cGkwNjhaQkg0WEVIclYycURiam81eC1TR253dl8yM2stQldWNFR2bE5ERkpDUnViOUVLSTM2eFBjZ2lpSW9vSkpUbjRJem1raXZBX0htSm9rSGMzSG1GYVQ1WUljZnp6NkR5ZVdFYU9jZ09CV1dLZ3hvYVQ4UHJTUlRYTzZiTERxeThaeEJMTXhGNHlld1dSb3Nn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-14-061",
+    "date": "2026-10-14",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Business Matters: Canadian banks, telecom companies launch fraud detection platform - Yahoo News Canada",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOLS03QVdlODIyaEtNVnY1NFdoM1cwUU04engzOE4tYmcwSjByal9ESFpGc19MV1l1bzU5dG8yLXBKRHNSaTJtUUljWmVHOS1ZTGJNNmpNUDh3djhiaU91VHBFT3FoUFBZbk1Cc1EyME",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLS03QVdlODIyaEtNVnY1NFdoM1cwUU04engzOE4tYmcwSjByal9ESFpGc19MV1l1bzU5dG8yLXBKRHNSaTJtUUljWmVHOS1ZTGJNNmpNUDh3djhiaU91VHBFT3FoUFBZbk1Cc1EyMEZlMkJ6WXFLSzM4dDFZVUZOOVdYY0lVZlU?oc=5",
         "type": "rss"
       }
     ]
@@ -4274,6 +4738,27 @@
       {
         "name": "sba_comm",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTTBOLWRWd2VJdE40eFdaRW9uaXBSSGZsejVaTHg0VE5qaGFkVnUyeWVhN3I3T1J2S3VWeG9seE1rd2pRSzRweHFXejFwSExmMmE3TUhjek1Ea05ZTmVhNUhwWjJidEtyMDZ6M0hJcHRfcFhVZGdRTlNmdTV0OXc0Nkw3djB5NWY1dGhvcGpwSGFieGlLLTZ1THhoYWVaLWh6OUhodQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-10-12-053",
+    "date": "2026-10-12",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nokia's new fiber gear lets providers add faster broadband over the same fiber. - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOOVA0REZqZlZrV2MtYmNmRWw1c1pMUEpHUHBCTUc1Tm5IVG12cmxWOW5RbjRmU1RaTXNWLTNpd2FnckNwOTZ0Z1Zxc3h6ZkpOengzN3NyZDJLYXlWUm43ejBTTUxSUFYwd0JKRGJrdk",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOVA0REZqZlZrV2MtYmNmRWw1c1pMUEpHUHBCTUc1Tm5IVG12cmxWOW5RbjRmU1RaTXNWLTNpd2FnckNwOTZ0Z1Zxc3h6ZkpOengzN3NyZDJLYXlWUm43ejBTTUxSUFYwd0JKRGJrdkg1b3lPcVdCQzY4eTVFLWJwdk4tZ1JUYl8zWnBZeXAtb0FiV1dKcDBtZXVJdDRMd3NpeUVuY0ZicDlUSHhMeENwd2VOUXZVSnBWdUE?oc=5",
         "type": "rss"
       }
     ]

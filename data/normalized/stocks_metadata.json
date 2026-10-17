@@ -1,14 +1,14 @@
 {
   "ericsson": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-15",
-    "count": 6737,
+    "latest": "2026-10-16",
+    "count": 6738,
     "history_complete": true
   },
   "nokia": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-15",
-    "count": 6737,
+    "latest": "2026-10-16",
+    "count": 6738,
     "history_complete": true
   },
   "zte": {
@@ -19,38 +19,38 @@
   },
   "ceragon": {
     "earliest": "2000-08-04",
-    "latest": "2026-10-15",
-    "count": 6588,
+    "latest": "2026-10-16",
+    "count": 6589,
     "history_complete": true
   },
   "ciena": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-15",
-    "count": 6737,
+    "latest": "2026-10-16",
+    "count": 6738,
     "history_complete": true
   },
   "calix": {
     "earliest": "2010-03-24",
-    "latest": "2026-10-15",
-    "count": 4167,
+    "latest": "2026-10-16",
+    "count": 4168,
     "history_complete": true
   },
   "att": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-15",
-    "count": 6737,
+    "latest": "2026-10-16",
+    "count": 6738,
     "history_complete": true
   },
   "verizon": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-15",
-    "count": 6737,
+    "latest": "2026-10-16",
+    "count": 6738,
     "history_complete": true
   },
   "tmobile": {
     "earliest": "2007-04-19",
-    "latest": "2026-10-15",
-    "count": 4905,
+    "latest": "2026-10-16",
+    "count": 4906,
     "history_complete": true
   },
   "chunghwa": {
@@ -85,32 +85,32 @@
   },
   "american_tower": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-15",
-    "count": 6737,
+    "latest": "2026-10-16",
+    "count": 6738,
     "history_complete": true
   },
   "crown_castle": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-15",
-    "count": 6737,
+    "latest": "2026-10-16",
+    "count": 6738,
     "history_complete": true
   },
   "sba_comm": {
     "earliest": "2000-01-03",
-    "latest": "2026-10-15",
-    "count": 6737,
+    "latest": "2026-10-16",
+    "count": 6738,
     "history_complete": true
   },
   "equinix": {
     "earliest": "2000-08-11",
-    "latest": "2026-10-15",
-    "count": 6583,
+    "latest": "2026-10-16",
+    "count": 6584,
     "history_complete": true
   },
   "etf_iyz": {
     "earliest": "2000-05-26",
-    "latest": "2026-10-15",
-    "count": 6636,
+    "latest": "2026-10-16",
+    "count": 6637,
     "history_complete": true
   },
   "etf_fivg": {

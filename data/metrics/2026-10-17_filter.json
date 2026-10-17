@@ -1,0 +1,16 @@
+{
+  "total_raw": 308,
+  "dup_title": 193,
+  "no_date": 0,
+  "too_old": 68,
+  "gate1_fail": 10,
+  "gate2_fail": 12,
+  "passed": 25,
+  "gate2_samples": [
+    "Ciena: A Cyclical Business Priced Like A Compounder (NYSE:CIEN) - Seeking Alpha",
+    "Technical Analysis of Ciena Corporation (CRYPTOCOM:CIENUSD.P) - TradingView",
+    "Ciena Appoints Monika Fahlbusch as Chief People Officer - Morningstar",
+    "Ciena slides 10% amid multi-session losing streak (CIEN:NYSE) - Seeking Alpha",
+    "Ciena: Getting More Interesting, But Still A Bit Expensive - Seeking Alpha"
+  ]
+}
