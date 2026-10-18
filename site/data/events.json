@@ -1,5 +1,119 @@
 [
   {
+    "id": "ciena-2026-10-18-001",
+    "date": "2026-10-18",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Curated Wealth Partners LLC Sells 159,858 Shares of Ciena Corporation $CIEN - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPSFhneUhlN2VFTHNtQ295VGtObVRYUmVoSDdraWFkYjJqS3R2RERlcjI1WjJ6UzVZclZzT2hkLWZia3gxUlI2NDdJQ2RvNXVXUy1EUlVTTlBVYkNzM3Nxa1NEenVXOHI5eFRWeTA4SG",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSFhneUhlN2VFTHNtQ295VGtObVRYUmVoSDdraWFkYjJqS3R2RERlcjI1WjJ6UzVZclZzT2hkLWZia3gxUlI2NDdJQ2RvNXVXUy1EUlVTTlBVYkNzM3Nxa1NEenVXOHI5eFRWeTA4SG9zWDdTY0xfSThGTVpzSTVZZ0E5SFJnekZHTU5ReW5iMjQ0TVl3d3RtVFBfUU43emxCOU4ycElBcWZ6MnVrY0dhal9URjJvU2VBOWlWYUlDaDc3WjBhY3dqU2w3OGdXOE0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-10-18-002",
+    "date": "2026-10-18",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Deutsche Telekom Stacks Domestic Wins Against a US Spectrum Wildcard - ad-hoc-news.de",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaDlRTzhKZTBjMXVXbUVYN3dlV0k5VXFCSFFIbGstMVVaS1NYT1BmUWNuLTAzUGJxbmZVTFZ2cWp4LWhtamFSekg4emtMNERod1lrRkUzZVljVWxXQTFpSEltb24yaDY3ZVVqaFBweF",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaDlRTzhKZTBjMXVXbUVYN3dlV0k5VXFCSFFIbGstMVVaS1NYT1BmUWNuLTAzUGJxbmZVTFZ2cWp4LWhtamFSekg4emtMNERod1lrRkUzZVljVWxXQTFpSEltb24yaDY3ZVVqaFBweFVzWGJYcWZGUnRwRjVwZnMyX0JUZTNMVWFrZE96QjI0Q3dVYlFnMFZYZUc0N0N0dlN4VzFxU2lUOFh1c3YtbmZ0clpuMWZvZkFUd2hUU3IzakVYakhNZlJKc01tcmd3UVctUFA3d1gxRQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-10-18-003",
+    "date": "2026-10-18",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Tower Corporation $AMT Stock: Vontobel Holding Ltd. Trims Holdings - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPc3VLNHg0ZHo5N3RPSXZzdTFoeFBiQkQ4cFpjamdCZlUzeGhGNnIwQk52NC16bXJla0dFcHBsXy0wYjhhZjFiYURlS0ZpSEpBSUtPczBpT1NuN0lnTHhYd0FPYUVFYktha3UzN0RYSU",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPc3VLNHg0ZHo5N3RPSXZzdTFoeFBiQkQ4cFpjamdCZlUzeGhGNnIwQk52NC16bXJla0dFcHBsXy0wYjhhZjFiYURlS0ZpSEpBSUtPczBpT1NuN0lnTHhYd0FPYUVFYktha3UzN0RYSUtTME9XUjQwNzNTWXQ5Rm9BTHJ1ZDI5QnJIaVpTYkhFWmFiSUJhYkJreF9PdDZ6czRrTTVQUWVyWWl1QnBpME4ySVVJSVBndFpvb0M4cWZTR09TaWtnN0xKczQ0YUo5Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-10-18-004",
+    "date": "2026-10-18",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "AI Data Centre Delays Put Equinix Stock And Digital Realty Shares In Focus - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVlpCNTc0YXNveFJEa0UyOEpWUTVmdS1fRGd3WG85Sl80N2dhaVZrajRWTFpqSTQyUzBjUGtHUXFOaUNVdzl3amdvUGJUU3hxQTB1eU9ORUhfSUN2d1lWSUN3VW9ZUjUtQUdvX0hPeU",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVlpCNTc0YXNveFJEa0UyOEpWUTVmdS1fRGd3WG85Sl80N2dhaVZrajRWTFpqSTQyUzBjUGtHUXFOaUNVdzl3amdvUGJUU3hxQTB1eU9ORUhfSUN2d1lWSUN3VW9ZUjUtQUdvX0hPeUVjcGhfZDF5R2xQbVRVeS0tMFQxcWVmMG9NY242MnNkcU1JZmNNU3VZTlQ4clBXQ1V4dmdwd3dmZGd3VnZtZGdHY3NYdHFFVzNCTVZOMlVfOHNDekVfRkNrYdIBzgFBVV95cUxQcy1FZDR5a3RWcTJDNUpZRUNqMXJfdEZIekZia3pIaUtZTmpzLXQwcl9rU3dVajVJOFBpWkVRYUszNkdrRmJFT3VGcFNaT1NONzVKYmxmamhqU2lsUjBSY2NZcW52eHZ0d0ZkcUw2Vngzenk1YnpkWW9Cd1BOVDh2S0hnTFFLaFhiZWZwcFJXZzE3X0JvT25WdFdjSEFqNjd3ekJPdmJKcGZ6R2tycXpjZGU1b0Rrb3AwWmtOUXBEVHYtUGdSeWpTUm9VSFhVUQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-18-005",
+    "date": "2026-10-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Telecom firms, science ministry urged to prove 5G standalone reliability - The Korea Times",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZmRuRFFPNFU4S1NTQ1U1SVlRSHRiQzM3d1FpTDZsMlMzQWZBYkRZVzhkSkd3ck1qZVpiS0lCb0Z4MUxRR0tfMTdsZmZQNzJNVnBQSHpWNjN1T1g5UERvaE1obUpfN0pwT2dFY1JLUk",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZmRuRFFPNFU4S1NTQ1U1SVlRSHRiQzM3d1FpTDZsMlMzQWZBYkRZVzhkSkd3ck1qZVpiS0lCb0Z4MUxRR0tfMTdsZmZQNzJNVnBQSHpWNjN1T1g5UERvaE1obUpfN0pwT2dFY1JLUk9PSVdSbF9CamJWaGtfNU9iNDNIb3RDbHdwOUdsTjhlTnRwM0pnMk5OalpnUGNYU0hET29Ta2lwbTRtVDU0QTJya3pkUWE5TDZ0U0xocEU4S3B3eXJLVENMdmVxNDdPcTc40gHQAUFVX3lxTFBmZG5EUU80VThLU1NDVTVJWVFIdGJDMzd3UWlMNmwyUzNBZkFiRFlXOGRKR3dyTWplWmJLSUJvRngxTFFHS18xN2xmZlA3Mk1WcFBIelY2M3VPWDlQRG9oTWhtSl83SnBPZ0VjUktST09JV1JsX0JqYlZoa181T2I0M0hvdENsd3A5R2xOOGVOdHAzSmcyTk5qWmdQY1hTSERPb1NraXBtNG1UNTRBMnJremRRYTlMNnRTTGhwRThLcHd5cktUQ0x2ZXE0N09xNzg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-18-006",
+    "date": "2026-10-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Mormugao's digital milestone: Goa port gets green light for private 5G network; why it matters - The Week",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTG5lNFdtbms0NExxMEtMem15WFhoZzBXeG9GZmhzbE9BNUlMdFIwM2VhVHF6SWtHMmw2SldaSmhtWFhjeXdfV1BPZktvc3U5WVZObHRxak9tX3VrenB5UUNKRThucXF6MWgzRG1tVU",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTG5lNFdtbms0NExxMEtMem15WFhoZzBXeG9GZmhzbE9BNUlMdFIwM2VhVHF6SWtHMmw2SldaSmhtWFhjeXdfV1BPZktvc3U5WVZObHRxak9tX3VrenB5UUNKRThucXF6MWgzRG1tVUlyRDZZV2J0ZXNXMC1xUUNDRERzaEJOUmJnVUJrajJfbGNvSjZVbEY5TTFOVy03MmpCX3FYWm1GMEJuNlFfS1B5SVlnc0ZfVk9MLThSM19aaUNRSGxaWGEyOG0tTVFUU0E1dG5DWjdlS0phcDI4aVHSAeMBQVVfeXFMTXlIQ2pGRXFOSUVQSGRYelp3RkV6UFhhY3BuQUZDbTRUZ2tuekJ3SENBdnZVRWVRSk5zZDdrcHVxSll3WFUzQ2Fvd3BLQ1pvVFV1ejZGekNIQ0lDRFRjT2FNRmloYzFzRnhvQVV2UE9sbTRRN3ljZDgzQlVETy1pdlktRzVTdUFQNjFYNVNMd25OOXdFRHBPcENheUNrUGNKRFR0dUozTE9PNDRNYkVDV0F0Z0FxQzl1RnVyWHNMTkZTU0VnWHNOcE9zY19wQmFnU2x5RXQ2TUVoeV90RmZFUjhGbms?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nokia-2026-10-17-001",
     "date": "2026-10-17",
     "companies": [
@@ -93,6 +207,46 @@
       {
         "name": "american_tower",
         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObnFSS3dOa3FCa0dya1Y2bUxkREJfRWhYakxVcV9xM2laWnhiUkxMUWJxcHNhUDM0aHdBeFVtQTRsY3UtUWxEOFBjMzY4djl3NWFXNkRqOE5QZFJYMUdOX1Q2ZW16eXNZUVFzOTBiXzVxUFpodUdubDVNYlVTLXZZd014YUZCVHMxZGdNNUw1bmU0eUkxb2JEd29fMGEtRlVKVUFKdG1aNTNPUkZWU3dEakJQaDN0SFFYLXBuSXAybUFydWQtdk5tOElOUkpIZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ceragon-2026-10-17-006",
+    "date": "2026-10-17",
+    "companies": [
+      "ceragon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ceragon Networks Ltd. (NASDAQ:CRNT) Stock Has Average Price Target of $3.75 According to Brokerages - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdHpaTEpkUGdzNGlWVG02TGdDV1JIdFBEcUk4TWV3aFQtbUZmSGFISTVuWXNiRVRnR2hmdURRNFB2VXFqdW4yU3hRVTl5Ti1nQjNmTWh0R0lFR1dzSXdiYUItTHM1b3VDQmdWLTNNb2",
+    "sources": [
+      {
+        "name": "ceragon",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNdHpaTEpkUGdzNGlWVG02TGdDV1JIdFBEcUk4TWV3aFQtbUZmSGFISTVuWXNiRVRnR2hmdURRNFB2VXFqdW4yU3hRVTl5Ti1nQjNmTWh0R0lFR1dzSXdiYUItTHM1b3VDQmdWLTNNb2pHUG9zRFQ4WEtxazZmVm5xOHNDS3g2RnNPSS1wcGxfX2hCaUFpQ1pOMkF2Z0hUbUhJemFKeWxGaTQxcFY0bm1yQVB0V0RTWUVSM2V5WERfZU0tNVhnQUliVTZDbEE1Z3VxOGZYbEFpSnlEbmVhUHQwUlljSDkybnVCQlhDU3NpTQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-10-17-007",
+    "date": "2026-10-17",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ciena Corporation (NYSE:CIEN) Stock Rated \"Moderate Buy\" by Wall Street Brokerages - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMEYtb0Y5T3M0VlhHaVN4LTJuQ3RCUnNFVlZycHk1SDVKVGZlY2k2UF9XcndrUmhuY0lWdUtiVWJmZnpGeTdFOEphQUFLOUpualpLMVN0cUdJcjRZVHJxQUxoalp4dm1uYUtKVGJVN0",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMEYtb0Y5T3M0VlhHaVN4LTJuQ3RCUnNFVlZycHk1SDVKVGZlY2k2UF9XcndrUmhuY0lWdUtiVWJmZnpGeTdFOEphQUFLOUpualpLMVN0cUdJcjRZVHJxQUxoalp4dm1uYUtKVGJVN0ZLbjBmNnlrQmxJZ1hKRUh5MlRjZHdPMzFzNTFFZFRxT3N0MWxLM1Foa1VhZzY0bFdBVDZNZkI1TVpTOWpCakJfOXJKNHBFcGVMa19Pb1ljVjFlMHZWZE1mX19BdmNsbDRKcnhGN0dNS21Odw?oc=5",
         "type": "rss"
       }
     ]
@@ -695,6 +849,100 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYWdHMmU0aXdKV1dLbW5rdkFSdFFPendBTjh3WkRrblBTOTdlbWpXdGRGc25TRlg1cThMMmpRYXdNREh6SlFZbFZVdFItZWctUzA1bmNrMmd5SzdiQ0tJTUZfc1ZKUFlKQWRkSXRCQlZZcm9EZ3V2dDJGRzdHYVo0M1VIa1pFa3R5QnJHOUkzUngxNkJDNEVXb3BVcmwzWGVXZXNTQU12MEMwUUdjY2d3Zw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-16-032",
+    "date": "2026-10-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "NOK Stock Slides As Persistent ADR Selling Pressures Telecom Name - StocksToTrade",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQOThaeTZFQ0tqZXVEUk9rSVVpbXYtVHFuc19fNmlpRGlQVElwWFhwTkZVVzF3Q2pVN3B6UGhoM18tOFk1WDF5OUxwOWFLOExZekczcHdUQUpUZm9XNW5uUVNPbkE3Y0RUZ2RQNjRUcE",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOThaeTZFQ0tqZXVEUk9rSVVpbXYtVHFuc19fNmlpRGlQVElwWFhwTkZVVzF3Q2pVN3B6UGhoM18tOFk1WDF5OUxwOWFLOExZekczcHdUQUpUZm9XNW5uUVNPbkE3Y0RUZ2RQNjRUcEI1bXdqRExfM2hWblV0VlVaUXVBSlJ6UQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-10-16-033",
+    "date": "2026-10-16",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "SoftBank Corp (3AG0.MU) balance sheet - Yahoo Finance UK",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZNW5odUxFZU5IUURZOHIybGhyNm1iWnpLRnh5NEtiR0ZuOExUOWZsLVNWcWNWOVZYQXF3OE53Z3czMWpSTnFCYlpUQjd6ZXZjQ296dXZIUlpQc2xQUGl1ak1pNHVLR2p6?oc=5\" tar",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZNW5odUxFZU5IUURZOHIybGhyNm1iWnpLRnh5NEtiR0ZuOExUOWZsLVNWcWNWOVZYQXF3OE53Z3czMWpSTnFCYlpUQjd6ZXZjQ296dXZIUlpQc2xQUGl1ak1pNHVLR2p6?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-10-16-034",
+    "date": "2026-10-16",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SBA Communications Corporation (SBAC) stock price, news, quote and history - Yahoo Finance Australia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RMlZxUWgyREQ5ajVLamhPMXVTU0YwdTloS3BKSG02Ymh1SXVURkUyLWswVFhsVWJxSjFKS0JtYzNjZUhHR3ZhSzR0b3JLOXZGZFE?oc=5\" target=\"_blank\">SBA Communicatio",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RMlZxUWgyREQ5ajVLamhPMXVTU0YwdTloS3BKSG02Ymh1SXVURkUyLWswVFhsVWJxSjFKS0JtYzNjZUhHR3ZhSzR0b3JLOXZGZFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-10-16-035",
+    "date": "2026-10-16",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wells Fargo Adjusts Price Target on SBA Communications to $205 From $210 - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOMUoxdXZCVGw2MUdqYm1sTFJCV2NYbFk0ZGcxN25UUXQ3dHR6dE5BZ0dORlBvRE02RklaZmFLRzRLak0zblgxTG9nSUhTcU1ha1Vud25vb3dIa1VGbUgxZmVrNzQzcG56S2V5YjM2Vj",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMUoxdXZCVGw2MUdqYm1sTFJCV2NYbFk0ZGcxN25UUXQ3dHR6dE5BZ0dORlBvRE02RklaZmFLRzRLak0zblgxTG9nSUhTcU1ha1Vud25vb3dIa1VGbUgxZmVrNzQzcG56S2V5YjM2Vjg4Sm91N0F4ODltbm1ZV1NiTERPaUhGQWg1Yjk3QjVmZDNPdWYzQi1hc2FWRlhZZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-16-036",
+    "date": "2026-10-16",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "“Please, don’t leave, dear customer” ... South Korea’s three telecom carriers court long-term customers - 파이낸셜뉴스",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Yb0xpN1dLdWRMRTNGTm1SYWRweEx5REVoSFN2RGMtQWdhbjgycEQxVzFXMklQQS1DUmF4U2JteEE5emh6blZvcXpsUUs4SzdrMHBFVXd5UDk?oc=5\" target=\"_blank\">“Please,",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Yb0xpN1dLdWRMRTNGTm1SYWRweEx5REVoSFN2RGMtQWdhbjgycEQxVzFXMklQQS1DUmF4U2JteEE5emh6blZvcXpsUUs4SzdrMHBFVXd5UDk?oc=5",
         "type": "rss"
       }
     ]
@@ -1695,6 +1943,46 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcFRVeXh6NzlZa1VNZGJrQ1RpYXNWOU9FMlYxdHZNeWJ0SG85c0hFS0hPYWZDRS1pY2hTMkUzTlM5U3hLWkVmQVktWFcxV1R0V0FlWWhVOU1JbzJZaTR1cU15Z2xLYUVlX0FCN0M1VFNSR2k2VW1HT3JwajFxdmRGRDNGd1lWR1lBcFRkYVdOc2FBeHdsU0RzNl95MHp3Nnhy?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-10-15-053",
+    "date": "2026-10-15",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jefferies & Co Adjusts American Tower Price Target to $208 From $201 - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOHkxVlZqclpFTWNDc3NRZWlHZHZkZXhqcDBEeG5tQ2dhVkNnTWRpWUpxbkVBNnVpMTNIYlZCUkhXVk5Lc05fdk9tV0J2cjdKWDhnNEhKZWNHeWFzWVhSLUpWX2RVMjdGbl91XzR4bH",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOHkxVlZqclpFTWNDc3NRZWlHZHZkZXhqcDBEeG5tQ2dhVkNnTWRpWUpxbkVBNnVpMTNIYlZCUkhXVk5Lc05fdk9tV0J2cjdKWDhnNEhKZWNHeWFzWVhSLUpWX2RVMjdGbl91XzR4bHYtbFN1MU1kQnFzRHJJb25SQ21aRlVXdWducEN4MXFudUVkbVBrTWwxLWgtc2pXQ2tia0g4bmI2RzhrTFdxd0FYcjFIUWRRWHZF?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-10-15-054",
+    "date": "2026-10-15",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jefferies & Co Adjusts SBA Communications Price Target to $164 From $167 - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNYTN0U05vQUQybXduMEJJVG45Ul82VEk1cW5yS1Z5TFR4OFlEOVhEdHkzSzRlblllUS1zMTdPLThWdXNaa2ZKRHZOZnpHYVFab2s2R210aWFlNjNXTFRpVXlGMW9jbDZEcDdTOHl0TF",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYTN0U05vQUQybXduMEJJVG45Ul82VEk1cW5yS1Z5TFR4OFlEOVhEdHkzSzRlblllUS1zMTdPLThWdXNaa2ZKRHZOZnpHYVFab2s2R210aWFlNjNXTFRpVXlGMW9jbDZEcDdTOHl0TF9EQVRvQTFld3JzaGNPODFUbkw1UW5nQTgwMDNXUGMzdDd0eHUtLVc4bk5iM21uVk40Uk9WUlNyYw?oc=5",
         "type": "rss"
       }
     ]
