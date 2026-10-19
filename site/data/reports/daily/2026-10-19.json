@@ -1,0 +1,227 @@
+{
+  "date": "2026-10-19",
+  "generated_at": "2026-10-19T15:10:54.046233Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-19-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Weekly Recap: 2025 revenue +~4%, €19.5bn FCF and 31,999,289-share buybacks - TradingView",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOWMwQ19aNUxJZmlqOHRXTDl3cWdXVWtEdnBRNkU2OWdVNkR3b3c0eEhhUVByQXlEaTRTZFd4SXpnNTZBaE0tWU5oUjFDNmV1Z1ByaTN1QVQzVjRFRjNyOGFOeG1uZFctWVBVWXhPT1E1eDhDU3QtT3dVT2pCTFJTRHQ1TVZoQUNIZzBBNFFqY3dwQzhTZU96bmJibkwyZEp3cmhrcndsY1lsbnI4MnlEdWcyLTJiVmF5RlNkdDRTSFZrekluRVBoLThn?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "american_tower-2026-10-19-020",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Is American Tower (AMT) A Bargain Following Its Latest Earnings Report? - Simply Wall Street",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbWhMaGZEa3k3U1pYOE16RGowWnBNVmxXOUtmWjl0cVRpTUFfTW9mbm1tYjJ0TW5JdHhGczVPQm84eHFHVlY0TUFsWXFpX0RWam11ek1XNmhYeFZzcVBpT0pNa2V3Yldua1RvZHlyd0RxNl9rb3ZjQXVvZkNVUDU3cVpUdWh2d1Fxa1VpNlItZU9iLWpaMm5sUlFYUllwVDJZaTRpWmFHejFySTRPcHQyVURxalVxYVhubkpvS1BiNXdldmQyQjAtNWp2dTF6UdIB0wFBVV95cUxOUi1iVFhOYTFWV3h4WHRGUGZZYXMtSzgzRHdybEpVSm9PMWEyeEtuSVhHR284blJXVzR1dnFIM3dfaWxrRFc2cy0xR0FpVmRVQmdNQmJTY29hd1ZkYzdEcFExY3pXQTAzUllsemt5ZXlsSEtvRVlXX2p3R3kxSzZpeUwzVl91NUxjSW9raEVHTmFUay1vT1I3dkxwSGlRemVtM2g0OVhsQTRacXRQRl9YM04wYXdYdVFlSFZ1NTFMZjQtZlotUF9LVjhhaDdqT28wVVFB?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "ciena-2026-10-19-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Wall Street Zen cuts Ciena stock rating to Hold - ad-hoc-news.de",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMVhaTEFwUV93S0lpdlNXcGVWcU1tSUNwSEd0SlFmZGExN3FEa0VXOUtQSjFxUHdWQW1JeVd3dXljenVEeUlvcVliMWJyNlJIWjNWdkJqeHQ5RmhEOUc5S1lBVmpueEIxa2c3cjRWTkhvVkdjcnVnRnJMdnRHZlRRaXMwY2NPekZFNVdWWjdKajE1bU1qMG5aUnhJVFkyd1VjYTM3SWo0OTRvbW1Sa1lv?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-10-19-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "European telecom groups mull bid for mobile satellite spectrum - Reuters",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNnNmbDd1eExiNFVESmhtZ0hkNXVxSzlqNWdfQUlVNXEzWHVheEZlWkszVlNHY2syWEU5T1dPTWVtbGgzTnEzOWowZXFlRUE1cHhSUjVGQnQ1eWtUbXR5TUw5M1kxSlFkVG1nSjNpamoyYXlZYy1jNm5nWWN3RE1GVU50aEdMQWxIS2JyZ2d4ZmhUYjJJbHN1ei11WWJ6UTczTEM3NzJqdkZLSS1JQThmc0ctUENEZWNJejN3MVBYcUNPZ01PUkE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "deutsche_telekom-2026-10-19-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom deploys AudioCodes VoiceAI Connect for AI call notes - Telecoms Tech News",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcGdkYnA5bmxxY1lTMF9WcU80NGRmRjA1aGpCcFdWUXJNMFhNWl9DQWRoV2dXckZkQ28zOXZOTG5xbWdfWnVFR3Q3QTk1QlRiYWF3UUZHdXdobWZaZEp6M21Ma2FBTXV4ZTU5Q0lKWkhvTlhINGtfbjVhS0ZZaFJiWFluWnRqMDNTUkhRVGRzcW5TeDg4c1lWckhYNXhHa3A1WURIbVlBeUc4UjFG?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 31,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 34,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 32,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "deutsche_telekom",
+        "count": 7
+      },
+      {
+        "id": "softbank",
+        "count": 5
+      },
+      {
+        "id": "american_tower",
+        "count": 5
+      },
+      {
+        "id": "ciena",
+        "count": 1
+      },
+      {
+        "id": "sba_comm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 31
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 307,
+    "dup_title": 186,
+    "too_old": 65,
+    "gate1_blocked": 6,
+    "gate2_blocked": 9,
+    "passed": 41,
+    "pass_rate": "33.9%",
+    "gate2_block_rate": "7.4%",
+    "gate2_samples": [
+      "Evercore Says Ciena Could Be Worth $550+. Here’s the Math - Yahoo Finance",
+      "Ciena: A Cyclical Business Priced Like A Compounder (NYSE:CIEN) - Seeking Alpha",
+      "Technical Analysis of Ciena Corporation (CRYPTOCOM:CIENUSD.P) - TradingView",
+      "Ciena slides 10% amid multi-session losing streak (CIEN:NYSE) - Seeking Alpha",
+      "AudioCodes Ltd. (AUDC) Selected by Deutsche Telekom for Voice AI Services - TradingView"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 34 則事件，焦點為德國電信、軟銀、AMT相關動態：「Weekly Recap: 2025 revenue +~4%, €19.5bn FCF and 31,999,2...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Weekly Recap: 2025 revenue +~4%, €19.5bn FCF and 31,999,289-share buybacks - ...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Is American Tower (AMT) A Bargain Following Its Latest Earnings Report? - Sim...（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
