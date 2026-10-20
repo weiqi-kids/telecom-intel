@@ -1,0 +1,253 @@
+{
+  "date": "2026-10-20",
+  "generated_at": "2026-10-20T13:11:59.496493Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_tower-2026-10-20-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "What Should We Expect From American Tower (NYSE:AMT) Ahead of Its Earnings? - Kalkine Media",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaXVRSWRxNDlzdTRrMDVSbXhZeU9KZDJYMms5UXphVFRodzFQaDRoeTh5WXFJRVg3T2o2UVRIckZvT01iRnNLMVp0VnFraEt1SFRUSmMtVUZVdS14WEpjdUpoZkZOaXI4ZlZZQTJ1VHJmSk9fbXZXS3hvRlVXd3EycWN1UGs3SllHOHJoS0NxakdKUjl3MHYtMFZySVk1TFVjdGYxUS16aTYxTWNXSVBxQUc5NFdrdlpJbDJZR2hzb1hXdWRDNjl4R2twT0xBelh6SnJj?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "american_tower-2026-10-20-015",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Tower (AMT) Set to Release Quarterly Earnings on Tuesday - MarketBeat",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUEpLcVBnbC0zX2hoRG02RnJhNThzOGtodW1qWVkxVlljM0w1aFppd1ZaRHpaaE1vcDBTd0dFTlhlTXNtSUlLTi1hdmRjYUQwMmNLaVhYMzVDbF8wc3hadEZhVkZhdDdIWmdJWm9MREtCc0lkby11Zk5aSzRqclRYanBzY25oZ285NEh0eFpWLXZza09qR2tyQ05EbnhKcWpILWZqR2czOV9vQk9HcWw5MWg3dFlTaXZDNXpsVk9LdkR0anNj?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-20-023",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "AI in Telecommunication Market Outlook: Set to Reach USD 29.17 Billion by 2031 Amid Rising 5G and AI Adoption, Reports Mordor Intelligence - PR Newswire UK",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPOUZaa2Vsa0FURnJJUWJ4VjNIdFdxSGJEYmJnYTNmcDRRbHp0RVc0WTlQR0YyTUdRQlpCN2VtRVo4ZWo0R2RYeWx3MVk1cS1BXzN1NnlTdUFCb1hsRXhlem9OVnI5b0EtSEsyeVBPTjFCTWhMMlMzdlVlcHhUeS1FQzA2djFacHlZRXN4b0hpZ3hwQWtEZ3g3WmxMUEdpYTh0MzZCalNsZzh4dUczQlN1SFhZaFVvZHl2R3lENTdVdmRhbFBFT2NPMXp4cXZ3dUNOUHdFRm9TbE1TaFpDMFdTazRLeGh6cUowVm5FS0ZtS09sOXhxMkhCcFlyNmI4eWU3SmNvSlVjNk5sRHhiNzNBRXduRGdxM3FpVnhGbVFuMA?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nokia-2026-10-20-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Nokia and SoftBank Corp. agree to conduct commercial AI-RAN field trial in Japan - Nokia",
+      "companies": [
+        "nokia",
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "nokia"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ1RCbWxKMWh4YUlPSWwtLXBlUUhJMkpwNk02c3UxR2pDMVUwRWtIVjU3Z29jeTRjbTZHYzA0QjJDNHdoYUt2VXVYaWFuZ0syN3ZUYjRuV0R5WW4yLV9mdVU0cW5oVTZPc1NjaS00SEJJX3B6NzhzeFIySElnRDRBYl9DSjlVS3JkV180OHJJWXItYlZEdEp2dGVic3JWcUZiWHN2UG4xUGVWMFhma0xEbQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nokia-2026-10-20-007",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "SoftBank, Nokia to Conduct AI-RAN Field Trial on Commercial Network in 2027 - marketscreener.com",
+      "companies": [
+        "nokia",
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "nokia"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd0k4a0Y1dkJRNHJQYU9jOVpNdGlsUHhZaTBEYjhZY0VHb0tfUjBSVEg4b3phQ0ViTk44QU5IdS1jV2hkYWN6bFFMSThqXzJCeWRtYnZiOVJ6Z3IxbXhQeWFkSWtzU3M2WUJ3QlJacTdla3RjUno3U3ZQWURNcWUyeVdPaWxzSEgxWnRiS0R3ZUVwTjliOVdDUFBlaGFmUk95enQzbTlxYS1uemRKcUpkY3NPeUVWc0FmaTVXd2lqVVFvM2xtSnc?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 26,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "nokia",
+      "to": "softbank",
+      "relation": "supplier_customer",
+      "co_mention_count": 3,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 26,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "softbank",
+        "count": 5
+      },
+      {
+        "id": "american_tower",
+        "count": 5
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 4
+      },
+      {
+        "id": "nokia",
+        "count": 3
+      },
+      {
+        "id": "equinix",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 26
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 306,
+    "dup_title": 184,
+    "too_old": 68,
+    "gate1_blocked": 7,
+    "gate2_blocked": 7,
+    "passed": 40,
+    "pass_rate": "32.8%",
+    "gate2_block_rate": "5.7%",
+    "gate2_samples": [
+      "Ciena: A Cyclical Business Priced Like A Compounder (NYSE:CIEN) - Seeking Alpha",
+      "Technical Analysis of Ciena Corporation (CRYPTOCOM:CIENUSD.P) - TradingView",
+      "AudioCodes Ltd. (AUDC) Selected by Deutsche Telekom for Voice AI Services - TradingView",
+      "Deutsche Telekom AG: Release of a capital market information - MarketScreener",
+      "SBA Communications Corporation (SBAC) Options Chain - Yahoo Finance - Yahoo! Finance Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為軟銀、AMT、德國電信相關動態：「What Should We Expect From American Tower (NYSE:AMT) Ahea...」。主要關注主題為產業通用、法說會、光纖建設，市場情緒中性。",
+    "signals": [
+      {
+        "text": "What Should We Expect From American Tower (NYSE:AMT) Ahead of Its Earnings? -...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "American Tower (AMT) Set to Release Quarterly Earnings on Tuesday - MarketBeat（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

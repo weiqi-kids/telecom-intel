@@ -1,0 +1,16 @@
+{
+  "total_raw": 306,
+  "dup_title": 184,
+  "no_date": 0,
+  "too_old": 68,
+  "gate1_fail": 7,
+  "gate2_fail": 7,
+  "passed": 40,
+  "gate2_samples": [
+    "Ciena: A Cyclical Business Priced Like A Compounder (NYSE:CIEN) - Seeking Alpha",
+    "Technical Analysis of Ciena Corporation (CRYPTOCOM:CIENUSD.P) - TradingView",
+    "AudioCodes Ltd. (AUDC) Selected by Deutsche Telekom for Voice AI Services - TradingView",
+    "Deutsche Telekom AG: Release of a capital market information - MarketScreener",
+    "SBA Communications Corporation (SBAC) Options Chain - Yahoo Finance - Yahoo! Finance Canada"
+  ]
+}

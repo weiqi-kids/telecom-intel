@@ -1,0 +1,168 @@
+{
+  "date": "2026-10-20",
+  "date_range": {
+    "start": "2026-10-14",
+    "end": "2026-10-20"
+  },
+  "generated_at": "2026-10-20T13:11:59.595066Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "softbank-2026-10-14-008",
+      "date": "2026-10-14",
+      "title": "Full Transcript: SoftBank Group Q1 2026 Earnings Call - Benzinga",
+      "importance_score": 0.75
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "nokia",
+      "company_b": "softbank",
+      "co_mention_count": 4,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 121,
+      "last_week": 168,
+      "week_over_week_change": "-28%",
+      "sentiment_this_week": 0.02
+    },
+    "fiber_buildout": {
+      "this_week": 4,
+      "last_week": 6,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.25
+    },
+    "earnings": {
+      "this_week": 8,
+      "last_week": 8,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "tower_consolidation": {
+      "this_week": 1,
+      "last_week": 1,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "ciena": {
+      "event_count": 8,
+      "sentiment_avg": 0.0,
+      "rank": 4
+    },
+    "tmobile": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "deutsche_telekom": {
+      "event_count": 20,
+      "sentiment_avg": 0.05,
+      "rank": 1
+    },
+    "softbank": {
+      "event_count": 16,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "american_tower": {
+      "event_count": 20,
+      "sentiment_avg": 0.0,
+      "rank": 2
+    },
+    "sba_comm": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "verizon": {
+      "event_count": 2,
+      "sentiment_avg": 0.5,
+      "rank": 9
+    },
+    "equinix": {
+      "event_count": 4,
+      "sentiment_avg": -0.12,
+      "rank": 8
+    },
+    "nokia": {
+      "event_count": 5,
+      "sentiment_avg": -0.1,
+      "rank": 6
+    },
+    "ericsson": {
+      "event_count": 5,
+      "sentiment_avg": 0.1,
+      "rank": 7
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 245,
+        "last": 304,
+        "change_pct": -19.4
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-10-14",
+      "event_count": 61,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-10-15",
+      "event_count": 56,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-10-16",
+      "event_count": 39,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-10-17",
+      "event_count": 7,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-10-18",
+      "event_count": 8,
+      "sentiment_avg": -0.06
+    },
+    {
+      "date": "2026-10-19",
+      "event_count": 48,
+      "sentiment_avg": 0.02
+    },
+    {
+      "date": "2026-10-20",
+      "event_count": 26,
+      "sentiment_avg": 0.0
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-10-14 ~ 2026-10-20）共 245 則事件，重點為「Full Transcript: SoftBank Group Q1 2026 Earning...」。Verizon表現正面，整體氣氛穩健。",
+    "watchlist": [
+      {
+        "company": "Ciena",
+        "reason": "本週出現 8 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "德國電信",
+        "reason": "本週出現 20 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "軟銀",
+        "reason": "本週出現 16 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
