@@ -1,0 +1,256 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T13:21:46.788959Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-21-020",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Eurobites: CMA looks to open up Apple's NFC walled garden",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/regulatory-politics/eurobites-cma-looks-to-open-up-apple-s-nfc-walled-garden"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-21-032",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Telecom sector outlook: Stable market structure, tariff hikes to support revenue growth - CNBC TV18",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeUJDQVNSX3RKLV93V1h6bE10cC1jLVpSRXdHVVBEMENVUkRZOFpId0l2U21WdjMwRmlMODI1eC15UDN2MVdiQWZOaDUxRHV5Y2M4MmgtQ3ZVcUNRa0tHZE15WWstV0xQazdBVUk0S3B5REMyX21CQTNCT3E2NTJoSmQ0Z2RuNlZ1bG0zZDg4aDJNdkZ0STR1ajlaT3Y2Ry0tWTBxa3hfOF94OGNZLXNWenU4azMtaXN5OWVFXzVoeV9tZk5NcUUw0gHMAUFVX3lxTE9UZVRRb0JFNTZiZkdoS1pGTWE5VkRybDh2ZjNHemdEaU1lU3BoY1FCeEZTZ0RmNm1BXzJtbUJOZkNrRnZoZi1iWmltZEpzRXNJX2RqTkdsTjZYaTJ2T0lhU3F4OHdVaGQ2MFZ3QkhBVHcxQVZkNnVJRGozckI0RVc5MTIwOEN4dURkMjhMQW5fb0VRS0hTcnltWFhzQ3BCXzZqMklwMGwzdzRKSWE5S1lkel8zTjBqbVdhbTRrc2xjNUhCdXg5emdJMDJaOQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nokia-2026-10-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia Teams Up with Super Micro on Nvidia-Based AI-RAN. Here’s the Setup for Nokia Stock - Benzinga",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeWhIaW0xLXVVX0FyVXB0anh4T0E2WHpOdnVBOFZDS1N6eHdCOXdPRFlXdXZOMU0wTVgwbnNlVFBITlNranFSYVBFMHRlLXJOc2pGcURHUVR2ZTU5YVNTbHhSbWZJUUxmME1jWjduMXhhMEIzckx0UEtxY3BFSzZTTFhqMngtOXByaGhZQUVvOUNvZWdtUzNwUGI0UHVLbVNZVUwtY2IyQUtvc3FDMEwwcFR0a3U1a0RsT1YwWEt5Y3I4RWE1T3I0RGdQUlljSWMtUGN0RXh4OGhMNlpnakVrYQ?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nokia-2026-10-21-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "NVIDIA and Nokia's platform lets telecom firms choose where network data and AI models live. - Stock Titan",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaGlxY0pRTXF5NDlaQ2JQWHkxamloMVJLeVBBUUc5MHdQZnJYd1E4NGVOa2xjWmRybFA0bU1TQlF4NkU3WEFnRjRxTXpGYl9jLTZiMWZ5MHlEdnY5aGZWb25haTM2VDhhN2VVUUpXMHJINFZYSmgydTdyNWZuVXZHbFg0b0xjdkY5VnlFMFpWSFFMMVUzNkpuQV9IYmJJNVpVcGd6MVpaSEhxWHBEX21xVGtWNDF2ODFKcTBabg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ciena-2026-10-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "4,176 Ciena Corporation $CIEN Shares Sold by Capstone Capital Management Ltd - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcjJkN2lEN2kzTFpnb1ZMOUVtOTBlLW9xYXVnelJBQmZSaGJrSWNVcEgwV3RnWVltVjNLakNRT2VXT2JuazlMTDRqakxUNXNPc3c0SHpNb3VCRE90Yk5WNTY5blEtSy1Uemd5R09pWnF4WU1yTktWMmpVd3lhems0Wk9SRDY3Q0VHYk9KMjAtWUJUbTk5dXV1MHhVNWVHVWJtSG5LaDBEMWlYTV80QmNuSkM1UGhBemdWd0RoUzNKTWJTdGxwNXE1UFRfLUticjlW?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 33,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "arpu": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "spectrum_auction": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 36,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 35,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "softbank",
+        "count": 4
+      },
+      {
+        "id": "equinix",
+        "count": 4
+      },
+      {
+        "id": "nokia",
+        "count": 3
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 3
+      },
+      {
+        "id": "american_tower",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 33
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "arpu",
+        "count": 1
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      },
+      {
+        "id": "spectrum_auction",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 308,
+    "dup_title": 165,
+    "too_old": 71,
+    "gate1_blocked": 5,
+    "gate2_blocked": 9,
+    "passed": 58,
+    "pass_rate": "40.6%",
+    "gate2_block_rate": "6.3%",
+    "gate2_samples": [
+      "Technical Analysis of Ciena Corporation (CRYPTOCOM:CIENUSD.P) - TradingView",
+      "Ciena: A Cyclical Business Priced Like A Compounder (NYSE:CIEN) - Seeking Alpha",
+      "vCluster Automates Private AI Cloud Services on Deutsche Telekom's Industrial AI Cloud With NVIDIA D",
+      "AudioCodes Ltd. (AUDC) Selected by Deutsche Telekom for Voice AI Services - TradingView",
+      "Deutsche Telekom AG: Release of a capital market information - MarketScreener"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 36 則事件，焦點為軟銀、Equinix、諾基亞相關動態：「Eurobites: CMA looks to open up Apple's NFC walled garden」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Eurobites: CMA looks to open up Apple's NFC walled garden（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Telecom sector outlook: Stable market structure, tariff hikes to support reve...（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

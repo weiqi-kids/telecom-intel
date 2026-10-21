@@ -1,5 +1,693 @@
 [
   {
+    "id": "nokia-2026-10-21-001",
+    "date": "2026-10-21",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Nokia Teams Up with Super Micro on Nvidia-Based AI-RAN. Here’s the Setup for Nokia Stock - Benzinga",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeWhIaW0xLXVVX0FyVXB0anh4T0E2WHpOdnVBOFZDS1N6eHdCOXdPRFlXdXZOMU0wTVgwbnNlVFBITlNranFSYVBFMHRlLXJOc2pGcURHUVR2ZTU5YVNTbHhSbWZJUUxmME1jWjduMX",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNeWhIaW0xLXVVX0FyVXB0anh4T0E2WHpOdnVBOFZDS1N6eHdCOXdPRFlXdXZOMU0wTVgwbnNlVFBITlNranFSYVBFMHRlLXJOc2pGcURHUVR2ZTU5YVNTbHhSbWZJUUxmME1jWjduMXhhMEIzckx0UEtxY3BFSzZTTFhqMngtOXByaGhZQUVvOUNvZWdtUzNwUGI0UHVLbVNZVUwtY2IyQUtvc3FDMEwwcFR0a3U1a0RsT1YwWEt5Y3I4RWE1T3I0RGdQUlljSWMtUGN0RXh4OGhMNlpnakVrYQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-10-21-002",
+    "date": "2026-10-21",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "NVIDIA and Nokia's platform lets telecom firms choose where network data and AI models live. - Stock Titan",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNaGlxY0pRTXF5NDlaQ2JQWHkxamloMVJLeVBBUUc5MHdQZnJYd1E4NGVOa2xjWmRybFA0bU1TQlF4NkU3WEFnRjRxTXpGYl9jLTZiMWZ5MHlEdnY5aGZWb25haTM2VDhhN2VVUUpXMH",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaGlxY0pRTXF5NDlaQ2JQWHkxamloMVJLeVBBUUc5MHdQZnJYd1E4NGVOa2xjWmRybFA0bU1TQlF4NkU3WEFnRjRxTXpGYl9jLTZiMWZ5MHlEdnY5aGZWb25haTM2VDhhN2VVUUpXMHJINFZYSmgydTdyNWZuVXZHbFg0b0xjdkY5VnlFMFpWSFFMMVUzNkpuQV9IYmJJNVpVcGd6MVpaSEhxWHBEX21xVGtWNDF2ODFKcTBabg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-10-21-003",
+    "date": "2026-10-21",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "4,176 Ciena Corporation $CIEN Shares Sold by Capstone Capital Management Ltd - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcjJkN2lEN2kzTFpnb1ZMOUVtOTBlLW9xYXVnelJBQmZSaGJrSWNVcEgwV3RnWVltVjNLakNRT2VXT2JuazlMTDRqakxUNXNPc3c0SHpNb3VCRE90Yk5WNTY5blEtSy1Uemd5R09pWn",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcjJkN2lEN2kzTFpnb1ZMOUVtOTBlLW9xYXVnelJBQmZSaGJrSWNVcEgwV3RnWVltVjNLakNRT2VXT2JuazlMTDRqakxUNXNPc3c0SHpNb3VCRE90Yk5WNTY5blEtSy1Uemd5R09pWnF4WU1yTktWMmpVd3lhems0Wk9SRDY3Q0VHYk9KMjAtWUJUbTk5dXV1MHhVNWVHVWJtSG5LaDBEMWlYTV80QmNuSkM1UGhBemdWd0RoUzNKTWJTdGxwNXE1UFRfLUticjlW?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-10-21-004",
+    "date": "2026-10-21",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ciena Corporation $CIEN Stock Sold by Investment Research Partners LLC - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNdHJoVDN1cUotR2pyUzgwUFNXdGxDVmVMVUFLN2ZKYmE4UzBOYnpPOGhMTUdCSjlEdXJTem9wdjJjZkJWeEp1VEl5bTc3N2NFYjR1dE9zWnd4eXpxNVp4ejZoX0JHUFA1UGxjYTlaR1",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdHJoVDN1cUotR2pyUzgwUFNXdGxDVmVMVUFLN2ZKYmE4UzBOYnpPOGhMTUdCSjlEdXJTem9wdjJjZkJWeEp1VEl5bTc3N2NFYjR1dE9zWnd4eXpxNVp4ejZoX0JHUFA1UGxjYTlaR1U3bWRyc2V3cWxyeXE3SURPY1FSV1ZqZjJHaWFlMzFVNmdFRzZzM0Zrdm5xX2tQNFVMcFV0VVdRa1Y0TnhCQzZmeVJkakRyTGk1QkJJMFUzYVlpRGZETzZpdFRn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-10-21-005",
+    "date": "2026-10-21",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Telekom AG : JP Morgan remains its Buy rating - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdXRwQXBfcFFWcmRhazBPU3hYa0tPMzFrN3RXRHcyQ3lLdHlUb1R3d2pZV0ZqQk9DLUxaZDFfdm1tYk1OUzJLcVlBYTJGSFN4aHppZTUybVo4SVhtM29ZLTFLc3FmRnFNZjVUWF9QMD",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdXRwQXBfcFFWcmRhazBPU3hYa0tPMzFrN3RXRHcyQ3lLdHlUb1R3d2pZV0ZqQk9DLUxaZDFfdm1tYk1OUzJLcVlBYTJGSFN4aHppZTUybVo4SVhtM29ZLTFLc3FmRnFNZjVUWF9QMDlTQ1QzYUFtczJ1bDFqOENHZUJHdER3dGN5S2U4OU1NN3gzd1p3cVI4eVV1MVJyQWw3SG5xVjFxYUI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-006",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Satellite Spectrum Bid Altering The Investment Case For Telekom Stock? - Simply Wall Street",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTDluRzVqU1M5dHJoS1hJOGl5SUw3YmhWT1ZwN3RRYm9Iek5xWjlCREZkSzBnbUVqM3RIcnJzaHk5eHhhNVJpYWZPemFCZWZBSXpPTUttbGNiWWpCMW0tN3gtNVdQelpFcFZBZXFlWn",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTDluRzVqU1M5dHJoS1hJOGl5SUw3YmhWT1ZwN3RRYm9Iek5xWjlCREZkSzBnbUVqM3RIcnJzaHk5eHhhNVJpYWZPemFCZWZBSXpPTUttbGNiWWpCMW0tN3gtNVdQelpFcFZBZXFlWnlTVHVwcDZaSHhiRThXSkwtaXdabXZKeWhZak1zQXZNaXc5Q3JlMHN0MnlxckRoWHRnNnUwRFlFODBIVXFhLWtEMlJ5dkZOa29vLXVoTjI0WS04aE94bTZnTW1PRzBLbUJLVGZB0gHYAUFVX3lxTFBHRTFwQXFfSy1GOWJEZUwtVF95bnVRaFVDMFhnZkVxbWlsYVJCUEtaWjdLbml0dkRhVkwyUzFuWVBUYm9feXl2V0prOEpvN29zN0VLSFNHR1ZCdzRpWXJRSnZKcS1Uc1hwMjM4Zi1YMFNlUFlITVc0TnJXNk5QVEZackdXRFJDVl9OTHl6QW5qMkpGVFdNVzlIOEZMSmUwcVhKSDl4aktkMWsxaUJDcWw1U1FGeUk3N200cWlYMDlkeW0tQnJtN2FVaVU5aGxYanROSENXSkppYQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-10-21-007",
+    "date": "2026-10-21",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Telekom, Vodafone, Orange face proposed cuts to EU wholesale roaming caps - MLex",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX091SmxhVUZDTUVqSm56bzNIQURTaVdXdWlIS3dFLVRxQzljVEN1N2RVYVNEeGJQZ1hxTy1ncWtFZHB2YUVGMm95SmQ3cVNYTVlIeUFza29sUUZqVUwxX2JfMXVSZTJ0SWRFOTE5MG",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX091SmxhVUZDTUVqSm56bzNIQURTaVdXdWlIS3dFLVRxQzljVEN1N2RVYVNEeGJQZ1hxTy1ncWtFZHB2YUVGMm95SmQ3cVNYTVlIeUFza29sUUZqVUwxX2JfMXVSZTJ0SWRFOTE5MGxjRkxJMm03dTNpWHFINU9FVGFIbDVWRUtOQTBnc0VrOG5Ja0haemY5M3M4Qy1ZdGkyZHF0OVBOX0xUY2FLR0FybEFMM0JFVjBMd1hrNUY2OTDSAVpBVV95cUxPNmFaTFBpSHM0X0lHTU9qVWd4OU55OHphWlVWSlhkMzdmTy02RldBSUoybW9JU0FXYzJWcWh0eDh6dTc4Ykx5NkU2WmJqTWlGMHNLckFJb3pLYUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-10-21-008",
+    "date": "2026-10-21",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Deutsche Telekom Faces Two Clocks: A Spectrum Deal in the US and a Football Bet at Home - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVGdxOEtibkFmTVZXZnIzNGtwUXQxbGdFTkFxYkJnYU1iSC05TlZsdVpfdmdaT2ZoTnkyUllBNVZEaGZCZlZLZGxBcjZvUzFoVWhSLUp2YmxoREkyNHNTcW1RVU11QlZ1ZjNHRkpwc3",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVGdxOEtibkFmTVZXZnIzNGtwUXQxbGdFTkFxYkJnYU1iSC05TlZsdVpfdmdaT2ZoTnkyUllBNVZEaGZCZlZLZGxBcjZvUzFoVWhSLUp2YmxoREkyNHNTcW1RVU11QlZ1ZjNHRkpwc3hYdWRweWgwX2otRGlBT0dVQ2otQnNBTTdfTUxHbXEzTnZ1dE9EM3lFOXh6WXNwSzhiWlRPRmZoUU1jNFB3NUtfUkpfWWZCSjJwQlRYb3ZUQ1U1MXo0eTh4Yi1aMFBRZEQzME9ZN2VIMGp1MXlVZ2FCNnFYNGNBS2paZjRoZGVxMA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-10-21-009",
+    "date": "2026-10-21",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "From the Ground to the Stratosphere, and to Space: SoftBank Corp. Validates HAPS Technologies to Realize a “3D Communications Network” - www.marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxPR2pNVjRzNkQ3T1djYWdXMnYzODhkVnIyQW5lQkJKaDVVcEhQQ0tPQVh1aXlyVmlHbEtIZVVoV1JEOHR5SkMzQ21UZ2NyRFc5OGdqRXZnRkpyV25zOHFpQ09zeF8tdy16UVlaUi1hb0",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPR2pNVjRzNkQ3T1djYWdXMnYzODhkVnIyQW5lQkJKaDVVcEhQQ0tPQVh1aXlyVmlHbEtIZVVoV1JEOHR5SkMzQ21UZ2NyRFc5OGdqRXZnRkpyV25zOHFpQ09zeF8tdy16UVlaUi1hb0xiN0xTMXY0cnNUSUxFazBrOXNjalVGZ2ZGaXBRSjF3M1MxRkdoMFRCd2hjTm0yd2t0WDdNb2s0M0gxYWYwMjc5NDF3dUpNWjBLdlRVV0plV2ZTWi12ZFhfXzJmRGMzZ0JlR1RkWFdRZnFiMjktN0hmU0I3T1A?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-10-21-010",
+    "date": "2026-10-21",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SkyeChip Engaging With Softbank Backed Unit For Next Generation Memory Design For Data Centres - BusinessToday Malaysia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcjI4ai1PSjlsM25SdENhVzl6QUJWdjhPaDA1bUtENldCaDREZmxKZU1rVjI4UHpLR3FKOVllVTBRb3EwdENNR3FzaVJlUlZzV0I2LVNMZXBXdGZ0WjlGTkQtQ3JxaEJQcDgycmdfRF",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcjI4ai1PSjlsM25SdENhVzl6QUJWdjhPaDA1bUtENldCaDREZmxKZU1rVjI4UHpLR3FKOVllVTBRb3EwdENNR3FzaVJlUlZzV0I2LVNMZXBXdGZ0WjlGTkQtQ3JxaEJQcDgycmdfRFpjM1hkXzNOeVFYbjNTQVRTbjJKZTRuOUNrUjZIZ3A5QjMzMXBWZGVlZW5BSmdMUURDZzM1YzlxenAtdVUyWXNSYXZRaF8wZnFsZ3BUZnRIQ2diMWZCUGJBckI0RkxpalpLcThpNXhB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-10-21-011",
+    "date": "2026-10-21",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank Corp stock has second-quarter briefing on November 9 ahead of Xetra open - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeFVXNXFjaDlPdUVNNVNRclZwejF3eHVBYmVZWEVJNXNwT01jTkFVTEhJZ2NuU3pYZjRkUVJWX3FXUklwWGU1V0lHcGdibS1HN3VfWnpYNUpNNGtNZ2Y4ZHA0LTFSVFdjaGd0NjljVE",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeFVXNXFjaDlPdUVNNVNRclZwejF3eHVBYmVZWEVJNXNwT01jTkFVTEhJZ2NuU3pYZjRkUVJWX3FXUklwWGU1V0lHcGdibS1HN3VfWnpYNUpNNGtNZ2Y4ZHA0LTFSVFdjaGd0NjljVE0zeHZGSU1yWG5sXzBqLXdDTjVUWEZZM3p1U1AwNFRwTVJWRTdUTmN5WktObjhVUVFGakVMUzJnYXVTeGNYeWgyc3VyLWNpWE9YWWppYkE1YWhNYzFfSmM2SmNPSDNwelZYSHpralN3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-10-21-012",
+    "date": "2026-10-21",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Analysts lift target for SoftBank Corp stock from JPY 243 to JPY 290 - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNWi0yU3hpanFmMXVqdENuMjJOSERKNlFCbFZFVmRRVmh5ajJ2TmdvZlN6Wng2LTJzc0RuM2I1d05MdDA3WlhzeWZQdzVub1N2TFhwZ29vTENFVTZVZU1CTHRybGJ1dlJ0VllqdEZYZG",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWi0yU3hpanFmMXVqdENuMjJOSERKNlFCbFZFVmRRVmh5ajJ2TmdvZlN6Wng2LTJzc0RuM2I1d05MdDA3WlhzeWZQdzVub1N2TFhwZ29vTENFVTZVZU1CTHRybGJ1dlJ0VllqdEZYZGFSanNLbF81ZUY5M3ZmQTZKNTlHeWRZaTk5eTY4OWhKanpkVWNSZ0lhSzdxT1dLbk5aLU04LWtYSXdnS3RHQ29HbjFYX2VXZGRCOU9HVUNIYmJwaGJtZ2RwTC13cw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-10-21-013",
+    "date": "2026-10-21",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Tower Corporation $AMT Stock Acquired by Assenagon Asset Management S.A. - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPai1zaE9HNGpCZVE1REx4VGRkZTRiUlg0VG44WWtRWXlFN2xKVF9xS3B6TEsxSzc2RGtYSDZIN25tZ3M4RmdGdW9tMk0yczNodi1ta1plUUZ2NV9WeXh3Y25MMTBlc1ZYQUU0QU5lbV",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPai1zaE9HNGpCZVE1REx4VGRkZTRiUlg0VG44WWtRWXlFN2xKVF9xS3B6TEsxSzc2RGtYSDZIN25tZ3M4RmdGdW9tMk0yczNodi1ta1plUUZ2NV9WeXh3Y25MMTBlc1ZYQUU0QU5lbVBLNEdIVEtDOFBxc1o0ZFA4WG03dGZ6Nlg4UVQ2T2x3MG1sWXA2RUNTX0syZUxKQnhvQkk4aFN1Y0RtcUZZcXlSNVVNaEVGUHF6Rlg2SkdwdGVSekxMUnhsT1EweEw5S3FxMS1fdnNn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-10-21-014",
+    "date": "2026-10-21",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Is Connectivity and Data Demand Climbing for American Tower (NYSE:AMT)? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNZzRaQzk2VDFJWEhLOHBaYnlFcHZ2dTl0eHhSTFlyR2ZpTmRBUElEU3lSNU9yWHRwTllOdFZONlhPU1hMNklXT2R6Sk9Rb05lZjgtVmxfYXY3dlowcVdJdER0RnhMYU9KbFlkQXBZb0",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZzRaQzk2VDFJWEhLOHBaYnlFcHZ2dTl0eHhSTFlyR2ZpTmRBUElEU3lSNU9yWHRwTllOdFZONlhPU1hMNklXT2R6Sk9Rb05lZjgtVmxfYXY3dlowcVdJdER0RnhMYU9KbFlkQXBZb05zZWJOM29BQWpEcHFpWmVaZHFIMmZOY29jZ0EyN3Q4N2xVU1pKSGdDMkRtOHBzNWljbGRjUWRpZVNqUkJzQU1lYTZ1NkFaWjJ4U3BTZE91Y3dudW1icEN2S1ZCaFJ5dw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-10-21-015",
+    "date": "2026-10-21",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Tower sets October 27 results date for American Tower stock - AD HOC NEWS",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNRDVHSF9JNHdzWUtIQzBzMEw4R1F0RlNqcTFxbDdZTlZDeVRObGtCcEMwTHZGNi1LZnRLbEN2RzRoeFRIVUhvOERtcWpqNW80aVFOeGE5TWM1T2V6X3hvZVRULUtQMFRvQno1bXpxem",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRDVHSF9JNHdzWUtIQzBzMEw4R1F0RlNqcTFxbDdZTlZDeVRObGtCcEMwTHZGNi1LZnRLbEN2RzRoeFRIVUhvOERtcWpqNW80aVFOeGE5TWM1T2V6X3hvZVRULUtQMFRvQno1bXpxem1JdEU5U1FOWWFaa2VfNkQwX3B5eXduWElWc1pFYk5NNzk5cTd1WFFxVTR5aHhmZ3dkNnhKb1o4Um96NGZjcTJ1QU5pVGV0SkNDZjdtSktkWE1yZTNxN2RrclBlSQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-10-21-016",
+    "date": "2026-10-21",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Equinix EPIC: Colo giant launches liquid-cooled testing environment for AI workloads - Data Center Dynamics",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNNUR0eWt3aThmNnJ4elFSOTRSNE02dWRCQ2ItVEJydXdVNEJnMUgzaEROd2hlWFRVTU1sazBEMElvOEwyLWwzcmNteFVtdkdLRHlsZVVFcm5jTTZhRlBIaHRuakJ5TTYwLXN2cVlKb0",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNUR0eWt3aThmNnJ4elFSOTRSNE02dWRCQ2ItVEJydXdVNEJnMUgzaEROd2hlWFRVTU1sazBEMElvOEwyLWwzcmNteFVtdkdLRHlsZVVFcm5jTTZhRlBIaHRuakJ5TTYwLXN2cVlKb0lxREtVUjYtVTFJbnlOcXM5TEtDZHUxMkdXT3c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-10-21-017",
+    "date": "2026-10-21",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Equinix Opens Innovation Centers Globally to Accelerate Enterprise Infrastructure Deployments - PR Newswire",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaU10QUlQOW0wQ3JZdjhuSkt1NmNlblNoS3hodXlFWGcxWG5KOXVlclM0WkROUlNfZm1YYURvNnVoQmh1c1A3THF4M0dDd1lqZWF5R21ibTJxOGlkNEZ6dTBPN2phNWN4MVlWazJvMW",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaU10QUlQOW0wQ3JZdjhuSkt1NmNlblNoS3hodXlFWGcxWG5KOXVlclM0WkROUlNfZm1YYURvNnVoQmh1c1A3THF4M0dDd1lqZWF5R21ibTJxOGlkNEZ6dTBPN2phNWN4MVlWazJvMWtOS0RkYlFTcXN5aXhFeWQ2WlZqNzlSTFRQb2VJUFVudXI0d21zSzliUnJZVTBVUnlSWExaRjVlVDg3VlZ4RTc0UVdUOVEwMlJvTEZrTWxNalZ0S0E0LU9FaV9HakhGOWdEQVFiMEdWZmZMcEx5MkVEaFNPaw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-10-21-018",
+    "date": "2026-10-21",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Equinix opens liquid cooling test site at Sydney data centre - Capital Brief",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZzhKT2xPOXptUjQ1d0tfOENSZ05hblpCcVFseXlEbC02WEZIM3g1bThPczc5cGs5Tl9CNmJyTS1fbExLMWpTdGFOWEY4VTFET2pmQ3RuS3VGX29Ub0pEQkd5dFg5QklVdTgyejhpcE",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZzhKT2xPOXptUjQ1d0tfOENSZ05hblpCcVFseXlEbC02WEZIM3g1bThPczc5cGs5Tl9CNmJyTS1fbExLMWpTdGFOWEY4VTFET2pmQ3RuS3VGX29Ub0pEQkd5dFg5QklVdTgyejhpcElIb0pzWGtUOWtuYjc4MHo1aC13bHV2Q3JOaTgtOUR0RkRYdmFTX3I3d2pDbVpyZUVqbGM0SHJacEhrV1V6eWM5VDZRYmJFYWJja2JNUlZ1cEVzaFNNeTNqdDlfdnNzSnhKM0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-019",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "arpu"
+    ],
+    "impact": "neutral",
+    "title": "SpaceX eyes full Starship recovery as Starlink subs miss estimates",
+    "summary": "Musk says catching Starship's upper stage is 'more likely than not' on the next flight. Starlink, meanwhile, added 1.6M subs, short of forecasts, as ARPU fell to $69.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/satellite/spacex-eyes-full-starship-recovery-as-starlink-subs-miss-estimates",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-020",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Eurobites: CMA looks to open up Apple's NFC walled garden",
+    "summary": "Also in today's EMEA regional roundup: Elisa's Q3 dented by PSTN switch-off; TIM goes sovereign with Nvidia; A1 Group raises its outlook.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/regulatory-politics/eurobites-cma-looks-to-open-up-apple-s-nfc-walled-garden",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-021",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Thailand's AIS buys indirect stake in Lao Telecom in $43.35M deal",
+    "summary": "Thai operator AIS will effectively secure a 24.01% indirect stake in Lao Telecom in a $43.35 million deal expected to be completed by December 31, 2026.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/finance/thailand-s-ais-buys-indirect-stake-in-lao-telecom-in-43-35m-deal",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-022",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wi-Fi 8, Edge AI and the Introduction of Security and Management services",
+    "summary": "",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/wifi/wi-fi-8-edge-ai-and-the-introduction-of-security-and-management-services",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-023",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AST SpaceMobile limited coverage coming soon in US and beyond",
+    "summary": "AST SpaceMobile targets 'initial, intermittent coverage' for satellite mobile broadband services by year-end in US, Canada, Japan, UK and Saudi Arabia.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/satellite/ast-spacemobile-says-limited-coverage-coming-soon-in-us-and-beyond",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-024",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why VMO2 isn't afraid of VodafoneThree's monster 5G footprint",
+    "summary": "Under its 'Grid 2040' plan, Virgin Media O2 is in talks with rivals about possible 5G 'densification,' but its network is already making strides.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/5g/why-vmo2-isn-t-afraid-of-vodafonethree-s-monster-5g-footprint",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-025",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Toshiba targets scalability with new quantum-safe network platform",
+    "summary": "Toshiba execs say the company's QSN platform will make quantum-safe networks more scalable, allowing for simpler and cheaper implementation.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/security/toshiba-targets-scalability-with-new-quantum-safe-network-platform",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-10-21-026",
+    "date": "2026-10-21",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Wednesday Bytes: Lumen, Epsilon, center3, GNX, Equinix, Orange",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/YxCXTJSBHD6ArcKdiCJ4heGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Wednesday Bytes: Lumen, Epsilon, center3, GNX, Equinix, Orange\" title=\"We",
+    "sources": [
+      {
+        "name": "telecom_ramblings",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaVzhPtTI8ptvl6YNRypq0wL?utm_source=follow.it",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-10-21-027",
+    "date": "2026-10-21",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SMCI Teams Up With Nokia, Nvidia To Bring AI Computing To 5G Networks — Eyes AI-Native 6G Expansion - TradingView",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQekRKM0o5TmJnU2dOU1FxTHhCbi03QWZfWnFpc3hCWnZCaHZVUEkxS3ZBSlpOc1pvdVAyY3U0Rk5yR3lUdi1HQzc5d2dqU3RuS3FwdGlQOFRrd0FxRmdobm4teF92RVAxSDV4X0k2Wk",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQekRKM0o5TmJnU2dOU1FxTHhCbi03QWZfWnFpc3hCWnZCaHZVUEkxS3ZBSlpOc1pvdVAyY3U0Rk5yR3lUdi1HQzc5d2dqU3RuS3FwdGlQOFRrd0FxRmdobm4teF92RVAxSDV4X0k2Wk8wWU83VU1YTElTRkgtNlVDZ0I3eGFqSHVSYnFSd3FUamtIYWhMdkt3c01RNV9SbHZ0cEo5cW81TUgxa2wyX0lvT2JZMWN1WkMwU2lFQ3hoeUVpcDdhLXpjdWItenJvb3Jsb3pVWkRVa1h6X0ozcjNfZHI2dWdmb0c2NzIyWFFR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-028",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Telecom news: OPTAGE, Optus, Vodafone Australia - TelecomLead",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxObndXeW5Ham1wQ2FjeEgxN09xamhxNkttbXAyaTdLb1E0dUZkSmZsbDBhYUx6cFlJQUVUT3FZYVZYQkJORUlPbHJ5OUp0RFRPbEQwUUg2YlI3dDVqelFRd1pKbXQ5M2RLekpMc09Cel",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObndXeW5Ham1wQ2FjeEgxN09xamhxNkttbXAyaTdLb1E0dUZkSmZsbDBhYUx6cFlJQUVUT3FZYVZYQkJORUlPbHJ5OUp0RFRPbEQwUUg2YlI3dDVqelFRd1pKbXQ5M2RLekpMc09CelFuMi1HVlZfelpJMkloeHZKM2d2eVFYSGfSAY8BQVVfeXFMTW1UMkJJTVNIYnJkN0lUUElXS2lLT2dnYmVIWGdYNkwwNFpqM2JibWhMTWNBcGh3T1lQQ2xteWh2UWp1Z2VjX0szVm5EZG1nb2x1NVlmQ0ZzQjZNaEF4LWlvU1VhNkFCbkd5VlY4cGs5UnRMUVJaaVVHaG95Xy1fUE1oQllfX2V6bUlDcFdmb0k?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-029",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "spectrum_auction",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "TDRA Highlights the Road to Intelligent Connectivity at TRS 2026 - Telecom Review Asia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ1BiNG52aFFWa2t5aFJ4TEthVW1EMjBWQUo1QjUzWlJpYnB1bDdqSG9LMDBtZzFPdnNEd1lVdHJTbm9KTDRrLXE3VjduRUQtMnc2VXBlaEQxYzlwTGg1QXpHdTdhVXgzYjhZUEdVMz",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ1BiNG52aFFWa2t5aFJ4TEthVW1EMjBWQUo1QjUzWlJpYnB1bDdqSG9LMDBtZzFPdnNEd1lVdHJTbm9KTDRrLXE3VjduRUQtMnc2VXBlaEQxYzlwTGg1QXpHdTdhVXgzYjhZUEdVMzAyZkF1cU40YkVhcGpqQUpmRHZGRksyNWktQi01Y0xJa0k4Ukg4OGp6RjdULWRwdmt3T2xvMGNCczBQbG51S0JfbkhZQlE4VUJuN0lFZ3FzQ29lZXhR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-030",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "LTA seeks greater transparency in mobile pricing and promotional offers - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQNlVFMmV2NEhJSDh3cDBwTUZtUmJqM1RSNXB6b2RXTGJhNnhVcjdwcFZyblJELVVVMUVrNjBJWWJ4MnJsVXRmVVhQODVPTWhiX0VDWUxWRDFBU2JRZk03X29qbnBYQnNuU2x2X2Job1",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNlVFMmV2NEhJSDh3cDBwTUZtUmJqM1RSNXB6b2RXTGJhNnhVcjdwcFZyblJELVVVMUVrNjBJWWJ4MnJsVXRmVVhQODVPTWhiX0VDWUxWRDFBU2JRZk03X29qbnBYQnNuU2x2X2Job1BmaWxCcllaREgzZmdEVXRWOUxnVUloSVJuQ281RG02S3ptTE1uX0pLT0J6YU5SNC0yNFlqa01BdDFqMDNJTS0tdUY0ZW0?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-031",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Omantel invests in its leaders to navigate the transformation of the telecommunications sector - Zawya",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOa2xqUDJ6clZJN0FheUNPOWN4ejhlNEl4dFFKZlVCZTY0eUJscmYzTGVUQ1BZTV9HVFVTLU0yU3pISzByc1hYX3RZYjdkYmlfdmxPQ2VhX3NRSWFkOGg5cXNKZWJ6cmNqMEhMWGE3R2",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOa2xqUDJ6clZJN0FheUNPOWN4ejhlNEl4dFFKZlVCZTY0eUJscmYzTGVUQ1BZTV9HVFVTLU0yU3pISzByc1hYX3RZYjdkYmlfdmxPQ2VhX3NRSWFkOGg5cXNKZWJ6cmNqMEhMWGE3R21jWkNab0pJRHlBZEdnRmh2aHRhdGhfd3VKRElRQkFsbG1Eby1taWlkQ1NrYTdocEI2bU9xNUkyenVra2NfRTA1NTlVMTU2SDl0WGl5NnE4bF9wV19FMl9vcG04MTA4RFhoSjQyWktpcnlWUy1BSUdQVVhZODRTZ1c0LUZnTg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-032",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Telecom sector outlook: Stable market structure, tariff hikes to support revenue growth - CNBC TV18",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPeUJDQVNSX3RKLV93V1h6bE10cC1jLVpSRXdHVVBEMENVUkRZOFpId0l2U21WdjMwRmlMODI1eC15UDN2MVdiQWZOaDUxRHV5Y2M4MmgtQ3ZVcUNRa0tHZE15WWstV0xQazdBVUk0S3",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeUJDQVNSX3RKLV93V1h6bE10cC1jLVpSRXdHVVBEMENVUkRZOFpId0l2U21WdjMwRmlMODI1eC15UDN2MVdiQWZOaDUxRHV5Y2M4MmgtQ3ZVcUNRa0tHZE15WWstV0xQazdBVUk0S3B5REMyX21CQTNCT3E2NTJoSmQ0Z2RuNlZ1bG0zZDg4aDJNdkZ0STR1ajlaT3Y2Ry0tWTBxa3hfOF94OGNZLXNWenU4azMtaXN5OWVFXzVoeV9tZk5NcUUw0gHMAUFVX3lxTE9UZVRRb0JFNTZiZkdoS1pGTWE5VkRybDh2ZjNHemdEaU1lU3BoY1FCeEZTZ0RmNm1BXzJtbUJOZkNrRnZoZi1iWmltZEpzRXNJX2RqTkdsTjZYaTJ2T0lhU3F4OHdVaGQ2MFZ3QkhBVHcxQVZkNnVJRGozckI0RVc5MTIwOEN4dURkMjhMQW5fb0VRS0hTcnltWFhzQ3BCXzZqMklwMGwzdzRKSWE5S1lkel8zTjBqbVdhbTRrc2xjNUhCdXg5emdJMDJaOQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-033",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "HP Telecom India names Dr. Garima Mishra as CEO - Exchange4Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxObkl0UEpvdnFzNUpQTlc5LXVZTGdDWHFmblhpNmFPRkJnRTBIUnBzMlZXTUI1MGlranBMTGFtWG9sNTQwTVYxOU9PZkhLVEJEX3dIU2s4YUVteUlvakRoVDdGaHJiVWg3aTVNTl9WdD",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObkl0UEpvdnFzNUpQTlc5LXVZTGdDWHFmblhpNmFPRkJnRTBIUnBzMlZXTUI1MGlranBMTGFtWG9sNTQwTVYxOU9PZkhLVEJEX3dIU2s4YUVteUlvakRoVDdGaHJiVWg3aTVNTl9WdDktU04wdFhTZTN6SS1MSEVkbXNicGRqNE5Na3NjSE5zOWRWYkNkWDY4cERyYUJJTmNzQ1ZNb0FpYjRzd05CWGNr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-034",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Reflecting on 20 Editions of the Telecom Review Leaders’ Summit - Telecom Review Asia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGs1bzVGTmNONFlpd1d3NjA4UWZETWVpeVBtOWQtNkUxUGxxQlBKNlhqMFFENlVNdlNzcTJ5M0Rha2wzM2NyWDNsTy1sdnlUQUZXX3FyVktHakNvUHhrRm1tZHAzV0dPdVVGZ3dyMn",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGs1bzVGTmNONFlpd1d3NjA4UWZETWVpeVBtOWQtNkUxUGxxQlBKNlhqMFFENlVNdlNzcTJ5M0Rha2wzM2NyWDNsTy1sdnlUQUZXX3FyVktHakNvUHhrRm1tZHAzV0dPdVVGZ3dyMnhnTW9tNmQ3Y183R1JNdzJ3MTVZbmpLakZzSlF6MFdCdHhOcXZfdDdlZUl4ZkYxcUNSZTcxTUpEYmJfR3pYWnJtckJudi1wX1NkXzRxeVRyVGlOdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ericsson-2026-10-21-035",
+    "date": "2026-10-21",
+    "companies": [
+      "ericsson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jio IPO: Ericsson to continue working closely with telecom major, says global CEO Per Narvinger - Moneycontrol.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQejNyUnlFRkxCUDBjZHRTMXNuNjU2QzVXLTA3dWtydWxNcHh5amFseWdrWU9kUHpWOFh1RFBMMUlxaTdTMnF3d3BabHVaY29TZzV1R0pBWTZLOXZnbHBLMl9Cb0twMk44LTdCc2NhRH",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQejNyUnlFRkxCUDBjZHRTMXNuNjU2QzVXLTA3dWtydWxNcHh5amFseWdrWU9kUHpWOFh1RFBMMUlxaTdTMnF3d3BabHVaY29TZzV1R0pBWTZLOXZnbHBLMl9Cb0twMk44LTdCc2NhRHhCOWxQZHZNVFVIbFp3dnhRamVaSS1sU2xfMmNraWlWU05tdU9JRGNrVXp6cVkzOVhTanNnWllfbWctc3hQNUV2dlp2aWdWX0swaktjdjh5TjhtWUgyLXktSTAxdGc4OWRBelRPSXZVY0pTcWFUelZ5MmZlRWhoY3dF0gHuAUFVX3lxTE5sVktBZ0dpcVlETF9vVGZBLXhPbFdKWElwU0JqZDlZUndXQTNCZ1l0QklNVzJTdFNnLWJvRjJqV21hV0RJUzhhUzhWVE1nRlFQUVhvYzJIcnJoV2ZxV2s5Ymp4QnNCOGxRQUZlSTR4M2NhLXJmTXBCM3BMSV9kOU1GY093bHdRbWRSZUtrYTJ1U0JCWWZudEVpOEpwUnRUblRFM3hmQUpQWGxzdmlUYzFjUGF1NUpVSW1DUk9NTVBrUUZld1gtTWlfeEdsdjZHWTZkVXFrOXhuaWs2dC1HTklISFdBNl9oc1dnLWp1N2c?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-21-036",
+    "date": "2026-10-21",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Poor network, failed transactions: Consumer group demands telecom reforms - The Sun Nigeria",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOb1UyRGVScnpqZVg5ai1aMnVWU25mcktGSnBjNndYLUdUMGtLUVBNSUZpdUR2U2tETVRnOGRoUGExaEVqdUpra3pIRjlQUU1XX3JkQURBLUNZaEw5NU5KbGwySGFrZ0laMkM0T2RMTT",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOb1UyRGVScnpqZVg5ai1aMnVWU25mcktGSnBjNndYLUdUMGtLUVBNSUZpdUR2U2tETVRnOGRoUGExaEVqdUpra3pIRjlQUU1XX3JkQURBLUNZaEw5NU5KbGwySGFrZ0laMkM0T2RMTTRwVzlOalplWk1NMWxFa0NsTzJRLUdfNVFtY05aYW56TGVBc2FP?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "ciena-2026-10-20-001",
     "date": "2026-10-20",
     "companies": [
@@ -508,6 +1196,297 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWjVGSEhWTFdwc1ZZZFlDT19yMFkwOXFYbFVqU09qUDRRVV9BbG45U0g0NDlTcnc4NU1JNWl1YUZrMXFIOWt2WS0xRVg3RmY0aHladWdQWE0teHBqejZVTVNHUUd4bFMzakJTRVFuSmRQQU5TUXVrTlR3VGlLUTFVc283WWVLTF9WUGE1djh1MXpKOG1hRUhKR2FEdl9ZcmctRWlwd3hTcFZwWXZqbUV5VlpveXN5QQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-10-20-027",
+    "date": "2026-10-20",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Can Nokia's Latest Portfolio Move Strengthen Its AI Networking Focus? - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTnNlNU45dFI2X2FhMHd3Q2hkNV9ubVI3cVJVb1JKTUp4UlBPTkwtNkxQTWdxU2hMT0NoMVBsRnRvVGR0b3gxcEZaUURlZ2wyV05WTjlvNV9GOVBfcUd4cGlOQ3kyeHFMRy1aZzlkOU",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTnNlNU45dFI2X2FhMHd3Q2hkNV9ubVI3cVJVb1JKTUp4UlBPTkwtNkxQTWdxU2hMT0NoMVBsRnRvVGR0b3gxcEZaUURlZ2wyV05WTjlvNV9GOVBfcUd4cGlOQ3kyeHFMRy1aZzlkOUExWndCVUFmeGtXd1o5TThRR2wzZjJJTGFFamVDV1VpeE13Nkd2MENiWEcxT2M0Ti1ncEZBMllxVXJlN0ZMUXdqZVc1MThRdXVzcWZMQTh3SG5TVHQzSXFKMnU1RDZwRGU5V2p2MmMwQXQzb1VLR1hBQ2ZUV1hLZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-10-20-028",
+    "date": "2026-10-20",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Can Ciena (NYSE:CIEN) Sustain Its AI Networking Surge? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNVThrZnJHMm5hVFhlbHRSY0RJVlR2Mjh6YUE5akVYQmFlbEtSRnI2NkR3RWthNmQ1ZzJobVVmakJTSWhOX19nRnNlMUl2NldSU3hLTFpDb1Z1UktvOVBETzg5d3BvTGxyWGxFUkNOVF",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVThrZnJHMm5hVFhlbHRSY0RJVlR2Mjh6YUE5akVYQmFlbEtSRnI2NkR3RWthNmQ1ZzJobVVmakJTSWhOX19nRnNlMUl2NldSU3hLTFpDb1Z1UktvOVBETzg5d3BvTGxyWGxFUkNOVFRwT192dFd1SHN1SG95Y1hrem5HQmNKTFR5aFpoWE9XWEhvOWRoLUp0NEloUG4?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-10-20-029",
+    "date": "2026-10-20",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Telekom AG : Receives a Buy rating from Barclays - marketscreener.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOcG1BOXFjMWx0RHZIUVB6TnRYRVdrS2ZDSWFOQTY3eko2dzlLOFFnRUNBWFJYU1M5VjdmcGhFcDFnbjR2LWN4blF6bElneHFBTkZ2aWo1MUV5UmNoclcteWw2Tlc0a2FaUlFDQk1nQk",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcG1BOXFjMWx0RHZIUVB6TnRYRVdrS2ZDSWFOQTY3eko2dzlLOFFnRUNBWFJYU1M5VjdmcGhFcDFnbjR2LWN4blF6bElneHFBTkZ2aWo1MUV5UmNoclcteWw2Tlc0a2FaUlFDQk1nQkRmakZnaHdPRElNdVBiTmJybDFrTTg2V2RfVFNVWGk3OGJ3ZndaOXFzV0FzUnpEdTlDODR4WHN5TTlDV3J3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-10-20-030",
+    "date": "2026-10-20",
+    "companies": [
+      "nokia",
+      "softbank"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank readies AI-RAN field trial with Nokia - TelecomTV",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVF9QWVRteHB2QUlfcXFpZko2VXBZbnhCVW5WOS1FZFJNWnI4UjhIeFBTT0FrUWljVDBZdzVzNlRScGhjdGFWZ0lnRHJZQTdOajdWSk9NX0NEQUhnZFJJTldDVFJxdmFTZ3Bta0ZTMU",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVF9QWVRteHB2QUlfcXFpZko2VXBZbnhCVW5WOS1FZFJNWnI4UjhIeFBTT0FrUWljVDBZdzVzNlRScGhjdGFWZ0lnRHJZQTdOajdWSk9NX0NEQUhnZFJJTldDVFJxdmFTZ3Bta0ZTMUg5ZmxTbVFhS1RWS0NOa2VYeFFXWjYxcHEtd0ltbUhPLXhwUzFvS2d4LW1RSkI1TzU3dk1sZm5oTE9Hd9IBrwFBVV95cUxNX0lTSHk5bXpXbm1mTjNvSVE4Z2lNSW1zeGl4X1I5b1FmSTJQNlJrekdUbkpBRXNTbzU2aThuTXNLYlBUYkF6NEdTV2NVaHVYWHdCSUVHVk5JeUlpQ0dxSTJ5VlpWSUF4N1R2eWFTMS12cVhmQlE4bjdscWE5cy1FM1M4cXdqa0xBMlNwVm9Sbm5mMmVXVHhEMWJuVHU4STlCVTViOUxkckNiYkpHcnEw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-10-20-031",
+    "date": "2026-10-20",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why is American Tower stock climbing today? - Investing.com",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGVEZWVpZWVtVlh6RmoxOTRXLTVnWkdqVlQ4SmJKb2dRTWx1RUw1QXJ2MGlVM0ktTnpDc3Y0djF1aEROMUZ3T3RRVWI2OE4tNll4TTltemF6bHhyblkwN05LbXh6VTlaWEpBMng5Rm",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGVEZWVpZWVtVlh6RmoxOTRXLTVnWkdqVlQ4SmJKb2dRTWx1RUw1QXJ2MGlVM0ktTnpDc3Y0djF1aEROMUZ3T3RRVWI2OE4tNll4TTltemF6bHhyblkwN05LbXh6VTlaWEpBMng5Rm95NXZiRDZGUmpEV3MtZ3AzUVhjQmh0RUJBQ3FOXzEwQXlZcHpNVXFuSEMzam4wbDN5YlZZQkstdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-10-20-032",
+    "date": "2026-10-20",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "tower_consolidation",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "American Tower REIT Is Maintained at Outperform by Bernstein - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPcHBnTTdEcjdmYkY0Y3JHM3NTOTQ4cmZvVjhuR3JGZGw0MVpDMFNEYlExQV9GcWtOclZLYmdIaUw3WUVHTDZiSGlDWktjQVVqaF9aUHFQalVrSGFUYXI4UC1TczRyVTlzRW0wUVA4Ym",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcHBnTTdEcjdmYkY0Y3JHM3NTOTQ4cmZvVjhuR3JGZGw0MVpDMFNEYlExQV9GcWtOclZLYmdIaUw3WUVHTDZiSGlDWktjQVVqaF9aUHFQalVrSGFUYXI4UC1TczRyVTlzRW0wUVA4YmdRRm1ZS3BJRW01LVYwXzJHSjZhVU9WS29sNXdlQmVxRzQwUlVkT3BFSVA4V3JqRkdmU0cxN0g1SQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-10-20-033",
+    "date": "2026-10-20",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Tower (AMT) Receives a Buy from UBS - The Globe and Mail",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWDZ1MFRlZ29lZDlTLUctZFBHRnFLQ3pLTzZ5ZjBTeXNZUE5tNjNWWGdvMkhQbjI5REIxMC1DdzFWRVc2TzVrWEFRNnNzVlRQTkxHNWV5VGFEdE5zZGtxU0JIOEVFaGRoYklGWEJnNn",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWDZ1MFRlZ29lZDlTLUctZFBHRnFLQ3pLTzZ5ZjBTeXNZUE5tNjNWWGdvMkhQbjI5REIxMC1DdzFWRVc2TzVrWEFRNnNzVlRQTkxHNWV5VGFEdE5zZGtxU0JIOEVFaGRoYklGWEJnNnFhbUtOWVRHNWozcGlOeFdfZVVYYjhfNnNEdU9aOFRDS1ljZ0VJUjRxYTk2WFBwQ3ZCNl8zZjc5WEZ6SUgxTVFNM1hDNXhxX2JteUdONEd0bnI?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-034",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Clearfield CEO Cheri Beranek to retire",
+    "summary": "Cheri Beranek will retire as Clearfield's president and CEO, effective March 31, 2027. Beranek will move to an Emeritus position once her successor is appointed. #pressrelease",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/optical-networking/clearfield-ceo-cheri-beranek-to-retire",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-035",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Cox broadband sub losses were worse than expected – analyst",
+    "summary": "Cox's broadband sub losses were higher than expected in recent quarters, according to New Street Research. That presents a challenge to new Spectrum COO Nick Jeffery as he tries to engineer 'The Great",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/cable-technology/cox-broadband-sub-losses-were-worse-than-expected-analyst",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-036",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AT&amp;T copper network retirement set to accelerate as legacy base shrinks to 1%",
+    "summary": "In its latest copper network shutdown update, AT&amp;T says it has shut down more than 100 wire centers and discontinued copper services in 500 communities across 1.3 million locations in 18 states.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/broadband/at-t-copper-network-retirement-set-to-accelerate-as-legacy-base-shrinks-to-1-",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-037",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Lumen takes network resilience beyond the backup plan with AI and built-in diversity",
+    "summary": "AI-powered tools help prevent disruptions, speed recovery and keep customers informed, while new Dual Path service delivers two separate physical network routes between locations. #pressrelease",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/ai-machine-learning/lumen-takes-network-resilience-beyond-the-backup-plan-with-ai-and-built-in-diversity",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ericsson-2026-10-20-038",
+    "date": "2026-10-20",
+    "companies": [
+      "ericsson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Singtel and Ericsson partner to scale 5G innovation and build AI-native networks in Singapore",
+    "summary": "Extending the collaboration announced in March 2026, the new agreement establishes a longer-term roadmap that will focus on scaling 5G Advanced and AI-powered network capabilities across industries. #",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/ai-machine-learning/singtel-and-ericsson-partner-to-scale-5g-innovation-and-build-ai-native-networks-in-singapore",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ericsson-2026-10-20-039",
+    "date": "2026-10-20",
+    "companies": [
+      "ericsson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Singtel and Ericsson renew ties, expand 5G for AI growth",
+    "summary": "Singtel and Ericsson entered a five-year partnership to scale up Singapore's 5G Advanced capabilities and accelerate the adoption of AI-native networks.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/5g/singtel-and-ericsson-renew-ties-expand-5g-for-ai-growth",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-040",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Another data center IPO fizzles as investor appetite wanes",
+    "summary": "South Korean data center firm Elice's IPO disappointment is the latest sign the AI boom may have peaked.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/finance/another-data-center-ipo-fizzes-as-investor-appetite-wanes",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-20-041",
+    "date": "2026-10-20",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "GSMA urges ‘policy reset’ for Canada’s telecom sector - CTV News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQT3VGdGdpTkozS094dnJVeWVCWk5lblM5azQ4dVA1eFo2akxuanl3NGNocXJ6TS1jMk94ZHVJYzY4M1BTaFRXd2dBNGVSazExY3U3RXVOYzZwY0wyVnpUNUJ1YVg2WS01Y0RLSEpfeX",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT3VGdGdpTkozS094dnJVeWVCWk5lblM5azQ4dVA1eFo2akxuanl3NGNocXJ6TS1jMk94ZHVJYzY4M1BTaFRXd2dBNGVSazExY3U3RXVOYzZwY0wyVnpUNUJ1YVg2WS01Y0RLSEpfeXgzbUdXRTF0b0ZTMTdidFNPdzBBNTFONlNhR3pjVmJNMlowcUZtWEdFX1gzUkUzblBHUmhNZU9JSHhLeDdTUE5MZE4xSWpTd00?oc=5",
         "type": "rss"
       }
     ]
@@ -1431,6 +2410,104 @@
       {
         "name": "light_reading",
         "url": "https://www.lightreading.com/satellite/europe-s-big-telcos-explore-joint-satellite-spectrum-bid-to-rival-starlink",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-10-19-049",
+    "date": "2026-10-19",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Networking Stocks Rally as Tech Rebound Lifts AI Gear Makers: Ciena and Arista Climb 4%, but Cisco Barely Moves - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxORFFrSDhEcWR4Sk1ELXBkWGNrS01WaHRmMnR5OTVYUWI3QXBqQ3JRNXVYdkxoamh5ZFhzR3l6cnBvMkh4cHJSdHd1alRmWDBHZThaU3BTVEhLZ3plc0VKUkNXckw2X3RTRmZQQUVQYX",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORFFrSDhEcWR4Sk1ELXBkWGNrS01WaHRmMnR5OTVYUWI3QXBqQ3JRNXVYdkxoamh5ZFhzR3l6cnBvMkh4cHJSdHd1alRmWDBHZThaU3BTVEhLZ3plc0VKUkNXckw2X3RTRmZQQUVQYXE3U2xVdHBWSGlRcTBIMWdmTk9CdlNZU0FxUFRvRExFS0NsR1dwRE54M0JrVHhjQ2ViWER3?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-10-19-050",
+    "date": "2026-10-19",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Major European mobile carriers are teaming up for a ‘direct’ satellite program without Starlink - The Verge",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOc0JkUFAxUVFwYzBMREg0cVNGWi14MlB6UUFleWtMWHg4M2NYLTJXWWtqLWlYdmJxZFRvT1JxNkNNSjMyVlR3SmpsbW9MRmJ5RVZMX3RZSzNkbTloZ3hRUW1NRGR3NGlrWFk5amJJUj",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOc0JkUFAxUVFwYzBMREg0cVNGWi14MlB6UUFleWtMWHg4M2NYLTJXWWtqLWlYdmJxZFRvT1JxNkNNSjMyVlR3SmpsbW9MRmJ5RVZMX3RZSzNkbTloZ3hRUW1NRGR3NGlrWFk5amJJUjRzTFRaekNpUW5qWU9pTTRBQUEzbGUxVENSM0JNQjFXaTdqd29E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-10-19-051",
+    "date": "2026-10-19",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bernstein Adjusts Price Target on American Tower to $212 From $214 - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPYkRoZ0ljSDB1MnZLYUJoN0pEZlo4VkgyV1pqZFJCZUlPenJXcEs2bERoMGRGN2laR1NYS1huaVI0Y0hYQ0xZUnJKYS1WdlExNlZsclQzYmNmMHpuRFJMWEVNM3VMelZKV3JCZnZrb0",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYkRoZ0ljSDB1MnZLYUJoN0pEZlo4VkgyV1pqZFJCZUlPenJXcEs2bERoMGRGN2laR1NYS1huaVI0Y0hYQ0xZUnJKYS1WdlExNlZsclQzYmNmMHpuRFJMWEVNM3VMelZKV3JCZnZrb0g3YVo3cmRtcHRJRDVRc250Nng5VUEta3Y0OFAzcXJIR01RYmRScE9EU3J5VzlpcXFoUWc1ajRHOA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-10-19-052",
+    "date": "2026-10-19",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "UBS Maintains American Tower Corp(AMT.US) With Buy Rating, Maintains Target Price $248 - Moomoo",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNdEJPYmJLOXZJcURIQ2F1a2xsS1FRblo2d1Z3ZXRtUTdPZzBKVzFRN2tERmc0di1OaG9TQWxENGw3R2lBZDNvSTkyd0EwMnRBRUlvRVlFQWpZaVkzckRTd2R4U0FDOXZwZlR3YzBmSl",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdEJPYmJLOXZJcURIQ2F1a2xsS1FRblo2d1Z3ZXRtUTdPZzBKVzFRN2tERmc0di1OaG9TQWxENGw3R2lBZDNvSTkyd0EwMnRBRUlvRVlFQWpZaVkzckRTd2R4U0FDOXZwZlR3YzBmSlF3aUY2Y1g3ZXduT1JzOV91T2JmTkU5MEZkVkIyMUpXYXFXYTBGbm1kVXc0Qmd4eHprd3dxdWtmY294bWlVcmc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-10-19-053",
+    "date": "2026-10-19",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Bernstein Adjusts SBA Communications Price Target to $208 From $219 - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcGNjd2dHVXZYZFU3NEZHQkVnRU5hd3Qwb0kwUzM5cVZhZHBFWmR4dThvSXh0WW9VekF3N2tlYXJLejNoczZMOUkwYUg2T2d4U3FiMk5ZR2hQOHhNRGtPWHMzR1lUTk41N2hlWm9vV2",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcGNjd2dHVXZYZFU3NEZHQkVnRU5hd3Qwb0kwUzM5cVZhZHBFWmR4dThvSXh0WW9VekF3N2tlYXJLejNoczZMOUkwYUg2T2d4U3FiMk5ZR2hQOHhNRGtPWHMzR1lUTk41N2hlWm9vV2RTN1M0SlhSUWJtanlLQ2FyY3lPdUg2TVpydTJ0b2xnbHJFQW5Fa0pZLTBzbmFDMklPZDVCOEJma2F5MHc?oc=5",
         "type": "rss"
       }
     ]
@@ -2478,6 +3555,26 @@
       {
         "name": "softbank",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYWZXeVVwd0pVOEdxS3FLaW8tQ2lmQnNVVi1CaVhwOGZQYWwyYUdRWjExc1o0akR0NkxyRkJDbDhRdDhHM0w0enE2T2VkRTd2b0Z0LVR0aWpxMXhUdkc1eF8tX1Vodm8xdW5WcEQtOVcxVjZVdlVrQkZYT3BrX0xCR0VRNmJPY19oTTdXZnRFaWdZY3ZjWUcxNFZJLWtEZnBkbUw2cGJFWWlNQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ericsson-2026-10-16-040",
+    "date": "2026-10-16",
+    "companies": [
+      "ericsson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Ericsson sees further growth in India's 5G market as AI drives network demand - Light Reading",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPVm5fNVNuT3FBTWNJM3hoU3lKMFpNWlVuR2RvT2lBQ01Qa0N2RnBKS3lQMGNfeFVLSTNWOHNCMkxxOXVaRklTNFpiZjlqTzJpektwYUxTVmtiM2Z5R1U4VzQtQnFiNE9pZk5SeDg1eX",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVm5fNVNuT3FBTWNJM3hoU3lKMFpNWlVuR2RvT2lBQ01Qa0N2RnBKS3lQMGNfeFVLSTNWOHNCMkxxOXVaRklTNFpiZjlqTzJpektwYUxTVmtiM2Z5R1U4VzQtQnFiNE9pZk5SeDg1eXBmb2dzVmIyN3NZQ3ZzQS1HZzNwSHBxRDd2bVdnNDZldVN4Z0NkWWxRZmNVMkNfYl9FdEhWTEY1TnYzbjktNmM1WTByQVhqUQ?oc=5",
         "type": "rss"
       }
     ]
@@ -4725,6 +5822,26 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLS03QVdlODIyaEtNVnY1NFdoM1cwUU04engzOE4tYmcwSjByal9ESFpGc19MV1l1bzU5dG8yLXBKRHNSaTJtUUljWmVHOS1ZTGJNNmpNUDh3djhiaU91VHBFT3FoUFBZbk1Cc1EyMEZlMkJ6WXFLSzM4dDFZVUZOOVdYY0lVZlU?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-10-14-062",
+    "date": "2026-10-14",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "4 Reasons to Add American Tower Stock to Your Portfolio Now - Yahoo Finance",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOQUkwaWR6eFFlMW1tU0d1c1hVUUFRa0xxUlZnZ1c4RXpRZjlQN3ZnNC1qQ0VZTE0wWXBOOTc1Q2oyVVZEd0tuVElMMnJhTF84Q05JRnREVDE3WmNYbDZNSmlGci1GZ2tOSEU3Z09idE",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQUkwaWR6eFFlMW1tU0d1c1hVUUFRa0xxUlZnZ1c4RXpRZjlQN3ZnNC1qQ0VZTE0wWXBOOTc1Q2oyVVZEd0tuVElMMnJhTF84Q05JRnREVDE3WmNYbDZNSmlGci1GZ2tOSEU3Z09idEZXSHE0b1FOUFY0NVRyWTFMN0lvdC1LN1Nqay15S1haeDRyR2hsemk3bw?oc=5",
         "type": "rss"
       }
     ]

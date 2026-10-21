@@ -1,0 +1,16 @@
+{
+  "total_raw": 308,
+  "dup_title": 165,
+  "no_date": 0,
+  "too_old": 71,
+  "gate1_fail": 5,
+  "gate2_fail": 9,
+  "passed": 58,
+  "gate2_samples": [
+    "Technical Analysis of Ciena Corporation (CRYPTOCOM:CIENUSD.P) - TradingView",
+    "Ciena: A Cyclical Business Priced Like A Compounder (NYSE:CIEN) - Seeking Alpha",
+    "vCluster Automates Private AI Cloud Services on Deutsche Telekom's Industrial AI Cloud With NVIDIA D",
+    "AudioCodes Ltd. (AUDC) Selected by Deutsche Telekom for Voice AI Services - TradingView",
+    "Deutsche Telekom AG: Release of a capital market information - MarketScreener"
+  ]
+}
