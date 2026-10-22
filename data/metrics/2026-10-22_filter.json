@@ -1,0 +1,16 @@
+{
+  "total_raw": 309,
+  "dup_title": 158,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 4,
+  "gate2_fail": 16,
+  "passed": 58,
+  "gate2_samples": [
+    "When Should You Buy Ciena Corporation (NYSE:CIEN)? - Moomoo",
+    "Ciena: A Cyclical Business Priced Like A Compounder (NYSE:CIEN) - Seeking Alpha",
+    "Technical Analysis of Ciena Corporation (CRYPTOCOM:CIENUSD.P) - TradingView",
+    "Deutsche Telekom taps Nvidia and vCluster Labs for sovereign AI cloud push - SDxCentral",
+    "vCluster Automates Private AI Cloud Services on Deutsche Telekom's Industrial AI Cloud with NVIDIA D"
+  ]
+}
