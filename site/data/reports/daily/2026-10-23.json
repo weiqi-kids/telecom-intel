@@ -1,0 +1,262 @@
+{
+  "date": "2026-10-23",
+  "generated_at": "2026-10-23T13:00:25.869743Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-10-23-013",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Chinese telcos' Q3 earnings drop on weak demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.lightreading.com/finance/china-s-telcos-q3-earnings-drop-on-weak-demand"
+    },
+    {
+      "rank": 2,
+      "event_id": "att-2026-10-23-007",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "SpaceX Cell Site Report Hits Verizon, AT&T, Lifts These Tower Plays - Investor's Business Daily",
+      "companies": [
+        "att",
+        "verizon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRGhHOEdiQVlNTHNYOThqbzI1YkxtY3FQZHFXQXNJV29Gd0cybFdhMVk2eE5rSHBSOTB4NEh0OXBBbkthVE05X2NKZGM4dkdROHBCUG05cHB2OEl5YnNfbTBOVGlNY3AzNW44SEh6M08zMmRkbmpTcklnSFN5MWliRXFucElJelRsaXRpYWthS3R5bXFHYUllLWJTWkE?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "american_tower-2026-10-23-008",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Crown Castle, American Tower Stocks Catch A SpaceX Boost — Which Tower REIT Does Wall Street Favor? - Stocktwits",
+      "companies": [
+        "american_tower",
+        "crown_castle"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "tower_consolidation",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNzh5X0NMeEFmZk9RMUc1bHhlaE85UHV5UXBCQnpmZ2sxQUFsS0lQeUpZLU9RYll3SU0tRWh3VG1EZzB3NnRJcWVHcXU1RFI0REs4aVlleFJ1NC10dTFWcTQ0ZklFQldRTFJSRUVrdWtyZGFXWFdMaGZjZVJ6RUpFbkZZeWgzU3RFVnNNR2hYSHNfRzJBcnIyN3h3UjFxdkFmNmY0aU1IUmJId2paV2pDUlQyc0hBWjQ5WHl6aWtuZHdnYXZhTHJoT0JkakZCcTkzTmpjQ3dlekRRaEdpRHI4NVdJazM4aUNsOTVMaUh1X3U1dw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "nokia-2026-10-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Binance Will Support the ASML Holding N.V. (ASML) and Nokia Corporation (NOK) Cash Dividend Distribution via bStocks | Binance announcement - Binance",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWUFlSGV0RE1rRXlVMnprdGJjOWdhRTNvYkc1bzhONGMxTlZVbE8yUUtzVGJxZUNPNDgxZkVfM0FmZl9TN3JSYnNieWYtVUJ2b183c0RRSlFHYnJoZDhyOUhwYXB2blhmSmhGaXZjMTAwU09zOUNtVjhSQmcyRmhsR01VWFQ2ZGM?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nokia-2026-10-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia Corporation Sponsored (NOK) Stock forecasts - Yahoo Finance Singapore",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVkhJSGJrX0RsQTJHR2FtbGZEZ3VyT2oweUFIUmtqQTVEckxzQWo1eWFNTUEyMGxidmdGMXJSb1hrNHNLcFVuWEpvbjdRXzV5Z2ZadHNmS3o0RkNKckhBVWJXRFEwX3hld2RRVDNBclFUQlNJM2xPLTExQ19BQ0pWMkREZVljdVp4bTlwRVBEOGY?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 15,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "tower_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "spectrum_auction": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 19,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 16,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "american_tower",
+        "count": 3
+      },
+      {
+        "id": "nokia",
+        "count": 2
+      },
+      {
+        "id": "softbank",
+        "count": 2
+      },
+      {
+        "id": "ciena",
+        "count": 1
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 15
+      },
+      {
+        "id": "tower_consolidation",
+        "count": 1
+      },
+      {
+        "id": "spectrum_auction",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 310,
+    "dup_title": 169,
+    "too_old": 75,
+    "gate1_blocked": 6,
+    "gate2_blocked": 16,
+    "passed": 44,
+    "pass_rate": "31.2%",
+    "gate2_block_rate": "11.3%",
+    "gate2_samples": [
+      "Why Nokia Sank today - The Motley Fool",
+      "Why Nokia Sank today - AOL.com",
+      "Ciena Corporation Shs Thailand Depositary Receipts Repr 1 Sh Estimates – SET:CIEN03 - TradingView",
+      "When Should You Buy Ciena Corporation (NYSE:CIEN)? - Moomoo",
+      "Deutsche Telekom taps Nvidia and vCluster Labs for sovereign AI cloud push - SDxCentral"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 19 則事件，焦點為AMT、諾基亞、軟銀相關動態：「Chinese telcos' Q3 earnings drop on weak demand」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Chinese telcos' Q3 earnings drop on weak demand（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "SpaceX Cell Site Report Hits Verizon, AT&T, Lifts These Tower Plays - Investo...（產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

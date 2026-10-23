@@ -1,0 +1,16 @@
+{
+  "total_raw": 310,
+  "dup_title": 169,
+  "no_date": 0,
+  "too_old": 75,
+  "gate1_fail": 6,
+  "gate2_fail": 16,
+  "passed": 44,
+  "gate2_samples": [
+    "Why Nokia Sank today - The Motley Fool",
+    "Why Nokia Sank today - AOL.com",
+    "Ciena Corporation Shs Thailand Depositary Receipts Repr 1 Sh Estimates – SET:CIEN03 - TradingView",
+    "When Should You Buy Ciena Corporation (NYSE:CIEN)? - Moomoo",
+    "Deutsche Telekom taps Nvidia and vCluster Labs for sovereign AI cloud push - SDxCentral"
+  ]
+}
