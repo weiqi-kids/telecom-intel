@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T12:54:35.025443Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sba_comm-2026-10-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SBA Communications (SBAC) Rallies With Tower Peers, Is It Still 18% Undervalued? - Yahoo Finance",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSnI3YS1CWmlRUndIemdJOXJKeE5OaVI3SC1FR1d2bmtkU3U1czZwdnRnZmhfRl9FMmNUb2FoenIzMmU0MWdNdWZEZklwZy1VSXRnY2xQZUZoOG5kTFk5UXR5ejA5VHluQ3NZWGxpNjVITmQ3Q1luVlRzVy1kZUxtNW83LWxoYmlCSkZnTlRGa3BkSGN4MW9DdVRZd1Y4UnVrVmlTTQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sba_comm-2026-10-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SBA Communications Corporation $SBAC Shares Purchased by Robeco Institutional Asset Management B.V. - MarketBeat",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbXRQZVNZVmFwTFp1ODBIakxGUWxYTkZyN3J6dWFuNVF4S1cwR1ROaHA4Tk1LN2VkNmZpd3EtRW1odVhIaVBNY2FucTViZzlzTUFUcGFDWDVUM3Fpd2ZhNWZqOE1oNWxvSF91MTJVbW5uQ1hSRjU1NW1EeXhxNkQ0LVhMOXRxNHZHNWtDM0hQYlctMUwtSjY1OGVMdlE2eF9fSUJ5VmN0eGZGTmJvV2NwRmJJUlFVbUtiUTVqQl9NQUowZkwzb203eXJ3SEV0MnBnaGVfZmlNWkl0RkdGejRsTEF1MkFlZl9OdWhmcS13?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-25-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Starlink is not a telecom story alone - The Times of India",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbld1RnJhdXcxMEpDdnUxM05vVUhZSUtqd1F4SkNicUUtZTJaOEtvLUYydldaQ2U1dnZlU3pjRHlsM2U0b0ZqWE5GMmpLc1dzcjZpQTNPSzRPTVdHX1E1NUhtTW1kTnlQY191a1VlS0NrdGpuMElseFkwNUZueVl5Nm00ZmQ2NkZtUHlWNXZMX2lkYURCLWFpazZvSXVGYnpqZ3FiaG9uNE1WRDY1NWVlTjVJSGFBenhucjRMTVc3YlRnQmpm0gHKAUFVX3lxTE9JUXJMQ19LczRuamFMRTRhOXBhTjRMaS1NMi12Qm4xOFNfSkhfRTg1UFFpV0dkQ2ZDU2xrYmJmTVBMNzJYczdWY3BPZmp4RTU3akdoNXkyWm11XzRKa2x2dHJSaVA0dUR2Zmkybk1VcXZhVFFBRmlocm1OZnBCUkh1WDJVT0xZU0lGUGY2aWVoRGZuWWlxQUZNcjRlSEVPTXFoQlFmZ3pybm16UEdTNXEwNUNHYm5yRTE4cFM4TTRPaUtYNk5WZlNaNFE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "sba_comm",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 307,
+    "dup_title": 193,
+    "too_old": 79,
+    "gate1_blocked": 6,
+    "gate2_blocked": 12,
+    "passed": 17,
+    "pass_rate": "14.9%",
+    "gate2_block_rate": "10.5%",
+    "gate2_samples": [
+      "Why Nokia Sank today - The Motley Fool",
+      "Deutsche Telekom Taps AudioCodes for Voice AI Service - Channel Insider",
+      "vCluster Automates Private AI Cloud Services on Deutsche Telekom's Industrial AI Cloud With NVIDIA D",
+      "Deutsche Telekom taps Nvidia and vCluster Labs for sovereign AI cloud push - SDxCentral",
+      "Deutsche Telekom : Consensus Q3 2026 zum - MarketScreener"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為SBA相關動態：「SBA Communications (SBAC) Rallies With Tower Peers, Is It...」。主要關注主題為產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "SBA Communications (SBAC) Rallies With Tower Peers, Is It Still 18% Undervalu...（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "SBA Communications Corporation $SBAC Shares Purchased by Robeco Institutional...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

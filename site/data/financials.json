@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T12:23:54.934933Z",
+  "updated_at": "2026-10-25T12:54:30.078721Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-07-31",
   "companies": [
     {
@@ -160,17 +160,17 @@
       "name": "愛立信",
       "ticker": "ERIC",
       "currency": "USD",
-      "ar": 37921000000,
-      "ar_prev": 39345000000,
-      "ar_qoq": "-4%",
+      "ar": 38846000000,
+      "ar_prev": 37921000000,
+      "ar_qoq": "+2%",
       "ar_period": "QoQ",
-      "inventory": 30718000000,
-      "inv_prev": 25732000000,
-      "inv_qoq": "+19%",
+      "inventory": 35404000000,
+      "inv_prev": 30718000000,
+      "inv_qoq": "+15%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "fareastone",
@@ -229,12 +229,12 @@
       "ticker": "9434.T",
       "currency": "JPY",
       "ar": 3026078000000,
-      "ar_prev": 2971932000000,
-      "ar_qoq": "+2%",
+      "ar_prev": 3099845000000,
+      "ar_qoq": "-2%",
       "ar_period": "QoQ",
       "inventory": 232037000000,
-      "inv_prev": 220527000000,
-      "inv_qoq": "+5%",
+      "inv_prev": 226206000000,
+      "inv_qoq": "+3%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,

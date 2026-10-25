@@ -1,0 +1,16 @@
+{
+  "total_raw": 307,
+  "dup_title": 193,
+  "no_date": 0,
+  "too_old": 79,
+  "gate1_fail": 6,
+  "gate2_fail": 12,
+  "passed": 17,
+  "gate2_samples": [
+    "Why Nokia Sank today - The Motley Fool",
+    "Deutsche Telekom Taps AudioCodes for Voice AI Service - Channel Insider",
+    "vCluster Automates Private AI Cloud Services on Deutsche Telekom's Industrial AI Cloud With NVIDIA D",
+    "Deutsche Telekom taps Nvidia and vCluster Labs for sovereign AI cloud push - SDxCentral",
+    "Deutsche Telekom : Consensus Q3 2026 zum - MarketScreener"
+  ]
+}
