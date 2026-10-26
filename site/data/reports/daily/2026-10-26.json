@@ -1,0 +1,250 @@
+{
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T14:43:27.740396Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_tower-2026-10-26-007",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Tower earnings ahead: Can tower demand offset EPS slide? By Investing.com - Investing.com UK",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVHYtR1JkZXR1OXZWazBpWWcyXzhXNGczOHFscURtYkhBdm5ESllVVzRSWHd1Mi02RVcwV3NwbVd3N0dIbGdGWnI0TDlyRnRDd2F6Y1htRjJ6b3NMT2twbm91WXlscDlYY2F4SHlwY0xpSWVMbVZJWV8zeHFSOWtjanprZFh2UzJfRE9TWWF6eUlZM1ZnMnRMbC1PSzgwQTVsWFExOE1UMng0NTMzRk5NaHJwZTROMUZXeUVZYVhua1Badw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sba_comm-2026-10-26-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SBA Communications (SBAC) Expected to Release Earnings on Monday - MarketBeat",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTVgzTThpZDlJTGlJRG1ub0NRcnpqSnNPVDhJSzM1Q0Z5SmVuV21HSFRCYkZLaTh4U0xLeFIwdk5LTkF2STJLRkRrS3p3V2dDenBPcHo1cXZ5VmlhbE9QX1JNQkkxZVY0VmNXcFV0LUtyaHZ0SXYxZ3pJTzZFU2YtXzdjSkJjUDRPQnZZUGZpYm1yX1lGSUxaaDRBeVVoWWNVZnROUUpwZWdWbXRTWUhrYTZBTVZpaHd6TnZhak53ZEdUMGM?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-10-26-017",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Canada Telecom Market 2026: $19.5 Billion Capex, 45 Million 5G Connections and AI Investment - TelecomLead",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYmV1NVQ4X3JVajVZa0I5OFFqRS1MTU5sXzlZdV9pWXBSZ3phR05FN1FiU1E4M0wzTWpGMnBOQmJIcmFzZWRTNWw4Y2pLQ2s5cjlGTDlrN1ZSeklvdDhQS3RkbXFUbWQyTkI3T1JnOW9CbkxMUUJsZUxONXVpdU5NVHZWV2VQampKVGpRcWRzR1VVTmZpU1czaWVBQTBHUC10ODhGbUZwWGVuMnVCajZMREpZVDlZbU50VXpJbjUzVzTSAcgBQVVfeXFMT0NENmRaVU1qRjIzNWdfNUJ2eTBTMEF2MVFCeFBLOG5qclhUTTh5LTJUX0w3dm1wN0ZBQUxXNnl2SXF0MGlXVHhuNUtjUW1lYTZJMHMwU2dGdnVPX3NrdDQzLWd2LXJObTE4R2hXMlRNeXFkZElIYzM3aFRiOHRaemxUYndnRDJfSFk1UEJMLVhFX0xTTUJWVW5iSHMxY21HV2hzUEFxdWpGNldUaUVsc2MwMXhIaVJFczNBUWI3SnlIWWpjRkZvUDI?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "verizon-2026-10-26-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Deutsche Telekom Peoplewatch: Verizon again dips into DT talent pool for new digital chief - www.telcotitans.com",
+      "companies": [
+        "verizon",
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSmx0VEJwV3o3SXpuVE5TMERjbU85eTdmcFhsc0NDWVNIdlhqYnZHZ29pZHB2cVNSX25GQWFKZFh3UGNhQ2o5Y0VPbi1ha2tEWVBWaFRmQy1Zb01tWnpLUUFCVjdYWE5qZ3V0dk9JZHk1dE5SUG5ia3FMNXEwVllreTRSckZYTjVZNGVxMmR1cGtIaDFTOER3eFd1MDFvb1NrYURWTjZBWm1JSHVxME93S3lkd2VkUFNIREJKbGRMY0xRRGJEaXNyVjl3aTBicnFxYXBSekx4X1lfMzVpUHh0djZQeU9EcFRo?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-26-010",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Simba Telecom's license in jeopardy over spectrum misuse allegations",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "spectrum_auction",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.lightreading.com/regulatory-politics/simba-telecom-s-license-in-jeopardy-over-spectrum-misuse-allegations"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.03,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "spectrum_auction": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.5,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 18,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "nokia",
+        "count": 2
+      },
+      {
+        "id": "ceragon",
+        "count": 1
+      },
+      {
+        "id": "verizon",
+        "count": 1
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      },
+      {
+        "id": "softbank",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "spectrum_auction",
+        "count": 2
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 307,
+    "dup_title": 188,
+    "too_old": 78,
+    "gate1_blocked": 4,
+    "gate2_blocked": 8,
+    "passed": 29,
+    "pass_rate": "24.4%",
+    "gate2_block_rate": "6.7%",
+    "gate2_samples": [
+      "Deutsche Telekom Taps AudioCodes for Voice AI Service - Channel Insider",
+      "vCluster Automates Private AI Cloud Services on Deutsche Telekom's Industrial AI Cloud With NVIDIA D",
+      "Deutsche Telekom taps Nvidia and vCluster Labs for sovereign AI cloud push - SDxCentral",
+      "Deutsche Telekom : Consensus Q3 2026 zum - MarketScreener",
+      "Deutsche Telekom AG (DTEA.HA) cash flow - Yahoo Finance UK"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為諾基亞、Ceragon、Verizon相關動態：「American Tower earnings ahead: Can tower demand offset EP...」。主要關注主題為產業通用、法說會、頻譜拍賣，市場情緒中性。",
+    "signals": [
+      {
+        "text": "American Tower earnings ahead: Can tower demand offset EPS slide? By Investin...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "SBA Communications (SBAC) Expected to Release Earnings on Monday - MarketBeat（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T12:54:30.078721Z",
+  "updated_at": "2026-10-26T14:43:23.479498Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-07-31",
   "companies": [
     {
@@ -24,17 +24,17 @@
       "name": "AT&T",
       "ticker": "T",
       "currency": "USD",
-      "ar": 8521000000,
-      "ar_prev": 8335000000,
-      "ar_qoq": "+2%",
+      "ar": 7992000000,
+      "ar_prev": 8521000000,
+      "ar_qoq": "-6%",
       "ar_period": "QoQ",
-      "inventory": 2368000000,
-      "inv_prev": 2451000000,
-      "inv_qoq": "-3%",
+      "inventory": 2893000000,
+      "inv_prev": 2368000000,
+      "inv_qoq": "+22%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2026-06-30"
+      "alert": true,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "calix",
@@ -194,17 +194,17 @@
       "name": "諾基亞",
       "ticker": "NOK",
       "currency": "USD",
-      "ar": 4432000000,
-      "ar_prev": 4562000000,
-      "ar_qoq": "-3%",
+      "ar": 4701000000,
+      "ar_prev": 4432000000,
+      "ar_qoq": "+6%",
       "ar_period": "QoQ",
-      "inventory": 2743000000,
-      "inv_prev": 2381000000,
-      "inv_qoq": "+15%",
+      "inventory": 2880000000,
+      "inv_prev": 2743000000,
+      "inv_qoq": "+5%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "sba_comm",

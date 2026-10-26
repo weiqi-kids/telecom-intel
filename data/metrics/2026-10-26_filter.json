@@ -1,0 +1,16 @@
+{
+  "total_raw": 307,
+  "dup_title": 188,
+  "no_date": 0,
+  "too_old": 78,
+  "gate1_fail": 4,
+  "gate2_fail": 8,
+  "passed": 29,
+  "gate2_samples": [
+    "Deutsche Telekom Taps AudioCodes for Voice AI Service - Channel Insider",
+    "vCluster Automates Private AI Cloud Services on Deutsche Telekom's Industrial AI Cloud With NVIDIA D",
+    "Deutsche Telekom taps Nvidia and vCluster Labs for sovereign AI cloud push - SDxCentral",
+    "Deutsche Telekom : Consensus Q3 2026 zum - MarketScreener",
+    "Deutsche Telekom AG (DTEA.HA) cash flow - Yahoo Finance UK"
+  ]
+}
