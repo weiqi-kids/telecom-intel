@@ -1,0 +1,16 @@
+{
+  "total_raw": 304,
+  "dup_title": 161,
+  "no_date": 0,
+  "too_old": 77,
+  "gate1_fail": 3,
+  "gate2_fail": 10,
+  "passed": 53,
+  "gate2_samples": [
+    "Ciena Corporation Estimates – NYSE:CIEN - TradingView",
+    "When Should You Buy Ciena Corporation (NYSE:CIEN)? - Moomoo",
+    "Telekom invests in Tandem Health: AI-powered medical assistant eases the burden on healthcare profes",
+    "Deutsche Telekom and LG Back A.I. Medical Assistant Tandem Health - trendingtopics.eu",
+    "Deutsche Telekom AG: Release of a capital market information - MarketScreener"
+  ]
+}

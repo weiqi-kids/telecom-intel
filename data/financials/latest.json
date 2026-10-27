@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T14:43:23.479498Z",
+  "updated_at": "2026-10-27T13:50:12.325888Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-07-31",
   "companies": [
     {
@@ -296,17 +296,17 @@
       "name": "中興",
       "ticker": "000063.SZ",
       "currency": "CNY",
-      "ar": 30619910000,
-      "ar_prev": 24848541000,
-      "ar_qoq": "+23%",
+      "ar": 24176721000,
+      "ar_prev": 30619910000,
+      "ar_qoq": "-21%",
       "ar_period": "QoQ",
-      "inventory": 54645606000,
-      "inv_prev": 51959114000,
-      "inv_qoq": "+5%",
+      "inventory": 73634815000,
+      "inv_prev": 54645606000,
+      "inv_qoq": "+35%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": true,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     }
   ]
 }
