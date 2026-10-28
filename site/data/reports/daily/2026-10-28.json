@@ -1,0 +1,217 @@
+{
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T14:45:23.700511Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_tower-2026-10-28-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Tower (AMT) Stock Price Dips As Q3 Results Lift Guidance - Yahoo Finance",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONTRYcVc1eTE4LVA0dUE3Z0FPNE9yczRnV0JlQlQ1UE9veFYtVlRTSTk1UTctblFxSlVGc0tWMHpwMklEbHNLQmZobXdPTi1xdUh4eXFwc1pROUJiTjUyWWtaOGpsSk82NExwOFpmckdsUlhfQmVvUEFoZFZpYVhaWEhPZkZGWDktaXFnOE1ZeWdnRmV4SDJDRWR4Yw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-28-019",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Telecom news: Orange, AmpliTech, HKBN Capex - TelecomLead",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPalpWSWN0SVhGdlB5X1d4eV9nNWk0TDJ1ZzgzdGFxcE9sSC01bDVNZVFzR3RaejlDd0F0bWlTY3NWVlBmQjBIdm5Hd00xX1hLLVBmTlpqQk5WaEUxM3huTEhESVVTM3hpVExlX1cxYVpzUHJYd2lTY0dnV1I2c29rLUlB0gGKAUFVX3lxTE4tRVdGSEh4eTJXOVRKaGMyVE4wSloxTmNqUDh4eU9JY2lyZHZ5dkRJMnJaMnl3SVN2cFpkUUZULTJSSmFSMXY1VGRDYzc2bW5SZmk0NVMyeEM3dGtNaGp6ZWtmbkh3SEU5RVVuN0s2ajlvSS1ROHJsN2haVmlQNHRVcmVWaXBucnhZZw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nokia-2026-10-28-017",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "VMO2 judges Ericsson vs. Nokia on AI-RAN",
+      "companies": [
+        "nokia",
+        "ericsson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/5g/vmo2-judges-ericsson-vs-nokia-on-ai-ran"
+    },
+    {
+      "rank": 4,
+      "event_id": "nokia-2026-10-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is AI Demand Really Rewriting the Growth Story at Nokia (NYSE:NOK)? - Kalkine Media",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbENVZjJaYk10YUd6SUVwT3BrVEZNWklqSkhzVjA4eDgzM0NjMXMxWFdSeTZJYUtzM2tMT25XR0c5WGRuaGs5RGNiZXhuM3Jod0VqdjhSZ0lPYWtMNzZFb0dZczh6YjhGUXN1WW1SSVJRQWtVZnRldENCZkw0cldYQTlaNWxkS0FTb2J4YVhUTjFnbE5MeWk4dlp1ZzV5d21TWWp1UFpPZw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ciena-2026-10-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Corporation $CIEN Stock: M & L Capital Management Ltd Increases Position - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdE5hZXNWcUZvSXJZdW1fLVNlVzFvU1dUQ3dERG50dkx2VkFBM1YtbGhzbUhKNzNXTWtTTFdua01tczJEM0JqZ01idUZMcU9ZdlhTWU1yZ3UwOVR6SncyenJIaWZQc3VNeFd2OGpHSVhzdGM0dVBIbndJdGR4aW1WemZSSm9FaVM3b1A3MGtybEtjSkJ1RFNkQVYzd2g3eGpPZE03bTljaS0zQnJGVnNwN19nMFJDcjRqM0NVTnFyc0lwUVkzV3dBdDZnT081WEV6?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 17,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 22,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 18,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "american_tower",
+        "count": 7
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 5
+      },
+      {
+        "id": "nokia",
+        "count": 2
+      },
+      {
+        "id": "ciena",
+        "count": 1
+      },
+      {
+        "id": "softbank",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 17
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 303,
+    "dup_title": 143,
+    "too_old": 100,
+    "gate1_blocked": 8,
+    "gate2_blocked": 6,
+    "passed": 46,
+    "pass_rate": "28.7%",
+    "gate2_block_rate": "3.8%",
+    "gate2_samples": [
+      "Ciena Corporation (CIEN) - Milk Road",
+      "Telekom invests in Tandem Health: AI-powered medical assistant eases the burden on healthcare profes",
+      "Deutsche Telekom and LG Back A.I. Medical Assistant Tandem Health - trendingtopics.eu",
+      "Deutsche Telekom AG: Release of a capital market information - MarketScreener",
+      "SBA Communications (SBAC) Rallies As Undervalued Narrative Draws Fresh Attention - Simply Wall Stree"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 22 則事件，焦點為AMT、德國電信、諾基亞相關動態：「American Tower (AMT) Stock Price Dips As Q3 Results Lift ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "American Tower (AMT) Stock Price Dips As Q3 Results Lift Guidance - Yahoo Fin...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Telecom news: Orange, AmpliTech, HKBN Capex - TelecomLead（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

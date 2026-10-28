@@ -1,0 +1,16 @@
+{
+  "total_raw": 303,
+  "dup_title": 143,
+  "no_date": 0,
+  "too_old": 100,
+  "gate1_fail": 8,
+  "gate2_fail": 6,
+  "passed": 46,
+  "gate2_samples": [
+    "Ciena Corporation (CIEN) - Milk Road",
+    "Telekom invests in Tandem Health: AI-powered medical assistant eases the burden on healthcare profes",
+    "Deutsche Telekom and LG Back A.I. Medical Assistant Tandem Health - trendingtopics.eu",
+    "Deutsche Telekom AG: Release of a capital market information - MarketScreener",
+    "SBA Communications (SBAC) Rallies As Undervalued Narrative Draws Fresh Attention - Simply Wall Stree"
+  ]
+}
