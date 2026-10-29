@@ -1,0 +1,16 @@
+{
+  "total_raw": 308,
+  "dup_title": 158,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 8,
+  "gate2_fail": 5,
+  "passed": 56,
+  "gate2_samples": [
+    "Telekom invests in Tandem Health: AI-powered medical assistant eases the burden on healthcare profes",
+    "SBA Communications Corp | 144: Notice of proposed sale of securities pursuant to Rule 144 - Moomoo",
+    "Equinix Says Data-Project Barriers Could Boost Its Pricing Power - Bloomberg.com",
+    "Equinix: Construction Headwinds Boost Data-Center Value - Briefs Finance",
+    "Deutsche Telekom tests automated vehicle logistics with Volkswagen"
+  ]
+}

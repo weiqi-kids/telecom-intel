@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T14:45:19.084929Z",
+  "updated_at": "2026-10-29T14:51:10.893944Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-07-31",
   "companies": [
     {
@@ -7,9 +7,9 @@
       "name": "美國電塔",
       "ticker": "AMT",
       "currency": "USD",
-      "ar": 650900000,
-      "ar_prev": 718900000,
-      "ar_qoq": "-9%",
+      "ar": 622200000,
+      "ar_prev": 650900000,
+      "ar_qoq": "-4%",
       "ar_period": "QoQ",
       "inventory": null,
       "inv_prev": null,
@@ -17,7 +17,7 @@
       "inv_period": "QoQ",
       "inventory_applicable": false,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "att",
