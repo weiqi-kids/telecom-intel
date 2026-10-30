@@ -1,0 +1,16 @@
+{
+  "total_raw": 304,
+  "dup_title": 154,
+  "no_date": 0,
+  "too_old": 79,
+  "gate1_fail": 6,
+  "gate2_fail": 8,
+  "passed": 57,
+  "gate2_samples": [
+    "Ciena Corporation (CIEN) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "Telekom invests in Tandem Health: AI-powered medical assistant eases the burden on healthcare profes",
+    "Deutsche Telekom Backs Tandem's European Health AI Ambitions - Healthcare Digital",
+    "Deutsche Telekom and LG Back A.I. Medical Assistant Tandem Health - trendingtopics.eu",
+    "SBA Communications (SBAC) Rallies As Undervalued Narrative Draws Fresh Attention - Simply Wall St"
+  ]
+}

@@ -1,0 +1,245 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T14:44:33.322175Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "equinix-2026-10-30-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Equinix raises 2026 guidance on record bookings, capacity expansion - ET Datacenters",
+      "companies": [
+        "equinix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPekNWdnFPUXAwN0FTWnM4UnpMd3ZRTFliR05MVV9ZaDVUQlUtOE9RXzRvdTdzdzZCSUoyc05GRVVwWnN1SzlySHZkN0dOaUJVUHB0Zy1sSTZZSGJMNEVNRERPUUpBWDBCV3VqR3pjSWpYVXVUb0VqSGlyR2ZaNFZhb21aaF9jSEp1b2lQbTlQVW1jQndCUkc1SGpRS0plTHRKYjMtX0ZmYnAtaHo1RVR5YWtNYTdsTEJXaDNwRFRmRWgtZ2lGWlNXa0dLSHd1OUh1ZG8yUERkWEpldVY3WHA0Mkdn0gHmAUFVX3lxTE5leldlNFdsd3NoOW01QjVrUVczNVp3WWVJVlByb2FRR1FOTWd3SGgyTVp6dXFYU1RWeWlJckR1cDQ1Sm5ZLVpKLVVYNXRLM29xRG1uQThEWWVZd0lJQkt6YWFMMkd1UFpVeTF2bFdrOU8tdkxGbDNnSW9vVUZQSXJGY19NTUFwTG9rbGJuT0xaWnFENU1MZVZVTER1YzhrWWt2MHFqd0NidTV0TTRnMnhERHNmcDNwNjE2U0d5YXZwZ2t1Q1V2Z3hoVV9aeFpZcEtFdnViejZEN1R5Rmc2eHc4eHAzXzB3?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-10-30-008",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "News | How AI data center firms are trying to keep boosting revenue - CoStar",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOGp3X01seUJhNmNybzFJemtfb2Q3VUp4d1E1eW15c0NUWVBzdFl0SkdTZmVTSjJneXB1Tk4zQU1la2tBeDUySndfQnU5NFY4Y0ppMmxDekZldklCZURLZGpzS0dEUGF2bjRPNjZzN3E0MUo3VVJDM1ByMk02UHJCbnJwRFk4THlrcmNHajNZdWNJRXhYSjVPN1E3Y1cyVmlXSEVj?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tmobile-2026-10-30-002",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Deutsche Telekom halts mega-merger plans with T-Mobile - report - Data Center Dynamics",
+      "companies": [
+        "tmobile",
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdDdNa1hiOFJkSTE1dkQ5cFVMSUZQOGpLNGxESjBVR1hSXzNoY0RLS1JQXzF0YUlsN09ocWRhbHZUVms1ZGQzRXlPZmJmb0JUeUxNeXg3Y3hJWDF4THY5VG1ma19HY214bkh2YjZEbFVhTWpxcWRCNHM3d0tjQS04RXBtQThXeE4wYTBfSFI3aGJoR1R0X2N3WG92ZmlRSlB4UzRNWUVZN0o?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ciena-2026-10-30-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Park Avenue Securities LLC Sells 3,911 Shares of Ciena Corporation $CIEN - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaFFEa1RTQTFveFVuUkxPUlc5WjlhZ1hnb2tkdmFNaWk3WlFja3N2X1o2Vmdla3JXVF9aOTNXbklIR19SVHRGY2hSWHpxTS1QeHB5Y2JVSnB2RWJjc2w3blZsczloT3o2LVdIck9yNktDMFY4cXBDUlBqbzQxS09kVF95YnpQWHV2Qy1KMzMxWlpGN3Nid0lrLUhKd0JHWkQ4ejY1NUJ3ak1za2VWMWkweDRZcXVNcVowOWw3VllEazlIM1BSRHlEa3FTcw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-10-30-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "ECB picks digital euro network service providers - Finextra Research",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNXZFUkR4bGFyMHBjcHc4YUxJYWZqNnpVbmtqU08yVjUyU0wySWJZRjZmbG1LQTNNeXNtY3ViS3JXMndGX0MtWlBGaWQ4b29RVTVDZDk3VlgwYldFRTdWb2Y4d1l4bzUwMS02TEx6Rkp3LXhjLUVLcmU2MVFNbTZnSHR6R0FxbV9hOUhCdnN0Rk95enY3U0E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 20,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.12,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "arpu": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 17,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "equinix",
+        "count": 3
+      },
+      {
+        "id": "american_tower",
+        "count": 2
+      },
+      {
+        "id": "ciena",
+        "count": 1
+      },
+      {
+        "id": "tmobile",
+        "count": 1
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 20
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      },
+      {
+        "id": "arpu",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 304,
+    "dup_title": 154,
+    "too_old": 79,
+    "gate1_blocked": 6,
+    "gate2_blocked": 8,
+    "passed": 57,
+    "pass_rate": "38.0%",
+    "gate2_block_rate": "5.3%",
+    "gate2_samples": [
+      "Ciena Corporation (CIEN) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+      "Telekom invests in Tandem Health: AI-powered medical assistant eases the burden on healthcare profes",
+      "Deutsche Telekom Backs Tandem's European Health AI Ambitions - Healthcare Digital",
+      "Deutsche Telekom and LG Back A.I. Medical Assistant Tandem Health - trendingtopics.eu",
+      "SBA Communications (SBAC) Rallies As Undervalued Narrative Draws Fresh Attention - Simply Wall St"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為Equinix、AMT、Ciena相關動態：「Equinix raises 2026 guidance on record bookings, capacity...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Equinix raises 2026 guidance on record bookings, capacity expansion - ET Data...（法說會）",
+        "level": "red"
+      },
+      {
+        "text": "News | How AI data center firms are trying to keep boosting revenue - CoStar（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
