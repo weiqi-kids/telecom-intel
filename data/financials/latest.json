@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-30T14:44:28.957371Z",
+  "updated_at": "2026-10-31T14:07:08.976832Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-07-31",
   "companies": [
     {
@@ -279,17 +279,17 @@
       "name": "威訊",
       "ticker": "VZ",
       "currency": "USD",
-      "ar": 26486000000,
-      "ar_prev": 26655000000,
-      "ar_qoq": "-1%",
+      "ar": 26365000000,
+      "ar_prev": 26486000000,
+      "ar_qoq": "-0%",
       "ar_period": "QoQ",
-      "inventory": 2036000000,
-      "inv_prev": 2320000000,
-      "inv_qoq": "-12%",
+      "inventory": 2775000000,
+      "inv_prev": 2036000000,
+      "inv_qoq": "+36%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2026-06-30"
+      "alert": true,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "zte",

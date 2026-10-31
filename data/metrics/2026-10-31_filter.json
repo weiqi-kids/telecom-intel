@@ -1,0 +1,16 @@
+{
+  "total_raw": 303,
+  "dup_title": 183,
+  "no_date": 0,
+  "too_old": 73,
+  "gate1_fail": 8,
+  "gate2_fail": 11,
+  "passed": 28,
+  "gate2_samples": [
+    "Ciena Corporation (CIEN) Seasonal returns chart - Yahoo Finance UK",
+    "Ciena Corporation (CIEN) - Milk Road",
+    "Ciena Corporation: A support level that should be taken advantage of - www.marketscreener.com",
+    "Ciena Corporation (CIE1.F) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada",
+    "Ciena Corporation (CIEN) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada"
+  ]
+}
