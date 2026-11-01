@@ -1,0 +1,16 @@
+{
+  "total_raw": 307,
+  "dup_title": 195,
+  "no_date": 0,
+  "too_old": 79,
+  "gate1_fail": 7,
+  "gate2_fail": 14,
+  "passed": 12,
+  "gate2_samples": [
+    "Nokia Corporation (NOKIA-SEK.ST) Seasonal returns chart - Yahoo Finance UK",
+    "Ciena Corporation (CIEN) Seasonal returns chart - Yahoo Finance UK",
+    "Ciena Corporation (CIEN) - Milk Road",
+    "Ciena Corporation: A support level that should be taken advantage of - www.marketscreener.com",
+    "What Does Ciena's (NYSE:CIEN) Latest Release Mean? - Kalkine Media"
+  ]
+}
