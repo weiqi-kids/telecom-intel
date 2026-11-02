@@ -1,0 +1,245 @@
+{
+  "date": "2026-11-02",
+  "generated_at": "2026-11-02T17:37:56.998253Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_tower-2026-11-02-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "American Tower (AMT) International Revenue in Focus: Trends and Expectations - Yahoo Finance Australia",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTjBtZm4yNmNkU1BuaTRfYmtqS21FSjU2a2tZTGJrcW5iOHdnbGNaSmVKcUZQRkFoRDBhTDBPVEdCS2pCM1FPamRHZFVPc1JiM2xhanc5amhFVXFpOEFYNkx1UGZEUm1NTUJwb3lzOS1SZGVMd2ZIVDBVV0dHZVpRYWYweV9JQkdkdkdCVUtuSlpVc1E?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sba_comm-2026-11-02-006",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SBA Communications faces earnings test amid industry shifts By Investing.com - Investing.com India",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1d5djRLY3hQbTJoUVpVZXMzWjZYOVFaQVhMTm51cmRkSE1aX3E3TTZ2WWk2RDAtOUZiZFkteVVQRTdxY3I2STVWaVQwZXRUNm8ybVdUaVQwQUt4RW5uZWlyZUF5MVZVMlpwa3UtYi1wSFh0S2FMTXhEMXhnRzRudmRCM1dCU0V3Rmc3UVdsREtTb2tlTjE0eTZzZG5kYzRidmMwZWpJcWVnSElFMnZMNFI4VDEzSlJmR1lOZQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-02-011",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Comcast state-level layoff warnings start to roll in",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.lightreading.com/cable-technology/comcast-state-level-layoff-warnings-start-to-roll-in"
+    },
+    {
+      "rank": 4,
+      "event_id": "tmobile-2026-11-02-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Weekly Recap: Merger pause with T-Mobile US and buyback up to 38.1M - TradingView",
+      "companies": [
+        "tmobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZmdzREJqN1UtU2tVNWdtR002Mm5aeFhTMEc3bF94M3JhRjhKQ0JGWGJRakpqdUxORzlzckpOYUR0N3BBRU02TWE3VjcwUnVBNE1wZWZxSDlCUUhud095aGVQM3UzQmFxRTBQOE1qbnZmVXFLYVZNbmRUUTFpSDJhN0g5RUg5eVRlY29DNWJBVE1NNEZRaXFNenlEWWROZFdkMmlGdVExQ3JUS0ZaQVViWHFFVll5aTk5MV9BSzFqaEo1NThGY2FN?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "american_tower-2026-11-02-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "American Tower sees four catalysts extending wireless investment cycle - RCR Wireless News",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVS1HMzROS2lxUUxWazVfeDVMbE05eEI2SE5jUDhmQnotWVZmblhUQThHWmd0YzBIVWJ6cXF3U3NwNnpEc1F0RWk4YUQ2MFlWT3RJSGdrZDZ1MDZNcmIyaXExM3VrUVB0TWJHcEhxSkt2NTE1Z2M4VnEtbEZWak5jaWVFeEt0YjR2Zmd2c01wMA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "5g_deployment": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 26,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 22,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "american_tower",
+        "count": 4
+      },
+      {
+        "id": "tmobile",
+        "count": 2
+      },
+      {
+        "id": "ericsson",
+        "count": 2
+      },
+      {
+        "id": "sba_comm",
+        "count": 1
+      },
+      {
+        "id": "nokia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 25
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      },
+      {
+        "id": "5g_deployment",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 307,
+    "dup_title": 176,
+    "too_old": 81,
+    "gate1_blocked": 7,
+    "gate2_blocked": 10,
+    "passed": 33,
+    "pass_rate": "25.2%",
+    "gate2_block_rate": "7.6%",
+    "gate2_samples": [
+      "Nokia Corporation (NOKIA-SEK.ST) Seasonal returns chart - Yahoo Finance UK",
+      "Nokia Corporation (NOKBF) Seasonal returns chart - Yahoo Finance UK",
+      "Deutsche Telekom Christmas campaign: Take time to connect - Deutsche Telekom",
+      "Deutsche Telekom AG: Release of a capital market information - MarketScreener",
+      "Deutsche Telekom Backs Tandem's European Health AI Ambitions - Healthcare Digital"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 26 則事件，焦點為AMT、T-Mobile、愛立信相關動態：「American Tower (AMT) International Revenue in Focus: Tren...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "American Tower (AMT) International Revenue in Focus: Trends and Expectations ...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "SBA Communications faces earnings test amid industry shifts By Investing.com ...（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

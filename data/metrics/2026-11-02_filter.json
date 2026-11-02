@@ -1,0 +1,16 @@
+{
+  "total_raw": 307,
+  "dup_title": 176,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 7,
+  "gate2_fail": 10,
+  "passed": 33,
+  "gate2_samples": [
+    "Nokia Corporation (NOKIA-SEK.ST) Seasonal returns chart - Yahoo Finance UK",
+    "Nokia Corporation (NOKBF) Seasonal returns chart - Yahoo Finance UK",
+    "Deutsche Telekom Christmas campaign: Take time to connect - Deutsche Telekom",
+    "Deutsche Telekom AG: Release of a capital market information - MarketScreener",
+    "Deutsche Telekom Backs Tandem's European Health AI Ambitions - Healthcare Digital"
+  ]
+}
