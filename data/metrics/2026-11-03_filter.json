@@ -1,0 +1,16 @@
+{
+  "total_raw": 308,
+  "dup_title": 147,
+  "no_date": 0,
+  "too_old": 77,
+  "gate1_fail": 6,
+  "gate2_fail": 18,
+  "passed": 60,
+  "gate2_samples": [
+    "Nokia Is Not Gone, AI Business Soars and Partners with Indosat, What Is the Fate of Its Legendary Ph",
+    "CommScope Holding Co Inc (CM9.SG) Seasonal returns chart - Yahoo Finance UK",
+    "$CIEN | Ciena Corporation — down 10.7% today X user @anyuser - KuCoin",
+    "Ciena Corporation (CIEN) - Milk Road",
+    "Ciena Corporation (1CIEN.MI) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada"
+  ]
+}

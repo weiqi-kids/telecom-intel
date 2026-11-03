@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-03",
+  "total_events": 46,
+  "by_company": {
+    "ceragon": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "ciena": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "deutsche_telekom": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    },
+    "tmobile": {
+      "count": 2,
+      "sentiment_avg": -0.5
+    },
+    "softbank": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "american_tower": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "sba_comm": {
+      "count": 11,
+      "sentiment_avg": 0.18
+    },
+    "equinix": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "nokia": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "ericsson": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "zte": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "5g_deployment": {
+      "count": 1,
+      "sentiment_avg": 0.5
+    },
+    "industry_general": {
+      "count": 35,
+      "sentiment_avg": 0.09
+    },
+    "earnings": {
+      "count": 6,
+      "sentiment_avg": 0.08
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

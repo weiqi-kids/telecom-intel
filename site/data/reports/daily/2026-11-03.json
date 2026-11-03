@@ -1,0 +1,237 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T15:41:00.130011Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "deutsche_telekom-2026-11-03-008",
+      "importance_score": 0.85,
+      "importance_reasons": [
+        "多公司提及",
+        "情緒極端"
+      ],
+      "title": "Deutsche Telekom CEO Declines To Comment on T-Mobile US Merger Report - TradingView",
+      "companies": [
+        "deutsche_telekom",
+        "tmobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV1JHb3oyNTlpbEZ5cmFSU1RWT2JxdVFzYVhfZk9jRm1haUJ6Sk5PMm5PZWRzQWRXeUtDU1dpWnBTTjYtR2tpaTNtLUFaejJFWHFVdGFEYXVPUi1kOEVGUmZrYmNHRXFiUEk5eGNGbEZCTi0xTGIzZHhCZkoybW4yVWc1VWdySlhXNTFHekUtS3llU215RERlUDRVaC1rWUswVDBnR0c0M2w1WEMyQlRNcGpkSGdlXzhkaThOQ2V6S0w5dFRudTd4X3czS09SUlA1SUdHcEFR?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "sba_comm-2026-11-03-015",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SBA Communications: Q3 Earnings Snapshot - KTVB",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUGVoWXZPVmU4ZjJpOU85R0NJT21mNXdoSk5hNkcyT2hLRjRDbmZkWlg3bFhXQTE0U3JMOHBIRzlCaHBsQ0R5bkV1RVkwaEh2WHhpbXZrbWNOWDdTSmI3Z2lzbnd3SWxQWkh2eE5lbFpjVEY4MnhQN2RFSXZhNFh2WXdHai1WdkEycUJsN0FMaHVmS191TThGVGM3VWw3cF9Zd3djd0FqTVMyNW5saHk5Mld1MEJaU2VzbFFqYjhDb05nQTJJZVZTb3ZfYVc4SUtxQWI4?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "sba_comm-2026-11-03-021",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SBA Communications Raises AFFO Outlook as Third-Quarter Revenue Falls - www.tokenpost.com",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Va2ZiXzJpVmJtakNTZFBBNFExVDcyNGoxcktEMUZjZUd3V2ZabDl1Q0laRm5tNHlRZkNIa1Z5YmpjMW1qam11UjhBNHYyWUZNSTVqZnU4MG4?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "sba_comm-2026-11-03-024",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "SBA Communications Q3 Earnings Call Highlights - TradingView",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU2tPdnpBZk8zaDJkWk54Q1NjalNMTU1HNkpRdXpUZXJoRjdNUThaTUpGN3dtamhWdFJLZ2x0Wld1LTRnLWFBbk1pOXB6UUVsZGttODZVdXlVaVlkcGtiR0hlR0RfZF81ckFLbnYtejZKb00xSmd3cXNoRVNUWFlwYWpfbDlSdUZYUmFvNnRDZWxkaXZsX2dPS0gxQjhoaTNyQUU0dVFCN0VYQkU?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-03-038",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Telecom news: Bluebird Fiber, KT Stops New 3G Connections, Airtel Africa Doubles Network Capex - TelecomLead",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUjBueWgya01neXhib2xRMmhWOU4xOEU4Z0NCMzRMNTJlbDJZdEJlMXpfRHpOdHFpNFRqVndSTkNHRzdGMUF6STB5MjFvUVBGaE93SUI5Q0RGMGxVSHNYS29SMi04UWRUVkJfaHRIMWhjMmNNRmg4aTRYNldpa21JQlBHWU5yeU9ITEhpUDlhZDFOb2ZTY2pHWDFtRUN0b2FaeGRhZzN6a0lDTmZYUmVWUnNQRjAwdEZBRmNhWnE4cjQ0NUJaSXfSAc4BQVVfeXFMT1RLV1JZUjBYWlJWQmhGeVdsbk1LZW1jQ3dsdGNneE5DR2dyWXd5OEloRVdaek1wNVdPQXZXaEJ2M2xnT1lnbnNTczZLV1hVUU1CSzJ2bHZZdVMxT2FqcllkRmZqTGJkd1lDYVhNVGdMZUxaZXcwaUN2MHBNS1NNNkFfMmpiYVZ5TE4xT2prd09ocl9YX2ZOWF9DTElYMHFlX2c5TmNmamVLc3kyTEFaWnFuXzNBUjFQYV9SZG5XektRaFhRU25odnMwMDlFT2c?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "5g_deployment": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 35,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.09,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 6,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 46,
+    "sentiment_distribution": {
+      "positive": 6,
+      "neutral": 39,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "sba_comm",
+        "count": 11
+      },
+      {
+        "id": "ciena",
+        "count": 4
+      },
+      {
+        "id": "softbank",
+        "count": 4
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 2
+      },
+      {
+        "id": "tmobile",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 35
+      },
+      {
+        "id": "earnings",
+        "count": 6
+      },
+      {
+        "id": "5g_deployment",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 308,
+    "dup_title": 147,
+    "too_old": 77,
+    "gate1_blocked": 6,
+    "gate2_blocked": 18,
+    "passed": 60,
+    "pass_rate": "37.3%",
+    "gate2_block_rate": "11.2%",
+    "gate2_samples": [
+      "Nokia Is Not Gone, AI Business Soars and Partners with Indosat, What Is the Fate of Its Legendary Ph",
+      "CommScope Holding Co Inc (CM9.SG) Seasonal returns chart - Yahoo Finance UK",
+      "$CIEN | Ciena Corporation — down 10.7% today X user @anyuser - KuCoin",
+      "Ciena Corporation (CIEN) - Milk Road",
+      "Ciena Corporation (1CIEN.MI) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 46 則事件，焦點為SBA、Ciena、軟銀相關動態：「Deutsche Telekom CEO Declines To Comment on T-Mobile US M...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Deutsche Telekom CEO Declines To Comment on T-Mobile US Merger Report - Tradi...（產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "SBA Communications: Q3 Earnings Snapshot - KTVB（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
