@@ -1,0 +1,16 @@
+{
+  "total_raw": 296,
+  "dup_title": 158,
+  "no_date": 0,
+  "too_old": 69,
+  "gate1_fail": 5,
+  "gate2_fail": 12,
+  "passed": 52,
+  "gate2_samples": [
+    "Nokia Is Not Gone, AI Business Soars and Partners with Indosat, What Is the Fate of Its Legendary Ph",
+    "CommScope Holding Co Inc (CM9.SG) Seasonal returns chart - Yahoo Finance UK",
+    "Ciena Corporation (CIEN) Seasonal Returns Chart - Yahoo! Finance Canada",
+    "Deutsche Telekom brings generations closer in its Christmas campaign. “Take Time to Connect” - Roast",
+    "Deutsche Telekom Expands AI Partner Ecosystem with Sparxity Collaboration - The Fast Mode"
+  ]
+}

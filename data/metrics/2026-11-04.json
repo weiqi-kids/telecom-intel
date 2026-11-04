@@ -1,0 +1,73 @@
+{
+  "date": "2026-11-04",
+  "total_events": 29,
+  "by_company": {
+    "nokia": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "ciena": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "deutsche_telekom": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "softbank": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "crown_castle": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "american_tower": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "sba_comm": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "equinix": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "tmobile": {
+      "count": 1,
+      "sentiment_avg": -1.0
+    },
+    "ericsson": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "chunghwa": {
+      "count": 1,
+      "sentiment_avg": -0.5
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 26,
+      "sentiment_avg": -0.04
+    },
+    "earnings": {
+      "count": 5,
+      "sentiment_avg": -0.3
+    },
+    "fiber_buildout": {
+      "count": 2,
+      "sentiment_avg": 0.25
+    },
+    "arpu": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
