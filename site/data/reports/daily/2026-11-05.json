@@ -1,0 +1,260 @@
+{
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T15:59:21.322497Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ericsson-2026-11-05-034",
+      "importance_score": 1.0,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Eurobites: BT confirms outlook after steady H1, plays patriot card",
+      "companies": [
+        "ericsson",
+        "zte"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fiber_buildout",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.lightreading.com/operations/eurobites-bt-confirms-outlook-after-steady-h1-plays-patriot-card"
+    },
+    {
+      "rank": 2,
+      "event_id": "nokia-2026-11-05-035",
+      "importance_score": 0.95,
+      "importance_reasons": [
+        "多公司提及",
+        "涉及財報"
+      ],
+      "title": "Samsung suffers its worst 5G quarter but knows it can outlast rivals",
+      "companies": [
+        "nokia",
+        "ericsson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/5g/samsung-suffers-its-worst-5g-quarter-but-knows-it-can-outlast-rivals"
+    },
+    {
+      "rank": 3,
+      "event_id": "deutsche_telekom-2026-11-05-008",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "More growth, raised guidance, record dividend: Deutsche Telekom remains on course in the third quarter - Deutsche Telekom",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd2JnZnZ6cUJSZHdibXZzU0xma2JUREpSWTNDZEgxcUs1OGY3TmtpX3hCRVBNTklVbTF1WWN3WWQ2QTNiZE5HZFFheFpHNXN3d2V2eUVxNUZDazZPaVNMczdPeC1tMVF2c1pZU2NSYVBoRjZBMU1kQjdQT2pUbzljdF9UbkFvX0VXZ1daNm1tR3dwcFdGdzFZLW1qYmd2M1pYR3BSYnRJV21PeXV4TVZCeXlreVRBMTFZbW4tMw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ceragon-2026-11-05-001",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ceragon: Q3 Earnings Snapshot - kare11.com",
+      "companies": [
+        "ceragon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWVJOSTMyYkhVM1I5eTRUeWhQdkQ5U2x6TGNKeHBMVU4zMENUREhnNDRKWG5kSXZhNmlpRko0Wk9YZTBXaTZTRkFNUThHVU5oVl9BYVBCSmRrVk1sb1BiSkZ3ZGQ4QXNqZ3B0YTBpQkRJbkx4YWt3YmRocEgxNHJZMVpEQjNJNWpGbll5dmJxeVdqdjZVWm1mNml0bUQwSUFFUE9BR3RNNlVERXROT3J6X0VQdkR3N01kdS11dHM1RjZ4SU1paDIw?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ceragon-2026-11-05-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ceragon Networks Q3 2026 Earnings Call Transcript - Benzinga",
+      "companies": [
+        "ceragon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWWNmRVFFWW5FR0Z1aEtpaFdrZDlLeHY5QzQ5eFJrLVlXY1A2b0YtRDJTblY1YVVmWDZiYks2TUlwN0Nmbm1oYV9IZnVXbWtRTTNZcHNtVFBhMkUxU0FDTDBTYUlvTFJLNDRyWGdTQmd0TFZvTl9ROVE5bXBhTzhPMlA5NHBxY3lRZ2h5Um5fOW1uQUdBMUMxQXdR?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.15,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 31,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.1,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 1.0,
+      "sentiment_7d_avg": null
+    },
+    "5g_deployment": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 45,
+    "sentiment_distribution": {
+      "positive": 8,
+      "neutral": 37,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "deutsche_telekom",
+        "count": 16
+      },
+      {
+        "id": "ceragon",
+        "count": 5
+      },
+      {
+        "id": "american_tower",
+        "count": 4
+      },
+      {
+        "id": "sba_comm",
+        "count": 3
+      },
+      {
+        "id": "ericsson",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 31
+      },
+      {
+        "id": "earnings",
+        "count": 21
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      },
+      {
+        "id": "5g_deployment",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 305,
+    "dup_title": 161,
+    "too_old": 76,
+    "gate1_blocked": 4,
+    "gate2_blocked": 9,
+    "passed": 55,
+    "pass_rate": "38.2%",
+    "gate2_block_rate": "6.2%",
+    "gate2_samples": [
+      "Nokia Is Not Gone, AI Business Soars and Partners with Indosat, What Is the Fate of Its Legendary Ph",
+      "CommScope Holding Co Inc (CM9.SG) Seasonal returns chart - Yahoo Finance UK",
+      "Ciena Corporation (CIEN) Seasonal Returns Chart - Yahoo! Finance Canada",
+      "Deutsche Telekom braces for SpaceX impact in US - Light Reading",
+      "Deutsche Telekom Christmas campaign: Take time to connect - Deutsche Telekom"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 45 則事件，焦點為德國電信、Ceragon、AMT相關動態：「Eurobites: BT confirms outlook after steady H1, plays pat...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Eurobites: BT confirms outlook after steady H1, plays patriot card（光纖建設、法說會、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Samsung suffers its worst 5G quarter but knows it can outlast rivals（法說會、產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
