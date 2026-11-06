@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T15:59:16.696439Z",
+  "updated_at": "2026-11-06T15:31:14.709780Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-07-31",
   "companies": [
     {
@@ -41,17 +41,17 @@
       "name": "Calix Inc",
       "ticker": "CALX",
       "currency": "USD",
-      "ar": 136401000,
-      "ar_prev": 116772000,
-      "ar_qoq": "+17%",
+      "ar": 127482000,
+      "ar_prev": 136401000,
+      "ar_qoq": "-7%",
       "ar_period": "QoQ",
-      "inventory": 180481000,
-      "inv_prev": 154626000,
-      "inv_qoq": "+17%",
+      "inventory": 187865000,
+      "inv_prev": 180481000,
+      "inv_qoq": "+4%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "ceragon",
@@ -109,17 +109,17 @@
       "name": "皇冠城堡",
       "ticker": "CCI",
       "currency": "USD",
-      "ar": 370000000,
-      "ar_prev": 367000000,
-      "ar_qoq": "+1%",
+      "ar": 282000000,
+      "ar_prev": 370000000,
+      "ar_qoq": "-24%",
       "ar_period": "QoQ",
       "inventory": null,
       "inv_prev": null,
       "inv_qoq": "N/A",
       "inv_period": "QoQ",
       "inventory_applicable": false,
-      "alert": false,
-      "quarter_date": "2026-06-30"
+      "alert": true,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "deutsche_telekom",
