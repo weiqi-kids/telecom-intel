@@ -1,0 +1,214 @@
+{
+  "date": "2026-11-07",
+  "generated_at": "2026-11-07T14:33:14.986896Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "deutsche_telekom-2026-11-07-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Deutsche Telekom AG (DTEGF) Q3 2026 Earnings Call Highlights: Ra - GuruFocus",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ01JQzI2UldWMXIxNXM1VzlFeWJXcWJyS1JlZHVzWFpHUG84S1B2STFyU011WDktSXh6WnFvYWxuNW43UW8zcGU0NmY2SWhaQlFHajhNSU9oR1RNLWRYNG5Pa1A5cVRYYmp0c2ozQU9hYV95Mm51MDRINDg2MGpJVm1sejU3eDFfR3hQY1BldWVvRHk0NDA4VDNxUUttVnRoaDBWOHkyWHo1eXhvREFkV0tjY25aN2JoVFQ4eXJVNlozTWM1MlZMTFFqR1dFc0o5NDBFbnBrTzhIWU9MZWVjcS15djdFUQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ceragon-2026-11-07-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Wall Street Zen Upgrades Ceragon Networks (NASDAQ:CRNT) to \"Strong-Buy\" - MarketBeat",
+      "companies": [
+        "ceragon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU1NKZUZDdURKQzFPMUQ1UUdSSmJrVUlreEwtTzhqOUhXdmZUZGVxb2l6MExnNUJNNmN5R2xmMkpXejdiR1ptaHNNaG80NmFaR1hza1VhRTAxMHJzRHNWTzFZN3dCX1pUdWhheUNXelFOVTN2RkR5YkU4RENmQzRxTURldW04UWpjZldsMDg5cjdDcUM0MjlZdlQzNWtEOENwOHo1RmpOd3ZCZlBXVkFwaUQyUjBOVWdKWmRTNjJfQmpRcktvanVZaw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "tmobile-2026-11-07-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "T-Mobile’s Owner Says SpaceX Needs $200 Billion. Renting Is Cheaper - Business Model Analyst",
+      "companies": [
+        "tmobile"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRVY5aHpMWmhqbVhnNVBUR245c2pWSUdqMDdqWTBQb1JXREdtSnVVXzRZWUJTdmJ4T2pQdFdmNmRwU0U5VXQ0bVltLTNJUTZWbVRNR0ZlYUV3bU1KMVd0WUk0cmZvLV9mMkVLTm9ZVFpPclUxNHczV1NWTjVxT001QVhpSVA0X1pUV2hIUw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "softbank-2026-11-07-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SoftBank Corp stock weighs AI investment against financial discipline - ad-hoc-news.de",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS0xpRk1PZ280U3piUFpzM0RSbWUxNkl5SVBsdVk0X24tR1VOQnJLejY1LWFGVnhza1ZON3hqRkVhZHcwSmhfNHNCaW1DVGRlMG5OLURCOHJadm5JWHVJQlVwdjR6dDd2ZmdxRkNRVkFzNVlodW53eTBJQlRGa3gwMk1TV2VVcWpfVmdhZms1UEJsY2F5VjJXSzRXRjZodkJNd0lvMU9xNFE5ekhPRW91M0VpUFNNazhhWjZWaUVOT21obmJvejM4UDZUTUE?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "american_tower-2026-11-07-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "American Tower Stock And 2 AI Power Plays Worth Watching - Yahoo Finance Singapore",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5cnNIZHZKQ09CdERKbzRJbmlfZmN4WHhfbzVYNjJSQUhCMFYxWWFnNkVUSjM4UEgzZ192a25CbU91T1hILXZjSzZCUTVnRXJlTHZWX0Y4aHMwX2RKTWFDQzB6eEdQd0RhVDFlY3pMQlRrZHlSUkhVNjBjY2ZwYXM?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 9,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 9,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_tower",
+        "count": 2
+      },
+      {
+        "id": "equinix",
+        "count": 2
+      },
+      {
+        "id": "ceragon",
+        "count": 1
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      },
+      {
+        "id": "tmobile",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 7
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 305,
+    "dup_title": 190,
+    "too_old": 79,
+    "gate1_blocked": 3,
+    "gate2_blocked": 5,
+    "passed": 28,
+    "pass_rate": "24.3%",
+    "gate2_block_rate": "4.3%",
+    "gate2_samples": [
+      "Nokia Is Not Gone, AI Business Soars and Partners with Indosat, What Is the Fate of Its Legendary Ph",
+      "CommScope Holding Co Inc (CM9.DU) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+      "CommScope Holding Co Inc (CM9.SG) Seasonal returns chart - Yahoo Finance UK",
+      "Deutsche Telekom braces for SpaceX impact in US - Light Reading",
+      "Deutsche Telekom Christmas campaign: Take time to connect - Deutsche Telekom"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 9 則事件，焦點為AMT、Equinix、Ceragon相關動態：「Deutsche Telekom AG (DTEGF) Q3 2026 Earnings Call Highlig...」。主要關注主題為產業通用、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Deutsche Telekom AG (DTEGF) Q3 2026 Earnings Call Highlights: Ra - GuruFocus（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "Wall Street Zen Upgrades Ceragon Networks (NASDAQ:CRNT) to \"Strong-Buy\" - Mar...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
