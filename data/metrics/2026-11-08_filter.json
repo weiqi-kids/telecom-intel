@@ -1,0 +1,16 @@
+{
+  "total_raw": 305,
+  "dup_title": 196,
+  "no_date": 0,
+  "too_old": 81,
+  "gate1_fail": 2,
+  "gate2_fail": 7,
+  "passed": 19,
+  "gate2_samples": [
+    "Nokia Is Not Gone, AI Business Soars and Partners with Indosat, What Is the Fate of Its Legendary Ph",
+    "CommScope Holding Co Inc (CM9.DU) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+    "CommScope Holding Co Inc (CM9.SG) Seasonal returns chart - Yahoo Finance UK",
+    "Deutsche Telekom braces for SpaceX impact in US - Light Reading",
+    "Deutsche Telekom Christmas campaign: Take time to connect - Deutsche Telekom"
+  ]
+}
