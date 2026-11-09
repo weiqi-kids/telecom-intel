@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-09",
+  "generated_at": "2026-11-09T18:03:43.474776Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "softbank-2026-11-09-014",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "SoftBank Corp raises full-year outlook after record H1 revenue, operating profit - Yahoo Finance Singapore",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORFZ1czNmY0h2dXduRF9EYzFaMnVOQUFLSk91cGZ1MkVqWnZPMGpsSGo4dzItbkw3X2p5YUo1dkFKUDltUlRJWkdBcFBrQVdCeWhUUEF2V3FFYlZ2Yk9MZlc4QTh4SnpWR3V4cDFqbFZNRld4cUpTY3BYUnREdGhoaVBPYnhfNWRtdEE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "softbank-2026-11-09-017",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Earnings call transcript: SoftBank Corp. posts record H1 2026 results - Investing.com",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPemZ3OXhnQ1hvUHdkVGxzSUZKTnhRdF84YUZtNk5BdnFNZncwbzlLaEpacklqblRRNUxwSkxrQXF2NWRPVGdva3RVOUE3M1hMTkVNNVVGMTROOHNyTWlfQXR0cklUYjFXUjJUSkM1LVZGbTNfdW93Ni1vd2gwa0xheS1CcnJqYlFmSjRJakJnblJ2T21hdUROeGM5Tk1XMFNsazg1aTdkTEdSYUhSRlF6WkVNQUFobXNvSGFRMUMtdnk?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "softbank-2026-11-09-020",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "SoftBank: Record earnings and stronger guidance, led by Cloud & AI and mobile pricing - TradingView",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNTXY4Zld3elpBREM4cmNwU01Dc09JUzlvUVVlaldUQ0tLUUY2ck9INkpJb3RXRVFxVWtFMWQ3c0lEdjlTaGdSQ2kyUmpVWExmeXpBSEJCV3Boejg2QU5CYVhuOGlydE5iUFIyR1ppTVFkTTI1U1JDM1BDX2pnSWNMZE02dW1iRnhRMmlFYnptUC16ZG1BN2dCdTVER2Q3Q0lPbE1DUkJmWVRIQnJ2LWswTVZYLTFYeldJRXE4VUJLRUs5UDdBSTBPb05rRHUxRTNQT3R3ZWNJNG8xTUZuR194ZEtfLXhyNURGaTJjVzNrMTB5ZWo2QXV6bzhMekg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "softbank-2026-11-09-023",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "SoftBank: Record H1 revenue and operating income drove higher FY2027 guidance amid accelerating AI investment - TradingView",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPX2pVbFBtUlN3X1U3UWtOMGZyN2hraVl5R0pBWXd1REREMGk5akV3dEVaNmRqaUVkYThPazNFU2JXM3hvczFTZk1QNGplOGgxc3l5c1gxSnJKUVplWmdFaDJDMFdhMldOaVB6a1V5aFlrVE5aaFdNeGE5c3N6ZFljNTN6amVMV0Y0TjZCQllIeEx6R1lYU3R0LWJXcW5hUUcwSTVHWkpWcVprTFV1YmdTMzdHbGpXcE14QUMzdTZDSW9GRmctWXdpeFpkVkxkZU5zVzV6My1BdllSUE5ib2xzLVE4V2F3YzRDTmgtS1pqMmtXNFZYRl85WC1WR2ZkMWhrY0xKWnVhN0FBLV9pcWNVLXVvMVgxaTJ4Ym1B?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "softbank-2026-11-09-024",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "SoftBank: Record H1 revenue and operating income; FY2027 guidance raised on broad growth - TradingView",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPQkp0MmJ2OU1ZMFhWaFpPUjNybzNaSzAycWJBQzFGRzBKOFJVUjBqTEJqREZYTFROWHRmeGFHMlBCcXhIeFJfR251NzBQSHBmWGh4REdFcGRsd190SFZfb2t3WDRuXzRybVNKc0NFZlNRT3BJLWRHXzVTSWlLY0g5N0x5eTllSVI3dTdFZ2RCMHJxdU9ZbUExNWJhR003ZEtlZmFhSmM0WW13VDN1RkdOdXlTRzN2QlN0QmZwRkYzSTRVc2JDX1FmYWt4amxFOHd2Z0FzR0hVcnZ0Qzl3ZTlqUERWYUItMmtLOURfZHpWaVNrbDJvUk5fbmRnQXpCdw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 39,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 11,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.52,
+      "sentiment_7d_avg": null
+    },
+    "spectrum_auction": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 56,
+    "sentiment_distribution": {
+      "positive": 18,
+      "neutral": 37,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "softbank",
+        "count": 17
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 9
+      },
+      {
+        "id": "american_tower",
+        "count": 6
+      },
+      {
+        "id": "sba_comm",
+        "count": 4
+      },
+      {
+        "id": "equinix",
+        "count": 3
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 39
+      },
+      {
+        "id": "earnings",
+        "count": 11
+      },
+      {
+        "id": "spectrum_auction",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 314,
+    "dup_title": 164,
+    "too_old": 74,
+    "gate1_blocked": 2,
+    "gate2_blocked": 7,
+    "passed": 67,
+    "pass_rate": "44.7%",
+    "gate2_block_rate": "4.7%",
+    "gate2_samples": [
+      "CommScope Holding Co Inc (CM9.DU) Seasonal returns chart - Yahoo Finance UK",
+      "CommScope Holding Co Inc (CM9.DU) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+      "CommScope Holding Co Inc (CM9.SG) Seasonal returns chart - Yahoo Finance UK",
+      "Deutsche Telekom braces for SpaceX impact in US - Light Reading",
+      "Deutsche Telekom AG: Release of a capital market information - MarketScreener"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 56 則事件，焦點為軟銀、德國電信、AMT相關動態：「SoftBank Corp raises full-year outlook after record H1 re...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "SoftBank Corp raises full-year outlook after record H1 revenue, operating pro...（法說會、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Earnings call transcript: SoftBank Corp. posts record H1 2026 results - Inves...（法說會、產業通用）",
+        "level": "red"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

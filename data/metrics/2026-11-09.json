@@ -1,0 +1,57 @@
+{
+  "date": "2026-11-09",
+  "total_events": 56,
+  "by_company": {
+    "nokia": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "deutsche_telekom": {
+      "count": 9,
+      "sentiment_avg": 0.39
+    },
+    "softbank": {
+      "count": 17,
+      "sentiment_avg": 0.51
+    },
+    "american_tower": {
+      "count": 6,
+      "sentiment_avg": 0.0
+    },
+    "sba_comm": {
+      "count": 4,
+      "sentiment_avg": 0.0
+    },
+    "equinix": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "verizon": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "chunghwa": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 39,
+      "sentiment_avg": 0.17
+    },
+    "earnings": {
+      "count": 11,
+      "sentiment_avg": 0.52
+    },
+    "spectrum_auction": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}
