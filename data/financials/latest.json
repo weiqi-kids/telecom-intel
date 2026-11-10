@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T18:03:38.341888Z",
+  "updated_at": "2026-11-10T15:59:20.488213Z",
   "quarter": "2026-03-31, 2026-06-30, 2026-07-31",
   "companies": [
     {
@@ -75,17 +75,17 @@
       "name": "中華電",
       "ticker": "2412.TW",
       "currency": "TWD",
-      "ar": 25915124000,
-      "ar_prev": 29146345000,
-      "ar_qoq": "-11%",
+      "ar": 31532159000,
+      "ar_prev": 25915124000,
+      "ar_qoq": "+22%",
       "ar_period": "QoQ",
-      "inventory": 20255186000,
-      "inv_prev": 17534330000,
-      "inv_qoq": "+16%",
+      "inventory": 20467156000,
+      "inv_prev": 20255186000,
+      "inv_qoq": "+1%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2026-06-30"
+      "alert": true,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "ciena",
@@ -211,9 +211,9 @@
       "name": "SBA Communications",
       "ticker": "SBAC",
       "currency": "USD",
-      "ar": 175976000,
-      "ar_prev": 161474000,
-      "ar_qoq": "+9%",
+      "ar": 151412000,
+      "ar_prev": 175976000,
+      "ar_qoq": "-14%",
       "ar_period": "QoQ",
       "inventory": null,
       "inv_prev": null,
@@ -221,7 +221,7 @@
       "inv_period": "QoQ",
       "inventory_applicable": false,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "softbank",

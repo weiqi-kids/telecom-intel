@@ -1,0 +1,249 @@
+{
+  "date": "2026-11-10",
+  "generated_at": "2026-11-10T15:59:23.782034Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "equinix-2026-11-10-031",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "多公司提及",
+        "供應鏈上下游同時提及"
+      ],
+      "title": "Tuesday Bytes: Equinix, Boldyn, Verizon",
+      "companies": [
+        "equinix",
+        "verizon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "verizon"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaUA7NdS_uOP7l6YNRypq0wL?utm_source=follow.it"
+    },
+    {
+      "rank": 2,
+      "event_id": "sba_comm-2026-11-10-020",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Brokers Offer Predictions for SBAC Q1 Earnings - MarketBeat",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSnNiajRkZTItZnFWWFlhNVByWjZaSVdjM29XaUdkbUt3WUdKS1QxQmNpTC1WTHFaSW9ldHRMNXl5MVZGVjM0dmRkazVsNUtxTlZKd1dNWGlvOUNIMGxTWGFyWUk3OG9tRURrRHlKSFEwb0kwNW1XUnFtdTBBUmY5ZnMtRUdUTTVHenp1b0pFckhHU0lrdW02Z2VnaXROMUdJV2J5QWJtWE9zUUI1UXcw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-10-026",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "KT profit falls on slow wireless rebound",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://www.lightreading.com/finance/kt-profit-falls-on-slow-wireless-rebound"
+    },
+    {
+      "rank": 4,
+      "event_id": "softbank-2026-11-10-008",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Japanese investor SoftBank Group sinks into losses as company’s AI hopes falter - The Seattle Times",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMUFSRWFKZWJwZjl2c3FkT1lDRkJ6THp4N09aNU5MVUgzSzZ2b1RhSnByV3lRd0gxQzlhRXhVVWVXUk5oNzQzbDVuX1JwTkhCNTF2Nm1qczNNMHJDU1hGbzB1TlNZMTh6cFZPWm4tblQwVzNGM3htc09HSk5xLWtrc1ZjdzdUVi1DMTl4aXZfMzRodjByZ19IcG1pTk10Q1dzaVRzLUZLb29OZlhmc2UzLV96dUg5TDBr?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "softbank-2026-11-10-009",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "SoftBank swings to $7 billion quarterly loss amid AI concerns | Daily Sabah - Daily Sabah",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOFYtbmpZLUt3UDRlNDJTRlA4Nkt0ZV9JLW5rS2RUQXE3WWk1dXNOQVZzUUdQOXM5RngzWkJWZ2FsbFg0aVlKUTM2WF8zMG1qaTdCVGF5RlZFSnRkeFFRSVRlNWg2eFJQODh6NVNNM3gxakRuYnMzaHhULVhteG54VEkxclBfbEo3am00VFh4X3RJQm9QdGtLSnQ3V3pCTXlBR1FGR0JLUdIBrAFBVV95cUxQcEp4elYxb2tkbGdNTTBvaWhrT2Rta0ctLVFQUUdhNWpxUmQwX2tIaFlwcno1UkVlbVNCOWZTdWxUUEJnelFVc2dEOFJMVk9fWHVZUzdDSXdSdVJsQ3pwc0dmSFBSX2pVWE1oaWZqWFRZdUx0SmMwU01OSjRTbVczNHh1WWZ4c1ZXQ1daTkVRMGFzS1pwdGk1WGh6bTZjOUl2VlZJQUlLaWg1cVhG?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 27,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "spectrum_auction": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 36,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 29,
+      "negative": 5
+    },
+    "top_companies": [
+      {
+        "id": "softbank",
+        "count": 6
+      },
+      {
+        "id": "american_tower",
+        "count": 6
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 5
+      },
+      {
+        "id": "equinix",
+        "count": 5
+      },
+      {
+        "id": "ceragon",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 27
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      },
+      {
+        "id": "spectrum_auction",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 305,
+    "dup_title": 166,
+    "too_old": 78,
+    "gate1_blocked": 4,
+    "gate2_blocked": 7,
+    "passed": 50,
+    "pass_rate": "36.0%",
+    "gate2_block_rate": "5.0%",
+    "gate2_samples": [
+      "CommScope Holding Co Inc (CM9.DU) Seasonal returns chart - Yahoo Finance UK",
+      "CommScope Holding Co Inc (CM9.DU) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+      "Deutsche Telekom AG: Release of a capital market information - MarketScreener",
+      "Deutsche Telekom braces for SpaceX impact in US - Light Reading",
+      "SBA Communications Corporation (SBAC) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 36 則事件，焦點為軟銀、AMT、德國電信相關動態：「Tuesday Bytes: Equinix, Boldyn, Verizon」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Tuesday Bytes: Equinix, Boldyn, Verizon（產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Brokers Offer Predictions for SBAC Q1 Earnings - MarketBeat（法說會）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

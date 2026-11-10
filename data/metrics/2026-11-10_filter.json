@@ -1,0 +1,16 @@
+{
+  "total_raw": 305,
+  "dup_title": 166,
+  "no_date": 0,
+  "too_old": 78,
+  "gate1_fail": 4,
+  "gate2_fail": 7,
+  "passed": 50,
+  "gate2_samples": [
+    "CommScope Holding Co Inc (CM9.DU) Seasonal returns chart - Yahoo Finance UK",
+    "CommScope Holding Co Inc (CM9.DU) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+    "Deutsche Telekom AG: Release of a capital market information - MarketScreener",
+    "Deutsche Telekom braces for SpaceX impact in US - Light Reading",
+    "SBA Communications Corporation (SBAC) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada"
+  ]
+}
