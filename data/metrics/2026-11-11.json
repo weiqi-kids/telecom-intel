@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-11",
+  "total_events": 31,
+  "by_company": {
+    "nokia": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "ceragon": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "ciena": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "deutsche_telekom": {
+      "count": 3,
+      "sentiment_avg": 0.0
+    },
+    "american_tower": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "sba_comm": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "equinix": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    },
+    "tmobile": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "verizon": {
+      "count": 2,
+      "sentiment_avg": 0.0
+    }
+  },
+  "by_topic": {
+    "industry_general": {
+      "count": 29,
+      "sentiment_avg": 0.0
+    },
+    "spectrum_auction": {
+      "count": 1,
+      "sentiment_avg": 0.0
+    },
+    "earnings": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    },
+    "fiber_buildout": {
+      "count": 2,
+      "sentiment_avg": -0.25
+    }
+  },
+  "baselines_used": {
+    "companies": {},
+    "topics": {}
+  },
+  "supply_chain_activity": []
+}

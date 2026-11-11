@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10T15:59:20.488213Z",
-  "quarter": "2026-03-31, 2026-06-30, 2026-07-31",
+  "updated_at": "2026-11-11T15:44:58.170485Z",
+  "quarter": "2026-06-30, 2026-07-31, 2026-09-30",
   "companies": [
     {
       "id": "american_tower",
@@ -228,17 +228,17 @@
       "name": "軟銀",
       "ticker": "9434.T",
       "currency": "JPY",
-      "ar": 3026078000000,
-      "ar_prev": 3099845000000,
-      "ar_qoq": "-2%",
+      "ar": 3129760000000,
+      "ar_prev": 3026078000000,
+      "ar_qoq": "+3%",
       "ar_period": "QoQ",
-      "inventory": 232037000000,
-      "inv_prev": 226206000000,
-      "inv_qoq": "+3%",
+      "inventory": 271081000000,
+      "inv_prev": 232037000000,
+      "inv_qoq": "+17%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-03-31"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "taiwan_mobile",

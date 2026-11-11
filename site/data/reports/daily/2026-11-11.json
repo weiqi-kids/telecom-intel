@@ -1,0 +1,243 @@
+{
+  "date": "2026-11-11",
+  "generated_at": "2026-11-11T15:45:02.105618Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sba_comm-2026-11-11-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Equities Analysts Set Expectations for SBAC FY2026 Earnings - MarketBeat",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMVNWUHNYb1gzQUZVVjJwYXhmSzd5U1lKZWh2UVFBbWRfT3Z2U2l3YlI5bUlfeGgyY3g0cmd1dGhHZlo4LU9fUVJzTnhURTJkZGJYcEhLeHFqZERBSUxQNGs5LW51Z3R4ZGxlV1VSM0F6SHpJY0J6OUdDQUJWcGlEd1NBZGtuODZrRjk3M3pNNnFiTVF4QlN6UjN0UnB3RzA0VWdFYkNwNzBaUklIY0N0UjZHYWN6bFdtXzdYa01DQTQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-11-026",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Zain Group Revenue Rises 4% to $5.71 Billion as $501 Million Capex Drives 5G, Broadband and Digital Growth - TelecomLead",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "fiber_buildout",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOTR2QzhxY25vQm9FZ0w2ZDZRSnJBRzhmM25rMTRzMkpRUUhFblZDM0w0ZTdqZzBHVlVQSlhheDQyLTJnSjlNUWdtNkdxUVdndk91cUtKVkpFUk9xYU1IUmJucVdmRUhQdjA1ZjYtaEpWX0pDcTFQd01jYWZ5OHdEU0QzRW1LSGVHdVBOdEsza1VZNWo4cGY5cmZ3UW1QU3N3azZLczc3WldWcGdrNi0yb1FFUkMwVVJycTZWRzdZcFJ0Q0xsMDlkLVlqRk9wMnY0YlHSAdoBQVVfeXFMUGhnMnFPR3poTmIzY1FGRkFHYWljNkNHME9CRkxPY2lfbUFQUXlWTjZucjhPNndsS2M4dHNTY1BrTzhKTXAzd3dzVklkNnM3aEVUMk9DRVdVdkpiTkxlaFRoaXlPX1dFZFl4ZGdGT0dDSzVtd1JNcGV5VmR2Rm44NGs2eHNzVE9qZFJ3cGdSZVBmclhmTjc3eVBoTThhOXVRNG5qbjd2US0tNHE1MklPNVR0OURpNDlGMkV0azZ6SkpFbkxWTE1jVkZyV0gxQWRXZ1l2M21WR0F5cXc?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nokia-2026-11-11-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Is Nokia (NYSE:NOK) Riding an AI Networking Wave? - Kalkine Media",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbnBTRjdUMVVtUEtueHhRMDVEUnQ1OFRFSkRyTlFUcDBGY3N2dnNWbEZmWVFYX1luaWk1RGZfUmJGUkJJWXktNnpnZU1KQnUxbk1Fd2xJRWJyVElIUXhKYTkxSHhrMDVVeDhMdXpxZ2gwcW44VnkwT0MwdXZuSlNmeHc3WTRHY0gwZVpOQU10aw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ceragon-2026-11-11-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ceragon Networks Ltd. (NASDAQ:CRNT) Stock Has Average Price Target of $3.88 - MarketBeat",
+      "companies": [
+        "ceragon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQX0tLa2h3SFZUdm9TblIyTHQ3eGxNVjBLV2ljMnFrWjJqYTFZU2xBaVRFLUdNR0s0aWc4RFpuRGpEc0dTb3JCaVZIeG5jVWlnWG5yNVlwVE9sUjFHTl9NZVZEN0UycTZqRjFacWMtNlBOcHFGdmRsRWM4X3g1NHhJbC1yX1R2aXdaM25PUjBfVVFkQVRWY1AzV3pnUDdfQ1VBTUI3ZWVRR0ZpMWlzY20tVGV0ZjIyRDNYU1FTMW5ob2ZLRS1lNzFjalQ1eDZTN2M?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ceragon-2026-11-11-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ceragon to Participate in Upcoming Investor Conferences in November - PR Newswire",
+      "companies": [
+        "ceragon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMjMtTVpRZ3FWRUJjN2R3bE01Y3pJdTljVEVLdHZYclRlZC01NFUzVTVQSDlBYmVNZDdhNVhmejVmRWhINEc1VGFReVlxaUdMWS1qUWxmeTFwZFpkSDd4Y0lDcDQ3bjgxRlpmOGREaXp1dWZicGtfd2JWSEJTcDB5cU1Fc0k1cklLc3FOUWh3WXhWTC0tNXFmTkNtOEhhR2NuN0NwU3JBODVuaWpaSFJzanRjYWZfbTRad1p6RVpxNUE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "spectrum_auction": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 31,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 29,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ceragon",
+        "count": 3
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 3
+      },
+      {
+        "id": "nokia",
+        "count": 2
+      },
+      {
+        "id": "ciena",
+        "count": 2
+      },
+      {
+        "id": "american_tower",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 29
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 2
+      },
+      {
+        "id": "spectrum_auction",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 314,
+    "dup_title": 183,
+    "too_old": 71,
+    "gate1_blocked": 4,
+    "gate2_blocked": 5,
+    "passed": 51,
+    "pass_rate": "38.9%",
+    "gate2_block_rate": "3.8%",
+    "gate2_samples": [
+      "CommScope Holding Co Inc (CM9.DU) Seasonal returns chart - Yahoo Finance UK",
+      "CommScope Holding Co Inc (CM9.DU) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+      "Deutsche Telekom braces for SpaceX impact in US - Light Reading",
+      "SBA Communications (SBAC) Secures $2 Billion Term Loan to Refina - GuruFocus",
+      "Form 8K SBA Communications Corp For: 9 November By Investing.com - Investing.com Canada"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 31 則事件，焦點為Ceragon、德國電信、諾基亞相關動態：「Equities Analysts Set Expectations for SBAC FY2026 Earnin...」。主要關注主題為產業通用、法說會、光纖建設，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Equities Analysts Set Expectations for SBAC FY2026 Earnings - MarketBeat（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Zain Group Revenue Rises 4% to $5.71 Billion as $501 Million Capex Drives 5G,...（光纖建設、法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,16 @@
+{
+  "total_raw": 314,
+  "dup_title": 183,
+  "no_date": 0,
+  "too_old": 71,
+  "gate1_fail": 4,
+  "gate2_fail": 5,
+  "passed": 51,
+  "gate2_samples": [
+    "CommScope Holding Co Inc (CM9.DU) Seasonal returns chart - Yahoo Finance UK",
+    "CommScope Holding Co Inc (CM9.DU) Seasonal returns chart - Yahoo Finance - Yahoo Finance Singapore",
+    "Deutsche Telekom braces for SpaceX impact in US - Light Reading",
+    "SBA Communications (SBAC) Secures $2 Billion Term Loan to Refina - GuruFocus",
+    "Form 8K SBA Communications Corp For: 9 November By Investing.com - Investing.com Canada"
+  ]
+}
