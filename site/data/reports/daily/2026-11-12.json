@@ -1,0 +1,214 @@
+{
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T16:29:42.942211Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-12-012",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "TIM to expand its services through synergies with Poste – CEO",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://www.lightreading.com/digital-transformation/tim-to-expand-its-services-through-synergies-with-poste-ceo"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-12-014",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Enea Fraud White Paper: Handbook for Fraud, Revenue Assurance & Network Teams",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://pages.rcrtech.com/enea-handbook-for-fraud-revenue-assurance-network-teams"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-12-015",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "TIM advances Poste integration, renews Inwit proposal",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://rcrwireless.com/20261112/carriers/tim-poste-inwit"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-12-016",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Vodafone grows as business mix finds its mark – but Germany still drags",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://rcrwireless.com/20261112/carriers/vodafone-grows-as-business-mix-finds-its-mark-but-germany-still-drags"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-12-020",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "MENA Telecom Revenue to Reach $96.1 Billion by 2030 as Operators Invest $88.9 Billion in 5G and Network Expansion: GSMA - TelecomLead",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOeE9fSFUydm8wbVlrZ3BXbG9qYjlrZGdHNWtvQzdXM0IxaVpQZHd6dk5wSFZCMjdsU2NOSFB1N2NqeDBxRUhfQmJmQTRlVWZ0M3MtQ1p3RzJRTTgwVmpGZGlMMDh3MGZNdzVTNWpGbVVuTzRMelVudWptNmZBRUVEM1BGYzVmSlRQR2ppdXJBSjJURmVuYjM0ZEdoSFE5c0o4LTJadW9CMWFRbjQ1M0N3V1IxRXVGcjJyMVFEYk53em00dnNKWlBNbjY4QW9rUl9IVXdNM3dnMS16TnJYZlhLSWM0cU_SAewBQVVfeXFMTlpIbXJoY3Q0S0ozaHhNa3NjRHROVXU4Q3pkUldtTkxuQmRseWZGT28zWjBSejdHQjVrMFVmN1padXdjTmlLd0ZUcmMwbFFUZWU1UDFFYzQ1WkUyTjBVS1M2SjJGLTZnVGE5bncxWUNGV1NIWEloOEhYaWtTa256WFFNMEgxbWo1b2JGRS1GSXdjSEc0bnIwd2RDTVFaLUstUHgyUmpoUDNLNmNOdWo3emFyeXlZNTZIZHVvbjFaMTV5WTBOOUFiaVplYldadWh2S0JsSU9NTXB6aW5CcUpNMS1LcEtLUVBVOVNRTlE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 23,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 7,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.07,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 27,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 24,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 3
+      },
+      {
+        "id": "equinix",
+        "count": 2
+      },
+      {
+        "id": "ceragon",
+        "count": 1
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      },
+      {
+        "id": "softbank",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 23
+      },
+      {
+        "id": "earnings",
+        "count": 7
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 313,
+    "dup_title": 177,
+    "too_old": 88,
+    "gate1_blocked": 6,
+    "gate2_blocked": 2,
+    "passed": 40,
+    "pass_rate": "29.4%",
+    "gate2_block_rate": "1.5%",
+    "gate2_samples": [
+      "CommScope Holding Co Inc (CM9.DU) Seasonal returns chart - Yahoo Finance UK",
+      "Ciena Jumps 9.0% Amid Sector-Wide Rally - AlphaStreet"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 27 則事件，焦點為Ciena、Equinix、Ceragon相關動態：「TIM to expand its services through synergies with Poste –...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "TIM to expand its services through synergies with Poste – CEO（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Enea Fraud White Paper: Handbook for Fraud, Revenue Assurance & Network Teams（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

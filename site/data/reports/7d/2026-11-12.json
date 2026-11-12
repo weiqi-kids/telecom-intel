@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-12",
+  "date_range": {
+    "start": "2026-11-06",
+    "end": "2026-11-12"
+  },
+  "generated_at": "2026-11-12T16:29:43.085809Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "softbank-2026-11-09-014",
+      "date": "2026-11-09",
+      "title": "SoftBank Corp raises full-year outlook after record H1 revenue, operating profit - Yahoo Finance Singapore",
+      "importance_score": 0.9
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "earnings": {
+      "this_week": 29,
+      "last_week": 37,
+      "week_over_week_change": "-22%",
+      "sentiment_this_week": 0.18
+    },
+    "industry_general": {
+      "this_week": 162,
+      "last_week": 144,
+      "week_over_week_change": "+12%",
+      "sentiment_this_week": 0.05
+    },
+    "fiber_buildout": {
+      "this_week": 5,
+      "last_week": 5,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "arpu": {
+      "this_week": 1,
+      "last_week": 2,
+      "week_over_week_change": "-50%",
+      "sentiment_this_week": 0.0
+    },
+    "spectrum_auction": {
+      "this_week": 3,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "ceragon": {
+      "event_count": 11,
+      "sentiment_avg": 0.0,
+      "rank": 5
+    },
+    "deutsche_telekom": {
+      "event_count": 26,
+      "sentiment_avg": 0.17,
+      "rank": 1
+    },
+    "softbank": {
+      "event_count": 26,
+      "sentiment_avg": 0.19,
+      "rank": 2
+    },
+    "american_tower": {
+      "event_count": 20,
+      "sentiment_avg": 0.03,
+      "rank": 4
+    },
+    "sba_comm": {
+      "event_count": 11,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "equinix": {
+      "event_count": 21,
+      "sentiment_avg": 0.02,
+      "rank": 3
+    },
+    "verizon": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 8
+    },
+    "att": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    },
+    "zte": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 10
+    },
+    "ericsson": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "tmobile": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "ciena": {
+      "event_count": 7,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "nokia": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "chunghwa": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 14
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 270,
+        "last": 289,
+        "change_pct": -6.6
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-06",
+      "event_count": 55,
+      "sentiment_avg": 0.05
+    },
+    {
+      "date": "2026-11-07",
+      "event_count": 15,
+      "sentiment_avg": 0.03
+    },
+    {
+      "date": "2026-11-08",
+      "event_count": 8,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-09",
+      "event_count": 71,
+      "sentiment_avg": 0.2
+    },
+    {
+      "date": "2026-11-10",
+      "event_count": 54,
+      "sentiment_avg": -0.14
+    },
+    {
+      "date": "2026-11-11",
+      "event_count": 40,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-11-12",
+      "event_count": 27,
+      "sentiment_avg": 0.02
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-06 ~ 2026-11-12）共 270 則事件，重點為「SoftBank Corp raises full-year outlook after re...」。產業通用、法說會、光纖建設為本週焦點話題。",
+    "watchlist": [
+      {
+        "company": "Ceragon",
+        "reason": "本週出現 11 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "德國電信",
+        "reason": "本週出現 26 則相關事件，為高關注企業，動態頻繁。"
+      },
+      {
+        "company": "軟銀",
+        "reason": "本週出現 26 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
