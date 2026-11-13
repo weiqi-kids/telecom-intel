@@ -1,0 +1,13 @@
+{
+  "total_raw": 311,
+  "dup_title": 173,
+  "no_date": 0,
+  "too_old": 91,
+  "gate1_fail": 6,
+  "gate2_fail": 2,
+  "passed": 39,
+  "gate2_samples": [
+    "CommScope Holding Co Inc (CM9.DU) Seasonal returns chart - Yahoo Finance UK",
+    "Ciena Jumps 9.0% Amid Sector-Wide Rally - AlphaStreet"
+  ]
+}
