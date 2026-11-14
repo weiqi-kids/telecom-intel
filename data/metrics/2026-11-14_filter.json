@@ -1,0 +1,14 @@
+{
+  "total_raw": 309,
+  "dup_title": 189,
+  "no_date": 0,
+  "too_old": 96,
+  "gate1_fail": 7,
+  "gate2_fail": 3,
+  "passed": 14,
+  "gate2_samples": [
+    "Nokia Falls 3.4% in a Week as AI Growth Collides With Cash Flow Risks - TradingView",
+    "Ciena Jumps 9.0% Amid Sector-Wide Rally - AlphaStreet",
+    "Is Equinix (EQIX) Fully Valued As SG6 Opens And Green Notes Fund Growth? - Simply Wall St"
+  ]
+}
