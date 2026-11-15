@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-15",
+  "generated_at": "2026-11-15T15:09:14.618438Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_tower-2026-11-15-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "How Is CoreSite Data Center Growth Offsetting Slower Tower Revenue at AMT (NYSE:AMT)? - Kalkine Media",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbW1rQXNjNHJhbDI3bzhQOC1KaXBwQXNxQ2tOT0tKaGZqaXpJclpvQW05UENpM0NEUzV5ME55ZkxuZTI5NlhkUXFzUzJlVFBfUTZFWGlDMlhTSjlydFlRZ19mSkdSM3owTWlIUlVsRjlDQ1g0eGxONmozR3pVVU1mWDl0LVRaOE80bmYzYVlLSVlyMW15SUtzNWVpMnBwY29nR1VYNmxzaE9vWG83T3Q2RWNRVkUtZ2NlcERSU2JUY1Zza2s3SkdEaFN6czZOemdwcTdHdkFCd2pJa0pldEJxSg?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "american_tower-2026-11-15-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "American Tower (AMT) Issues New Notes, Is The 16% Undervaluation Still Compelling? - Simply Wall St",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObDJyYjRrOHJwZzVfR29UX25CS1lMZWR5V1dWX2Z0dkc3QVppd3lqcXhrbnNOZ0FCWGVtZlR0VnM5azdVVEhnRDlXVXRqUFdXckU5LXRPQmJRdEM2NzR1ZXF6ajNERnVHVG9FVGZsTTRsVXlLTDFnRzBGT2c3dm1vRmlkZ0FyX0VjNVhHcmNtQWhWTVJfVlpCcFhFY3JFZVA5dXI1bnRLRTAxdFdPMzZ2QlZVX1FYMVZhVm5wS09ycVY4STdPNDVxOEhKdU4zZ9IB0wFBVV95cUxNa19NV2ZrVnJYWVhITVpFV3Nsd3d5N004Y2R2dmtvR3BWNk85Z0VXZGxjeWlIRkdTbXltMG51cWJkVFNKcS1hdkJRVzB1MTBiUkE4ckxqTkVuNG1qbk1NTHJLUGNSc0JZT2VPczc3Z0JwQTVmMXktaXdVLTc4UENvLXFKWkpJeGpLZFJZaEdaakJXS0ZnTzdVa2dYamtZeHVJc3pocXJzMkpYc053d3J2bWtlLWNhdTUxWjVnWkZLRWJNMzY5dTlZRHU4dlhNVjlILXRR?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "equinix-2026-11-15-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Why Equinix and Digital Realty Benefit From Data Center Zoning Battles - MarketBeat",
+      "companies": [
+        "equinix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWF9mbDRBaTZsWVVsMmdWSXE2T3VVTHFqSy1DMjY3aGVJMmg0UFhSdklXYWZwOGR6Nnl5bVl2X2NXUjRIZ0U5QVBUTDVaNkx1dFJINzZKVXNsem9DTXFpSW9XcmpSQS01elR4UG9qQjFBQWFEVllYcVd5OUxMT1g0UDlZc2RmX2lwSjJ6U0lzaGgxdFBhQXhpcjR3RTA2Q19sVG9LUmxzWjkyOGc?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "unknown-2026-11-15-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Malaysian telecom companies accelerate agentic AI adoption to strengthen core operations - Traders Union",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQnRlTXctZ3RQd2V5RWlTMzRpVDludmFRcWVFSUxVZFBoNEVPbHdXem8wbXhrYlZkSTJQWGlZaTFQUFc1cDAyX3hiUFJHX2tOZFN3SW10QkpzTnR6bE1tQmp6UDB2N19ZX1puNTdySDJ0Uk5ybnppRGlrWDF4WEJiRlc3OG9pd3RSM04xR1lCekhzQQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "unknown-2026-11-15-005",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Opinion: Malaysian telcos are going back to basics to strengthen their core — Agentic AI is the accelerator - The Edge Malaysia",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CdmJSbzhXN0daSFRPZEpLcnhUMUFxMEh5cDVLRlZRVnR3YzhZcExLbDlZanZaTDVqRnVQMXdsNEZKdlltUW5nTk1tUUJ0X2lT?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 5,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 5,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 5,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_tower",
+        "count": 2
+      },
+      {
+        "id": "equinix",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 5
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 311,
+    "dup_title": 171,
+    "too_old": 123,
+    "gate1_blocked": 6,
+    "gate2_blocked": 2,
+    "passed": 9,
+    "pass_rate": "6.4%",
+    "gate2_block_rate": "1.4%",
+    "gate2_samples": [
+      "CommScope Holding Co Inc (CM9.DU) Seasonal returns chart - Yahoo Finance UK",
+      "Form 144 CIENA CORPORATION For: 15 November By Investing.com - Investing.com India"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 5 則事件，焦點為AMT、Equinix相關動態：「How Is CoreSite Data Center Growth Offsetting Slower Towe...」。主要關注主題為產業通用、法說會，市場情緒中性。",
+    "signals": [
+      {
+        "text": "How Is CoreSite Data Center Growth Offsetting Slower Tower Revenue at AMT (NY...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "American Tower (AMT) Issues New Notes, Is The 16% Undervaluation Still Compel...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

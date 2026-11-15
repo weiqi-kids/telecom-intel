@@ -1,5 +1,102 @@
 [
   {
+    "id": "american_tower-2026-11-15-001",
+    "date": "2026-11-15",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "American Tower (AMT) Issues New Notes, Is The 16% Undervaluation Still Compelling? - Simply Wall St",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxObDJyYjRrOHJwZzVfR29UX25CS1lMZWR5V1dWX2Z0dkc3QVppd3lqcXhrbnNOZ0FCWGVtZlR0VnM5azdVVEhnRDlXVXRqUFdXckU5LXRPQmJRdEM2NzR1ZXF6ajNERnVHVG9FVGZsTT",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObDJyYjRrOHJwZzVfR29UX25CS1lMZWR5V1dWX2Z0dkc3QVppd3lqcXhrbnNOZ0FCWGVtZlR0VnM5azdVVEhnRDlXVXRqUFdXckU5LXRPQmJRdEM2NzR1ZXF6ajNERnVHVG9FVGZsTTRsVXlLTDFnRzBGT2c3dm1vRmlkZ0FyX0VjNVhHcmNtQWhWTVJfVlpCcFhFY3JFZVA5dXI1bnRLRTAxdFdPMzZ2QlZVX1FYMVZhVm5wS09ycVY4STdPNDVxOEhKdU4zZ9IB0wFBVV95cUxNa19NV2ZrVnJYWVhITVpFV3Nsd3d5N004Y2R2dmtvR3BWNk85Z0VXZGxjeWlIRkdTbXltMG51cWJkVFNKcS1hdkJRVzB1MTBiUkE4ckxqTkVuNG1qbk1NTHJLUGNSc0JZT2VPczc3Z0JwQTVmMXktaXdVLTc4UENvLXFKWkpJeGpLZFJZaEdaakJXS0ZnTzdVa2dYamtZeHVJc3pocXJzMkpYc053d3J2bWtlLWNhdTUxWjVnWkZLRWJNMzY5dTlZRHU4dlhNVjlILXRR?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "american_tower-2026-11-15-002",
+    "date": "2026-11-15",
+    "companies": [
+      "american_tower"
+    ],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "How Is CoreSite Data Center Growth Offsetting Slower Tower Revenue at AMT (NYSE:AMT)? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbW1rQXNjNHJhbDI3bzhQOC1KaXBwQXNxQ2tOT0tKaGZqaXpJclpvQW05UENpM0NEUzV5ME55ZkxuZTI5NlhkUXFzUzJlVFBfUTZFWGlDMlhTSjlydFlRZ19mSkdSM3owTWlIUlVsRj",
+    "sources": [
+      {
+        "name": "american_tower",
+        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbW1rQXNjNHJhbDI3bzhQOC1KaXBwQXNxQ2tOT0tKaGZqaXpJclpvQW05UENpM0NEUzV5ME55ZkxuZTI5NlhkUXFzUzJlVFBfUTZFWGlDMlhTSjlydFlRZ19mSkdSM3owTWlIUlVsRjlDQ1g0eGxONmozR3pVVU1mWDl0LVRaOE80bmYzYVlLSVlyMW15SUtzNWVpMnBwY29nR1VYNmxzaE9vWG83T3Q2RWNRVkUtZ2NlcERSU2JUY1Zza2s3SkdEaFN6czZOemdwcTdHdkFCd2pJa0pldEJxSg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-11-15-003",
+    "date": "2026-11-15",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Why Equinix and Digital Realty Benefit From Data Center Zoning Battles - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWF9mbDRBaTZsWVVsMmdWSXE2T3VVTHFqSy1DMjY3aGVJMmg0UFhSdklXYWZwOGR6Nnl5bVl2X2NXUjRIZ0U5QVBUTDVaNkx1dFJINzZKVXNsem9DTXFpSW9XcmpSQS01elR4UG9qQj",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWF9mbDRBaTZsWVVsMmdWSXE2T3VVTHFqSy1DMjY3aGVJMmg0UFhSdklXYWZwOGR6Nnl5bVl2X2NXUjRIZ0U5QVBUTDVaNkx1dFJINzZKVXNsem9DTXFpSW9XcmpSQS01elR4UG9qQjFBQWFEVllYcVd5OUxMT1g0UDlZc2RmX2lwSjJ6U0lzaGgxdFBhQXhpcjR3RTA2Q19sVG9LUmxzWjkyOGc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-15-004",
+    "date": "2026-11-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Malaysian telecom companies accelerate agentic AI adoption to strengthen core operations - Traders Union",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNQnRlTXctZ3RQd2V5RWlTMzRpVDludmFRcWVFSUxVZFBoNEVPbHdXem8wbXhrYlZkSTJQWGlZaTFQUFc1cDAyX3hiUFJHX2tOZFN3SW10QkpzTnR6bE1tQmp6UDB2N19ZX1puNTdySD",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQnRlTXctZ3RQd2V5RWlTMzRpVDludmFRcWVFSUxVZFBoNEVPbHdXem8wbXhrYlZkSTJQWGlZaTFQUFc1cDAyX3hiUFJHX2tOZFN3SW10QkpzTnR6bE1tQmp6UDB2N19ZX1puNTdySDJ0Uk5ybnppRGlrWDF4WEJiRlc3OG9pd3RSM04xR1lCekhzQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-15-005",
+    "date": "2026-11-15",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Opinion: Malaysian telcos are going back to basics to strengthen their core — Agentic AI is the accelerator - The Edge Malaysia",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CdmJSbzhXN0daSFRPZEpLcnhUMUFxMEh5cDVLRlZRVnR3YzhZcExLbDlZanZaTDVqRnVQMXdsNEZKdlltUW5nTk1tUUJ0X2lT?oc=5\" target=\"_blank\">Opinion: Malaysian ",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1CdmJSbzhXN0daSFRPZEpLcnhUMUFxMEh5cDVLRlZRVnR3YzhZcExLbDlZanZaTDVqRnVQMXdsNEZKdlltUW5nTk1tUUJ0X2lT?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "american_tower-2026-11-14-001",
     "date": "2026-11-14",
     "companies": [
@@ -107,6 +204,26 @@
       {
         "name": "google_news_telecom",
         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQmQxUGFZZWVYWU1RYmtKSEFla3JQdlNMNmROWG1lLXhFTFZPbGY2TFE0WWp0eFZsbDJaSl84b3pWNExIX01kLXNvVDZCQmVGRVhOdXhGQ2tmcFFiQW9ZeWhjUEVvWEVmY1NUdE05Z2RLb2ZhbzhiMklGM0UyLUswTTJxRFFGRU5RTU9XTXh1dGdCRVpSVFF6ZENyWjJxTWZlRUo1dGpZai1kZzU4ZHpOM05jbUMwY2F6ZmhLd290RmsteXI4eXZKbmZWM2I2V3k5TVhQR9IB2gFBVV95cUxQVk9ITmdqbjJDLVBEalF1QUhEdkQxMl9zTzhYRWxMcVNlSUdEWDhTMG1ET1FHSVQzZFdYc3N3dURtend1a2JJYXZEX0JIbm1nSm9QNHVLaFJGem0waWEzb1Z5Zm9OdTJkdDJ2VUZiQ3JhRzQ4NXhfSm9DY2EzbDlUSlgwNWRQZnl3dkZaUHEzZUQ2blFZaFF0Z29CWGZaSDdHai11aDdFZkF4bEJtZWNCbkhCMklLZnlBR2h3SnZKVUUzMVhWX0YyR2JnaHkwWDhjODdkLWRrekhCQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-11-14-007",
+    "date": "2026-11-14",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ciena (NYSE:CIEN) Lights Up AI Networks: What Comes Next? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQLU03bExHTjhoRTlDRDlfb3NLTTdaQzNBcDZEQWNDQ0x0QXZqa0JmczBXUWJlNGdRNEVtNzZtNnI4NXpUMWRwQ21sT2NMNTNwMGtNanBPcWJsSVUtZ3BzS0RwZHBuUEdVbmsxRHBvWG",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQLU03bExHTjhoRTlDRDlfb3NLTTdaQzNBcDZEQWNDQ0x0QXZqa0JmczBXUWJlNGdRNEVtNzZtNnI4NXpUMWRwQ21sT2NMNTNwMGtNanBPcWJsSVUtZ3BzS0RwZHBuUEdVbmsxRHBvWGVPaE1XOWo1Qng1ZldEOWJ5N3Z5Y0JhN0ttR2lVSU1EanJ2Y1NtU09HbG1mcW1fMGc?oc=5",
         "type": "rss"
       }
     ]
@@ -660,6 +777,26 @@
       {
         "name": "light_reading",
         "url": "https://www.lightreading.com/regulatory-politics/fcc-sets-key-dates-for-upper-c-band-auction",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-11-13-030",
+    "date": "2026-11-13",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ciena Corporation (CIEN) stock price, news, quote and history - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KS19nY2ZuSEZBNDcwdVptX1FSMi1ZdVQtdVdBVDdiTlpyalJXN1pyU3ZVV1JzOENwVkhBS1JNR3hmZ1dLQVpwMktkWWp3X0NUclE?oc=5\" target=\"_blank\">Ciena Corporatio",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KS19nY2ZuSEZBNDcwdVptX1FSMi1ZdVQtdVdBVDdiTlpyalJXN1pyU3ZVV1JzOENwVkhBS1JNR3hmZ1dLQVpwMktkWWp3X0NUclE?oc=5",
         "type": "rss"
       }
     ]
@@ -2159,6 +2296,24 @@
     ]
   },
   {
+    "id": "softbank-2026-11-11-042",
+    "date": "2026-11-11",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Japanese investor SoftBank Group sinks into losses as company’s AI hopes falter - Jamaica Gleaner",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaHA2Q2FnemJBbHJWSm5QTEZXM1h5Q01aeHJXZmlVZXdPM0VnTVVYVjRWZFRsTjVMbnh6ZEdJN0RwekVDTklIaGtUb2xTQUVkZnJDZkFza0JEUU1DUElkd0dwN2xVOUFrYkd4Tm9PNF",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaHA2Q2FnemJBbHJWSm5QTEZXM1h5Q01aeHJXZmlVZXdPM0VnTVVYVjRWZFRsTjVMbnh6ZEdJN0RwekVDTklIaGtUb2xTQUVkZnJDZkFza0JEUU1DUElkd0dwN2xVOUFrYkd4Tm9PNFJDbnNwTGFjeXUxcmN4QVlYZU5zNkFlMmxtM0lqVmJENXA0YV9rb3I3QnlBRnhaNTVlV05uNFFRSFBkZFd1U2hreFc0cl90VEg2VVBFN0x0Umk?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "ceragon-2026-11-10-001",
     "date": "2026-11-10",
     "companies": [
@@ -3235,6 +3390,24 @@
       {
         "name": "google_news_5g",
         "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWUpEQ1N4ckFvQk5DZVBXLWZ6ZjRyQzBvTEs5TXcyeXFVemtqMUNGdUV1Nk1hTlVQQVlDalZIV2U3anVtZGRKaDMxQ1RTWEc3LTVHN2RsMGxseEZ2NEpkdFhYRndHOUF2MTM3eFl5VTJ2VFd1SEk0TXlDdmdvTWVGVmt6RlJoNVpzeURhWmlQN0R2OTRJTWthRXJlM0lWQ3B2MEVGc09RdEpBM01SOVJsLS04ZmVXSXpzSmUzZC1HVThSSmt0d29FamhFU09LMjE0NHc5QnZNY0N4YngtRVpNRlR4emFHZ9IB7gFBVV95cUxNWmVWaU9tbnFPakRlanlkNFd5R0g0R2w5eHJPOTc0elYyVTNrYUhWa1Q0OVhaQXppX3QzaFJJNXprUlByNDJOT3luX0xrRkRYVHpxNFlMNElpV21QSEhYeHI4al9BRnNDQm5UWDhTdnhQdkliUlYzclhuejVTeXlhMzM0RXVWUjJmRy1tbVRfMURZaFBVS2EzQXVQNkRVZW9YVEJMS2hkdGxtaTVSWlY3d0tQVVJXeUVXc3l2NkRaNFFsUi1VZTdacGlyVElpejdvTDlTd1VOREFhYXctUFZ3MkkwV0JDNHpNcW91TnhB?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-11-10-058",
+    "date": "2026-11-10",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [],
+    "impact": "negative",
+    "title": "Japanese investor SoftBank Group sinks into losses as company’s AI hopes falter - Toronto Star",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNVW5UUWlYaEN4QUYzVWVEX3hUTjEySnh0d2hwNkoyYkEzSmtMbnBKWURnM21ZSGlaNFRzVTcwX3dxR0tsMk4tTUpaczNxdk9PUUZtVlE3emZkMWtTR2JNbGxtWUdGcTdYZy1RS2xfb1",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNVW5UUWlYaEN4QUYzVWVEX3hUTjEySnh0d2hwNkoyYkEzSmtMbnBKWURnM21ZSGlaNFRzVTcwX3dxR0tsMk4tTUpaczNxdk9PUUZtVlE3emZkMWtTR2JNbGxtWUdGcTdYZy1RS2xfb1hPS3d4aTBWSXFSTUhJdmxRb09VNEs4RlpZcnhLdFdXRUpzRzJEU0tqY0Iwb1pVVU9DWkNla3RVbFQwNWtrX1hwMnFKdHkyV3EwX29sQU5QZkR5VHdadXREWkJReE9Da0VpMnh4NU83eUlucE96UWZ3Tkx1dHQwdDY2Y1lKSk42QTQwQjZrYUxCY09uSGlDdw?oc=5",
         "type": "rss"
       }
     ]
