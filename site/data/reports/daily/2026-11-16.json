@@ -1,0 +1,228 @@
+{
+  "date": "2026-11-16",
+  "generated_at": "2026-11-16T17:43:26.915045Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-16-021",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Rakuten Mobile narrows Q3 loss as network investment accelerates",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -0.25
+      },
+      "source_url": "https://rcrwireless.com/20261116/carriers/rakuten-mobile-network"
+    },
+    {
+      "rank": 2,
+      "event_id": "nokia-2026-11-16-022",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "ISAC on the 5G frontline, 6G frontier – telcos target defense networks",
+      "companies": [
+        "nokia",
+        "ericsson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://rcrwireless.com/20261116/network-infrastructure/isac-on-the-5g-frontline-6g-frontier-telcos-target-defense-networks"
+    },
+    {
+      "rank": 3,
+      "event_id": "nokia-2026-11-16-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia's proposed AI network would link Finland, Estonia and Latvia; Sweden's site is undecided. - Stock Titan",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWElMaFowMkdZc01GSE9sX2h1Y3Z5VEx0T3FGY0tqNjZOU084Vl8zTGZkMUJHdDFHUFlJVzZ5LXVac1lONnZfM0pVN2Z5eUEtenlPVmxXZ1pFemtTZzd5NVBYOE10V3lzaThySFFkTldZZDA1aTBRYTFnQ0FiSE9aSEhjRkdWOXFPWVNQeGE4UlpxX29aWTVSQ1FIdWNndWU5dlJWMGtmbllvdDQ3YTZsR2Y3cEhFdUVOQUc3elhB?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ciena-2026-11-16-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Appoints Greg Friesen Chief Product Officer as AI Drives Optical Networking Demand - citybiz",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWTkwcmxXU0tXSlZ5VWlvUF9ZZGNCVUs4SlU2QjBIRFJTaTBIcldOM3R5TG9ab3RQblVkck5wbzB6VGNIS2MyalZvYWRDbG1qYl9IU0xuYTczbHVKckJqQUt1clFIczBRa3hmMEthMjlZNGpraEtkRFJrUkZ6QnJQWWRfNlVwTDUtcTlfQzZSU3NpUU9tbThKZVJUTmU0Z0VFNHhSUERfdFBQS0ZmckRfOHVQOXUxZ0ZhTjZ0cnMtOG53WUQ3Z3c?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ciena-2026-11-16-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Appoints Greg Friesen as Executive Vice President and Chief Product Officer - Business Wire",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdm9IVVVHQnJLOXZsMjJGMkJPSWhuMXVKNGZORkJ0RDFWd0JBOEM4Zk1fMWZWWnlHUzYtbi16UVFwSFEzN3hEQkJRbk8xMEZ2aXYxenlYVmR5QWozV0E1cDg4SVBOeVJqYmtWRlZKRXNYWVE1M3JjenVFS3hPZEFEcHFIM2kzNXJTbFBudmItZVo1YUFqaEtPTjhhc3RPbTNGZ2Q2MWs3WUVBTzUtaGdvMlRGTmVnQ3l1Y3BJYkl1Z1A0UFZyZXREVTEzdlNISlF3OUM0Nw?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.05,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 30,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 26,
+      "negative": 3
+    },
+    "top_companies": [
+      {
+        "id": "nokia",
+        "count": 4
+      },
+      {
+        "id": "ciena",
+        "count": 3
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 2
+      },
+      {
+        "id": "american_tower",
+        "count": 2
+      },
+      {
+        "id": "equinix",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 25
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 310,
+    "dup_title": 156,
+    "too_old": 101,
+    "gate1_blocked": 10,
+    "gate2_blocked": 5,
+    "passed": 38,
+    "pass_rate": "24.7%",
+    "gate2_block_rate": "3.2%",
+    "gate2_samples": [
+      "CommScope Holding Co Inc (CM9.DU) Seasonal returns chart - Yahoo Finance UK",
+      "CIEN: Ciena Corporation filed SEC Form 8-K: Other Events - Quantisnow",
+      "Ciena falls 8%, dragged down by sector slide (CIEN:NYSE) - Seeking Alpha",
+      "Ciena: My Hold Trigger Fired, And I'm Not Upgrading (NYSE:CIEN) - Seeking Alpha",
+      "Ciena Jumps 9.0% Amid Sector-Wide Rally - AlphaStreet"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 30 則事件，焦點為諾基亞、Ciena、德國電信相關動態：「Rakuten Mobile narrows Q3 loss as network investment acce...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Rakuten Mobile narrows Q3 loss as network investment accelerates（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "ISAC on the 5G frontline, 6G frontier – telcos target defense networks（產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

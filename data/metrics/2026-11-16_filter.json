@@ -1,0 +1,16 @@
+{
+  "total_raw": 310,
+  "dup_title": 156,
+  "no_date": 0,
+  "too_old": 101,
+  "gate1_fail": 10,
+  "gate2_fail": 5,
+  "passed": 38,
+  "gate2_samples": [
+    "CommScope Holding Co Inc (CM9.DU) Seasonal returns chart - Yahoo Finance UK",
+    "CIEN: Ciena Corporation filed SEC Form 8-K: Other Events - Quantisnow",
+    "Ciena falls 8%, dragged down by sector slide (CIEN:NYSE) - Seeking Alpha",
+    "Ciena: My Hold Trigger Fired, And I'm Not Upgrading (NYSE:CIEN) - Seeking Alpha",
+    "Ciena Jumps 9.0% Amid Sector-Wide Rally - AlphaStreet"
+  ]
+}
