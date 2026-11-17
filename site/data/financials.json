@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T17:43:22.415666Z",
+  "updated_at": "2026-11-17T17:16:05.795117Z",
   "quarter": "2026-06-30, 2026-07-31, 2026-09-30",
   "companies": [
     {
@@ -245,17 +245,17 @@
       "name": "台灣大",
       "ticker": "3045.TW",
       "currency": "TWD",
-      "ar": 10655080000,
-      "ar_prev": 9945345000,
-      "ar_qoq": "+7%",
+      "ar": 11186107000,
+      "ar_prev": 10655080000,
+      "ar_qoq": "+5%",
       "ar_period": "QoQ",
-      "inventory": 6771906000,
-      "inv_prev": 6913204000,
-      "inv_qoq": "-2%",
+      "inventory": 8830756000,
+      "inv_prev": 6771906000,
+      "inv_qoq": "+30%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
-      "alert": false,
-      "quarter_date": "2026-06-30"
+      "alert": true,
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "tmobile",

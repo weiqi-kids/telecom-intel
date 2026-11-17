@@ -1,0 +1,240 @@
+{
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T17:16:10.274326Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-17-005",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "3 Cell Tower REITs Positioned to Profit as Wireless Data Demand Quadruples - 24/7 Wall St.",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "tower_consolidation",
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcUZPRHVNLVFwcEFCWV9BaGdrakFuY0J0c0t5YnZmS1FBS3lFWndlalB4RngybGs1QmF4bnVtUGRZZVh5ZVQzQ0lTbVJEVnc5MmtNZmdMR0RDb3lHalg1UnB1MzBVdENodWVWUVVmQWpXcWhWRWhrV1RENi10Y1ROQkZRQWcyUDFqSjQzREF5bmpOZU92TWFENXVGbkV2cENZWElINDVFVjhwczdxYXRsVWYtbHI5bWw2bUE?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "nokia-2026-11-17-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "NOK Slides After-Hours: Nvidia Dumps More Than Half Its Nokia Stake — Retail Bears Eye $5 Despite AI Push, ASUS Deal - Yahoo Finance",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVUVrSGpnYVRCcW4xZVA5U212aVl0dkU3NlBsaUdURTR2YXdaSUt6YS0zdkhaTXlFTGI1WUhhQ0tvUDdoX1BJV0w1cFB0bVFmNGVjX1RXY1RoZjhxanBfOHFOV2RGX3A4dzRlZG5Ub1lxa3pIbW5kTHBaQjZoOEFsNWtjY05tS3BsTTNlR1ZYamtuUm4xRDJ5ZTB3?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nokia-2026-11-17-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nvidia Offloads 56% of Nokia Stake; Shares Slide as $738.8 Million Position Remains - BigGo Finance",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1vWXAwcFB6YmNMSi1hel8xTkg4WTlnN1pGX3piNnoxS3c4aXVZTlpoWG55NG9yZnBGS19BZnlUQXd0TVI1azNrX21XdmpReEtZV0p2a3d0MmhvWTVDbXRFb3RHa1RRZl9KVHg0Zjhvb1dNTXJDaEE?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "softbank-2026-11-17-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "SoftBank Corp. to Showcase AI Technologies and Solutions for Global Telecommunications Carriers at MWC27 Barcelona - ソフトバンク",
+      "companies": [
+        "softbank"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85UmJaZ2RYZlJGU0lCLUpXeExKUkN5NjNDeUlLYzdEOEZ0Y29zVzkyODJxZHJhaGt5RWxaZ1JpZGJGZFNldHNyUXFteEVWRlo4eUNwQ25MeUFPN09rcjdYag?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "american_tower-2026-11-17-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Bank initiated coverage on American Tower with a new price target - Quantisnow",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWVV5SnNZQWlJYlZGVms2RVNuS2xOcWtzaEVIMXFPaEhkLURsTllMUWcxa0F4b3pMQTZnSDlOeENfcUdyakVGTGROQmRzbEZGR1YyWG5XRUZjT19xRFZlMi1FN3RTREUtMF82YjNaQWdveTRXd2dwYWJoMVlpZEVwaU5LMVNrTmFzRWFXMk1TLUdhQlZKQTZWbEdmVWhQZlpGMlE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 24,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.06,
+      "sentiment_7d_avg": null
+    },
+    "tower_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 25,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 22,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "equinix",
+        "count": 3
+      },
+      {
+        "id": "nokia",
+        "count": 2
+      },
+      {
+        "id": "american_tower",
+        "count": 2
+      },
+      {
+        "id": "sba_comm",
+        "count": 2
+      },
+      {
+        "id": "softbank",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 24
+      },
+      {
+        "id": "tower_consolidation",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 311,
+    "dup_title": 161,
+    "too_old": 84,
+    "gate1_blocked": 11,
+    "gate2_blocked": 8,
+    "passed": 47,
+    "pass_rate": "31.3%",
+    "gate2_block_rate": "5.3%",
+    "gate2_samples": [
+      "CommScope Holding Co Inc (CM9.DU) Seasonal returns chart - Yahoo Finance UK",
+      "CIEN: Ciena Corporation filed SEC Form 8-K: Other Events - Quantisnow",
+      "Ciena falls 8%, dragged down by sector slide (CIEN:NYSE) - Seeking Alpha",
+      "Ciena Jumps 9.0% Amid Sector-Wide Rally - AlphaStreet",
+      "Form 144 CIENA CORPORATION For: 15 November By Investing.com - Investing.com Australia"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 25 則事件，焦點為Equinix、諾基亞、AMT相關動態：「3 Cell Tower REITs Positioned to Profit as Wireless Data ...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "3 Cell Tower REITs Positioned to Profit as Wireless Data Demand Quadruples - ...（電塔整併、法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "NOK Slides After-Hours: Nvidia Dumps More Than Half Its Nokia Stake — Retail ...",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
