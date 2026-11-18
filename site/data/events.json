@@ -1,5 +1,541 @@
 [
   {
+    "id": "ceragon-2026-11-18-001",
+    "date": "2026-11-18",
+    "companies": [
+      "ceragon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ceragon Networks (NASDAQ:CRNT) Share Price Breaks Below 200 Day Moving Average - Here's What Happened - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOXg2eW9WMkx6X1hwd1Z2RklvQzNZUDU5czQxOG50c0Q2b1FOWkhPWVZBRWgwWmZOWVA5dmhMVjM4S2lBR2JmTFlGMkxEa1Q5c0lRV1VWYnRQcmFrcG1IVmI4R2ptNnJlb0hoVFR1UV",
+    "sources": [
+      {
+        "name": "ceragon",
+        "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOXg2eW9WMkx6X1hwd1Z2RklvQzNZUDU5czQxOG50c0Q2b1FOWkhPWVZBRWgwWmZOWVA5dmhMVjM4S2lBR2JmTFlGMkxEa1Q5c0lRV1VWYnRQcmFrcG1IVmI4R2ptNnJlb0hoVFR1UVdGcU9RM3psZHhHUGlGUFZpUmcxYnBGaFczbzZSMEhwX2toQklOdXdDUGtjelVYUzg5M2JQbU1YTUVfVnZFMUl2Yjk1MWdvLXZpM25YTnRGUFotYW9CQWswamV2RW9WWkFzbF9PaTBDZzBtYkpqZXJvd1hNbTA5ZWx2YmlORg?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-11-18-002",
+    "date": "2026-11-18",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ciena: Data Transmission Moat At A Discount (Rating Upgrade) - Seeking Alpha",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQRWJHZHdhbjk4S1JrbTdEdHl2S1NYTHhvek9oOHUyQ0JoajlLLWt2VGIwT1FoeWlTYkhHa1NpVl9yWFdZLXoxTXVlcHg2ZHhYcmlibUprU1JhajhQYl9XeEJpX2NQUk93eU5OaG1GRG",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRWJHZHdhbjk4S1JrbTdEdHl2S1NYTHhvek9oOHUyQ0JoajlLLWt2VGIwT1FoeWlTYkhHa1NpVl9yWFdZLXoxTXVlcHg2ZHhYcmlibUprU1JhajhQYl9XeEJpX2NQUk93eU5OaG1GRGdBaHRCb0R5ZUF3ZGVrNFhaaDl2QkJHZW14TjJ0cFpBd1R5a3pNRUE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ciena-2026-11-18-003",
+    "date": "2026-11-18",
+    "companies": [
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Ciena Corporation $CIEN Stock: Voya Investment Management LLC Cuts Holdings - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQSVhiVENWTFY0enZmS3laQnV2aUlSeWhQZ3BoM1ozRjlYaWpDdXVFT2dZdjVfZDRtaEY4NzAxVGRpQ2xxT0psLTZIajBOUmlkNTVRMGdZZzM4VnpRTy10dVBrekw1OXVDdVBoSVpEQV",
+    "sources": [
+      {
+        "name": "ciena",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSVhiVENWTFY0enZmS3laQnV2aUlSeWhQZ3BoM1ozRjlYaWpDdXVFT2dZdjVfZDRtaEY4NzAxVGRpQ2xxT0psLTZIajBOUmlkNTVRMGdZZzM4VnpRTy10dVBrekw1OXVDdVBoSVpEQVZBU0dPT2FyYUU3WG9sM29JNFFrdktjaWt5RllUQW1sM2Q5YnZidUNIU2haYnIydUs4SkliUGVjWFpxaWFqRWUtdVhxdm9fUG5EdUNlazNkaEdadkpFVXlYWVlPSkRIWnc?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-11-18-004",
+    "date": "2026-11-18",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "microagi trains robots for European industry at Telekom’s AI factory - Deutsche Telekom",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNVlhucjRNbWt4by1ZTjhCckkwZHBIU1VVUGdkVEJqc29xNjlBU3dPX3Zra3R6dzA1VGxnVnhhOVV4MmlDc0xMekVjLUNybF9LTUVDaVhXRlhKWmN3VC1YQ2VyaUtkcnlFckYzdEJHM2",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVlhucjRNbWt4by1ZTjhCckkwZHBIU1VVUGdkVEJqc29xNjlBU3dPX3Zra3R6dzA1VGxnVnhhOVV4MmlDc0xMekVjLUNybF9LTUVDaVhXRlhKWmN3VC1YQ2VyaUtkcnlFckYzdEJHM2hKcmZlZnhfTE8xRVNhSDdnbG5IemxMa05IdEJJaVl1OGhPRkViN29NVDlDNms5VllhWDBrMnNVVFVnenV2VGJN?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-11-18-005",
+    "date": "2026-11-18",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Telekom IoT’s CEO on securing devices that run for 20 years - Help Net Security",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQNllXUzBObmVuYXl2eTAtWW9UUUdVUE82SFJQNHotOTloMnVsQW5FWDlWMWtzaktXR015RWhZVmp1M2M1bkR6TmlFc0Jzcm9VeUJiRk1ZeHN5TEl5ZVpGM1podzIydmU0NkxLUWx1Sj",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNllXUzBObmVuYXl2eTAtWW9UUUdVUE82SFJQNHotOTloMnVsQW5FWDlWMWtzaktXR015RWhZVmp1M2M1bkR6TmlFc0Jzcm9VeUJiRk1ZeHN5TEl5ZVpGM1podzIydmU0NkxLUWx1SjdMZE4wcFNnY0FUR1hoRndNdUpHSUxpMng5aGk4RGl0MjhTbWdsQTdr?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-11-18-006",
+    "date": "2026-11-18",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Telekom opens up Munich AI Factory to robotics company Microagi - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPdkk4Qko1OWYzajA3OEtKbmlLbGRNREFvcVpPdUhIYzAyY19qSVlIT0tOTGZ5Y2tVZ1EzQTdseVVUUWdVRHY5cmRObEtnanVWUGg4NWFpOHpQMnI4TGdvd1RhNHlCaHh0cEd4YkJven",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdkk4Qko1OWYzajA3OEtKbmlLbGRNREFvcVpPdUhIYzAyY19qSVlIT0tOTGZ5Y2tVZ1EzQTdseVVUUWdVRHY5cmRObEtnanVWUGg4NWFpOHpQMnI4TGdvd1RhNHlCaHh0cEd4YkJvenozNHVTZUZOdjlrTEc5TnZTT3k2UlVSU1ZYWXh2UW1kWldRSHU0bFJ6cFFJOHk4cmRKaWNLQWxFSVVBa0dEVmhFSi1PeWZmdw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "deutsche_telekom-2026-11-18-007",
+    "date": "2026-11-18",
+    "companies": [
+      "deutsche_telekom"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Deutsche Telekom partners De-Cix to provide connectivity to small and medium-sized ISPs - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQMXhrNHlZTjd2S2J3eEtOb2NLbnU0NE5NZHppOWM4d2RERV9WSDB4QlpBT1dETENjMWFKbllyOU1zSkFNakFXZ1phRV9nZ0ttZ250dHRQS3lvVXNPZTYzZU9vSjhPQVBITS1LMmY3NT",
+    "sources": [
+      {
+        "name": "deutsche_telekom",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMXhrNHlZTjd2S2J3eEtOb2NLbnU0NE5NZHppOWM4d2RERV9WSDB4QlpBT1dETENjMWFKbllyOU1zSkFNakFXZ1phRV9nZ0ttZ250dHRQS3lvVXNPZTYzZU9vSjhPQVBITS1LMmY3NTFsSkJydnZ0NE1aOG9GVDNweHUtZnFtUnByVUNsb19uOTRTNDJPUnJob1FOV2tsdlBaaHBkZXVYZW5HdEVFN1BfcGQzMzJ1QmtEelFjczZSZTY0eVFlaEVVR1Zn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-11-18-008",
+    "date": "2026-11-18",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SBA Communications (NASDAQ:SBAC) Shares Break Below 50 Day Moving Average - Here's Why - MarketBeat",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZGhMOVlLTlQ0SFJfR3BiQnFkREI0R3ZDcTV2dEN0SDFndGRsS21CMHk0S2Z4aGhBUHR0emNrTUpUSGZZQkxrYWVVa1AzMEF1SS1wX1pfMlRSYy04VE9qTzdDN3Q1WDdyOW5sZ2pTSm",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZGhMOVlLTlQ0SFJfR3BiQnFkREI0R3ZDcTV2dEN0SDFndGRsS21CMHk0S2Z4aGhBUHR0emNrTUpUSGZZQkxrYWVVa1AzMEF1SS1wX1pfMlRSYy04VE9qTzdDN3Q1WDdyOW5sZ2pTSmx5LWVqRllWSnhDazZnM0ZJQXExRk5xaEJrbzZ5dDJqSm92ZUhybkhfa2NFTk1OX2pqLXctSnZXXy1PYVl1d1hNOENXald3QlR1dkUzc2NsUDA5YmEtS3FIOU83eVZZRnNmc1lfX0RSLTA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-11-18-009",
+    "date": "2026-11-18",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Why Is SBA Communications (NASDAQ:SBAC) In Focus After Strong Quarterly Results? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdUtUSmM1ZFZ3TmtXeTRqZXlpcnlxMmlKcHEzZXFrNXZ3alF2LWlhZndZUi1QdXozczk5ZnE2djBMNkppSERNYkREYlFnWE5ZWnZyR0xCS2FycmZnVFpJRnhSemFqWXJ0OFROLUVQdk",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdUtUSmM1ZFZ3TmtXeTRqZXlpcnlxMmlKcHEzZXFrNXZ3alF2LWlhZndZUi1QdXozczk5ZnE2djBMNkppSERNYkREYlFnWE5ZWnZyR0xCS2FycmZnVFpJRnhSemFqWXJ0OFROLUVQdkY0ZXg4bXlnUUI4N1c3SWFlNkFtNVBPWkdSRjBHekktd3lrUlRjSVhLUGd4Z284RWx2dUlTWVZNb1liTmdjZUNnRlNyS3A0R1RkTWVoLTF2QjM3Z2lmRGVJNmprSmZ5eGhkSWZwZEI1aG9Ldw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "tmobile-2026-11-18-010",
+    "date": "2026-11-18",
+    "companies": [
+      "tmobile"
+    ],
+    "topics": [
+      "spectrum_auction",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "T-Mobile grabs for Bluewater's 600MHz licenses, keeping them out of SpaceX's reach",
+    "summary": "T-Mobile informed the FCC it is acquiring Bluewater Wireless' 600MHz spectrum licenses covering 435 counties in 27 states. It will add about 10MHz of capacity in most areas, and it keeps the spectrum ",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/5g/t-mobile-grabs-for-bluewater-s-600mhz-licenses-keeping-them-out-of-spacex-s-reach",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "verizon-2026-11-18-011",
+    "date": "2026-11-18",
+    "companies": [
+      "verizon"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Verizon IoT connects Bosch Motorsport race cars at 200 mph",
+    "summary": "Verizon Business provides IoT connectivity and data management for Bosch Motorsport in first commercial deal for its Global IoT Orchestration service.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/iot/verizon-iot-connects-bosch-motorsport-race-cars-at-200-mph",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-012",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "USTelecom to new Congress: Let us build",
+    "summary": "Broadband industry leaders at USTelecom's Connectivity Forum signal intent to continue pursuing permitting reforms under a new Congress.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/broadband/ustelecom-to-new-congress-let-us-build",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-013",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Tucows offloads Ting-owned fiber assets to Clearwave, weighs fate of 'partner' markets",
+    "summary": "Tucows is selling Ting's owned fiber footprint to Clearwave in a move that erases debt and pushes the company toward a leaner model. Ting's partner markets could be next on the chopping block.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/broadband/tucows-offloads-ting-owned-fiber-assets-to-clearwave-weighs-fate-of-partner-markets",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ericsson-2026-11-18-014",
+    "date": "2026-11-18",
+    "companies": [
+      "ericsson"
+    ],
+    "topics": [],
+    "impact": "neutral",
+    "title": "Eurobites: Ericsson joins Dots at Spanish HQ to showcase indoor coverage",
+    "summary": "Also in today's EMEA regional roundup: Telenor Norway CEO steps down for health reasons; Vodafone tackles resilience; CMC touts new EMEA link.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/wireless/eurobites-ericsson-joins-dots-at-spanish-hq-to-showcase-indoor-coverage",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-015",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Simba Telecom admits unauthorized use of spectrum",
+    "summary": "Simba Telecom did not contest the misuse of spectrum allegations contained in the show cause notice that was issued by the Singaporean telecom regulator last month.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/regulatory-politics/simba-telecom-admits-unauthorized-use-of-spectrum",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-016",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AMD telco chief says GPU 'backlash' is coming in AI-RAN",
+    "summary": "Putting data center GPUs into the RAN would not make sense, says AMD's Piotr Weglicki, promoting his company's CPUs as the power-efficient answer.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/5g/amd-telco-chief-says-gpu-backlash-is-coming-in-ai-ran",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-11-18-017",
+    "date": "2026-11-18",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "VodafoneThree to test Nokia's AI-RAN with Nvidia GPUs",
+    "summary": "VodafoneThree plans lab and field trials next year of Nokia's AI-RAN on Nvidia's GPU platform, while parent Vodafone tests more chip options in Spain.",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/ai-machine-learning/vodafonethree-to-test-nokia-s-ai-ran-with-nvidia-gpus",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-11-18-018",
+    "date": "2026-11-18",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "VodafoneThree joins Nokia/Nvidia test squad as carriers kick tires on AI-RAN",
+    "summary": "VodafoneThree will test Nokia and Nvidia’s AI-RAN platform, initially in the lab before field trials, to assess radio performance gains and whether GPU-powered infrastructure can support network slici",
+    "sources": [
+      {
+        "name": "rcrwireless",
+        "url": "https://rcrwireless.com/20261118/network-infrastructure/vodafonethree-joins-nokia-nvidia-test-squad-as-carriers-kick-tires-on-ai-ran",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-019",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "6G, AI-RAN will drive longer-term wireless recovery, says Viavi",
+    "summary": "Viavi&#8217;s chief executive officer Oleg Khaykin said the company remained optimistic about the medium-term prospects for its wireless business as AI-RAN and 6G development starts to ramp up In sum&",
+    "sources": [
+      {
+        "name": "rcrwireless",
+        "url": "https://rcrwireless.com/20261118/6g/viavi-6g-ai-ran-wireless-recovery",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-020",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "AI exposes Industry 4.0 connectivity gap – private 5G is already part of the answer",
+    "summary": "Industrial AI is putting networks back in the spotlight, as enterprises connect more devices and demand more from industrial systems. The size of the connectivity gap depends on how far&#8230;",
+    "sources": [
+      {
+        "name": "rcrwireless",
+        "url": "https://rcrwireless.com/20261118/private-5g/ai-exposes-industry-4-0-connectivity-gap-private-5g-is-already-part-of-the-answer",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-021",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Private 5G, optical highways, satellite IoT – and a big Canadian takeover (Telco Diary)",
+    "summary": "From the newsletter (November 17; sign-up or follow if you want it sooner): NIBs: BASF makes the case for private 5G without AI, while optical networking rides the $1tn data&#8230;",
+    "sources": [
+      {
+        "name": "rcrwireless",
+        "url": "https://rcrwireless.com/20261118/network-infrastructure/private-5g-optical-highways-satellite-iot-and-a-big-canadian-takeover-telco-diary",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-022",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "earnings",
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "New shoots, deep cuts – are telcos back in business? (Telco Diary)",
+    "summary": "From the newsletter (November 12; sign-up or follow if you want it sooner): Vodafone and Telefónica have both upgraded their outlooks, reporting stronger growth, improved profitability and better cash",
+    "sources": [
+      {
+        "name": "rcrwireless",
+        "url": "https://rcrwireless.com/20261118/opinion/new-shoots-deep-cuts-are-telcos-back-in-business-telco-diary",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-11-18-023",
+    "date": "2026-11-18",
+    "companies": [
+      "nokia",
+      "ciena"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vendor Bytes: Ciena, Packetlight, Nozomi, Nokia",
+    "summary": "<img src=\"https://api.follow.it/track-rss-story-loaded/v1/wkEuTqJd4Q0O-5hV57EkgOGkz6RCC25z\" border=0 width=\"1\" height=\"1\" alt=\"Vendor Bytes: Ciena, Packetlight, Nozomi, Nokia\" title=\"Vendor Bytes: Cie",
+    "sources": [
+      {
+        "name": "telecom_ramblings",
+        "url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaX2A-sT5gNGqKdj5xVOforT?utm_source=follow.it",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-024",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Top 10: Telecom Cybersecurity Companies - Cyber Magazine",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE4xU05wN2I0SU0ybzBJMXZKS3dadUprODZZaG9RQnB1b2VfWjBpNEZYOGZ4amlSU0RIMzZXQ3FfYXV6QVg5TDAwVFpZRXd3MHFTbjZfTWk5LTlENHhEX2IycGoyeC1Wa2Zmcml5SzhzZW",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xU05wN2I0SU0ybzBJMXZKS3dadUprODZZaG9RQnB1b2VfWjBpNEZYOGZ4amlSU0RIMzZXQ3FfYXV6QVg5TDAwVFpZRXd3MHFTbjZfTWk5LTlENHhEX2IycGoyeC1Wa2Zmcml5SzhzZWhGWkZOeXFXNHNn?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-025",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Vodafone supplies tactical 5G network for Portuguese Navy - Telecompaper",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQVG1ma2dXUElfekVzQUE2TzNleV9qSWo1TjhKbEhuM2hDUXd5VE5wUllva0o0bXRFUGNhdFdKdUZFN2h1cjI2Z0FsQUxVSzEwejZCTlNoTHpXNWE5bHZzeVJvX3F0cU5UZENSblBoWV",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVG1ma2dXUElfekVzQUE2TzNleV9qSWo1TjhKbEhuM2hDUXd5VE5wUllva0o0bXRFUGNhdFdKdUZFN2h1cjI2Z0FsQUxVSzEwejZCTlNoTHpXNWE5bHZzeVJvX3F0cU5UZENSblBoWVl2RmRXU2g3bzdPVzNoakE5N1dvOXl6NllfbHU5VmYxTXNCd0tRakxyOGJraXl4eExXN0E?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "ericsson-2026-11-18-026",
+    "date": "2026-11-18",
+    "companies": [
+      "ericsson"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Telecom news: DNB, Ericsson, Tucows, Ting Fiber Networks, Clearwave, KGPCo, Transcelestial - TelecomLead",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRC1jVVFSTy1lbG1FMy14Z1NZT0hXRTZCMXMyMWxvQzF6RmpTdVQ2UFJrTi01RGVWeVN2aFpWVnZyWWlMZWx1bzF5NEw2VV8tYXJSbnVVY1diSmdYWWloczNfRmN6SXJrTzFySG9VTU",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRC1jVVFSTy1lbG1FMy14Z1NZT0hXRTZCMXMyMWxvQzF6RmpTdVQ2UFJrTi01RGVWeVN2aFpWVnZyWWlMZWx1bzF5NEw2VV8tYXJSbnVVY1diSmdYWWloczNfRmN6SXJrTzFySG9VTUEtRktpazR2TF9oOEpJRlQwN3B1T2llQ19OU3RzZzdsSHhROV80LXVOU2REU0RXXzRjNVlUOVhMUXo0cUN0TVozSUJhODNkVGVjTDZz0gHDAUFVX3lxTE1OWnJ2THdVLVc0WXhyYTRsbktQWHlfQ3J6Q0JZMjBTSnZ6VG5FcVJteUhGeHRBM2xGc2JZN2F6S2lyNVgyYWRHckpocGNPV0xnNnNUbzNtQkFoREw2ZEFscTIya1hUVDBOazdqOXU4SnhOMUw5TFlPR2FKQ3FDcmY2REszV3FVeEt4MFptd1hmYUVGNXQzS3BtSVA2Yjg1cFl3YUctNVBIbnZmcXZFYVpsM1JfRW91WTQ1U2ZNSklHTWFNcw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-027",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Telecom news: SES, ESA, Iridium Communications, Telkom, Vodacom, MTN - TelecomLead",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOeFVZUXBNbDFtclpnTWhEakczWUllc1FGZEFaRzRxWlBXcW5WNTQ5YzRpYkI5OVVxMHVlNTlJUTBoTW9DVUxJVGF5ZllTc3p1Tk5nRFlPTjhLS0dqSnJ6MG9lUy1OXzdIcDgycE5VeU",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOeFVZUXBNbDFtclpnTWhEakczWUllc1FGZEFaRzRxWlBXcW5WNTQ5YzRpYkI5OVVxMHVlNTlJUTBoTW9DVUxJVGF5ZllTc3p1Tk5nRFlPTjhLS0dqSnJ6MG9lUy1OXzdIcDgycE5VeUlaeXNpTV9pN0gwM2ZMMDhCbXAwNUNKdk5kLTQzUGprSmdqX1NnTFNvdUJfSllqdDjSAacBQVVfeXFMTlVPX0dHT3BRUXF6TjZTRGZfTTN6eEVaaVpOeGUtQUc1UXgxUFFhQmFsbWM0bG53NHFhX09BRXNiR0hiUG50WHFNZ2MycGlHaXJDWEZqWHdIaHNUQk56dFcyNTlETzRKSnRLZVE4VnloSENIdDJSSkZpSFY0MjhDZkZLc0FWT0h5QzlFNmZMaXNXR0puOWtieGotNmNzdHRwRm9GOWI0XzQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-18-028",
+    "date": "2026-11-18",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Carney says competition, prices and service key for telecom sector - CTV News",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa2UwclgzTzQzb2VuYmxEcnFpRlNLTmRRU1AzdG81NmxXZi1lZkRzbWs2YkJMeVVBNFBVZmpMQVkySHFmT3ZfLXNLRm5rSkt1QW5YbzYxM1Y4dFdTTjRxeEtkZHdselo1dGdfMUJBcn",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa2UwclgzTzQzb2VuYmxEcnFpRlNLTmRRU1AzdG81NmxXZi1lZkRzbWs2YkJMeVVBNFBVZmpMQVkySHFmT3ZfLXNLRm5rSkt1QW5YbzYxM1Y4dFdTTjRxeEtkZHdselo1dGdfMUJBcnJOZXptRzlXR3FzSG5fUUJHcGZ4QTJhRXBFMjVpdmlyclZaX2JudEo4SjhVOW9haExtbkZITU1yLWROZw?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
     "id": "nokia-2026-11-17-001",
     "date": "2026-11-17",
     "companies": [
@@ -468,6 +1004,197 @@
       {
         "name": "google_news_5g",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORFEtZUpNbF9YZkhnMDhFNlhoU3Fpa0JjaWdvaE1ZOFVyOE81OV9ZSjJFa2h2UUFES0RrZTBLa09rbDVSclVYVnM0dUR1VEtGdEl5OWM3R0lpZDlQNnFGOWpINmJWUWtyTmctaFloRjBGd19MMVZDZzAxaVJQbTQwaFR5dnlCUUtNdldnbXJvWjV4djjSAZsBQVVfeXFMTmVDalpSejlYZE1YdkpuRWVxeDdXNlBpWDVDdkZEaVU0bml0aXdiNUlEalJ0LW1OUGpTcVRrdnN2WThCZlc4SDlJQXpVUF9acldSQVRhcDQ3eHRJdzRXVmhVSXRwVDFTck1pbk52el9oZk5IN29WMlRBMURuY2FaMU43VXF0dmpaZkRGUTI0dE9ESmc1NGlNdnJjdnM?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "nokia-2026-11-17-026",
+    "date": "2026-11-17",
+    "companies": [
+      "nokia"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "Nokia Rises 2% After Nvidia Earnings Beat - Timothy Sykes",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOaFRkckc0UmZ1aFpWc0ZmTlI5N1B1TVU5a1oydjgycUdIWXFPY1NYR1d3MHNEbDFfMjJMTGhzMEFOaDZ2UmdsQXZlOXB3WTEzSFotcHpRclpNMFdZNXRqMUJBck5kbEphSTBUZWJsRG",
+    "sources": [
+      {
+        "name": "nokia",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaFRkckc0UmZ1aFpWc0ZmTlI5N1B1TVU5a1oydjgycUdIWXFPY1NYR1d3MHNEbDFfMjJMTGhzMEFOaDZ2UmdsQXZlOXB3WTEzSFotcHpRclpNMFdZNXRqMUJBck5kbEphSTBUZWJsRGNLUWJtUTFFQ2dRR01JRmN3LVNVRXFMUW9VMGF3dW5raXowYnRKeVFjVDNESjZHbVRHWXl5eWROdjhfTlBwOFE?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "softbank-2026-11-17-027",
+    "date": "2026-11-17",
+    "companies": [
+      "softbank"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SoftBank Group Corp. (9984.T) interactive stock chart - Yahoo Finance Singapore",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pLUI0ZzhreDVGWXV4R0NBTDVsbTMtc2ZYNEluSEdTcldHam9DNGpjcUQ2NEV2WV9QSWozdXRGNXk3dTJDRzJPcG5NdHU3VnRhMV9ULTdsUjBSRXI1?oc=5\" target=\"_blank\">Sof",
+    "sources": [
+      {
+        "name": "softbank",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5pLUI0ZzhreDVGWXV4R0NBTDVsbTMtc2ZYNEluSEdTcldHam9DNGpjcUQ2NEV2WV9QSWozdXRGNXk3dTJDRzJPcG5NdHU3VnRhMV9ULTdsUjBSRXI1?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-11-17-028",
+    "date": "2026-11-17",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "SBA Communications (NYSE:SBAC) Share Price, Forecast & Analysis - Stocks Down Under",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xMGdLR3JpLWl6QS1hb1BxYWRwaU5tQVdTRTlncVhudDFmYi1hZVFtSjdKQ3ZOM3VsT2pibi1iV3pIcGpHNUpmdFE2R0JxZ1UyRGRoZ0JiWjc3RUVtc281V2czYmpYQQ?oc=5\" targe",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9xMGdLR3JpLWl6QS1hb1BxYWRwaU5tQVdTRTlncVhudDFmYi1hZVFtSjdKQ3ZOM3VsT2pibi1iV3pIcGpHNUpmdFE2R0JxZ1UyRGRoZ0JiWjc3RUVtc281V2czYmpYQQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "sba_comm-2026-11-17-029",
+    "date": "2026-11-17",
+    "companies": [
+      "sba_comm"
+    ],
+    "topics": [
+      "earnings"
+    ],
+    "impact": "neutral",
+    "title": "SBA Communications Slides as Investors Weigh Softer Revenue Trends and Higher Financing Costs - Quiver Quantitative",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPbHNMbDF4cFFyMDlHTEhPcU5DNVViUXhBVmpCai00dFhQSG1EeFluaHZZcGFtejNGb1pjVkVHcXFzQmJ4NmVOU29uZ3lGWGZrcUFmdi1yVmJkZTducy0yaXo0VWVmOHJtZXFiNXhJRW",
+    "sources": [
+      {
+        "name": "sba_comm",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbHNMbDF4cFFyMDlHTEhPcU5DNVViUXhBVmpCai00dFhQSG1EeFluaHZZcGFtejNGb1pjVkVHcXFzQmJ4NmVOU29uZ3lGWGZrcUFmdi1yVmJkZTducy0yaXo0VWVmOHJtZXFiNXhJRW1fTUVZWXpfRDRyU3hoTFQ4MkFWUzRoVmJUT1E3aXp6VEo4WlFVM0pyN1RtWm1SMGVhU3lZY0p3Nm9iQVF4amFRb3VsaTVIRzJpaWV1UTlld2FobFhh?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "equinix-2026-11-17-030",
+    "date": "2026-11-17",
+    "companies": [
+      "equinix"
+    ],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "positive",
+    "title": "Can Equinix (NASDAQ:EQIX) Ride Data Center Demand To Fresh Records? - Kalkine Media",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVUw3MHFORnFRUVRZeVhEcm5jQlJOYmdxcFVZNTFrOWg5eDhXUkhvYzlqLXlUaHZqb1JnamNqMUsyV3M2UTFTSjdlNWRPazlGTU1jX1VJOHNJdWlQVDRjRFhac0EzR0gyanBVSDViZV",
+    "sources": [
+      {
+        "name": "equinix",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVUw3MHFORnFRUVRZeVhEcm5jQlJOYmdxcFVZNTFrOWg5eDhXUkhvYzlqLXlUaHZqb1JnamNqMUsyV3M2UTFTSjdlNWRPazlGTU1jX1VJOHNJdWlQVDRjRFhac0EzR0gyanBVSDViZVBEbzEzQndGMUkzN0pmUVR2M2VIQ3pMMEl4TGFBVTIzbkJCTEhsdkZmb0RQbWFoNUswMDgtWFJkUU91UjNYQWhicFhiR0xxWWp1QUZ4TkFmT05iMnhkbTRFeA?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-031",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Workers at AT&amp;T fiber JV threaten to strike",
+    "summary": "Communications Workers of America said workers at Forged Fiber 37 – a JV formed via AT&amp;T's acquisition of Lumen's fiber assets – have voted to authorize a strike as negotiations continue. #pressre",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/broadband/workers-at-at-t-fiber-jv-threaten-to-strike",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-032",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "fiber_buildout",
+      "industry_general"
+    ],
+    "impact": "negative",
+    "title": "Cable One skips $10M interest payment as Mega Broadband deal drags on",
+    "summary": "In the wake of a recent Chapter 11 warning, Cable One delayed a $10 million loan payment and faces a possible NYSE delisting – all while its Mega Broadband deal remains tangled in court until at least",
+    "sources": [
+      {
+        "name": "light_reading",
+        "url": "https://www.lightreading.com/finance/cable-one-skips-10m-interest-payment-as-mega-broadband-deal-drags-on",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-033",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Jio Leads India Mobile Network Reliability and 5G Download Speed; Airtel Maintains Narrow Lead in 5G Availability - TelecomLead",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZE1sQVhQdUxyeXRHS2NmRUl2dkd0dmxnSjdScXlXVnhobllpVU54Z0JMd1Y2Z3A0QTliX2FGZlZ1RHRZQU9KTjBfMlNVNnhtZGdqVUhxc1N4Q24ySEdPSkRXcHFXcEFqWkJ1b09aVU",
+    "sources": [
+      {
+        "name": "google_news_5g",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZE1sQVhQdUxyeXRHS2NmRUl2dkd0dmxnSjdScXlXVnhobllpVU54Z0JMd1Y2Z3A0QTliX2FGZlZ1RHRZQU9KTjBfMlNVNnhtZGdqVUhxc1N4Q24ySEdPSkRXcHFXcEFqWkJ1b09aVUgza0hBalFNSXVCajAxRzJoa01VejhqMUFvaDVWOFBOT3VjcDBkYUJScm43SlNQZzg0ODhnUHNwYXAxd2JYbll4QlNlSW1MeWNvanNLci1uTjZPVjBoUTI0TXNlamhXUExnM2g1WHdpSTNKMk50cUhB0gHnAUFVX3lxTE9vdzNfNEI5QlU2Q2VHUTl0eVgzQzNOb3Utc1VqT2JuT1ZHbFkwUEhwdDJOZWMxUzAtWmxtbEQ3VjB1NnJfWnp2WE92TWxSTHBKR0YzcWdINlFDRXNBc3RZakQxb1lkY3lrRFhBS3I0eXZMQWhkYWplTzFrc1Q2Qk1WTGRmODRQNVpMTUlHaVFlN3EwRGt5LVZlbkw0dWJKcG50OUhpY3VqdmNELXJ3YlRfYzlUekZyVVFqaU1WZXBSalh0UW5Zd01nRGZKVVpMSU1zRVlvSjJoazY2MFpnOURDeTdRYTVzVQ?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-034",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "FBI warns hackers weaponizing ARTEX AI framework to automate attacks on energy, manufacturing, telecom - Industrial Cyber",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTVJWX0dmMTJScDVMTFpLOUx2ZDRaUldIYzM0NllCV3lfNjI5NVctZ1hVbVNPRHNFeDN0VW1jZ01uYVBUUWVDd3oxcVVNNGk0UElOUzd2bW53dVQzLXhoX0pnam1OTFNtTjlreVVqa2",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTVJWX0dmMTJScDVMTFpLOUx2ZDRaUldIYzM0NllCV3lfNjI5NVctZ1hVbVNPRHNFeDN0VW1jZ01uYVBUUWVDd3oxcVVNNGk0UElOUzd2bW53dVQzLXhoX0pnam1OTFNtTjlreVVqa2NyUTFNMTBRNktlbDF6eUJ3czF4N2xTd3I0ck5KSWlLdlhaMGc0aTg5MFZtQ3VacU9xa3M2bVhDQUZJUjNESjZqUVBUVUk3a29MUU5GSVk0cFQzMnViaGczcnR1V3ozYlZaN0tpUGQ1VHAtRFgwZkZ2dW9KZlY3UkRS?oc=5",
+        "type": "rss"
+      }
+    ]
+  },
+  {
+    "id": "unknown-2026-11-17-035",
+    "date": "2026-11-17",
+    "companies": [],
+    "topics": [
+      "industry_general"
+    ],
+    "impact": "neutral",
+    "title": "Telecommunications analysts cast doubts on Quebecor-Telus merger - BNN Bloomberg",
+    "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQYnlNUmJYeUZjcWdRbTdweWY5UUtEaXBtbmh4VEFjb19HUk5MaUVDUlpFRkxkNlNKZWhFOFJTRXQ0VWVlNmQ0TDc0ejg0T3pOYXVETWxuTEhRc3Y1VEFwNDN0V3hYdVltRzJnVVUyMn",
+    "sources": [
+      {
+        "name": "google_news_telecom",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYnlNUmJYeUZjcWdRbTdweWY5UUtEaXBtbmh4VEFjb19HUk5MaUVDUlpFRkxkNlNKZWhFOFJTRXQ0VWVlNmQ0TDc0ejg0T3pOYXVETWxuTEhRc3Y1VEFwNDN0V3hYdVltRzJnVVUyMnBFNkdPd0RfV1Bqa2RFRlRmTWd1dmhDTXZTUHdxVnBEdTZiRGM4QndQcE9PelZnMkhmdWpJTEpxdXpMQlZPeDE5ZFdOeWZJZ19VOG81dHdZenh3dXpJSDBWNTFHUVAtUQ?oc=5",
         "type": "rss"
       }
     ]

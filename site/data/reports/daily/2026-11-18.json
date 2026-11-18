@@ -1,0 +1,246 @@
+{
+  "date": "2026-11-18",
+  "generated_at": "2026-11-18T16:52:39.967949Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "sba_comm-2026-11-18-009",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Why Is SBA Communications (NASDAQ:SBAC) In Focus After Strong Quarterly Results? - Kalkine Media",
+      "companies": [
+        "sba_comm"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdUtUSmM1ZFZ3TmtXeTRqZXlpcnlxMmlKcHEzZXFrNXZ3alF2LWlhZndZUi1QdXozczk5ZnE2djBMNkppSERNYkREYlFnWE5ZWnZyR0xCS2FycmZnVFpJRnhSemFqWXJ0OFROLUVQdkY0ZXg4bXlnUUI4N1c3SWFlNkFtNVBPWkdSRjBHekktd3lrUlRjSVhLUGd4Z284RWx2dUlTWVZNb1liTmdjZUNnRlNyS3A0R1RkTWVoLTF2QjM3Z2lmRGVJNmprSmZ5eGhkSWZwZEI1aG9Ldw?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-18-022",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "New shoots, deep cuts – are telcos back in business? (Telco Diary)",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://rcrwireless.com/20261118/opinion/new-shoots-deep-cuts-are-telcos-back-in-business-telco-diary"
+    },
+    {
+      "rank": 3,
+      "event_id": "nokia-2026-11-18-023",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Vendor Bytes: Ciena, Packetlight, Nozomi, Nokia",
+      "companies": [
+        "nokia",
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://api.follow.it/track-rss-story-click/v3/3xQfXjxpBaX2A-sT5gNGqKdj5xVOforT?utm_source=follow.it"
+    },
+    {
+      "rank": 4,
+      "event_id": "ceragon-2026-11-18-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ceragon Networks (NASDAQ:CRNT) Share Price Breaks Below 200 Day Moving Average - Here's What Happened - MarketBeat",
+      "companies": [
+        "ceragon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOXg2eW9WMkx6X1hwd1Z2RklvQzNZUDU5czQxOG50c0Q2b1FOWkhPWVZBRWgwWmZOWVA5dmhMVjM4S2lBR2JmTFlGMkxEa1Q5c0lRV1VWYnRQcmFrcG1IVmI4R2ptNnJlb0hoVFR1UVdGcU9RM3psZHhHUGlGUFZpUmcxYnBGaFczbzZSMEhwX2toQklOdXdDUGtjelVYUzg5M2JQbU1YTUVfVnZFMUl2Yjk1MWdvLXZpM25YTnRGUFotYW9CQWswamV2RW9WWkFzbF9PaTBDZzBtYkpqZXJvd1hNbTA5ZWx2YmlORg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ciena-2026-11-18-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena: Data Transmission Moat At A Discount (Rating Upgrade) - Seeking Alpha",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRWJHZHdhbjk4S1JrbTdEdHl2S1NYTHhvek9oOHUyQ0JoajlLLWt2VGIwT1FoeWlTYkhHa1NpVl9yWFdZLXoxTXVlcHg2ZHhYcmlibUprU1JhajhQYl9XeEJpX2NQUk93eU5OaG1GRGdBaHRCb0R5ZUF3ZGVrNFhaaDl2QkJHZW14TjJ0cFpBd1R5a3pNRUE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.04,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.25,
+      "sentiment_7d_avg": null
+    },
+    "spectrum_auction": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 28,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 26,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "deutsche_telekom",
+        "count": 4
+      },
+      {
+        "id": "ciena",
+        "count": 3
+      },
+      {
+        "id": "nokia",
+        "count": 3
+      },
+      {
+        "id": "sba_comm",
+        "count": 2
+      },
+      {
+        "id": "ericsson",
+        "count": 2
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 25
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "spectrum_auction",
+        "count": 1
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 310,
+    "dup_title": 163,
+    "too_old": 91,
+    "gate1_blocked": 10,
+    "gate2_blocked": 8,
+    "passed": 38,
+    "pass_rate": "25.9%",
+    "gate2_block_rate": "5.4%",
+    "gate2_samples": [
+      "CommScope Holding Co Inc (CM9.DU) Seasonal returns chart - Yahoo Finance UK",
+      "CIEN: Ciena Corporation filed SEC Form 8-K: Other Events - Quantisnow",
+      "Ciena falls 8%, dragged down by sector slide (CIEN:NYSE) - Seeking Alpha",
+      "Form 144 CIENA CORPORATION For: 15 November By Investing.com - Investing.com India",
+      "Ciena: My Hold Trigger Fired, And I'm Not Upgrading (NYSE:CIEN) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 28 則事件，焦點為德國電信、Ciena、諾基亞相關動態：「Why Is SBA Communications (NASDAQ:SBAC) In Focus After St...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Why Is SBA Communications (NASDAQ:SBAC) In Focus After Strong Quarterly Resul...（法說會）",
+        "level": "yellow"
+      },
+      {
+        "text": "New shoots, deep cuts – are telcos back in business? (Telco Diary)（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
