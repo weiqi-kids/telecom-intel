@@ -1,0 +1,265 @@
+{
+  "date": "2026-11-19",
+  "generated_at": "2026-11-19T16:59:34.179382Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-19-030",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India's telecom sector may sustain low-teens revenue growth despite tariff hikes every 2-3 years: Jefferies - ANI News",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNc3JBX2RwQWRCdVNKbVRtZmpFVVdxT3FQS1hha1hyeDFieVNMSEVYUENSSHJ5QWpZRENVVzdGSWFxTnBFVktZQXJWc2VrN2Y4YXI5SlIwbUtVZWttanYtb1VMb1pCS0ZzeXRjT3RabnJCMlFIRG1QQW10TzlKSjZGSEFmRkwtNXVKaVViZDBtSjVEYk5GcUc2QncxS1JxbUFlbjBDSXFDUWt4N1kwT2dBTFN3NzdIUG13RE1EcFhRMnVmNk5lSUlNRUlUalphMmRXZWJJOVdLNFBMQkxhU0c1TG13WTNLeWwzOHI3WQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "crown_castle-2026-11-19-010",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Dish settles with American Tower, but Crown Castle left out so far - Light Reading",
+      "companies": [
+        "crown_castle",
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ2xyTVJ3cldneXZtd2hXQmZMMWhRbHlnUnhiNEtROXN0N1JQdnM5QklFZmQ5N1VRX1lySVJrbzN5bXF2djFuaGxSc1NWbUQ3ZzJ2enJ0T1ZQLUZvQXpLbXRORmlXeC1jbnRvVkxiV1JXakN1azdybFZEYlotWlpCSjZGN1gyYkc1bzNtSk5ycWpwMFJPT1JpbXFVcmQ0ZjFSUTY0bQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "crown_castle-2026-11-19-012",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "DISH reaches $525 million deal with American Tower as Crown Castle says it got no calls in eight weeks - Wireless Estimator",
+      "companies": [
+        "crown_castle",
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQU216MGgzYUMwZnFPdzBHdTQ1ZVVlcFlRSHVSWEUtLUVqR3BXYzJQdi1xS2lsZGktQ3hCVGNVWWZNVkZ3R0hZVHJlU1UzdUFwMm1UczlQdHZEWEVILVB5MmpuWDB4YlVEOHk5WS1EWkpjR1YtWmM2dm9WSUQzbjhjemlueFZpcDFmZW5lZEJsX1FHWndNYWJQWjRsRV9Xdl9RSURwcV9JbzJXUEhXOWd6UjJST3Q0N1lNV0R2WkxpS2otOUo5eE8xNHhSNUctc0Ixc0ZZZFVRWVVnb09Hb0VR?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "crown_castle-2026-11-19-019",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Dish settles with American Tower, but Crown Castle left out so far",
+      "companies": [
+        "crown_castle",
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/finance/dish-settles-with-american-tower-but-crown-castle-left-out-so-far"
+    },
+    {
+      "rank": 5,
+      "event_id": "ericsson-2026-11-19-021",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Eurobites: Orange Spain to track cattle with Skylo's satellites",
+      "companies": [
+        "ericsson",
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": [
+          "ericsson"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/satellite/eurobites-orange-spain-to-track-cattle-with-skylo-s-satellites"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 29,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "5g_deployment": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [
+    {
+      "from": "american_tower",
+      "to": "crown_castle",
+      "relation": "co_mention",
+      "co_mention_count": 3,
+      "topics": [
+        "industry_general"
+      ]
+    }
+  ],
+  "stats": {
+    "total_events": 30,
+    "sentiment_distribution": {
+      "positive": 1,
+      "neutral": 29,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_tower",
+        "count": 9
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 7
+      },
+      {
+        "id": "crown_castle",
+        "count": 3
+      },
+      {
+        "id": "ciena",
+        "count": 2
+      },
+      {
+        "id": "ericsson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 29
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 3
+      },
+      {
+        "id": "5g_deployment",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 312,
+    "dup_title": 169,
+    "too_old": 86,
+    "gate1_blocked": 6,
+    "gate2_blocked": 10,
+    "passed": 41,
+    "pass_rate": "28.7%",
+    "gate2_block_rate": "7.0%",
+    "gate2_samples": [
+      "CIEN: Ciena Corporation filed SEC Form 8-K: Other Events - Quantisnow",
+      "Ciena falls 8%, dragged down by sector slide (CIEN:NYSE) - Seeking Alpha",
+      "Ciena: My Hold Trigger Fired, And I'm Not Upgrading (NYSE:CIEN) - Seeking Alpha",
+      "Deutsche Telekom advances sovereign AI in Germany: T.Capital Tech Fund invests in Mistral - Deutsche",
+      "Kreis Bergstraße brings AI to field work - Deutsche Telekom"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 30 則事件，焦點為AMT、德國電信、CCI相關動態：「India's telecom sector may sustain low-teens revenue grow...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "India's telecom sector may sustain low-teens revenue growth despite tariff hi...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Dish settles with American Tower, but Crown Castle left out so far - Light Re...（產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

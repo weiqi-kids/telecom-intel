@@ -1,0 +1,16 @@
+{
+  "total_raw": 312,
+  "dup_title": 169,
+  "no_date": 0,
+  "too_old": 86,
+  "gate1_fail": 6,
+  "gate2_fail": 10,
+  "passed": 41,
+  "gate2_samples": [
+    "CIEN: Ciena Corporation filed SEC Form 8-K: Other Events - Quantisnow",
+    "Ciena falls 8%, dragged down by sector slide (CIEN:NYSE) - Seeking Alpha",
+    "Ciena: My Hold Trigger Fired, And I'm Not Upgrading (NYSE:CIEN) - Seeking Alpha",
+    "Deutsche Telekom advances sovereign AI in Germany: T.Capital Tech Fund invests in Mistral - Deutsche",
+    "Kreis Bergstraße brings AI to field work - Deutsche Telekom"
+  ]
+}
