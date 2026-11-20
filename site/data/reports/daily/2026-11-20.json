@@ -1,0 +1,241 @@
+{
+  "date": "2026-11-20",
+  "generated_at": "2026-11-20T16:32:52.998449Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "american_tower-2026-11-20-009",
+      "importance_score": 0.9,
+      "importance_reasons": [
+        "涉及財報",
+        "情緒極端"
+      ],
+      "title": "Revenue Decline Might Change The Case For Investing In American Tower Stock (AMT) - Simply Wall St",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdHFUM2xGeUt6RTNsOTI5NGpHcVBydFNHMkRVbHp6SU1xTE5DdTVCNzU4bWZBOHFNVWxKbU44NFVzZXNOM3JDTHMtUFpnN2lDVkhESExMQmFZcDFWeENGX2w2MTRTazZVUTdOTVlnU0twYlY4VmdxQmFHY21wM1VSekF4dll5SU0wSDJxVE9FaElYVElpdGpJWERUSldvaG0xUmVMS2ZwTFZOU01TYXg3TGtsSGRRXzY0OHJCRTNWMjZfLWNnb1htOHNfT2FGUdIB0wFBVV95cUxNRHBMNlJRdTZMT1RmQ3ExU3cwSUpSRHMzZmhrQXJodmhhaDdlbzIxODBMdDR2ampKaEJXSXJWUzg1dFVlSzBFUTZxTVNsOGxKS3NXM2x4NmptbVVDTWVzOFZ2ODdtSVJmZVpaMm9jSElVU29hM1Y5NnBpOE8wN3BkbTg3M05lc1pDVXVPM1h3eVA1RzJDdGZwU08wb3BEWFBuZThzQXYybmJjcUNJWVJxbDhqYk96QVBuUTM3N25WTG1Hc0RSWVJtVTFqOS1nWnpTUVBv?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-20-018",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Kosovan Q3 telecoms market revenue rises 24% as mobile sector surges 30% - Telecompaper",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa2E1aUpKRG1jNlpESW9WZjk3N3A2OHd5WlVjUlJRTGItZUd2MVB0ajJrS3NDZ25ubzd4N2RGT0xILW51R2dmREpCRFd3OU8zTF9lUDdwMHZlVnBsbWhmRnNVemcybTFIX2l3NVptaTkzVjBlYUQ1aVBrbWlqN2tTcklHTkZqSDFHdjBCQUNDTWx0aFdFRzd3bjdYNFpvU3N4RlN0MEdsQVJobkl4UEtUc21qMA?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-20-021",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "India's telecom sector may sustain low-teens revenue growth despite tariff hikes every 2-3 years: Jefferies - Indiatimes",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQTWVhSlA1SV9aNGMtWU9PSkc3WFFYTFRpdkRGQ2xoai1GdU5VWnpab0hCeklkRGZvSDN0a0d2Mi1WazZnUGhSN2VpSmtwY1NBS2gwcFFXdnZ1Q25xRUh3ZzAtb3hscEpoQUx3MExtN2JMLXk0bnJISGdyQXZRbVhJeUlic3lSOVpQaHRZZVYydVFJNkxvZzlnT2NkcFNnRklOOUVtVWlUYXB2MnhxVnRkeWlTMEhEamRURmFGcVJtdldrWUdRRmJvVjJqQUhFMXZpUTE0aWQ3WXhiSlk0TFlZTW5yTlF3anEzLXg2dmhxTzYzUERXMkJqZnE4cUZKS0pqYzNtVNIBigJBVV95cUxNM20wS2o1Mkh4cGZYRWNtYkNMZUtXVmc2bk9UNTZGUW1OM0c1R2tPMkpDR3JTV2VLa2JzdjFVQlVnMzh5Y1picXVrNDFwSVliMElMelo5OS1rRUtPVXRBLVVaUGVmWnFLYWNLTjlqNmVOWXNkSFNtMjEyT0dRc3liZVd5bTZaNEx3TG5IU1BPTzljV1JUU1RtaUxTU0tKZ3R6MlBNdkE1dFlyR3dJUGo1LU1xY2FpUWNPVS1VbGVpcVhuTGxTTy1GQkc5b3ppaF9hMzRUOFB1ZlJOVG9PWlFYMHh4UVRITHV2ZkxCZm55cC04SzRkMmZDeTRwM3Q5WUlUZnNYbjRCMk9FZw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "crown_castle-2026-11-20-006",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "Crown Castle vs. American Tower: Higher Yield or Better Dividend Growth - 24/7 Wall St.",
+      "companies": [
+        "crown_castle",
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMHg4cGdxYm82eGxmcWp6aHU1TkhZVnU4cHR0MHc2aHpLeEFCMjB2RDlxUU9paGVKczZrU2xMRTFMaDU3WGxjbGVZZVg0OHh0U1dOVWNxYTJjNmJkaEx1azNNeDJVVEYzeGhYbHJ1eE5qNzM4SjRwVWJNemVZNU1QVTJRZGhESVZzRnViNmVkTUQyNHl2OVNXYnVWRE5NRUNZSXdyR0xfbVdYSk1fTWtpemgxWQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "deutsche_telekom-2026-11-20-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom unit pumps €100M into Mistral AI - Mobile World Live",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVkFhd3N3YTJLUUNjenhJTkhuZzI1UDd6bUlnVGtOWnlKUEF3THBNWDZfaWNQZVFTaV9oZHQxYkVKODFfSWxtTUR0Y1FRUWJWaERqTVNuUjktTUZ4WUpZT1QxTlc5a3ByRldrcHdTVnc3NEtDVW5wZmdOZERuSzB2N0IyRW9VdndnUGJnRS01TXVRZUxYN0E?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 21,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.02,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.17,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "spectrum_auction": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 23,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 19,
+      "negative": 2
+    },
+    "top_companies": [
+      {
+        "id": "deutsche_telekom",
+        "count": 5
+      },
+      {
+        "id": "american_tower",
+        "count": 4
+      },
+      {
+        "id": "crown_castle",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 21
+      },
+      {
+        "id": "earnings",
+        "count": 3
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 2
+      },
+      {
+        "id": "spectrum_auction",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 313,
+    "dup_title": 153,
+    "too_old": 101,
+    "gate1_blocked": 3,
+    "gate2_blocked": 13,
+    "passed": 43,
+    "pass_rate": "26.9%",
+    "gate2_block_rate": "8.1%",
+    "gate2_samples": [
+      "Nokia Falls 3.4% in a Week as AI Growth Collides With Cash Flow Risks - Yahoo Finance",
+      "Ciena slides 9% amid broad tech weakness (CIEN:NYSE) - Seeking Alpha",
+      "CIEN: Ciena Corporation filed SEC Form 8-K: Other Events - Quantisnow",
+      "Ciena falls 8%, dragged down by sector slide (CIEN:NYSE) - Seeking Alpha",
+      "Ciena: My Hold Trigger Fired, And I'm Not Upgrading (NYSE:CIEN) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 23 則事件，焦點為德國電信、AMT、CCI相關動態：「Revenue Decline Might Change The Case For Investing In Am...」。主要關注主題為產業通用、法說會、光纖建設，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Revenue Decline Might Change The Case For Investing In American Tower Stock (...（法說會、產業通用）",
+        "level": "red"
+      },
+      {
+        "text": "Kosovan Q3 telecoms market revenue rises 24% as mobile sector surges 30% - Te...（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
