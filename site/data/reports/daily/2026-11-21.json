@@ -1,0 +1,191 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T15:50:50.689036Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ericsson-2026-11-21-004",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Saudi telecom operators look beyond data revenue as 5G advances: Ericsson - Arab News",
+      "companies": [
+        "ericsson"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcF9CeHIwb2gybkNKaUx6OWczUWNpbG1kaHNpZjFaZ0RRVFg4amE3NnhweEE1MTFzQmZxWXJELVpCNmt4SlR1RUNVWUFaR1c3N2t3WFhRR2UxcUVtX3JlbDR2MTcyZl9EMmZ4dVdaN2UxX0FaM2pHaFJ2WTg3ZnktN2Znd3N0UjFmSG50cVFadWJydzNHZWI0dG5ETXBZVFBoQ25aNVE1eVhFdkZzQXlJdzB4WG8?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ciena-2026-11-21-002",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "InvestingPro spotted Ciena’s overvaluation before 53% decline By Investing.com - Investing.com",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX2F0N2FEeW5wdWk0aDFaTWlSSW4ya2haQndTY1ZROE5JaDlDWk9hVDZHR3c3azdVekFTQWpkeU40dzJNSGthX2ozWmRrMTBwOExkR05NX2ZkbDJfYmw3X3BwZkM3ZDhVOS1uTERTcFZxWWNBSzI3SDdCS2ZSYkVhVHZKQllScEpoWHNYR1RjbXJHOUVhTU5zVWFraEhjTVBfdDBXX3RTZER0TkkwY2lQSTlrWTRTNktab0VKSw?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nokia-2026-11-21-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia Corporation $NOK Stock Sold by Allspring Global Investments Holdings LLC - MarketBeat",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLTUwempITkxqbDNSMkZQempJV3lyZU42NkNhUU9xYXpzOGJYZng2NWY2elJubDZselZ4T1ZPX3pQa2lmOVg0SGRsTTJDcndxeGoxMk0xZ1l6NWJMQVVpOGktam54VmhROURWdW40WWxJNXpfazZYSmMwNi1PbE5tYXJseGpXclNFbTNHcDJHZUk2dEJpV2pmZU0tWVd2ZllHci1aUFhHdDhuckYzUklXVkN3eTNTU0JGelZyNEdKVW1mNjRRT0VzekJaajJhMnl1cDV2Sg?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "american_tower-2026-11-21-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Barrow Hanley Mewhinney & Strauss LLC Sells 265,126 Shares of American Tower Corporation $AMT - MarketBeat",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUktnbUxiSlhmXzdFRVpSTVM3eUhxQkZSRHFjZ3kxX1FaOFZpcEZ0M09BVVZEQ3hTQXczWXJYWVZJTnlOd1g5SE9mZFcwXzQtc2V1b09Pb250UEVPd1V2blJ0ekRlTmd2dFRkc05HQTJoYkdJamJfNkZ4UjNOYWlYRldrUzlaYWhOMUl0UFpJQ3ptdlFvcG5WVlNWbXNMSk1KS2hiYUN3NTk2S1J3V2FTTVJOOE52cmF0OFRQWWV2RGdaZ2NaV2FZbDJkWXJvZ3lyWWJzMjcxUllxLWtFODBUY1FVdGQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 4,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": -0.25,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 4,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "nokia",
+        "count": 1
+      },
+      {
+        "id": "ciena",
+        "count": 1
+      },
+      {
+        "id": "american_tower",
+        "count": 1
+      },
+      {
+        "id": "ericsson",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 4
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 312,
+    "dup_title": 170,
+    "too_old": 108,
+    "gate1_blocked": 6,
+    "gate2_blocked": 11,
+    "passed": 17,
+    "pass_rate": "12.0%",
+    "gate2_block_rate": "7.7%",
+    "gate2_samples": [
+      "Ciena slides 9% amid broad tech weakness (CIEN:NYSE) - Seeking Alpha",
+      "Ciena falls 8%, dragged down by sector slide (CIEN:NYSE) - Seeking Alpha",
+      "Form 144 CIENA CORPORATION For: 15 November By Investing.com - Investing.com Australia",
+      "Ciena: My Hold Trigger Fired, And I'm Not Upgrading (NYSE:CIEN) - Seeking Alpha",
+      "Deutsche Telekom advances sovereign AI in Germany: T.Capital Tech Fund invests in Mistral - Deutsche"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 4 則事件，焦點為諾基亞、Ciena、AMT相關動態：「Saudi telecom operators look beyond data revenue as 5G ad...」。整體情緒偏負面，需留意潛在風險。",
+    "signals": [
+      {
+        "text": "Saudi telecom operators look beyond data revenue as 5G advances: Ericsson - A...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "InvestingPro spotted Ciena’s overvaluation before 53% decline By Investing.co...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

@@ -1,0 +1,195 @@
+{
+  "date": "2026-11-21",
+  "date_range": {
+    "start": "2026-11-15",
+    "end": "2026-11-21"
+  },
+  "generated_at": "2026-11-21T15:50:50.817120Z",
+  "highlights": [
+    {
+      "rank": 1,
+      "type": "top_event",
+      "event_id": "american_tower-2026-11-20-009",
+      "date": "2026-11-20",
+      "title": "Revenue Decline Might Change The Case For Investing In American Tower Stock (AMT) - Simply Wall St",
+      "importance_score": 0.9
+    },
+    {
+      "type": "emerging_relation",
+      "company_a": "american_tower",
+      "company_b": "crown_castle",
+      "co_mention_count": 5,
+      "rank": 2
+    }
+  ],
+  "anomalies_7d": [],
+  "topic_7d_summary": {
+    "industry_general": {
+      "this_week": 133,
+      "last_week": 152,
+      "week_over_week_change": "-12%",
+      "sentiment_this_week": 0.0
+    },
+    "earnings": {
+      "this_week": 10,
+      "last_week": 25,
+      "week_over_week_change": "-60%",
+      "sentiment_this_week": 0.02
+    },
+    "fiber_buildout": {
+      "this_week": 10,
+      "last_week": 5,
+      "week_over_week_change": "+100%",
+      "sentiment_this_week": -0.0
+    },
+    "tower_consolidation": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    },
+    "spectrum_auction": {
+      "this_week": 2,
+      "last_week": 3,
+      "week_over_week_change": "-33%",
+      "sentiment_this_week": 0.0
+    },
+    "5g_deployment": {
+      "this_week": 1,
+      "last_week": 0,
+      "week_over_week_change": "N/A",
+      "sentiment_this_week": 0.0
+    }
+  },
+  "company_7d_summary": {
+    "american_tower": {
+      "event_count": 20,
+      "sentiment_avg": -0.02,
+      "rank": 1
+    },
+    "equinix": {
+      "event_count": 6,
+      "sentiment_avg": 0.09,
+      "rank": 5
+    },
+    "nokia": {
+      "event_count": 10,
+      "sentiment_avg": 0.0,
+      "rank": 3
+    },
+    "ciena": {
+      "event_count": 9,
+      "sentiment_avg": -0.11,
+      "rank": 4
+    },
+    "deutsche_telekom": {
+      "event_count": 18,
+      "sentiment_avg": 0.03,
+      "rank": 2
+    },
+    "softbank": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 9
+    },
+    "sba_comm": {
+      "event_count": 5,
+      "sentiment_avg": 0.0,
+      "rank": 7
+    },
+    "tmobile": {
+      "event_count": 2,
+      "sentiment_avg": -0.25,
+      "rank": 10
+    },
+    "ericsson": {
+      "event_count": 6,
+      "sentiment_avg": 0.0,
+      "rank": 6
+    },
+    "ceragon": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 12
+    },
+    "verizon": {
+      "event_count": 2,
+      "sentiment_avg": 0.0,
+      "rank": 11
+    },
+    "crown_castle": {
+      "event_count": 4,
+      "sentiment_avg": 0.12,
+      "rank": 8
+    },
+    "taiwan_mobile": {
+      "event_count": 1,
+      "sentiment_avg": 0.0,
+      "rank": 13
+    }
+  },
+  "comparisons": {
+    "vs_last_week": {
+      "event_count": {
+        "this": 221,
+        "last": 264,
+        "change_pct": -16.3
+      }
+    }
+  },
+  "daily_breakdown": [
+    {
+      "date": "2026-11-15",
+      "event_count": 9,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-16",
+      "event_count": 54,
+      "sentiment_avg": 0.01
+    },
+    {
+      "date": "2026-11-17",
+      "event_count": 39,
+      "sentiment_avg": 0.06
+    },
+    {
+      "date": "2026-11-18",
+      "event_count": 39,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-19",
+      "event_count": 41,
+      "sentiment_avg": 0.04
+    },
+    {
+      "date": "2026-11-20",
+      "event_count": 35,
+      "sentiment_avg": 0.0
+    },
+    {
+      "date": "2026-11-21",
+      "event_count": 4,
+      "sentiment_avg": -0.25
+    }
+  ],
+  "llm_analysis": {
+    "summary": "本週（2026-11-15 ~ 2026-11-21）共 221 則事件，重點為「Revenue Decline Might Change The Case For Inves...」。T-Mobile情緒偏負面，建議留意相關風險。",
+    "watchlist": [
+      {
+        "company": "T-Mobile",
+        "reason": "本週情緒偏負面（-0.2），共 2 則相關事件，需關注後續發展。"
+      },
+      {
+        "company": "AMT",
+        "reason": "本週出現 20 則相關事件且情緒偏負面，需特別關注。"
+      },
+      {
+        "company": "Equinix",
+        "reason": "本週出現 6 則相關事件，為高關注企業，動態頻繁。"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

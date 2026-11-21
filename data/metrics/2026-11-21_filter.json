@@ -1,0 +1,16 @@
+{
+  "total_raw": 312,
+  "dup_title": 170,
+  "no_date": 0,
+  "too_old": 108,
+  "gate1_fail": 6,
+  "gate2_fail": 11,
+  "passed": 17,
+  "gate2_samples": [
+    "Ciena slides 9% amid broad tech weakness (CIEN:NYSE) - Seeking Alpha",
+    "Ciena falls 8%, dragged down by sector slide (CIEN:NYSE) - Seeking Alpha",
+    "Form 144 CIENA CORPORATION For: 15 November By Investing.com - Investing.com Australia",
+    "Ciena: My Hold Trigger Fired, And I'm Not Upgrading (NYSE:CIEN) - Seeking Alpha",
+    "Deutsche Telekom advances sovereign AI in Germany: T.Capital Tech Fund invests in Mistral - Deutsche"
+  ]
+}
