@@ -1,0 +1,16 @@
+{
+  "total_raw": 313,
+  "dup_title": 185,
+  "no_date": 0,
+  "too_old": 107,
+  "gate1_fail": 4,
+  "gate2_fail": 9,
+  "passed": 8,
+  "gate2_samples": [
+    "Ciena slides 9% amid broad tech weakness (CIEN:NYSE) - Seeking Alpha",
+    "Ciena: My Hold Trigger Fired, And I'm Not Upgrading (NYSE:CIEN) - Seeking Alpha",
+    "Deutsche Telekom advances sovereign AI in Germany: T.Capital Tech Fund invests in Mistral - Deutsche",
+    "Kreis Bergstraße brings AI into the field - Deutsche Telekom",
+    "Deutsche Telekom’s Tech Fund Invests $110 Million in Mistral AI - WSJ"
+  ]
+}
