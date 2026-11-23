@@ -1,0 +1,229 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T19:42:30.880222Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-23-017",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Best RAN growth in five years, but 5G outlook remains flat (Telco Diary)",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://rcrwireless.com/20261123/opinion/best-ran-growth-in-five-years-but-5g-outlook-remains-flat-telco-diary"
+    },
+    {
+      "rank": 2,
+      "event_id": "nokia-2026-11-23-016",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Nokia tie-up with Nvidia on AI-RAN gets warning from Orange CTO",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "negative",
+        "score": -1.0
+      },
+      "source_url": "https://www.lightreading.com/5g/nokia-tie-up-with-nvidia-on-ai-ran-gets-warning-from-orange-cto"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-23-018",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Keysight wireless orders grow on 6G, satellite and AI infra demand",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://rcrwireless.com/20261123/6g/keysight-wireless-6g"
+    },
+    {
+      "rank": 4,
+      "event_id": "ciena-2026-11-23-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena vs. Cisco: Which Optical Networking Stock is the Better Buy? - TradingView",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWTR2eTFGTldYS2dZRVd4R3hxeVZPRnN4ZzdfdzljZDhCcF8zeGt1djBoMnE2N2FtRW9RVDJoQnV5OFotdzRESnN3Z01BeHl1YVZqZ1ZaRUk2UU0ySzVrcUhYTjBvaXpTLXYtSzFiRU1odzNaUGVab2o4eENBOGJzOTduNXVueGpES216UmxuanFFUGMxbXBmLUpQa3BqemVKd0dnSlFfN1pMcG1qNThlSXZ4VG8wR0ZkS3A4?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "ciena-2026-11-23-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "6,734,169 Ciena Corporation $CIEN Shares Sold by State Street Corp - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYkFVZVlCNjdOclpkQUh0NzVEM2JCOERWTFo2V3dCZ3J5VWEtcFJrLVhKTzN3d3ZKSzVLeUlXYndKTms0TWpYc3h4YzFhdDBQYTctVXNHck1DemJ6RFZsQmVjV2lJUnJKcVVOcjNOUjBnS01TWGVha3I2anotdmd3dVJwNnUxMzlzUTIxMlZ1U29nQW5rX0p4c1ZyUERXUGJlNkhnTVhWWUp2NDhlUjlVWl9pdzJfa3BEeTNBWU8wajFpQQ?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 25,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.02,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "tower_consolidation": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 25,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 22,
+      "negative": 1
+    },
+    "top_companies": [
+      {
+        "id": "american_tower",
+        "count": 8
+      },
+      {
+        "id": "ciena",
+        "count": 2
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 2
+      },
+      {
+        "id": "sba_comm",
+        "count": 1
+      },
+      {
+        "id": "nokia",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 25
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "tower_consolidation",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 301,
+    "dup_title": 157,
+    "too_old": 106,
+    "gate1_blocked": 6,
+    "gate2_blocked": 6,
+    "passed": 26,
+    "pass_rate": "18.1%",
+    "gate2_block_rate": "4.2%",
+    "gate2_samples": [
+      "Ciena slides 9% amid broad tech weakness (CIEN:NYSE) - Seeking Alpha",
+      "Deutsche Telekom advances sovereign AI in Germany: T.Capital Tech Fund invests in Mistral - Deutsche",
+      "Kreis Bergstraße brings AI into the field - Deutsche Telekom",
+      "Deutsche Telekom AG: Release of a capital market information - MarketScreener",
+      "Deutsche Telekom’s Tech Fund Invests $110 Million in Mistral AI - WSJ"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 25 則事件，焦點為AMT、Ciena、德國電信相關動態：「Best RAN growth in five years, but 5G outlook remains fla...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Best RAN growth in five years, but 5G outlook remains flat (Telco Diary)（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Nokia tie-up with Nvidia on AI-RAN gets warning from Orange CTO（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
