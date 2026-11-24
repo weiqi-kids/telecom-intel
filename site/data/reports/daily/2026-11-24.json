@@ -1,0 +1,255 @@
+{
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T19:15:52.785728Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ceragon-2026-11-24-002",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Ceragon Networks: Orders Are Flowing, But Sustainable Profits Remain Elusive (NASDAQ:CRNT) - Seeking Alpha",
+      "companies": [
+        "ceragon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ2pCb0NNSkktbDlCbEtKME9XRWVRR0RSUlpBbnZRSi1SdGFaSWR6UGhHR0dxSVZIWGNqN1RMaFpkX0xGRVdibV8zR2o0U1lVb19CTElzLXJIN2RMdkczc3pFVU1Dckl4WnhvVzNjdlVRUHpDbGRUXzE2NGRzdkZ2ZWl5VjliOEZldFFfbHZDZzRua0RHcGtrMmVUTDlfbWNkbUZpTmVjZlRzMkFHc0s3Z0V4Tks3UQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "ceragon-2026-11-24-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Form 4 CERAGON NETWORKS LTD: Ronen Ben-Hamou (Chief Revenue Officer) For: 23 November By Investing.com - Investing.com India",
+      "companies": [
+        "ceragon"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPajgtYUR3ZVF4bUVKOF9pVGlSdUVFSVItRnVmM21RZEdfcXhORlVCenVfQmF6bUhFX3ZaY1BhQkJuSW9zcDVMMFY5bWd6ZUxwQnhVbWlmRlFEaUxvSm1NMDRnS1BlcTBRbWhpQ3VVeTByR1AxempmTFk5YmZrZlFpQ1JuNHlZaGRYU0ZHNmVaanBMZk1vUF9zZ1pfc3htbUdQUFlRYW1XeEtMUGtOM2Y2b1pjaG96blg0eXlsXzNTcXc3SEFaTnIxQzZ4b1hwSFd4T1BwY0l3VlY?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "nokia-2026-11-24-025",
+      "importance_score": 0.7,
+      "importance_reasons": [
+        "多公司提及"
+      ],
+      "title": "T-Mobile pushes ahead with AI-RAN toward 6G",
+      "companies": [
+        "nokia",
+        "tmobile",
+        "ericsson"
+      ],
+      "related": {
+        "customers": [
+          "tmobile"
+        ],
+        "suppliers": [
+          "nokia",
+          "ericsson"
+        ]
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://www.lightreading.com/ai-machine-learning/t-mobile-pushes-ahead-with-ai-ran-toward-6g"
+    },
+    {
+      "rank": 4,
+      "event_id": "chunghwa-2026-11-24-039",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Chunghwa Telecom Posts Record October Financial Performance - Telecom Review Asia",
+      "companies": [
+        "chunghwa"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUERPejhOaUFIUGtJUlFNWTluR1l2eEZMM3E5T21wM2hwWGRSMW9CRmk5Ql9WdzgyTmVoUTBFeGNyVHlpNGdyMVZFSXhITzk4SGJpTTdQM3J1OUdjcXVyeEdSN3RYY0xtOEhPdzdaaWZ6dk5Cck5MbUp0VnNHQUFoVHV1ZGZxeDlScTZyd3AyelZVdFVyRUd1UHlxSkxHcWdIOUcxYnlWS2FPR1BDVmhNd2RDWTA1akN1RUFF?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "nokia-2026-11-24-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia Slides as Nvidia Stake Cut Appears to Weigh on Sentiment - Quiver Quantitative",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWENYZ29zLXk5blNiN2N0ZU9Xd1ByeG11TGczUnJnYmhoa2JEdTBWdTdudmJ2MEo0X1JUNGpseTVKS21vanFiaU14M2ptREpkUWwyemFGY3ZBY1JKeldWd2x0TDl0ZW50S0E5TE9nV1pHTkJNWTZBS2taT0NMd3VYUGQ1M1FCZmxRdVJ0NHlmQmROZzQzUmR3R29fNA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 2,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 37,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.05,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    },
+    "5g_deployment": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 41,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 38,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ceragon",
+        "count": 6
+      },
+      {
+        "id": "nokia",
+        "count": 4
+      },
+      {
+        "id": "american_tower",
+        "count": 3
+      },
+      {
+        "id": "ericsson",
+        "count": 2
+      },
+      {
+        "id": "ciena",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 37
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 3
+      },
+      {
+        "id": "earnings",
+        "count": 2
+      },
+      {
+        "id": "5g_deployment",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 313,
+    "dup_title": 148,
+    "too_old": 98,
+    "gate1_blocked": 6,
+    "gate2_blocked": 10,
+    "passed": 51,
+    "pass_rate": "30.9%",
+    "gate2_block_rate": "6.1%",
+    "gate2_samples": [
+      "Weekly Recap: 800 Gb/s link record and Brodie Gage to leave Ciena - TradingView",
+      "Ciena Drops 8.6% Amid Sector-Wide Selling - AlphaStreet",
+      "Ciena Corporation (1CIEN.MI) Seasonal returns chart - Yahoo Finance UK",
+      "Ciena slides 9% amid broad tech weakness (CIEN:NYSE) - Seeking Alpha",
+      "Deutsche Telekom advances sovereign AI in Germany: T.Capital Tech Fund invests in Mistral - Deutsche"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 41 則事件，焦點為Ceragon、諾基亞、AMT相關動態：「Ceragon Networks: Orders Are Flowing, But Sustainable Pro...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Ceragon Networks: Orders Are Flowing, But Sustainable Profits Remain Elusive ...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Form 4 CERAGON NETWORKS LTD: Ronen Ben-Hamou (Chief Revenue Officer) For: 23 ...（法說會、產業通用）",
+        "level": "yellow"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}

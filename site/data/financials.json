@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T19:42:27.153365Z",
+  "updated_at": "2026-11-24T19:15:48.528730Z",
   "quarter": "2026-06-30, 2026-07-31, 2026-09-30",
   "companies": [
     {
@@ -58,17 +58,17 @@
       "name": "Ceragon Networks",
       "ticker": "CRNT",
       "currency": "USD",
-      "ar": 101283000,
-      "ar_prev": 94421000,
-      "ar_qoq": "+7%",
+      "ar": 100447000,
+      "ar_prev": 101283000,
+      "ar_qoq": "-1%",
       "ar_period": "QoQ",
-      "inventory": 59459000,
-      "inv_prev": 56456000,
-      "inv_qoq": "+5%",
+      "inventory": 65660000,
+      "inv_prev": 59459000,
+      "inv_qoq": "+10%",
       "inv_period": "QoQ",
       "inventory_applicable": true,
       "alert": false,
-      "quarter_date": "2026-06-30"
+      "quarter_date": "2026-09-30"
     },
     {
       "id": "chunghwa",
