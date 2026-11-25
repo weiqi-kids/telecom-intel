@@ -1,0 +1,16 @@
+{
+  "total_raw": 302,
+  "dup_title": 162,
+  "no_date": 0,
+  "too_old": 97,
+  "gate1_fail": 9,
+  "gate2_fail": 8,
+  "passed": 26,
+  "gate2_samples": [
+    "Weekly Recap: 800 Gb/s link record and Brodie Gage to leave Ciena - TradingView",
+    "Ciena slides 9% amid broad tech weakness (CIEN:NYSE) - Seeking Alpha",
+    "Ciena Drops 8.6% Amid Sector-Wide Selling - AlphaStreet",
+    "Ciena Corporation (1CIEN.MI) Seasonal returns chart - Yahoo Finance UK",
+    "Deutsche Telekom advances sovereign AI in Germany: T.Capital Tech Fund invests in Mistral - Deutsche"
+  ]
+}

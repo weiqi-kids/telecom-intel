@@ -1,0 +1,238 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T18:19:50.693129Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-25-010",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Semtech expands wireless portfolio as LoRa revenue rises 69%",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5
+      },
+      "source_url": "https://rcrwireless.com/20261125/internet-of-things-4/semtech-wireless-lora"
+    },
+    {
+      "rank": 2,
+      "event_id": "nokia-2026-11-25-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Nokia Corporation (NYSE:NOK) Stock Has Consensus Target Price of $14.26 - MarketBeat",
+      "companies": [
+        "nokia"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNY1RMMWxlRktEdTJ3X2FnMXBQZzFEZ052MXI3eGZQRko0d2FNek5ieG1NZDdBS25Zcm9wOUx0ekNnVFNHQjBJSlZBTjcxdy1VZFVEc1Y5NHB0RVVFeTA1QmlCMEtmM1g1SmVHV3ROczJMeHhJclQtWnpTVU4yTFNTOEt4R3VrbE5OQkEwMUpqQzAzZC1Vc2JmeDdtSXgtMy1SLUpQRXdXTmdGaVY0VUVwM0pXamdDbmFGUkJrUlFDeWx6M01xc3NpNzdFWQ?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "american_tower-2026-11-25-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "American Tower (AMT) Stock Could Be Undervalued Following Its 18% Five Year Slide - Yahoo Finance",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNzhKYU1icm96RUlxTGZMZ2ZwX3paUzFlNjR4ZDVaNmhIVFdCZFVzOXBQQXdtNjJ5S1JpYUZJelAyOEpvSm1xWVM1ZmphNWp2TUIxRzZHNklVZHBBTldXNmNQV21FZ1I0N3pCa3ZSU1ZlZTM4LVcxME1QaG5UU21BYVJ3SzZuQl9DQTc0aVlsdFRLNm1xakkwdFVOdw?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "equinix-2026-11-25-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Equinix CEO bets inference rewrites data centers - StartupHub.ai",
+      "companies": [
+        "equinix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "spectrum_auction",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaE54Q1NnZXRPOEdKSTJpQTZ1Y3BLckJ1VFByckVGWEVlSTdwYVkwTll3a0p3Q1pHVGtBY0NCcnFyYVlWYnJSbG1vbFdSNzU1LUIySWtFZ2p5enZtcndNeFZHRk5wampkOXdfNDhZZlUxYlJJNl9rYkRPY3o2N0Njb1RjV1FWa0lINUNFRW80THZueEdibWVlbDlwVW5MQjU1S1BzRE1JNUluRTVaN3EtNg?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "equinix-2026-11-25-004",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Equinix Stock and 2 AI Infrastructure Picks for Data Center Demand - Simply Wall St",
+      "companies": [
+        "equinix"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQjZpUTJWRUZmTjZXZGJwbGFPUVJ0cmJTd3gxOEpvaUtsZ2JyZ0tJa3NTQWxRek15RXVrQXliVjF5aE40bjVKaW15RW80RTNEN3Vuc1otMFZnc2hCRFFTd3ZIemNVMkJjT3R0djZxTWRxamJTUkJ3Q0h4MTRpZVNGeEdQTExITDZHUFVvT2NfVDdwWXU3VE56TWthT1VTdk1uTmNzM0xxOGIybXY1SzRVT2d6QXF6VzFuMjlidkhKVXNsNHRPWGtn0gHMAUFVX3lxTE1aR01hcjdfR1VfRlE1V2pMaG5naVNWWE5LSDgwY09CT2t0ekVvN05DdTZGY3FNRFdRTzA3TTV6cTJndzBsNGdfQTREWVdsdmxFMDc0RXEtYmpfUmtTd19fNjNDVDFHczZubEcyWDNsWXNNNlBsWFhLeTlhUTMwOTVrTzc3bHY0QzNDX3pLd1I3cTI0RGJWT3p0YkNtT0tBdllDRGlaUEJnbjdtRk44WF9qbWRTWXkyaUFwVl9zd2xibmljX0gtamRiLUJDZA?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 18,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.08,
+      "sentiment_7d_avg": null
+    },
+    "spectrum_auction": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.5,
+      "sentiment_7d_avg": null
+    },
+    "fiber_buildout": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 18,
+    "sentiment_distribution": {
+      "positive": 3,
+      "neutral": 15,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "nokia",
+        "count": 3
+      },
+      {
+        "id": "equinix",
+        "count": 2
+      },
+      {
+        "id": "american_tower",
+        "count": 1
+      },
+      {
+        "id": "tmobile",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 18
+      },
+      {
+        "id": "spectrum_auction",
+        "count": 1
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      },
+      {
+        "id": "fiber_buildout",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 302,
+    "dup_title": 162,
+    "too_old": 97,
+    "gate1_blocked": 9,
+    "gate2_blocked": 8,
+    "passed": 26,
+    "pass_rate": "18.6%",
+    "gate2_block_rate": "5.7%",
+    "gate2_samples": [
+      "Weekly Recap: 800 Gb/s link record and Brodie Gage to leave Ciena - TradingView",
+      "Ciena slides 9% amid broad tech weakness (CIEN:NYSE) - Seeking Alpha",
+      "Ciena Drops 8.6% Amid Sector-Wide Selling - AlphaStreet",
+      "Ciena Corporation (1CIEN.MI) Seasonal returns chart - Yahoo Finance UK",
+      "Deutsche Telekom advances sovereign AI in Germany: T.Capital Tech Fund invests in Mistral - Deutsche"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 18 則事件，焦點為諾基亞、Equinix、AMT相關動態：「Semtech expands wireless portfolio as LoRa revenue rises 69%」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Semtech expands wireless portfolio as LoRa revenue rises 69%（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Nokia Corporation (NYSE:NOK) Stock Has Consensus Target Price of $14.26 - Mar...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
