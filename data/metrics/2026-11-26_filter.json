@@ -1,0 +1,15 @@
+{
+  "total_raw": 162,
+  "dup_title": 89,
+  "no_date": 0,
+  "too_old": 49,
+  "gate1_fail": 5,
+  "gate2_fail": 4,
+  "passed": 15,
+  "gate2_samples": [
+    "SBA Communication: Cheap Cash Flow, But The Recovery Will Take Time (NASDAQ:SBAC) - Seeking Alpha",
+    "Will SBA Communications (NYSE:SBAC) Keep Its Recovery On Track? - Kalkine Media",
+    "Ericsson demos counter-drone and air-defense systems over 5G",
+    "Ericsson: 5G must shift focus from consumers to citizens, says UK chief"
+  ]
+}
