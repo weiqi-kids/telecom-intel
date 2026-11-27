@@ -1,0 +1,16 @@
+{
+  "total_raw": 272,
+  "dup_title": 144,
+  "no_date": 0,
+  "too_old": 86,
+  "gate1_fail": 4,
+  "gate2_fail": 5,
+  "passed": 33,
+  "gate2_samples": [
+    "CommScope Holding Company, Inc. (CM9.F) Seasonal returns chart - Yahoo Finance UK",
+    "Ciena Drops 8.6% Amid Sector-Wide Selling - AlphaStreet",
+    "Weekly Recap: 800 Gb/s link record and Brodie Gage to leave Ciena - TradingView",
+    "Ciena slides 9% amid broad tech weakness (CIEN:NYSE) - Seeking Alpha",
+    "SBA Communication: Cheap Cash Flow, But The Recovery Will Take Time (NASDAQ:SBAC) - Seeking Alpha"
+  ]
+}

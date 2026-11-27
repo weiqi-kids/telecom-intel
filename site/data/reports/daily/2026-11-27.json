@@ -1,0 +1,205 @@
+{
+  "date": "2026-11-27",
+  "generated_at": "2026-11-27T17:46:27.628768Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "unknown-2026-11-27-003",
+      "importance_score": 0.75,
+      "importance_reasons": [
+        "涉及財報"
+      ],
+      "title": "Telekom Austria (WBAG:TKA) Stock Could Be Undervalued Based On Earnings - Yahoo Finance",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "earnings",
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWXZWWDQtQ3l6Q2NUT0dEdDVobkM0dF93MTBsWXhmQ1BoSFNGaF9wUDdOR2RPWTNEbDloOVM1alQ2RVhPUmtDUnlmb3ByWDNWbnk3dl8yOXF1aG9OYVliOTcxNU5KOE1zcHRyLWQxV1dYSWVrSVJtR09McllMaHdEaHFmUDVGRGVQVGswZE9CUXd0a0QtWmw1ZUhlRQ?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "unknown-2026-11-27-007",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Eurobites: Elisa, Drei claim roaming breakthrough with 5G SA",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 1.0
+      },
+      "source_url": "https://www.lightreading.com/wireless/eurobites-elisa-drei-claim-roaming-breakthrough-with-5g-sa"
+    },
+    {
+      "rank": 3,
+      "event_id": "unknown-2026-11-27-012",
+      "importance_score": 0.65,
+      "importance_reasons": [
+        "情緒極端"
+      ],
+      "title": "Telecom sector outperforms 2026 growth projection with 27.2% expansion – Sam George - CitiNewsroom.com",
+      "companies": [],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "positive",
+        "score": 0.75
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYmp6cXZpMWRJQTIxalBpV3lQOW1kZ3FHOUFIMGxmZUlYV3hsRk91bld5ZjNXVW81UGlxcXlEaTZMWElnd3I2N3BvcllDN3M0VThselhucUhIaHZVSHJ3bXdNQXlmSHlhQ25rUlpvUjY0TGhsSHRMZXktTjEzMV9PZ3RFYUFuaXp5cWxaWlY0UndMV3FtaWg4ZW1xUHpDVzZsOXNTVHcxdzBualYyei1oNUoyS2FhSHlFd2c?oc=5"
+    },
+    {
+      "rank": 4,
+      "event_id": "ciena-2026-11-27-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Corporation $CIEN Stake Trimmed by Caxton Associates LLP - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYzJmUkZhRjlVYnZVVlpYX3c3aFpCT0E4LXpGRkFHeEc3QnVTb1Q1VndjZXNoaXBBQ3M1UnpjXzFRakNXU3c1M0o2YmhDaU1IQkRxdWxXbjJyYUVDMkU5UmJwRTh6U0ZnUGlGT2ExN0ZoQzVqb1ctZ2RkbXA1NHVmaFU0ZGk2c2V3M3JjVXlhMnlNQXZFMmN0eHZ4d3ZhOEpTVVgzR1BrY1NrcnNQazNscTJoUWNFNmNnd2RpblV5QQ?oc=5"
+    },
+    {
+      "rank": 5,
+      "event_id": "deutsche_telekom-2026-11-27-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Deutsche Telekom, Rheinmetall plan critical infrastructure platform - Yahoo Finance",
+      "companies": [
+        "deutsche_telekom"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOU1jdFRmYWVCS1M4VUNKUGRoTTVYRjVYYTVkdF9mTWNqSjVrTDRIdTRVUjY1SkdGS1Y2amFFMXBISDNBX0Nscmtha3hSVkI3RlJGWEJ6Z05RX0NQcGlzZ29GYzVxZXEyMktfSmQtN25xUzN5YWJYNmpfODlnVnBTRGN5OHZWNlhHLUdoRjRYSEpYdlVtTW9qaFFWaHVod3VlNU9pSlpn?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "earnings": {
+      "today": 1,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    },
+    "industry_general": {
+      "today": 10,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.17,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 12,
+    "sentiment_distribution": {
+      "positive": 2,
+      "neutral": 10,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "ciena",
+        "count": 1
+      },
+      {
+        "id": "deutsche_telekom",
+        "count": 1
+      },
+      {
+        "id": "american_tower",
+        "count": 1
+      },
+      {
+        "id": "sba_comm",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 10
+      },
+      {
+        "id": "earnings",
+        "count": 1
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 272,
+    "dup_title": 144,
+    "too_old": 86,
+    "gate1_blocked": 4,
+    "gate2_blocked": 5,
+    "passed": 33,
+    "pass_rate": "25.8%",
+    "gate2_block_rate": "3.9%",
+    "gate2_samples": [
+      "CommScope Holding Company, Inc. (CM9.F) Seasonal returns chart - Yahoo Finance UK",
+      "Ciena Drops 8.6% Amid Sector-Wide Selling - AlphaStreet",
+      "Weekly Recap: 800 Gb/s link record and Brodie Gage to leave Ciena - TradingView",
+      "Ciena slides 9% amid broad tech weakness (CIEN:NYSE) - Seeking Alpha",
+      "SBA Communication: Cheap Cash Flow, But The Recovery Will Take Time (NASDAQ:SBAC) - Seeking Alpha"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 12 則事件，焦點為Ciena、德國電信、AMT相關動態：「Telekom Austria (WBAG:TKA) Stock Could Be Undervalued Bas...」。整體情緒偏正面，市場信心回溫。",
+    "signals": [
+      {
+        "text": "Telekom Austria (WBAG:TKA) Stock Could Be Undervalued Based On Earnings - Yah...（法說會、產業通用）",
+        "level": "yellow"
+      },
+      {
+        "text": "Eurobites: Elisa, Drei claim roaming breakthrough with 5G SA（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
