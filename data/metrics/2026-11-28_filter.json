@@ -1,0 +1,14 @@
+{
+  "total_raw": 226,
+  "dup_title": 119,
+  "no_date": 0,
+  "too_old": 90,
+  "gate1_fail": 5,
+  "gate2_fail": 3,
+  "passed": 9,
+  "gate2_samples": [
+    "CommScope Holding Company, Inc. (CM9.F) Seasonal returns chart - Yahoo Finance UK",
+    "Weekly Recap: 800 Gb/s link record and Brodie Gage to leave Ciena - TradingView",
+    "Ericsson demos counter-drone and air-defense systems over 5G"
+  ]
+}

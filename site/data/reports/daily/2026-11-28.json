@@ -1,0 +1,140 @@
+{
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T16:31:58.525528Z",
+  "top_events": [
+    {
+      "rank": 1,
+      "event_id": "ciena-2026-11-28-001",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Ciena Corporation $CIEN Shares Purchased by Atreides Management LP - MarketBeat",
+      "companies": [
+        "ciena"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSDhqSzRXaFI1enU0R1NWQ2xfd09mXzE2MU9vWUJMYWo5MER5SEhjS09BOEhiN2ZMWU96QnVfWGxkamFnak1oRi10eUhsdDItUVZlY2VHa2h1ckRJbGhqU0lkUk9RSzVuOXpBR3NMeUhBWTJ0SW45ZjZJTnhISTQ4aGZhWF8tZEdjamhoQklZYkxpM01felhYZGJoR0d4TXVBdnlwZzhkZHByaTE4TzlESTluZWtReHhCbUVBZkxhbmoyUVVs?oc=5"
+    },
+    {
+      "rank": 2,
+      "event_id": "american_tower-2026-11-28-002",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Should Completed Eurobond Sale Require Action From American Tower (AMT) Investors? - Simply Wall St",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOck96c0U5S1dNaGlUdmVXeVA1dW8ycXUxdXRScTUxUzRtMzRkY2V4VjRZc05USmtSRVhXLVJMajlLTU5Cd0xvdzI3TEhlTmo4VVNNcXlYbk9OUU03YXR2Wk5aMGx2Tk1BZ1ZxeTM2Z0FTUjgteWw0T1VzZHZmdEJTSWh2UkZrSVhOYlhQaE1LN3BxNlhHRnZwaW90UWVfeEdLVlZYVWNhRnRmUGNOQ1F1VGpqNGd5X0kwTkl3SlVyZUdzTjAzTW9ocEQ4bGXSAdIBQVVfeXFMTjN3WHEwTk1IVFFKdU5FX01Ld2F0WkxVcG5oTURTTjZzSDE5eGhhR2pCWjFHTUIxbGhWQVd3TklTZjB4bUEyYm9CWXQ0TVhaUjJzcUltb3FlRG5Lcks2Y2lGTXNhdTFMMlEwQ2xHaC1sYXN4ei1Rem5nMzhDNDU4bWpOWjl6R2VHbGhreTZRcXBwX3l2UHRvQWROQTBRZ3drdkdxbWVCV2pkb0JvRkhHOHNsdjNQelB4c2lBYmdFNjZVWklMMms1cWZ2MDlMRjh6R09B?oc=5"
+    },
+    {
+      "rank": 3,
+      "event_id": "american_tower-2026-11-28-003",
+      "importance_score": 0.5,
+      "importance_reasons": [],
+      "title": "Toronto Dominion Bank Sells 128,635 Shares of American Tower Corporation $AMT - MarketBeat",
+      "companies": [
+        "american_tower"
+      ],
+      "related": {
+        "customers": [],
+        "suppliers": []
+      },
+      "topics": [
+        "industry_general"
+      ],
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0
+      },
+      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ2V2bkVNbUNOMVBab2tBWElXdHNBT21Vb0ZjZ19kOUhRLVlISmVEeHNvRnBpMHpYVnhZa2gyckF0UkJMbnlyN1dBSnhLYVhhVDZpRm4tWnJnakp6S3BSUlB4c3pfRmhVVHhfMGpmNkptY1liU0x2SDljcHZXdlRpSGVmeFVUTWhWMWgxeFRyczA3LXYyWnRJUlBZZWJqUFlSZmp4bkRIR1VVLW4yR1lQQWl1dHRBbzM3RXFMQUZmMi0tR0tNd01wMl9qZDlVSzV0aVE?oc=5"
+    }
+  ],
+  "anomalies": [],
+  "topic_trends": {
+    "industry_general": {
+      "today": 3,
+      "7d_avg": 0,
+      "30d_avg": 0,
+      "yoy_same_week": null,
+      "trend": "new",
+      "consecutive_weeks_rising": 0,
+      "sentiment_today": 0.0,
+      "sentiment_7d_avg": null
+    }
+  },
+  "supply_chain_activity": [],
+  "stats": {
+    "total_events": 3,
+    "sentiment_distribution": {
+      "positive": 0,
+      "neutral": 3,
+      "negative": 0
+    },
+    "top_companies": [
+      {
+        "id": "american_tower",
+        "count": 2
+      },
+      {
+        "id": "ciena",
+        "count": 1
+      }
+    ],
+    "top_topics": [
+      {
+        "id": "industry_general",
+        "count": 3
+      }
+    ]
+  },
+  "filter_audit": {
+    "total_raw": 226,
+    "dup_title": 119,
+    "too_old": 90,
+    "gate1_blocked": 5,
+    "gate2_blocked": 3,
+    "passed": 9,
+    "pass_rate": "8.4%",
+    "gate2_block_rate": "2.8%",
+    "gate2_samples": [
+      "CommScope Holding Company, Inc. (CM9.F) Seasonal returns chart - Yahoo Finance UK",
+      "Weekly Recap: 800 Gb/s link record and Brodie Gage to leave Ciena - TradingView",
+      "Ericsson demos counter-drone and air-defense systems over 5G"
+    ],
+    "alert": false
+  },
+  "llm_analysis": {
+    "summary": "今日共 3 則事件，焦點為AMT、Ciena相關動態：「Ciena Corporation $CIEN Shares Purchased by Atreides Mana...」。主要關注主題為產業通用，市場情緒中性。",
+    "signals": [
+      {
+        "text": "Ciena Corporation $CIEN Shares Purchased by Atreides Management LP - MarketBeat（產業通用）",
+        "level": "green"
+      },
+      {
+        "text": "Should Completed Eurobond Sale Require Action From American Tower (AMT) Inves...（產業通用）",
+        "level": "green"
+      }
+    ]
+  },
+  "generated_by": "claude-cli"
+}
